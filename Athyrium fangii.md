@@ -1,0 +1,14 @@
+方氏蹄盖蕨",
+103.**Athyrium fangii** Ching Bull. Fan Mem. Inst. Biol., n.s. 1: 282. 1949.",
+
+## Description
+Rhizomes short, erect, apex densely clothed with brown, lanceolate scales. Fronds caespitose; fertile fronds 60-80 cm; stipe dark brown, upward pale green-stramineous, 25-40 cm, 2.5-3 mm in diam., base similarly scaly, upward glabrate; lamina 2-pinnate or 2-pinnate-pinnatifid, narrowly oblong, 30-40 × 14-20 cm at middle, base slightly narrowed, apex acuminate; pinnae ca. 15 pairs, alternate, ascending, with short stalk 2-4 mm; middle pinnae lanceolate, 8-10 × 2-2.5 cm at base, base subequilateral, subtruncate, pinnate, apex caudate-acuminate; pinnules 12-16 pairs, basal pinnules opposite, upper pinnules alternate, ascending, separate from each other, subsessile; basal pinnules larger, deltoid-oblong, 1-1.2 cm × 3-4 mm, base inequilateral, truncate, auriculate, parallel to rachis on acroscopic side, cuneate on basiscopic side, cut to 1/2, apex obtuse; pinnule segments 5 or 6 pairs, acroscopic segments longer, basal acroscopic segment largest, entire or with few teeth at apex; upper pinnules similar to basal pinnules but gradually smaller, lower pinnules subsessile, upper pinnules decurrent and adnate to wing of costa; veins inconspicuous adaxially, visible abaxially, pinnate in pinnules, lateral veins 2 or 3 pairs, oblique, simple. Lamina herbaceous when dried, pale yellow-green, glabrate on both surfaces; rachis and costae stramineous abaxially, with sparse short hairs at base, with needlelike spines on adaxial side at base of costa, costule, and midrib. Sori oblong or elliptic, on acroscopic veins, usually 1 per segment, biseriate on both sides of costules, costular; indusia brown, oblong or elliptic, membranous, entire, persistent, often partly overlapping costules. Perispore surface without folds.
+
+> Mixed forests; 2200-3100 m. W Sichuan, Yunnan [Bhutan, N India, Nepal].
+**104. 方氏蹄盖蕨（植物研究）贴脉蹄盖蕨（独龙江地区植物）图版58: 1-4**
+
+Athyrium fangii Ching in Bull. Fan Mem. Inst. Biol. Bot. new ser. 1: 282. 1949; Pic, Ser., Ind. Fil, Suppl. 4: 35, 1965; X. C. Zhang in Bull. Bot. Res. 11 (3): 7. 1991; Z. R. Wang in W. T. Wang, Vasc. Pl. Hengduan Mount. 1: 86. 1993; W. M. Chu et S. G. Lu in H. Li, Fl. Dulongjiang Region 19. 1993.
+
+根状茎短，直立，先端密被深褐色、披针形的鳞片；叶簇生。能育叶长60-80厘米；叶柄长25-40厘米，直径约2.5-3毫米，基部褐色，被与根状茎上同样的鳞片，向上淡绿禾秆色，光滑；叶片狭长圆形，长30-40厘米，中部宽14-20厘米，先端渐尖，基部稍变狭，二回羽状或二回羽状，小羽片羽裂；羽片约15对，互生，斜展，有短柄（长2-4毫米），中部的披针形，长8-10厘米，基部宽2-2.5厘米，先端尾状渐尖，基部几对称，近截形，一回羽状；小羽片12-16对，基部的对生，向上的互生，斜展，疏离，几无柄，基部一对较大，三角状长圆形，长1-1.2厘米，宽3-4毫米，钝尖头，基部不对称，斜楔形，上侧截形，并成耳状凸起，与叶轴并行，下侧楔形，两侧边缘锐裂，深达1/2；裂片5-6对，上侧的较长，基部上侧的裂片较大，全缘或先端有少数钝齿；向上各对小羽片均与基部一对同形而逐渐缩小，下部的几无柄，向上的基部下延并以狭翅彼此相连。叶脉上面不见，下面明显，在小羽片上为羽状，侧脉2-3对，斜向上，单一。叶干后草质，淡黄绿色，两面无毛；叶轴和羽轴下面禾秆色，近基部略被短毛，上面连同主脉均有针状软刺状突起。孢子囊群长圆形或椭圆形，生于上侧小脉，每裂片通常1枚，在主脉两侧各排成1行，并紧贴主脉；囊群盖同形，褐色，膜质，全缘，宿存，常部分覆盖在主脉上。孢子周壁表面无褶皱。
+
+分布于四川西部（峨眉山、甘洛）和云南（贡山、泸水）。生针阔混交林下，海拔2200-3000米。模式标本采自四川（峨眉山）。

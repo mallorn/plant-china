@@ -1,0 +1,9 @@
+三芒虎耳草",
+77.**Saxifraga peraristulata** Mattfeld",
+
+> In FRPS, this species was treated under the name &lt;I&gt;Saxifraga trinervia&lt;/I&gt;, which appears, however, to be a different taxon (possibly &lt;I&gt;S. hypericoides&lt;/I&gt; var. &lt;I&gt;aurantiascens&lt;/I&gt;). Two synonyms were cited in FRPS under &lt;I&gt;S. trinervia&lt;/I&gt;: &lt;I&gt;S. peraristulata&lt;/I&gt; and &lt;I&gt;S. triaristulata&lt;/I&gt;. Careful scrutiny of the types and other material shows that the name S. peraristulata should be applied to the taxon described above, whereas the name &lt;I&gt;S. triaristulata&lt;/I&gt; refers to another species in the group with rufous villous pedicels and is described later in the present account.
+
+## Description
+Herbs perennial, densely cespitose, 2.5-5.5 cm tall. Stem glandular pilose. Basal leaves with petiole 2.7-8 mm, margin brown glandular or eglandular villous; leaf blade narrowly elliptic to oblong or lanceolate, 3.5-7 × 0.9-1.5 mm, ± hispid on both surfaces or adaxially only, margin brown glandular or eglandular villous, apex 1-aristate. Cauline leaves narrowly lanceolate or linear, 4-10 × 0.9-1.2 mm, adaxially and marginally ± brown glandular villous, apex 1-aristate; proximal leaves with petiole ca. 1.4 mm, brown glandular villous at margin, distal leaves sessile. Flower solitary; pedicel slender, 0.9-2.5 cm, brown glandular pilose. Sepals spreading, subelliptic, 2.2-3 × 1-2 mm, abaxially glandular hairy, veins 3, not confluent at apex, margin glabrous, apex erose. Petals yellow, oblong to narrowly ovate, 5-5.5 × 2.2-2.5 mm, 2-callose near base, 3-5-veined, base contracted into a claw ca. 0.5 mm, apex subobtuse. Stamens 3.5-4 mm. Ovary subsuperior, broadly ovoid, ca. 2 mm; styles 1.5-2.5 mm. Fl. Jul-Aug.
+
+> * Alpine meadows, rock crevices; 4100-4700 m. W Sichuan, NW Yunnan.

@@ -1,0 +1,15 @@
+薄唇蕨",
+11.**Leptochilus axillaris** (Cavanilles) Kaulfuss Enum. Filic. 147. 1824.",
+
+## Description
+Rhizome 1.5-3.5 mm in diam., dorsiventrally flattened, bearing scales and hairs, with only circumvascular sheaths; vascular bundles 7-15; roots absent, root hairs on rhizome; scales sparse, peltate, distinctly spreading, narrowly ovate or triangular, broadest at middle, 0.5-2 × 0.1-0.2 mm, margin denticulate; phyllopodia 3-80 mm apart, ± distinct. Sterile fronds: stipe 2-9 cm, 0.9-1.5 mm in diam.; lamina narrowly elliptic or narrowly ovate, 9-36 × 1.1-6.5 cm, 3-10 × as long as broad, with short glandular hairs, base narrowly decrescent, stipe winged for a considerable part to cuneate-decrescent to cuneate to cordate, auriculate, margin entire. Fertile fronds: stipe 2-7 cm; lamina simple, linear, 15-30 × 0.1-0.5 cm; veins 7-10 mm apart, prominent and distinct, zigzag, each costal areole giving rise to 2 lateral veins, thus lateral veins seemingly branching at or near costa, costal areole bordered by several smaller areoles; a prominent basiscopic (or sometimes acroscopic) connecting vein dichotomously branching off near costa; connecting veins catadromous, 2-4 between adjacent secondary veins; smaller veins prominent and distinct; free veinlets simple or once forked, usually in- and excurrent. Sori acrostichoid, superficial or slightly sunken; paraphyses present.
+
+> Epiphytic at low levels in forests. Guizhou, Yunnan [Bangladesh, India, Indonesia, Malaysia, Myanmar, New Guinea, Philippines, Thailand].
+  "Synonym": "*Acrostichum axillare* Cavanilles, Anales Hist. Nat. 1: 101. 1799; *Gymnopteris axillaris* (Cavanilles) C. Presl; *G. variabilis* (Hooker) Beddome var. *axillaris* (Cavanilles) Beddome; *Leptochilus platyphyllus* Copeland.
+**1.薄唇蕨 图版57: 1-2**
+
+Leptochilus axillaris (Cav.) Kaulf., Comp. Bot. Mag. 147. 1824: Blume, Enum. Pl. Jav. 205. 1828; C. Chr., Ind. Fil. 384. 1906: Copel., Philipp. J. Sci. Bot. 37: 339. Pl. 1. 1928; Ching, Bull. Fan Mem. Inst. Biol. 4: 346. 1933; C. Chr., Ind. Fil. Suppl. 118. 1934; Tardieu et C. Chr. Fl. Indo-Chine 7 (2): 499. 1941; Holttum, Revis. Fl. Mat. 2: 164. Pl. 75. 1954; Copel., Fern Fl. Philipp. 488. 1960; V. G. Tu, Novosti Sist. Vyssh. Rast. 18: 36. 1981; Satija et S. S. Bir, Polypod. Ferns India 80. 1985; Noot., Blumea 2: 278. 1997; L. Shi et X. C. Zhang in Acta Phytotax. Sin. 37 (2): 148. 1999. ——Acrostichum axillare Cav., Anales Hist. Nat. 1: 101. 1799; Descr. Pl. nr. 582. 1801; Sw., Syn. Fil. 11. 16. 1806; Hook. et Baker, Syn. Fil. 320. 1867. ——Gymnopteris axillaris var. axillaris Bedd., Handb. Ferns Brist. Ind. 430. 1883. ——Leptochilus platyphyllus Copel., Philipp. J. Sci. 37: 340, Pl. 2. 1928.
+
+附生，植株高20-40厘米。根状茎攀援，根稀疏或近无根，分枝，具环形维管束鞘，无厚壁细胞束，疏被鳞片；鳞片细小，0.5-2毫米长，0.1-0.2毫米宽，顶端狭，渐尖头，黑色，粗筛孔状，早落。单叶远生，二型，无柄或有短柄，基部有不明显的关节；不育叶披针形，全缘，草质，无毛，叶脉网状，侧脉不明显，小脉连结成多数网眼，具单一或分叉的内藏小脉，先端具水囊；能育叶与不育叶等高或稍高，狭线形，孢子囊群满布于能育叶的下面，无隔丝，孢子囊的环带通常由14个增厚细胞组成。孢子极面观为长椭圆形，赤道面观为豆形，表面具球形颗粒和小刺。
+
+产贵州（望谟）、云南（河口、金平、孟连、思茅、西双版纳）。附生于林下树干上。自印度经中南半岛至马来西亚也有分布。

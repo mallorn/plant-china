@@ -1,0 +1,15 @@
+无盖轴脉蕨",
+30.**Tectaria subsageniacea** (Christ) Christenhusz Phytotaxa. 10: 59. 2010.",
+
+## Description
+Plants terrestrial, 150-200 cm tall. Rhizome erect, short, 2-2.5 cm in diam., densely scaly at apex and stipe bases; scales dark brown, broadly lanceolate, 10-12 mm, membranous, entire, apices long acuminate. Fronds clustered; stipe deep brown, glossy, 40-50 cm, ca. 1 cm in diam. at base, grooved above, with sparse broadly lanceolate brown scales upward. Lamina brown when dried, oblong, gradually narrowed toward apex, 100-150 × 30-45 cm, herbaceous, both surfaces glabrous, margins ciliate on teeth; rachises deep brown, with sparse linear scales adaxially, densely clothed with articulate brown hairs abaxially; costae and main veins densely clothed with articulate brown hairs adaxially, glabrescent abaxially; bases subcuneate, apices acuminate, bipinnatifid; pinnules ca. 20 pairs, alternate, applanate, subsessile, linear-lanceolate, middle pinnules 18-22 × 3-4 cm, pinnatipartite to 2/3, basal 2 or 3 pairs of pinnules slightly shortened and deflexed; lobes ca. 20 pairs, subapplanate, interval 2-3 mm, falcate-oblong, 1-1.5 × 7-8 mm, entire, obtuse or mucronate. Veins pinnate, 7-9 pairs, free or connected with veinlets from costa. Sori orbicular to elliptic, at middle of veinlets, in 2 irregular rows beside main veins, exindusiate.
+
+> Limestone gaps in dense forests; 100-1500 m. Guangxi, Guizhou, Yunnan [N Vietnam].
+  "Synonym": "*Aspidium subsageniaceum* Christ, Bull. Acad. Int. Géogr. Bot. 16: 240. 1906; *Ctenitopsis austrosinensis* (Christ) C. Christensen &amp; Tardieu; *C. subsageniacea* (Christ) Ching; *Dryopteris austrosinensis* Christ; *D. subsageniacea* (Christ) C. Christensen; *Heterogonium austrosinense* (Christ) Tagawa; *H. subsageniaceum* (Christ) Holttum; *Tectaria austrosinensis* (Christ) C. Christensen.
+**2.无盖轴脉蕨（蕨类名词及名称）**
+
+Ctenitopsis subsageniaca (Christ) Ching in Bull. Fan Mem. Inst. Biol. Bot. Ser. 8: 311. 1938. ——Aspidium subsageniacum Christ in Bull. Acad. Geogr. Bot. Mans 240. 1906. ——Dryopteris subsageniaca C. Chr. Ind. Fil. Suppl. 1: 40. 1913. ——Heterogonium subsageniaceum Holtt. in Reinwardtia 3: 273. 1955. ——Dryopteris austrosinensis Christ in Bull. Acad. Geogr. Bot. Mans 145, 1907; C. Chr.Ind. Fil. Suppl. 1: 30. 1913. ——Tectaria austrosinensis C. Chr. in Contr. U. S. Nat. Herb. 24: 290. 1931 et Ind. Fil. Suppl. 3: 177. 1934. ——Ctenitopsis austrosinensis C. Chr. et Tard. -Blot in Fl. Indo-Chine 7 (2): 353. 1941.
+
+植株高1.5-2米。根状茎粗壮，直立，粗2-2.5厘米，顶部与叶柄基部均密被鳞片；鳞片阔披针形，长10-12毫米，先端长渐尖，全缘，膜质，褐棕色。叶簇生；叶柄长40-50厘米，基部粗约1厘米，暗褐色，上面有浅沟，基部以上疏被与根状茎上同样的鳞片；叶片狭长圆形，长1-1.5米，中部宽30-45厘米，先端渐尖，基部近截形，二回羽裂；羽片约20对，互生，平展，近无柄，线状披针形，中部的长18-22厘米，宽3-4厘米，先端渐尖，基部截形，深羽裂达2/3，下部2-3对羽片与其上的同形但略短并稍斜向下；裂片约20对，近平展，相距2-3毫米，镰状长圆形，长1-1.5厘米，基部宽7-8毫米，先端短尖或钝，全缘。叶脉羽状，7-9对，小脉二至三叉，通常分离或出自羽轴的小脉偶于缺刻下联结。叶近草质，干后淡灰褐色，两面均光滑，缺刻边缘有疏睫毛；叶轴暗褐色，下部偶有线形深褐色的小鳞片，上面密被有关节的棕色毛；羽轴及主脉上面密被有关节的棕色毛，下面几光滑。孢子囊群圆形至椭圆形，大小不一，着生于小脉中部，在主脉两侧为不整齐的2列，无囊群盖。
+
+产贵州南部（罗甸）、广西（龙州、罗城）、云南（麻栗坡、西畴）。生雨林下石灰岩缝，海拔800-1500米。越南北部也产之。模式标本产地：贵州（罗甸）。

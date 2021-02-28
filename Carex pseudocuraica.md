@@ -1,0 +1,8 @@
+漂筏薹草",
+500.**Carex pseudocuraica** F. Schmidt Mém. Acad. Imp. Sci. Saint Pétersbourg, sér. 7. 12(2) [Reis. Amur-Land., Bot.]: 67. 1868.",
+
+## Description
+Rhizome rather thick, short, with long, trigonous, horizontal, rather thickened stolons. Culms 15-40 cm tall, compressed trigonous, scabrous above, clothed with gray-brown bladed sheaths. Leaves shorter than culm, blades greenish, linear, 1.5-3 mm wide, flat. Involucral bracts glumelike. Inflorescence slightly loose, oblong-cylindric, 1.5-3 cm; spikes 5-10, usually androgynous, rarely unisexual, rarely entirely female, elliptic-ovate, 4-10 mm. Female glumes ferruginous-yellow, glumelike, ovate or elliptic-ovate, 2.5-4 × ca. 1.5 mm, margins white hyaline, apex acute. Utricles pale brown or stramineous, equaling or longer than glume, ovate or elliptic, plano-convex, 2.5-4 mm, membranous, spongy, 6- or 7-veined or more abaxially, rather rarely faintly veined adaxially, base rounded or cuneate, shortly stipitate, upper margins narrowly winged, apex abruptly contracted into a short compressed beak, orifice pale hyaline, obliquely truncate, slightly 2-toothed adaxially. Nutlets slightly loosely enveloped, ovate or elliptic, plano-convex, 1.2-1.7 mm, base shortly stipitate; style base slightly thickened; stigmas 2. Fr. Jun.
+  "Reference": "This species is sometimes placed in its own section, *Carex* sect. *Chordorrhizae* (Heuffel) Meinshausen.This species is sometimes placed in its own section, *Carex* sect. *Chordorrhizae* (Heuffel) Meinshausen.
+  "Statistics": "Swamps, lakesides. Heilongjiang, Jilin, Nei Mongol [Japan, Korea, Russia (Far East, E Siberia)].
+  "Synonym": "*Carex chordorrhiza* Ehrhart ex Linnaeus f. var. *pseudocuraica* (F. Schmidt) Trautvetter.

@@ -1,0 +1,14 @@
+翅梗石斛",
+60.**Dendrobium trigonopus** H. G. Reichenbach Gard. Chron., ser. 3,. 2: 682. 1887.",
+
+## Description
+Stems clustered, golden yellow when dry, fusiform or sometimes clavate, 5-11 cm, 12-15 mm in diam. at middle, thick and fleshy, unbranched, with 3-5 nodes, internodes ca. 2 cm. Leaves 3 or 4, subterminal, oblong, 8-9.5 × 1.5-2.5(or more) cm, thickly leathery, abaxially sparsely black hairy on midvein, midvein concave adaxially, with short clasping sheaths, apex acute. Inflorescences 1 or 2, distal on latest or older mature leafy pseudobulbs, arcuate, 2- or 3-flowered; peduncle 1-4 cm; floral bracts ovate-triangular, ca. 5 mm, fleshy, apex acute. Pedicel and ovary yellowish green, 3-4 cm; ovary triquetrous. Flowers nodding, thick; sepals and petals waxy yellow, lip yellow, disk tinged with pale green. Dorsal and lateral sepals subsimilar, narrowly lanceolate, ca. 30 × 10 mm, strongly keeled, both margins ascending above middle, midvein on abaxial surface slightly raised and wing-shaped, apex acute; lateral sepals with base only partly adnate to column foot; mentum subglobose, ca. 4 mm. Petals ovate-oblong, ca. 25 × 11 mm, 8-veined, apex acute; lip erect, nearly parallel to column, ca. 25 mm, base shortly clawed, apex 3-lobed; lateral lobes embracing column, subobovate, upper margin denticulate, apex rounded; mid-lobe orbicular, smaller than width between 2 lateral lobe apices; disk densely papillose. Column ca. 6 mm, upper margin of teeth with several shallow indentations; anther cap conic, ca. 5 mm, glabrous.
+  "Statistics": "Epiphytic on tree trunks in mountain forests; 1100-1600 m. S Yunnan [Laos, Myanmar, N Thailand, Vietnam].
+  "Synonym": "*Callista trogonopus* (H. G. Reichenbach) Kuntze; *Dendrobium velutinum* Rolfe.
+**55．翅梗石斛（植物分类学报）图版19：2**
+
+Dendrobium trigonopus Rchb. f. in Gard. Chron. ser. 3, 2: 682. 1887; Kraenzl. in Engler, Pflanzenr. 45 (IV. 50, II. B. 21): 63. 1910; S. Y. Hu in Quart. J. Taiwan Mus. 26 (1, 2): 161. 1972; Z. H. Tsi in Acta Phytotax. Sin. 18 (4): 436. 1980; Seidenf. in Opera Bot. 83: 109, fig. 63. 1985, et 114: 211. 1992; Z. H. Tsi et S. C. Chen in Acta Phytotax. Sin. 33 (3): 292. 1995; Z. H. Tsi, S. C.Chen et K. Mori, Wild Orch. China: 86, pl. 109. 1997; 中国兰花全书: 170. 图6-12 (1). 1998. ——D. zelutinum Rolfe in Kew Bull.: 33. 1895.
+
+茎丛生，肉质状粗厚，呈纺锤形或有时棒状，长5-11厘米，中部粗12-15毫米，不分枝，具3-5节，节间长约2厘米，干后金黄色。叶厚革质，3-4枚近顶生，长圆形，长8-9.5厘米，宽15-25毫米，先端锐尖，基部具抱茎的短鞘，在上面中肋凹下，在背面的脉上被稀疏的黑色粗毛。总状花序出自具叶的茎中部或近顶端，常具2朵花，花序柄长1-4厘米；花苞片肉质，卵状三角形，长约5毫米，先端锐尖；花梗和子房黄绿色，长3-4厘米，子房三棱形；花下垂，不甚开展，质地厚，除唇盘稍带浅绿色外，均为蜡黄色；中萼片和侧萼片近相似，狭披针形，长约3厘米，宽1厘米，先端急尖，中部以上两侧边缘上举，在背面中肋隆起呈翅状，侧萼片的基部仅部分着生在蕊柱足上；萼囊近球形，长约4毫米；花瓣卵状长圆形，长约2.5厘米，宽1.1厘米，先端急尖，具8条脉；唇瓣直立，与蕊柱近平行，长2.5厘米，基部具短爪，3裂；侧裂片围抱蕊柱，近倒卵形，先端圆形，上部边缘具细齿；中裂片近圆形，比两侧裂片先端之间的宽小，唇盘密被乳突；蕊柱长约6毫米，蕊柱齿上缘具数个浅缺刻；药帽圆锥形，长约5毫米，光滑。花期3-4月。
+
+产云南南部至东南部（勐海、思茅、墨江至普洱、石屏）。生于海拔1150-1600米的山地林中树干上。缅甸、泰国、老挝也有。模式标本采自缅甸。

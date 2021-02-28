@@ -1,0 +1,7 @@
+腐生齿唇兰",
+3.**Odontochilus saprophyticus** (Averyanov) Ormerod Taiwania. 48: 141. 2003.",
+
+## Description
+Plants holomycotrophic, achlorophyllous, 15-18 cm tall. Rhizome 2-4.5 cm, 0.5-2 cm in diam. Stem erect, pinkish brown, leafless, with 6 or 7 sheathing scales; scales overlapping, membranous, pubescent on outer surface. Rachis ca. 7.5 cm, subdensely 12- or 13-flowered, pubescent; floral bracts elliptic-ovate, concave, 8-10 × 4-5 mm, outer surface pubescent, apex acuminate. Flowers resupinate; ovary and pedicel 10-11 mm, pubescent. Sepals olive pinkish brown, pubescent on outer surface; dorsal sepal connivent with petals and forming a hood, ovate, cymbiform, 4-5 × ca. 3 mm, 1-veined, apex obtuse; lateral sepals reflexed, oblong, oblique, 8-9 × 2-3 mm, 1-veined, apex subacute. Petals white, narrowly oblong, 4-5 × 1.5-2 mm, 1-veined, apex acute; lip white, T-shaped, 11-12 × 4-5 mm; hypochile concave-saccate, ca. 2 mm, aseptate, containing 2 sessile, ligulate calli at base; mesochile 4-5 mm; flanges irregularly erose-papillate; epichile 2-lobed; lobes diverging at right angles to axis of lip, subquadrate-obovate, 4-5 × 3-4 mm. Column ca. 1.5 mm, with 2 semicircular to cordate wings; anther narrowly ovoid, ca. 2 mm; rostellum erect, furcately 2-lobed. Fl. May-Jun.
+  "Statistics": "Leaf litter in tropical montane forests; 900-1100 m. Hainan [Vietnam].
+  "Synonym": "*Pristiglottis saprophytica* Averyanov, Updated Checkl. Orchids Vietnam, 90. 2003.

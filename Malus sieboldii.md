@@ -1,0 +1,21 @@
+三叶海棠",
+15.**Malus sieboldii** (Regel) Rehder",
+
+> This species can be used as an ornamental tree for its showy flowers in the spring. In Liaoning and Shandong provinces, it is sometimes used as stock for grafting apple trees.
+
+## Description
+Shrubs 2–6 m tall. Branchlets spreading, dark purple or purplish brown, terete, puberulous when young, glabrescent; buds purplish brown, ovoid, glabrous or only terminal scales puberulous at margin. Stipules narrowly lanceolate, 4–6 mm, herbaceous, slightly puberulous, margin entire, apex acuminate; petiole 1–2.5 cm, puberulous; leaf blade ovate, elliptic, or narrowly elliptic, 3–7.5 × 2–4 cm, both surfaces puberulous when young, abaxially puberulous along midvein and lateral veins when old, adaxially subglabrous, base rounded or broad cuneate, margin serrate, often 3-lobed, rarely 5-lobed on new branches, apex acute. Corymb at apices of branchlets, 4–6 cm in diam.; 4–8-flowered; bracts caducous, linear-lanceolate, membranous, adaxially pubescent, margin entire, apex acuminate. Pedicel 2–2.5 cm, pubescent or subglabrous. Flowers 2–3 cm in diam. Hypanthium campanulate, subglabrous or pubescent. Sepals ca. as long as or slightly longer than hypanthium, abaxially glabrous, adaxially tomentose, margin entire, apex caudate-acuminate. Petals pinkish, elliptic-obovate, 1.5–1.8 cm, base shortly clawed, apex rounded. Stamens 20, unequal, ca. 1/2 as long as petals. Ovary 3–5-loculed, with 2 ovules per locule; styles 3–5, slightly longer than stamens, villous basally. Pome red or brownish yellow, subglobose, 6–8 mm in diam.; sepals caducous; fruiting pedicel 2–3 cm. Fl. Apr–May, fr. Aug–Sep. 2n = 34*, 51*.
+
+> Mixed forests, among shrubs, slopes; 150--2000 m. Fujian, Gansu, Guangdong, Guangxi, Guizhou, Hubei, Hunan, Jiangxi, Liaoning, Shaanxi, Shandong, Sichuan, Zhejiang [Korea, Japan].
+  "Synonym": "*Pyrus sieboldii* Regel, Index Sem. Hort. Petrop. 1858: 51. 1859; *Crataegus cavaleriei* H. Léveillé &amp; Vaniot; *C. taquetii* H. Léveillé; *Malus baccata* (Linnaeus) Borkhausen subsp. *toringo* (K. Koch) Koidzumi; *M. sieboldii* (Regel) Rehder var. *toringo* (K. Koch) Siebold ex C. K. Schneider; *M. toringo* (K. Koch) Carrière; *Photinia rubrolutea* H. Léveillé; *Pyrus esquirolii* H. Léveillé; *P. subcrataegifolia* H. Léveillé; *P. toringo* (K. Koch) Miquel; *Sorbus toringo* K. Koch.
+**12. 三叶海棠 山茶果（山东土名），野黄子、山楂子（贵州土名）图版52：1-3**
+
+Malus sieboldii (Regel) Rehd. in Sarg. Pl. Wils. 2: 293. 1915; Asami, Carbappl. Nectar. Jap. 33. f. 26-33. 35. 36. t. 19. 20. 42 a. b. 1927; Rehd. Journ. Arn. Arb. 13: 308. 1932; Hand. -Mazz. Symb. Sin. 7: 464. 1933; Chun in Sunyatsenia 1: 247. 1934; 俞德浚、阎振茏, 植物分类学报5: 97. 1956; 中国高等植物图2: 238. 图2205. 1972. ——Pyrus sieboldii Regel in Ind. Sem. Hort. Bot. Petrop. 1858: 51. 1859.Malus toringo Sieb. Cat. Raison 1856: 4 1856. nom. nud.; Schneid. Ill. Handb. Laubh. 1: 723. f. 399 c. 400 g-h1. 1906; Nakai, Fl. Sylv. Kor. 6: 35. t. 10. 1916.—— Sorbus toringo K. Koch in Ann. Mus. Lugd. -Bat. 1: 249. 1864.——Malus toringo Carr. in Rev. Hort. 1870: 451. f. 63. 1871. ——Crataegus cavaleriei Levl. & Vant. in Bull. Soc. Bot. France 55: 58. 1908. ——Pirus suberataegifolia Levl. in Fedde, Rep. Sp. Nov. 7: 199. 1909; Nakai in Journ. Coll. Sci. Imp. Univ. Tokyo 31: 474. 1911. ——Malus baccata subsp. toringo Koidz. in Bot. Mag. Tokyo 25: 76. 1911. ——Photinia rubrolutea Levl. in Fedde, Repert. Sp. Nov. 9: 460. 1911. ——Crataegus taquetii Levl. l. c. 10: 377. 1912. ——Pyrus esquirolii Levl. l. c. 12: 189. 1913 & Fl. Kouy-Tcheou 350. 1915. ——Malus sieboldii var. koringo c. incisa (Franch. & Sav.) Koidz. in Bot. Mag. Tokyo 30: 331. 1916.
+
+灌木，高约2-6米，枝条开展；小枝圆柱形，稍有稜角，嫩时被短柔毛，老时脱落，暗紫色或紫褐色；冬芽卵形，先端较钝，无毛或仅在先端鳞片边缘微有短柔毛，紫褐色。叶片卵形、椭圆形或长椭圆形，长3-7.5厘米，宽2-4厘米，先端急尖，基部圆形或宽楔形，边缘有尖锐锯齿，在新枝上的叶片锯齿粗锐，常3，稀5浅裂，幼叶上下两面均被短柔毛，老叶上面近于无毛，下面沿中肋及侧脉有短柔毛；叶柄长1-2.5厘米，有短柔毛；托叶草质，窄披针形，先端渐尖，全缘，微被短柔毛。花4-8朵，集生于小枝顶端，花梗长2-2.5厘米，有柔毛或近于无毛；苞片膜质，线状披针形，先端渐尖，全缘，内面被柔毛，早落；花直径2-3厘米；萼筒外面近无毛或有柔毛；萼片三角卵形，先端尾状渐尖，全缘，长5-6毫米，外面无毛，内面密被绒毛，约与萼筒等长或稍长；花瓣长椭倒卵形，长1.5-1.8厘米，基部有短爪，淡粉红色，在花蕾时颜色较深；雄蕊20，花丝长短不齐，约等于花瓣之半；花柱3-5，基部有长柔毛，较雄蕊稍长。果实近球形，直径6-8毫米，红色或褐黄色，萼片脱落，果梗长2-3厘米。花期4-5月，果期8-9月。
+
+产辽宁、山东、陕西、甘肃、江西、浙江、湖北、湖南、四川、贵州、福建、广东、广西。生山坡杂木林或灌木丛中，海拔150-2000米。分布日本、朝鲜等地。
+
+春季着花甚美丽，可供观赏。山东、辽宁有用作苹果砧木者。日本广泛用为苹果砧木。
+
+本种与山荆子 M. baccata (L.) Borkh. 异点，在于具有3裂或5裂的叶片，叶片在芽中呈对折状，叶边锯齿较粗，上下两面有毛，萼片与萼筒等长，两种易于区别。

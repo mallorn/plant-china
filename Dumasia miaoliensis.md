@@ -1,0 +1,7 @@
+苗栗野豇豆",
+9.**Dumasia miaoliensis** Y. C. Liu & F. Y. Lu Quart. J. Chin. Forest. 10(3): 87. 1977.",
+
+## Description
+Herbs twining. Stems slender, glabrous. Leaves pinnately 3-foliolate; stipules 2-2.5 mm; stipels subulate ca. 1 mm; petio-lules 1-2 mm, glabrous; leaflets membranous, ovate-lanceolate, glabrous on both surfaces, midrib prominent abaxially, slightly elevated adaxially, lateral veins 4 or 5 per side, veinlets dis-tinctly reticulate, base truncate, margin entire, apex obtuse, emarginate, apiculate at summit; terminal leaflets with blades 3-5 × 1.5-2.5 cm. Raceme axillary, loosely flowered, 5-8 cm; bracteoles subulate, ca. 1 mm; pedicel 3-4 mm. Calyx mem-branous, tubular, 5-7 mm, glabrous, gibbous and with an oblique subtruncate mouth. Corolla whitish yellow, exserted 12-15 mm; petals subequal; standard auriculate at both sides; wings and keels all clawed ca. 1 mm. Ovary stipitate. Legume elliptic, compressed, falcate, ca. 3 cm including stalk, glabrous, dehiscent. Seeds usually 2, rarely 1-3, black.
+  "Reference": "The hybrid *Dumasia miaoliensis* × *D. villosa* has been reported from Taiwan (Fl. Taiwan, ed. 2, 3: 272. 1993). It differs from normal *D. miaoliensis* by the less compressed legumes with shorter stalks.The hybrid *Dumasia miaoliensis* × *D. villosa* has been reported from Taiwan (Fl. Taiwan, ed. 2, 3: 272. 1993). It differs from normal *D. miaoliensis* by the less compressed legumes with shorter stalks.
+  "Statistics": "● Open roadsides; 1000-1500 m. C Taiwan.

@@ -1,0 +1,14 @@
+罗浮冬青",
+160.**Ilex tutcheri** Merrill",
+
+## Description
+Trees small or shrubs, evergreen, ca. 4 m tall. Branchlets yellow-brown or castaneous, terete, glabrous; current year’s branchlets longitudinally angular-sulcate; third year’s branchlets smooth; lenticels absent; leaf scars raised, deltoid; terminal buds ovoid, scales sparse, glabrous. Stipules persistent, deltoid, ca. 1 mm, apically acuminate; petiole 4-8 mm, abaxially rounded and rugose, adaxially deeply sulcate, narrowly winged on distal half; leaf blade abaxially greenish, adaxially green, shiny, obcordate, obovate, or rarely obovate-elliptic, 2.7-6 × 1.3-2.5 cm, thickly leathery, abaxially punctate, both surfaces glabrous, midvein abaxially raised, glabrous, adaxially deeply impressed, very sparsely puberulent, lateral and reticulate veins obscure on both surfaces, base cuneate or acute, margin recurved, entire, apex rounded and retuse, rarely obtuse. Inflorescences: cymes, fasciculate, axillary on second to third year’s branchlets. Male inflorescences: cymes of order 2, 3-flowered; basal bracts tricuspidate, puberulent; peduncles 2-3 mm, sparsely puberulent; pedicels 3-4 mm; bracteoles absent, or 1 or 2, basal, deltoid, puberulent; calyx patelliform, ca. 3 mm in diam., puberulent, 5-7-lobed, lobes orbicular, sparsely ciliate or not ciliate; corolla rotate, ca. 7 mm in diam., petals 4 or 5, oblong, ca. 2.5 mm, not ciliate, basally slightly connate; stamens nearly as long as petals, anthers oblong-ovoid; rudimentary ovary globose, middle distinctly 4- or 5-lobed, apex papillose. Female flowers not known. Infructescences: 1-fruited cymes; fruiting pedicels 8-10 mm, puberulent; bracteoles 1 or 2, basal. Fruit red, globose, ca. 5 mm in diam.; persistent calyx explanate, suborbicular, ca. 4 mm in diam.; persistent stigma capitate; pyrenes 5 or 6(or 7), ellipsoidal, 2-3 mm, 1-1.3 mm in diam., abaxially 2- or 3-striate, laterally smooth, endocarp leathery. Fl. Apr-May, fr. Jul-Dec.
+
+> ● Forests, mountain slopes; 400-1600 m. Guangdong, Guangxi.
+**160.罗浮冬青（新拟）**
+
+Ilex tutcheri Merr. in Philipp. Journ. Sci. Bot. 13: 143. 1918; S. Y. Hu in Journ. Arn. Arb. 31: 233. 1950.
+
+常绿小乔木或灌木，高4米；小枝圆柱形，黄褐色或栗褐色，无毛，当年生幼枝具纵棱沟，三年生枝平滑，无皮孔，叶痕三角形，隆起；顶芽卵球形，芽鳞疏松，无毛。叶生于1-3年生枝上，叶片厚革质，倒卵形或稀倒卵状椭圆形，长2.7-6厘米，宽1.3-2.5厘米，先端圆形并微凹，稀钝，基部楔形或急尖，边缘外卷，全缘，叶面绿色，具光泽，背面淡绿色，无光泽，具斑点，两面无毛，主脉在叶面深凹入，被极疏的微柔毛，背面隆起，无毛，侧脉及网状脉两面不明显；叶柄长4-8毫米，上面具深槽，背面圆形，具皱纹，顶端具由叶片下延的狭翅；托叶三角形，长约1毫米，渐尖，宿存。花序簇生于2-3年生枝的叶腋内，基部具苞片，苞片具3尖，被微柔毛；花4-6 (-7）基数，白色。雄花序：簇的个体分枝为具3花的聚伞花序，总花梗长2-3毫米，与花梗均被微柔毛，花梗长3-4毫米，具基生小苞片2枚或无，小苞片三角形，被微柔毛；花萼盘状，直径约3毫米，被微柔毛，5-7浅裂，裂片圆形，具疏缘毛或无；花冠辐状，直径约7毫米，花瓣4或5枚，长圆形，长约2.5毫米，无缘毛，基部稍合生；雄蕊与花瓣几等长，花药长圆状卵球形；退化子房球形，顶端乳头状，中央4或5裂。雌花序及雌花未见。果序簇生于2或3年生枝的叶腋内，单个分枝具1果，果梗长8-10毫米，被微柔毛，基部具1或2枚小苞片；果球形，直径约5毫米，成熟时红色，宿存花萼平展，近圆形，直径约4毫米，宿存柱头头状；分核5或6（-7），椭圆形，长2-3毫米，宽1-1.25毫米，背部具2或3条凸起的纵棱，侧面平滑，内果皮革质。花期4-5月，果期7-12月。
+
+产于广东（阳山、翁源、新丰、英德、乳源、博罗、龙门、河源、连平、增城、信宜、怀集、从化、鼎湖山）及广西（容县、上思）；生于海拔400-1600米的山坡林中。模式标本采自广东罗浮山（E. D. Merrill 10377, A）。

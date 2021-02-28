@@ -1,0 +1,7 @@
+狭叶长梗茶",
+24.**Camellia gracilipes** Merrill ex Sealy",
+
+## Description
+Shrubs 1.8-3 m tall. Young branches grayish brown, slender, glabrous; current year branchlets purplish red, gray pubescent. Petiole 2-4 mm, pubescent; leaf blade narrowly lanceolate, 6-11 × 1.4-2.8 cm, leathery, abaxially pale green, pubescent along midvein, and becoming yellowish brown when dry, adaxially dark green and glabrous, midvein abaxially raised and adaxially impressed, secondary veins 6 or 7 on each side of midvein, abaxially raised, and adaxially impressed, base rounded to obtuse, margin sparsely serrate, apex long acuminate to caudate. Flowers axillary, solitary or to 3 in a cluster. Pedicel 3-3.5 cm, slender, glabrous; bracteoles 2, persistent, long ovate, ca. 1 × 0.5 mm, membranous, glabrous, apex apiculate. Sepals 5, semiorbicular to broadly elliptic, 1.5-2.5 × 2-4 cm, glabrous, margin ciliolate. Petals 7, white, obovate to broadly obovate; outer 2 petals ca. 7 mm; inner petals nearly distinct, 10-11 × 6-10 mm, outside silky gray sericeous, inside glabrous. Stamens ca. 6 mm, glabrous; outer filament whorl basally connate for 1-2 mm. Ovary ovoid, ca. 2 mm, yellow tomentose, 3-loculed; style ca. 7 mm, 3-parted to near base, basal 1/2 pubescent. Capsule ovoid, 2.5-3.5 × 2-2.5 cm, usually 1-loculed with 1 seed; pericarp ca. 1 mm thick. Seed brown, globose, glabrous. Fl. Nov-Dec, fr. Sep-Oct.
+
+> Thickets; 100-300 m. Guangxi (Fangcheng) [N Vietnam].

@@ -1,0 +1,14 @@
+拉萨狗娃花",
+30.**Aster gouldii** C. E. C. Fischer Bull. Misc. Inform. Kew. 1938: 286. 1938.",
+
+## Description
+Herbs, annual, 8-30 cm tall, spreading, taprooted. Stems branched from base; branches decumbent to ascending, ± densely strigose, stipitate glandular, especially above. Basal leaves withered by anthesis, winged petiolate, base of petiole clasping, blade oblanceolate, base gradually attenuate; cauline leaves sessile or indistinctly petiolate; blade linear, oblong, oblanceolate, or spatulate, 0.7-3.5 × 0.2-0.5 cm, strigose, stipitate glandular, base attenuate, margin entire, strigose-ciliate, apex obtuse or acute. Capitula solitary or few at ends of branches, 1.5-2.5 cm in diam. Involucres hemispheric, 1-1.5 cm in diam.; phyllaries 2- or 3-seriate, green, subequal, linear-lanceolate to lanceolate, 5-7 × 0.8-1.8 mm, herbaceous, abaxially stipitate glandular, sparsely villous-strigose, acuminate, margin glandular, of inner phyllaries scarious, erose. Ray florets 25-40, purplish or bluish, tube 1.5-2.1 mm, tube and lamina base sparsely hairy, lamina 10-11 × 1.2-2 mm; disk florets yellow, 3.5-4 mm, tube 1-1.2 mm, sparsely hairy, limb campanulate, lobes unequal, 4 short, 0.6-0.9 mm, 1 long, 1.1-1.3 mm, glabrous. Achenes of ray florets pale olive green and black mottled to black, obovoid, ± compressed, 2-2.5 × 1-1.2 mm, strigose, sparsely glandular apically, faintly 2- or 3-ribbed; of disk florets straw-colored, ± black mottled, obovate to oblanceolate, flattened, 2.2-2.3 mm, strigose, markedly 2-ribbed. Pappus of ray florets 1-seriate, scales 0.3-0.5 mm; of disk florets 2-seriate, reddish; outer bristles ca. 0.5 mm; inner bristles ± stiff, 3.3-3.7 mm. Fl. and fr. Jun-Sep.
+  "Statistics": "Open grassy slopes, disturbed open or bare slopes in alpine meadows, sometimes sandy soils and riverbanks, field margins; 2900-5600 m. Qinghai, Xizang [Bhutan, India (Sikkim)].
+  "Synonym": "*Aster crenatifolius* Handel-Mazzetti, p.p. quod syn.; *Heteropappus gouldii* (C. E. C. Fischer) Grierson.
+**12. 拉萨狗娃花 图版35: 4-6**
+
+Heteropappus gouldii (C. E. C. Fisch.) Griers. in Not. Bot. Gard. Edinb. 26: 152. 1964. ——Aster gouldii C. E. C. Fisch. in Kew Bull. 286. 1938: S. Y. Hu in Quart. Journ. Taiw. Mus. 18: 286. 1969.——Aster crenatifolius Hand. -Mazz. in Act. Hort. Goth. 12: 217. 1938, p. p. quoad syn. A. praetermissus Drumm. ined.
+
+一年生草本，有直根。茎高10-30厘米，自基部具铺散的分枝或直立而在中下部起分枝，纤细，被平贴的糙伏毛或开展的短硬毛并混有腺毛。叶宽条形，倒披针形或匙形，长0.7-3.5厘米，宽1.5-6毫米，顶端钝或急尖，基部无柄或狭成不明显的柄，全缘，两面被平贴的糙伏毛，散布有腺。头状花序直径1.5-2.5厘米。总苞半球形，径1-1.5厘米；总苞片2-3层，近等长，条形或披针形，长5-7毫米，宽0.8-1.8毫米，外层草质，渐尖，绿色或带紫色，被腺状短柔毛和疏长毛，内层有白色膜质边缘。舌状花约25-40个管部长1.5-2.1毫米；舌片淡紫色或浅蓝色，长1-1.1厘米，宽1.5-2毫米。管状花黄色，长3.5-4毫米，管部长1-1.2毫米，裂片5，不等长，1个长裂片长1.1-1.3毫米，其余的长0.7-0.9毫米。冠毛污白色或浅棕色，较管状花花冠短，长3-3.2毫米，舌状花冠毛常较短。瘦果倒卵形，长2-2.5毫米，宽1-1.2毫米，扁，绿色，有黑斑，被绢毛，顶部有少数腺点。
+
+分布于西藏（日喀则、萨迦、江孜、拉萨、扎囊、加查、米林、林芝、扎木）。生于山坡草地、田边、河滩。海拔2900-5540米。也分布于锡金。

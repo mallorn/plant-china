@@ -1,0 +1,9 @@
+晚波杜鹃",
+233.**Rhododendron serotinum** Hutchinson",
+
+> *Rhododendron serotinum* was described in 1920 from plants cultivated at Kew that had been raised from seed that had been received from Paris in 1889. This seed had originally been received from Delavay and was considered to have been collected from S of Mengzi, in S Yunnan. The plate cited above and the accompanying original description are a good match with recent material collected in S Yunnan and in N Vietnam. Field studies indicate that this material apparently flowers in the wild late in the season; this is in line with the flowering time reported in cultivation. However, no recent flowering material is known. It may be related to *R*. *hemsleyanum*, from Sichuan (Emei Shan), but apparently differs in the blotched corolla, hairy filaments, and in the late flowering period.
+
+## Description
+Shrubs, with a straggling habit, to 3 m tall; branchlets glabrous. Petiole 20–35 mm, glabrous; leaf blade leathery, oblong-elliptic, 8–18.5 × (3.5–)4–9 cm; base auriculate; margin undulate; apex mucronate; both surfaces glabrous; abaxial surface glaucous-green; lateral nerves ca. 15-paired. Inflorescence shortly racemose, 7–8-flowered; rachis ca. 30 mm, glandular-papillose. Pedicel 3–4.5 cm, minutely glandular-papillose; calyx lobes minute, undulate, margin with minute red glands; corolla funnel-campanulate, fragrant, white, flushed pink on the outer surface, with flecks and a basal blotch, 6–6.5 cm, tube outer surface glandular; lobes 7, ca. 2 × 3 cm; stamens 15–16, unequal, ca. 4.5 cm, filaments pubescent below; ovary ovoid, ca. 6 mm, covered with short white glandular hairs; style slightly longer than stamens, glandular to the tip; stigma discoid, 4–4.5 mm in diam. Capsule not known. Fl. Aug–Oct. (in cultivation).
+
+> Mixed forests; 1500–2900 m. ?S Yunnan [N Vietnam].

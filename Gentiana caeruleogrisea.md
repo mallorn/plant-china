@@ -1,0 +1,7 @@
+蓝灰龙胆",
+127.**Gentiana caeruleogrisea** T. N. Ho",
+
+## Description
+Annuals 6-12 cm tall. Stems ascending to erect, branched from base, glabrous. Basal leaves withered at anthesis; petiole 1-2 mm; leaf blade ovate to suborbicular, 4-6 &amp;#215; 3.5-5 mm, margin narrowly membranous and smooth, apex rounded, veins 1-3. Stem leaves widely spaced; petiole tube 1.5-5 mm with increasing connate length toward apex; leaf blade 2-6 &amp;#215; 1-2.5 mm, shorter than internodes, spatulate toward stem base but linear to elliptic from middle to stem apex, margin indistinctly membranous and smooth, apex acuminate, obtuse, or rounded, veins indistinct. Pedicel 0.3-1.7 cm, exserted from upper leaves, glabrous. Calyx narrowly obconic, 6.5-7.5 mm; lobes lanceolate, 0.7-1 mm, margin narrowly membranous and smooth, apex acute, midvein strongly keeled and decurrent into conspicuous wings of calyx tube. Corolla outside with blue-gray stripes, inside white or pale blue, tubular to narrowly funnelform, 1.1-1.3 cm; lobes ovate, 1.5-3.5 mm, margin entire, apex obtuse; plicae broadly ovate, 1.5-2 mm, margin denticulate, apex obtuse. Stamens inserted at middle of corolla tube, equal; filaments 1.2-1.7 mm; anthers narrowly ellipsoid, 0.8-1 mm. Style 0.5-0.7 mm; stigma lobes semiorbicular. Capsules cylindric to narrowly ellipsoid, 7.5-8.5 mm; gynophore 1.5-2 mm, slender. Seeds brown to dark brown, ellipsoid, 1-1.2 mm. Fl. and fr. Aug-Sep.
+
+> * Alpine meadows; 3600-4300 m. Gansu, Qinghai, Xizang.

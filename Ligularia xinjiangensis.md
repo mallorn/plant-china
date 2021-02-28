@@ -1,0 +1,7 @@
+新疆橐吾",
+38.**Ligularia xinjiangensis** Chang Y. Yang & S. L. Keng J. Aug. 1st Agric. Coll. 18(2): 1. 1995.",
+
+## Description
+Stem erect, 35-40 cm tall, glabrous, ca. 1 cm in diam. at base, with a densely reddish brown lanate circle. Basal leaves petiolate; petiole longer than leaf blade, glabrous, base narrowly sheathed; leaf blade orbicular-ovate, orbicular-cordate, or orbicular, 2-7 × 2-8 cm, green, pinnately veined, glabrous, base cordate, margin irregularly sharply dentate, apex obtuse or rounded. Distal stem leaves shortly petiolate, triangular, 5-10 × 3-5 cm, base auriculate-amplexicaul; distalmost stem leaves bracteal. Capitula 5, in subcorymb; leaflike bracts triangular, supplementary bracts 1-3, subulate; peduncles 3-8 cm, upper floccose-lanate. Involucre hemispheric or cupular, ca. 1.4 × 2.5-2.7 cm, outside glabrous, only base pubescent; phyllaries 12 or 13, in 2 rows, lanceolate or ovate-oblong, apex acute or acuminate; inner phyllaries broadly white membranous at margin. Ray florets 13-15, yellow; lamina oblong, ca. 16 × 6 mm, apex acute; tube 3-4 mm. Tubular florets numerous, 8-9 mm; tube ca. 3 mm. Achenes brown, cylindric, ca. 5 mm, ?hairy between ribs. Pappus white, as long as tubular corolla. Fl. and fr. Jun-Jul.
+  "Reference": "One of us (Illarionova) treats *Ligularia xinjiangensis* as synonymous with *L. tianschanica*.One of us (Illarionova) treats *Ligularia xinjiangensis* as synonymous with *L. tianschanica*.
+  "Statistics": "● Subalpine meadows; 2400-2800 m. Xinjiang.

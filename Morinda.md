@@ -1,0 +1,128 @@
+巴戟天属",
+54.**Morinda** Linnaeus Sp. Pl. 1: 176. 1753.",
+
+> About 80-100 species: widespread in tropical and subtropical regions worldwide; 27 species (18 endemic) in China.
+
+## Description
+Lianas, climbing shrubs, erect shrubs, or small trees, rarely dioecious, sometimes with spines; branching sometimes sylleptic with growth continued from an axillary or subapical node, with lateral branches sometimes surrounded at base by persistent leafless stipules. Raphides present. Leaves opposite, rarely ternate, or sometimes anisophyllous and apparently 1 at flowering nodes, sometimes with domatia in axils of secondary and occasionally tertiary veins, margins rarely sinuate-undulate or lyrate; stipules persistent or infrequently caducous, interpetiolar, united around stem, or fused to petioles, triangular, entire. Inflorescences terminal, axillary, or leaf-opposed, capitate with 1 to several hemispherical to subglobose heads, these fasciculate or cymose, few to many flowered, pedunculate or sessile, bracteate or bracts reduced. Flowers sessile, shortly to fully fused by their ovaries [to free or nearly so], bisexual and distylous, rarely bisexual and monomorphic, or rarely dioecious. Calyx limb truncate to sinuate or rarely in 1-3 flowers of an inflorescence with 1 petaloid calycophyll (*Morinda citrifolia*). Corolla white or pink, funnelform, salverform, or campanulate, inside glabrous or pubescent in throat, [tube sometimes fenestrate]; lobes 3-7, valvate in bud. Stamens 3-7, inserted in corolla throat or tube, exserted or included; filaments short; anthers dorsifixed, sometimes with connective prolonged into an apical appendage. Ovary 2-celled with ovules 2 in each cell, or incompletely to completely 4-celled due to secondarily formed false septa with ovules 1 in each cell, ovules attached to septum near base; stigmas 2, linear, exserted or included. Fruit multiple with entire fruiting heads comprising one fruit (i.e., drupecetum) [sometimes fruit simple]; individual fruit drupaceous, fleshy, generally obovoid, blue to black, with calyx limb persistent; pyrenes 2-4, 1-locular, with 1 seed, cartilaginous or bony, subtrigonous to plano-convex, adaxially (i.e., ventrally) flat or sulcate; seeds medium-sized, subtrigonous or ellipsoid; endosperm abundant, corneous; embryo small; cotyledons oblong; radicle inferior.
+  "Reference": "*Morinda* includes a notable range of breeding systems (Johansson, Opera Bot. 122: 1-167. 1994), but most of the species are apparently distylous, with the anthers and stigmas separated and their positions reciprocal between the short-styled and long-styled form of the same species; however, this biology has been sometimes overlooked. Also, as noted by Johansson (loc. cit.), the position of the inflorescences, in particular terminal vs. leaf-opposed, deserves careful observation and aids identification of species. In particular, the leaf-opposed inflorescences often are produced on the terminal node, then later displaced by subsequent growth from the axil of that leaf, and can be confused with true terminal inflorescences that have two subtending leaves. The inflorescences with \"fasciculate to umbellate\" peduncles actually appear to be condensed cymes or racemes, with the peduncles arising from a very shortly prolonged structure at the stem apex that also bears several stipuliform bracts, usually one above the other. The twining Asian species apparently share having their lateral branches surrounded at the base (i.e., at the divergence from main stem) by persistent leafless stipules. Some species of *Morinda* have petaloid bracts or possibly calyx lobes; this character appears to vary within some individual species. Y. Z. Ruan’s (in FRPS 71(2): 179-202. 1999) taxonomy of *Morinda* distinguished species based on different characters, in particular pubescence, leaf shape, peduncle length compared across developmental stages, drying color and texture, pattern of tertiary leaf veins on dried specimens, and degree of fusion of flowers, than used by many other authors (e.g., Johansson, loc. cit.; Springate et al., Fl. Bhutan 2(2): 804. 1999).*Morinda* includes a notable range of breeding systems (Johansson, Opera Bot. 122: 1-167. 1994), but most of the species are apparently distylous, with the anthers and stigmas separated and their positions reciprocal between the short-styled and long-styled form of the same species; however, this biology has been sometimes overlooked. Also, as noted by Johansson (loc. cit.), the position of the inflorescences, in particular terminal vs. leaf-opposed, deserves careful observation and aids identification of species. In particular, the leaf-opposed inflorescences often are produced on the terminal node, then later displaced by subsequent growth from the axil of that leaf, and can be confused with true terminal inflorescences that have two subtending leaves. The inflorescences with \"fasciculate to umbellate\" peduncles actually appear to be condensed cymes or racemes, with the peduncles arising from a very shortly prolonged structure at the stem apex that also bears several stipuliform bracts, usually one above the other. The twining Asian species apparently share having their lateral branches surrounded at the base (i.e., at the divergence from main stem) by persistent leafless stipules. Some species of *Morinda* have petaloid bracts or possibly calyx lobes; this character appears to vary within some individual species. Y. Z. Ruan’s (in FRPS 71(2): 179-202. 1999) taxonomy of *Morinda* distinguished species based on different characters, in particular pubescence, leaf shape, peduncle length compared across developmental stages, drying color and texture, pattern of tertiary leaf veins on dried specimens, and degree of fusion of flowers, than used by many other authors (e.g., Johansson, loc. cit.; Springate et al., Fl. Bhutan 2(2): 804. 1999).
+  "Synonym": "*Rojoc* Adanson.
+  "keylist": "
+1 Erect trees or shrubs; inflorescences terminal, axillary, or leaf-opposed, 1 or 2 per node——(2)
+1 Lianas, twiners, or subshrubs; inflorescences terminal, with heads solitary or in groups of 2-11——(8)
+2(1) Plants of seashores and low elevations, 0-50 m; leaves with 5-7 pairs of secondary veins; fruit 2.5-5 cm in diam.[*M. citrifolia* 海滨木巴戟](Morinda citrifolia.md)
+2 Plants of terrestrial inland habitats, 500-1400 m (exact elevation unknown in M. leiantha)——(3)
+3(2) Inflorescences terminal and/or axillary——(4)
+3 Inflorescences leaf-opposed——(5)
+4(3) Stems hirtellous, hispidulous, or subglabrous; leaves with secondary veins 5-8 pairs; peduncles 0.2-0.5 cm; corollas with tubes ca. 20 mm and lobes ca. 4 mm.[*M. leiantha* 顶花木巴戟](Morinda leiantha.md)
+4 Stems glabrous or subglabrous; leaves with secondary veins 8-10 pairs; peduncles ca. 2 cm; corollas with tubes ca. 32 mm and lobes ca. 13 mm.[*M. longissima* 大花木巴戟](Morinda longissima.md)
+5(3) Stems glabrous to pubescent; leaves pubescent abaxially, with secondary veins 7-10 pairs; peduncles 0.1-0.3 cm.[*M. persicifolia* 短梗木巴戟](Morinda persicifolia.md)
+5 Stems glabrous; leaves glabrous abaxially, with secondary veins 9-24 pairs; peduncles 1-6 cm——(6)
+6(5) Leaves 4-5.5 cm wide, with secondary veins 12-24 pairs; corollas with tubes 15-18 mm, lobes 3-4 mm.[*M. undulata* 波叶木巴戟](Morinda undulata.md)
+6 Leaves 5-11 cm wide, with secondary veins 9-14 pairs; corollas with tubes 16-33 mm, lobes 4-15 mm——(7)
+7(6) Petioles 0.5-1 cm; corollas with tubes 16-33 mm, lobes 4-15 mm; fruit ca. 2.5 cm in diam.[*M. angustifolia* 黄木巴戟](Morinda angustifolia.md)
+7 Petioles 2-4 cm; corollas with tubes ca. 22 mm, lobes ca. 4 mm; fruit ca. 1 cm in diam.[*M. rosiflora* 红木巴戟](Morinda rosiflora.md)
+8(1) Calyx limb developed, 1-2.5 mm; leaves acute to obtuse, rounded, truncate, or cordulate at base——(9)
+8 Calyx limb reduced to shortly developed, less than 1 mm; leaves acute to cuneate, obtuse, or rounded at base——(12)
+9(8) Stems and leaves glabrous.[*M. howiana* 糠藤](Morinda howiana.md)
+9 Stems and leaves glabrous to densely hirtellous or pilosulous, with pubescence present at least on veins abaxially on young leaves——(10)
+10(9) Stems and leaves sparsely to moderately puberulent to glabrescent; corollas with tubes and lobes ± equal, tube 3-4 mm, lobes 3-4 mm; fruit 0.5-1.1 cm in diam.[*M. officinalis* 巴戟天](Morinda officinalis.md)
+10 Stems and leaves abaxially densely hirtellous or pilosulous; corollas with lobes longer than tube, tube 1-2 mm, lobes 3-4.5 mm; fruit 1-2 cm in diam——(11)
+11(10) Leaves with 7-10 pairs of secondary veins; corollas with tubes 1.5-2 mm and lobes 4-4.5 mm; calyx lobes narrowly triangular, acute.[*M. cochinchinensis* 大果巴戟](Morinda cochinchinensis.md)
+11 Leaves with 10-13 pairs of secondary veins; corollas with tubes 1-1.2 mm and lobes 3-4 mm; calyx lobes rounded to obtuse.[*M. villosa* 须弥巴戟](Morinda villosa.md)
+12(8) Leaves rugulose; corolla tube ca. 10 mm.[*M. rugulosa* 皱面鸡眼藤](Morinda rugulosa.md)
+12 Leaves flat, smooth; corolla tube 1-3 mm or 12-25 mm——(13)
+13(12) Corolla tube 12-25 mm——(14)
+13 Corolla tube 1-3 mm——(18)
+14(13) Corolla tube 12-20 mm——(15)
+14 Corolla tube ca. 25 mm——(16)
+15(14) Young stems densely ferruginous hirtellous when dry; leaves drying leathery and abaxially whitened.[*M. cinnamomifoliata* 樟叶巴戟](Morinda cinnamomifoliata.md)
+15 Young stems densely puberulent, strigillose, or hirtellous with pubescence drying colorless; leaves drying papery to membranous and abaxially golden yellow or brownish yellow.[*M. citrina* 金叶巴戟](Morinda citrina.md)
+16(14) Leaves glabrous throughout.[*M. brevipes* 短柄鸡眼藤](Morinda brevipes.md)
+16 Leaves sparsely to densely pubescent at least abaxially on veins——(17)
+17(16) Stems puberulent with trichomes drying colorless, to glabrescent.[*M. badia* 栗色巴戟](Morinda badia.md)
+17 Stems densely hirtellous with trichomes drying golden brown.[*M. callicarpifolia* 紫珠叶巴戟](Morinda callicarpifolia.md)
+18(13) Corollas with tubes and lobes ± equal in length, tube 2-2.5(-3) mm, lobes 2-2.5(-3) mm——(19)
+18 Corollas with lobes longer than tubes by 50% or more, tube 1-2 mm, lobes 2-4 mm——(23)
+19(18) Stems and leaves glabrous.[*M. lacunosa* 长序羊角藤](Morinda lacunosa.md)
+19 Stems and leaves puberulent to hirtellous at least when young——(20)
+20(19) Leaves drying with gray to black cast.[*M. litseifolia* 木姜叶巴戟](Morinda litseifolia.md)
+20 Leaves drying with brown or yellow cast——(21)
+21(20) Leaves drying with brown cast; corollas with tubes ca. 3 mm, lobes ca. 3 mm.[*M. shuanghuaensis* 假巴戟](Morinda shuanghuaensis.md)
+21 Leaves drying with brown, grayish brown, or yellowish brown cast; corollas with tubes 2-2.5 mm, lobes 2-2.5 mm——(22)
+22(21) Petioles 0.4-0.8 cm; leaves adaxially sparsely hispidulous to glabrescent.[*M. hupehensis* 湖北巴戟](Morinda hupehensis.md)
+22 Petioles 0.5-1.5 cm; leaves adaxially sparsely hirtellous, subglabrous, or glabrous.[*M. scabrifolia* 西南巴戟](Morinda scabrifolia.md)
+23(18) Leaves drying with gray to black cast; stems densely yellowish, clear, or ferruginous strigillose or hirtellous.[*M. hainanensis* 海南巴戟](Morinda hainanensis.md)
+23 Leaves drying with green, brown, yellow, or reddish cast; stems moderately to sparsely hirtellous, hispidulous, or puberulent with colorless trichomes, to subglabrous——(24)
+24(23) Leaves drying with yellow or reddish cast——(25)
+24 Leaves drying with brown, grayish brown, or greenish cast——(26)
+25(24) Leaves 2-7 × 0.3-3 cm, cuneate to acute at base; corolla lobes 3-4 mm.[*M. parvifolia* 鸡眼藤](Morinda parvifolia.md)
+25 Leaves 7-13 × 2-4 cm, cuneate to obtuse or rounded at base; corolla lobes ca. 2 mm.[*M. pubiofficinalis* 细毛巴戟](Morinda pubiofficinalis.md)
+26(24) Leaves with secondary veins 4 or 5 pairs; peduncles 0.4-1.1 cm; fruit 0.4-0.8 cm in diam.[*M. nanlingensis* 南岭鸡眼藤](Morinda nanlingensis.md)
+26 Leaves with secondary veins 5-7 pairs; peduncles 1-1.5 cm; fruit 0.7-1.2 cm in diam.[*M. umbellata* 印度羊角藤",](Morinda umbellata.md)
+**89．巴戟天属 Morinda L.**
+
+Linn. Sp. Pl. 1: 176. 1753. et Gen. Pl. 3: 81. 1754; Hook. f.in Benth. et Hook. f. Gen. Pl. 2 (1): 117. 1873.
+
+藤本，藤状灌木，直立灌木或小乔木。叶对生，罕3片轮生；托叶生于叶柄内或叶柄间，分离或2片合生成筒状，紧贴，膜质或纸质。头状花序桑果形或近球形，由少数至多数花聚合而成，木本种花序单1腋生或生于1叶位而与另1叶对生，藤本种为数花序伞状排于枝顶；花无梗，两性，3-4基数，4-5基数或5-7基数（乔木种）；花萼半球形或圆锥状，下部彼此粘合，上部环状，顶截平或具1-3齿；花冠白色，漏斗状，高脚碟状或钟状，管部与檐部近等长或远较长，喉部密被毛或无毛，檐部裂片蕾时镊合状排列；雄蕊与花冠裂片同数，着生于喉部或裂片侧基部，花药背着，外露或内藏，花丝短；雌蕊具花柱或无花柱而仅存圆锥状柱头于子房顶，子房2-4室，每室具胚珠1；胚珠扁圆形或扁长圆形，着生于隔膜基部。聚花核果由(1-)2至多数合生花和花序托发育而成，卵形、桑果形或近球形，每一核果具分核2-4；分核近三棱形，外面弯拱，两侧面平或具槽，具种子1；种子与分核同形或长圆形，胚乳丰富，角质，胚小，子叶长圆形，胚根下位。
+
+约102种，分布于世界热带、亚热带和温带地区。我国有26种、1亚种、6变种，分布于西南、华南、东南和华中等长江流域以南各省、区。
+
+属模式：M. umbellata L.
+
+具3组，我国均产。
+
+## 检索表
+
+1 直立灌木或乔木；头状花序单生枝顶、叶腋或生于一叶位而与另一叶对生；花(4-)5-7基数。——(2)
+1 藤本；花序2-18在枝顶呈伞形花序状或圆锥花序状排列；花4-5基数或(2-)3-4基数。——(8)
+2 花序单生于枝顶或2个生于顶部叶腋；花冠内面无毛。——(7)
+2 花序与一单叶对生；花冠管内面有毛或无毛。——(3)
+3 花冠内面喉部至管部密被长柔毛；雄蕊着生于冠管上部；叶两面光亮。——(4)
+3 花冠内面无毛；雄蕊着生于冠管下部；叶不光亮，或起码下面不光亮。——(5)
+4 花5数；叶椭圆形或卵形，全缘；侧脉每边5-7条，脉腋有束状毛；托叶顶端圆；海滨植物。——[海滨木巴戟](Morinda%20citrifolia.md)
+4 花4数；叶线状长圆形，边缘浅波状或略呈琴状；侧脉每边达14条，脉腋无毛；托叶顶急尖；高原植物。——[波叶木巴戟](Morinda%20undulata.md)
+5 叶下面近无毛，侧脉粗壮，网脉明显；花序梗较长，长1-4厘米。——(6)
+5 叶下面被疏柔毛，侧脉细弱，网脉不明显；花序梗极短，长0.1-0.3厘米。——[短梗木巴戟](Morinda%20persicaefolia.md)
+6 叶干后棕绿色，叶柄短，长0.5-1厘米；叶柄间二托叶分离，钻形，罕下部合生；花序梗通常较长，长可达4厘米。——[黄木巴戟](Morinda%20angustifolia.md)
+6 叶干后紫黑色或紫红色，叶柄长2-4厘米；叶柄间托叶合生成三角形或卵形，顶端急尖，全缘或初时二浅裂；花序梗长不超过2厘米。——[红木巴戟](Morinda%20rosiflora.md)
+7 花序梗长0.2-0.5厘米，常2-4分枝，每分枝具一头状花序；花冠长约2厘米；叶侧脉每边5-8条。——[顶花木巴戟](Morinda%20leiantha.md)
+7 花序梗长约2厘米，不分枝；花冠长达4.5厘米；叶侧脉每边8-10条。——[大花木巴戟](Morinda%20longissima.md)
+8 枝、叶密被锈色至淡黄色伸展长柔毛；侧脉每边7-13条；萼顶具4-5齿；果大，直径通常达2厘米。——(9)
+8 枝、叶无毛或被各色紧贴硬毛，短粗毛，短柔毛；侧脉每边3-7 (-9)条；萼无齿或具1-3齿；果较小，直径通常不及1.2厘米。——(10)
+9 叶椭圆形，长圆形或倒卵状长圆形；侧脉每边7-10条；花序梗下具丝状总苞片多数；萼齿钻形。——[大果巴戟](Morinda%20cochinchinensis.md)
+9 叶狭长圆形，倒卵状披针形或披针形；侧脉每边10-13条；花序梗下在顶叶托叶位每侧具半圆形或卵形总苞片1-2枚；萼齿半圆形。——[须弥巴戟](Morinda%20villosa.md)
+10 除花序梗被微毛、叶柄有时有不明显短粗毛外，枝和叶两面光滑无毛（仅下面脉上有时具零星粒状毛）。——(11)
+10 嫩枝有毛，叶多少有毛或局部有毛。——(13)
+11 托叶生叶柄间，膜质，合生成筒状；花序3-11呈伞状排于枝顶，无腋生花序和无总花序梗；萼无齿。——(12)
+11 托叶生叶柄内，革质、坚硬，佛焰苞状；花序单生顶叶腋兼5-6伞状排于顶生总花序梗顶点；萼顶常具三角形萼齿1。——[长序羊角藤](Morinda%20lacunosa.md)
+12 叶椭圆形、长圆形，椭圆状披针形，干后红棕色；托叶长达15毫米；侧脉6-9对；花期4月。——[糠藤](Morinda%20howiana.md)
+12 叶倒卵形，倒卵状长圆形、倒卵状披针形，干后淡棕色或棕黑色；托叶长达6毫米；侧脉每边4-5条；花期6-7月。——[羊角藤](Morinda%20umbellata subsp. obovata.md)
+13 叶倒卵形，倒卵状披针形或椭圆状至线状等各式披针形或各式倒披针形，罕椭圆形；叶上面中脉无线状凸起或不明显，决无皮刺状弯硬粗毛；萼顶无齿或具1-3不明显微波齿或具1钻形小齿；花4-5基数。——(14)
+13 叶椭圆形、长圆形或倒卵状长圆形，不呈各式披针形或各式倒披针形；叶上面中脉上半部明显线状凸起，常稀疏被皮刺状弯粗硬毛；萼顶明显具2-3齿；花(2-)3-4基数。——(26)
+14 嫩枝被锈色或黄色毛；叶下面锈色或非锈色而被紧贴绢毛或短弯毛或锈色毛。——(15)
+14 嫩枝毛被非锈色或黄色；叶下面非锈色，非被锈毛或绢毛。——(20)
+15 叶上面灰黑色或淡黑色。——(16)
+15 叶上面栗色（棕黑色）或咖啡色。——(17)
+16 叶革质，长圆状倒披针形，基部圆或楔形，下面被短弯柔毛；侧脉在下面粗壮，与中脉约成30&#176;角，笔直斜升。——[樟叶巴戟](Morinda%20cinnamomifoliata.md)
+16 叶纸质，线状披针形，基部渐狭，下面被绢毛；侧脉细，与中脉约成60&#176;角，略弯拱斜升。——[海南巴戟](Morinda%20hainanensis.md)
+17 嫩枝密被粗硬毛；叶下面被稍密短弯毛。——(18)
+17 嫩枝被短柔毛；叶下面仅中脉处有短粗毛，余处无毛。——(19)
+18 全株毛被金色；叶以倒卵状长圆形为主，下面中脉被粗硬毛；托叶背被极密金色粗毛。——[紫珠叶巴戟](Morinda%20callicarpaefolia.md)
+18 全株毛被锈色；叶以倒披针形为主，下面中脉被柔毛；托叶背无毛或被锈色短硬毛。——[湖北巴戟](Morinda%20hupehensis.md)
+19 叶长圆形或椭圆状披针形，上面光亮，无皱褶，脉不明显；萼具2-3波状齿。——[栗色巴戟](Morinda%20badia.md)
+19 叶倒卵形或倒卵状披针形，上面不光亮，具皱褶，脉明显；萼无齿。——[皱面鸡眼藤](Morinda%20rugulosa.md)
+20 叶通常（或多数叶）上部宽于下部，倒卵形、倒卵状披针形、椭圆状倒披针形、倒披针形和线状倒披针形。——(21)
+20 叶通常（或大多数叶）下部宽于上部，卵状披针形、卵状长圆形、长圆状披针形、披针形和线形。——(23)
+21 叶较大，长5-13厘米，侧脉每边4-7条；萼顶无齿。——(22)
+21 叶小，长2-5 (-7)厘米，侧脉每边3-4 (-6)条；萼顶常可见针状或波状齿1-3。——[鸡眼藤](Morinda%20parvifolia.md)
+22 叶上面无毛；花序梗和果柄通常极短，长4-7 (-10)毫米，头状花序常稍伸长成圆锥状或肉穗花序状；花期4-5月。——[短柄鸡眼藤](Morinda%20brevipes.md)
+22 叶上面常疏被细短弯毛；花序梗和果柄较长，长10-15毫米，头状花序不伸长；花期6月。——[南岭鸡眼藤](Morinda%20nanlingensis.md)
+23 嫩枝疏被不明显粒状细毛；叶下面中脉被细短毛。——(25)
+23 嫩枝密被短粗毛或柔毛，叶下面中脉被短粗硬毛。——(24)
+24 老叶金黄色；头状花序具花(1-)3 (-5)朵。——[金叶巴戟](Morinda%20citrina.md)
+24 老叶灰色或棕黄色；头状花序具花5-10朵。——[西南巴戟](Morinda%20scabrifolia.md)
+25 叶上面灰色、灰黑色或灰绿色，无毛或有疏短细毛。——[木姜叶巴戟](Morinda%20litseifolia.md)
+25 叶上面棕红色或棕黄色，常有黑色疏短粗毛。——[细毛巴戟](Morinda%20pubiofficinalis.md)
+26 叶上面初时被紧贴疏长粗毛，中脉上半部明显线状凸起，该凸出线上常有皮刺状硬毛；花萼外侧具1特大萼齿（此萼齿有时可变成叶状，白色），内侧具2极小齿；花(2-)3(-4)基数。——[巴戟天](Morinda%20officinalis.md)
+26 叶上面初时被疏短粗毛或无毛，中脉上半部仅稍线状凸起，皮刺状硬毛较少见；萼具2-3波状小齿，无特大萼齿；花(3-)4基数。——[假巴戟](Morinda%20shuanghuaensis.md)

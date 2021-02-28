@@ -1,0 +1,17 @@
+虎克鳞盖蕨",
+1.**Microlepia hookeriana** (Wallich ex Hooker) C. Presl Epimel. Bot. 95. 1851.",
+
+> The name *Microlepia hookeriana* was first introduced by Wallich (Numer. List, no. 2684. 1831).
+
+## Description
+Plants terrestrial, ca. 80 cm tall. Rhizome long and creeping, 3.5-5 mm in diam., with dense long red-brown or brown hairs. Fronds remote, 1-2[-5] cm apart; stipe brown-straw-colored, [10-]20-30 cm, ca. 2.5 mm in diam., densely gray-brown villous; rachis and stalks with same hairs; lamina green when dried abaxially, black-green adaxially, 1-pinnate, broadly lanceolate to narrowly oblong in outline, 40-50 × 11-15 cm, base ± narrowed, apex long caudate; pinnae 20-40 pairs, opposite or alternate, basally 3-4 cm apart, shortly stalked to distally sessile, lower pinnae smaller, slightly reflexed; middle pinnae linear-lanceolate or falcate, 6-12 × 1-1.5 cm, herbaceous, abaxially grayish villous on veins, adaxially densely softly brown hairy on lobule midribs, each vein with sparse long hairs, base rounded-cuneate or asymmetrically hastate, both sides somewhat auriculate, acroscopic lobe larger, margin undulate-denticulate, distally serrate, often crispate, apex acuminate; terminal pinna to 15 cm, similar to lateral pinnae but symmetrical, often subhastate. Veins obliquely arising from costa, dichotomous, with 1 veinlet per tooth. Sori terminal on slender veinlet, arranged in a line near margin; indusium becoming brown when old, hemitelioid, as long as wide or slightly wider, glabrous, persistent.
+
+> Forests, damp places; below 100-1100 m. Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hunan, Jiangxi, Taiwan, Yunnan, Zhejiang [Borneo, N India, Indonesia, Japan (Ryukyu Islands), Malaysia, Nepal, Vietnam].
+  "Synonym": "*Davallia hookeriana* Wallich ex Hooker, Sp. Fil. 1: 172. 1845; *D. phanerophlebia* Baker; *Microlepia hookeriana* var. *marginalis* (Copeland) Tagawa; *M. paucipinnata* B. S. Wang; *M. phanerophlebia* (Baker) C. Christensen; *Nephrolepis marginalis* Copeland; *Saccoloma hookerianum* (Wallich ex Hooker) Fée; *Scypholepia hookeriana* (Wallich ex Hooker) J. Smith.
+**1.虎克鳞盖蕨 虎克鳞蕨（中国主要植物图说，蕨类植物）图版XIX，1-5**
+
+Microlepia hookeriana (Wall.) Presl, Epim. Bot. (1849) 95; C. Chr. Ind. Fil. (1906) 426 et Suppl. III. (1934) 127; Wu, Wong et Pong in Bull. Dept. Biol. Sun Yatsen Univ. No. 3 (1932) 108, t. 55; Taxd.-Blot et C. Chr. in Fl. Indo-Chine Val; ii (1939) 93; 傅书遐, 中国主要植物图说 (蕨类植物阴) (1957) 45页, 55图——Davallia hookeriana Wall. List (1829) n. 2684; Hook. Sp. Fil. I (1846) 172 t. 47 B; Benth. Fl. Hongk. (1861) 461; Hook. et Bak. Syn. Fxl. (1868) 97; Dunn & Tutch. Fl. Kwangt. & Hongk. in Kew Bull. Add. Ser. X (1912) 337——Saccoloma hookerianum Fee, Gen. Fil. (1850-1852) 321——Scypholepia hookeriana J. Sm. Hist. Fil. (1875) 261; H. Ito, Fil. Jap. Illustr.(1944) t. 7——Davallia phanerophlebia Bak. in Journ. Bot. (1890) 262; Ogata, Ic. Fil. Jap. V (1933) t. 233——Microlepia phanerophlebia C. Chr. Ind. Fil. (1905) 213——Nephrolepis marginalis Cop. in Philip. Journ. Sca. XII (1917) 49.
+
+植株高达80厘米。根状茎长而横走，密被红棕色或棕色钻状的长毛。叶远生，相距约1-2厘米；叶柄长20-30厘来，基部直径的2.5毫米，褐禾桿色，全部被灰棕色长软毛；叶片广披针形，长40-50厘米，宽11-15厘米，先端长尾状，基部多少变狭，一回羽状；羽片23-28对，对生或上部互生，下部各羽片相距3-4厘米，平展，有短柄，或上部的无柄，披卦形，近镰刀状，长6-12厘米，宽1-1.5厘米，先端渐尖，基部圆截形，或为不对称的戟形，上下两侧多少为耳形，上侧的耳片较大，边缘有波状圆齿，但先端为锯齿状。叶脉自中肋斜出，一回二又分枝，每齿有小脉一条。叶草盾，干后上面呈黑绿色，下面绿色，叶下面各脉被有淡灰色的长柔毛，叶上而中肋密被褐色柔毛，各脉有二三疏长毛，但叶肉光滑；叶轴被与叶柄相同的毛。孢子囊群生于细脉顶端，近边缘着生，囊群盖杯形，长宽相等或略竟，先为绿色，后变为棕色，坚实，光滑，上边截形或波形，近于叶边，排成有规则的一行，宿存。
+
+产台湾、福建、广东、海南、广西至云南东南部。生长溪边林中或阴湿地，海拔100-1100米。婆罗洲、印度尼西亚、马来亚、越南至印度北部及尼泊尔都有分布。

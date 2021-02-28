@@ -1,0 +1,7 @@
+细尖滇紫草",
+9.**Onosma apiculatum** Riedl",
+
+## Description
+Herbs perennial, with a rosette of leaves arising from either a stout vertical rhizome or from &amp;#177; horizontal branches. Stems solitary, ascending, 20-35 cm tall, unbranched, straw colored when dry; bristles dense, white, patent, ca. 2 mm, intermixed with very short patent hairs. Leaves of sterile rosette green, linear-spatulate to linear-oblanceolate, 4-13 cm &amp;#215; 4-8 mm, abaxially bristly mainly along midvein, sparsely bristly elsewhere, densely short pubescent as on stem, adaxially patent to &amp;#177; appressed white bristly, nearly flat tuberculate, base tapering, petiolelike, margin revolute, apex acute to &amp;#177; obtuse; uppermost leaves 2.5-4 cm, widest near base, apex acute. Cymes single or paired, involute, 4-6 cm at anthesis; lower bracts to 2 cm. Pedicel 2-5 mm. Calyx ca. 1.5 cm, elongated after anthesis; lobes linear, densely &amp;#177; appressed soft bristly and short pubescent, apex &amp;#177; obtuse. Corolla pale yellow, club-shaped, 2-2.2 cm, ca. 3 mm wide at base, ca. 8 mm wide slightly below lobes, very minutely papillate outside, glabrous inside and on nectary; lobes recurved, apiculate, ca. 1.5 &amp;#215; 4.5 mm. Filaments ca. 7 &amp;#215; 0.8 mm, tapering; anthers coherent, ca. 9.5 mm, fertile part ca. 3.5 mm; sterile tips truncate, exserted by less than 1 mm. Style exserted by 2.5-3 mm; stigma 2-lobed. Nutlets unknown. Fl. Jun.
+
+> * Woodlands; ca. 2100 m. Xinjiang

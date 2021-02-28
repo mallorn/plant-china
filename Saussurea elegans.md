@@ -1,0 +1,7 @@
+**120.优雅风毛菊**
+
+Saussurea elegans Ledeb., Ic. Pl. Fl. Ross 1: 19. tab. 77. 1829 et Fl. Alt. 4: 31. 1833 et Fl. Ross. 2 (2): 671. 1845; DC., Prodr. 6: 533. 1838; Kar. et Kir. in Bull. Soc. Nat. Mosc. 14 (3): 448. 1841; Lipsch., Fl. URSS 27: 423. 1962 et Gen. Saussurea 128. 1979; S. Y. Hu in Quart. Journ. Taiwan Mus. 20 (3-4): 323. 1967; G. M. Shen in Colt. Bot. Pap. Xinjiang 111. 1991. ——S. salicifolia (L.) DC. var. elegaats (Ledeb.) Trautv. in Bull. Soc. Nat. Mosc. 39 (2): 370. 1866. ——？S. elegans Ledeb. var. latsfolia Kar. et Kir. in Bull. Soc. Nat. Mosc. 15 (2): 388. 1842——S. elegans Ledeb. var. nivea Lipsch. in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS 21: 371. 1961. ——S. tenuis Ledeb., Ic. Pl. Fl. ROSS. 1: 19. tab. 78. 1829 et Fl. Alt. 4: 31. 1833; DC., Prodr. 6: 533. 1838; S. Y. Hu in Quart. Journ. Taiwan Mus. 21 (1-2): 18. 1968. ——S. amoena Kar. et Kir. in Bull. Soc. Nat. Mosc. 14 (3): 447. 1841; S. Y. Hu in Quart. Journ. Taiwan Mus. 20 (3-4): 314. 1967.
+
+多年生草本，高30-60厘米。根状茎纤维状撕裂。茎少数，有棱，通常被蛛丝状绒毛及稀疏的腺点，叶腋中常有不育的营养枝。基生叶有短或长柄，柄长1.5-6厘米，柄基鞘状扩大，叶片长圆形或长圆状卵形，长15厘米，宽1.5-3（4）厘米，羽状浅裂或几大头羽状浅裂；中部茎叶与基生叶类似，较小，有短柄或几无柄，边缘全缘或有时下部浅裂或有锯齿；最上部茎叶小，线状披针形，全部叶两面异色，上面绿色，粗糙，有短糙毛，下面灰白色，被蛛丝状绒毛。头状花序多数，排成顶生伞房花序或圆锥花序。总苞圆柱状，直径5-8毫米，总苞片5层，外面被稀疏的蛛丝毛及光亮的小腺点，外层卵形，长3毫米，宽2毫米，顶端钝或短渐尖，中层长圆状卵形，长6毫米，宽3毫米，顶端短渐尖，内层披针形，长1厘米，宽2毫米顶端有小尖头。小花红色，长2.7厘米，细管部长1.2厘米，檐部长1.5厘米。瘦果圆柱状，长5毫米，无毛，顶端有小冠。冠毛白色，2层，外层短，糙毛状，长2-2.5毫米，内层长，羽毛状，长1厘米。花果期7-8月。
+
+分布新疆（昭苏、特克斯、新源、塔城、裕民、吉木萨尔）。生于山坡、田间及草坡，海拔1470-2000米。俄罗斯西伯利亚、哈萨克斯坦、乌兹别克斯坦、吉尔吉斯斯坦也有分布。模式标本采自阿拉套。

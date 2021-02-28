@@ -1,0 +1,14 @@
+双穗飘拂草",
+32.**Fimbristylis subbispicata** Nees & Meyen Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur. 19(Suppl. 1): 75. 1843.",
+
+## Description
+Annuals. Culms grayish green, tufted, 7-60 cm tall, slender, flatly 3-angled, smooth, striate, with few leaves at base. Leaves shorter than culm; leaf blade ca. 1 mm wide, flat but sometimes involute, slightly stiff, margin apically ciliate. Involucral bracts absent or only 1, linear, 0.7-10 cm, erect, longer than inflorescence. Inflorescences reduced to 1(or 2) terminal spikelet. Spikelet ovoid, oblong-ovoid, or narrowly oblong-ovoid, 8-30 × 4-8 mm, terete, many flowered. Glumes spirally imbricate, brown with short rust-colored lines, ovate, broadly ovate, or subelliptic, 5-7 mm, membranous, abaxially with many veins, not keeled, apex obtuse and mucronate. Stamens 3; anthers linear, 2-2.5 mm. Style long, compressed, ciliate, basally slightly inflated; stigmas 2. Nutlet brown, stipitate, globose-obovoid, 1.5-1.7 mm, flatly biconvex, slightly shiny and with hexagonal reticulation. Fl. Jun-Aug, fr. Sep-Oct. 2*n* = 10.
+  "Statistics": "Slopes, valleys, marshes, streamsides, watersides, seashores, salt marshes; near sea level to 1200 m. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hebei, Henan, W Hunan, Jiangsu, Liaoning, Shaanxi, Shandong, Shanxi, Taiwan, Xisha Qundao, Zhejiang [Japan, Korea, Vietnam].
+  "Synonym": "*Fimbristylis crassipes* Palla (1909), not Boeckeler (1858); *F. gynophora* C. B. Clarke.
+**27.双穗飘拂草 图版XXXI, 5-8**
+
+Fimbristylis subbispicata Nees et Meyen in Nov. Act. Nat. Cur. XXIXSuppl. 1 (1843) 75; Benth. Fl. Hongk. (1861) 391; Kom. in Act. Hort. Petrop.XX (1901) 346; C. B. Clarke in Journ. Linn. Soc. Bot. XXXVI (1903) 245; Diels in Engl. Bot. Jahrb. XXXVI Beibl. 82 (1905) 7; Pampanini in Nuov. Giorn.Bot. Ital. XVII (1910) 107; Dunn et Tutch, Fl, Kwangt. & Hongk. in Kew Bull. Add. Ser. X (1912) 299; Kukenth. in Act. Hort. Gothob. V (1929) 34; Ohwi et Koyama in Bull. Nat. Sci. Mus. N. S. III (1956) 30 ——Fimbristylis bispicata Neesin Hook. et Arn. Bot. Beech. Voy. (1836) 224, non Nees et Meyen in Wight, Con-trib. (1834) 97——Fimbristylis gynophora C. B. Clarke in Bull. Geogr. Int. Bot. XVI (1906) 60; Dunn, Suppl. List Chin. Fl. Pl. in Journ. Linn. Soc. Bot. XXXIX (1911) 450——Fimbristylis crassipes Palla, Oesterr. Bot. Zeitschr. LIX (1909) 192; Dunn, Suppl. List Chin. Fl. Pl. in Journ. Linn. Soc. Bot. XXXIX (1911) 450.
+
+无根状茎。稈丛生，细弱，高7-60厘米，扁三稜形，灰绿色，平滑，具多条纵槽，基部具少数叶。叶短于稈，宽约1毫米，稍坚挺，平张，上端边缘具小刺，有时内捲。苞片无或只有1枚，直立，线形，长于花序，长0.7-10厘米；小穗通常1个，顶生，罕有2个，卵形、长圆状卵形或长圆状披针形，圆柱状，长8-30毫米，宽4-8毫米，具多数花；鳞片螺旋状排列，膜质，卵形、宽卵形或近于椭圆形，顶端钝，具硬短尖，长5-7毫米，棕色，具锈色短条纹，背面无龙骨状突起，具多条脉；雄蕊3，花药线形，长2-2.5毫米；花柱长而扁平，基部稍膨大，具缘毛，柱头2。小坚果圆倒卵形，扁双凸状，长1.5-1.7毫米，褐色，基部具柄，表面具六角形网纹，稍有光泽。花期6-8月，果期9-10月间。
+
+产于东北各省、河北、山东、山西、河南、江苏、浙江、福建、台湾、广东；生长于山坡、山谷空地、沼泽地、溪边、沟旁近水处，也见于海边、盐沼地，海拔300-1200米。分布于朝鲜、日本。

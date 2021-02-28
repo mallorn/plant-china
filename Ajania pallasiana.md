@@ -1,0 +1,14 @@
+亚菊",
+33.**Ajania pallasiana** (Fischer ex Besser) Poljakov Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 17: 420. 1955.",
+
+## Description
+Herbs, perennial, 30-60 cm tall. Stems erect, solitary or fascicled, shortly branched, appressed pubescent, especially on upper parts including peduncles. Basal and lower stem leaves withered at anthesis. Middle stem leaves with petiole 0.5-1 cm; leaf blade ovate, narrowly elliptic, or rhomboid, 2-4 × 1-2.5 cm, abaxially white or gray-white, appressed densely and thickly pubescent, adaxially green, glabrous, bipalmate or bipalmate-pinnately 3-5-sect; primary lateral segments 1- or 2-paired; ultimate segments linear or linear-lanceolate. Upper stem leaves similar, progressively smaller. Synflorescence a terminal compound flat-topped panicle, 3-5 cm in diam. Capitula few to many. Involucres broadly campanulate, 6-7 mm in diam.; phyllaries in 4 rows, straw-colored, glossy, abaxially glabrous, outer ones narrowly elliptic, 2.5-3 mm, apex with rounded waxy hyaline appendage, middle and inner ones long ovate, ca. 4 mm. Florets yellow, exterior with sessile glands; marginal female florets ca. 3, corolla tubular, ca. 3.5 mm, apex 5-denticulate; disk florets many, corolla tubular, ca. 3.5 mm, apex 5-lobed. Achenes ca. 1.8 mm. Fl. and fr. Aug-Sep. 2*n* = 36.
+  "Statistics": "Thickets, mountain slopes; 200-2900 m. Gansu, Heilongjiang, Jilin, Liaoning, Shaanxi [Korea, Mongolia, Russia].
+  "Synonym": "*Artemisia pallasiana* Fischer ex Besser, Tent. Abrot. 61. 1832; *Chrysanthemum pallasianum* (Fischer ex Besser) Komarov; *Pyrethrum pallasianum* (Fischer ex Besser) Maximowicz; *Tanacetum pallasianum* (Fischer ex Besser) Trautvetter &amp; C. A. Meyer.
+**27.亚菊（中国高等植物图鉴）**
+
+Ajana pallasiana (Fisch. ex Bess.) Poljak. in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS 17: 420. 1955; Tzvel. in Fl. URSS 26: 402. 1961;中国高等植物图鉴 4: 514. 1975. ——Artemisia pallasiana Fisch. ex Bess. in Nouv. Mem. Soc. Nat. Mosc. 3: 61. 1834. ——Tanacetum pallasianum (Fisch. ex B ess.) Trautv. et Mey, Fl. Ochot. 55. t. 27. 1856; Maxim. in Mem. Acad. Sci. St. Petersb. Sav. Etrang. 9: 163. 1859.——Pyrethrum pallasianum (Fisch. ex Bess.) Maxim. in Bull. Acad. Sci. St. Petersb. 17: 423. 1872 et in Mel. Biol. 8: 514. 1872.——Chrysanthemum pallasianum (Fisch. ex Bess.) Komar. in Act. Hort. Petrso p. 25: 645. 1907; Kitam. in Trans. Sapporo Nat. Hist. Soc. 16: 64. 1940: 刘慎谔等, 东北植物检索表, 396. 1959; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 39. 1966.
+
+多年生草本，高30-60厘米。茎直立，单生或少数茎成簇生，通常不分枝，被贴伏的短柔毛，但上部及花序枝及花梗上的毛较多。中部茎叶卵形，长椭圆形或菱形，长2-4厘米，宽1-2.5厘米，二回掌状或不规则二回掌式羽状3-5裂。一回全裂，二回为深裂。末回裂片披针形。茎上部叶常羽状分裂或3裂。基生叶和下部茎叶花期枯萎脱落。全部叶有柄，柄长0.5-1厘米，两面异色，上面绿色，无毛或有极稀疏的短柔毛，下面白色或灰白色，被密厚的顺向贴伏的短柔毛。头状花序多数或少数在茎顶或分枝顶端排成疏松或紧密的复伞房花序。总苞宽钟状，直径6-7毫米。总苞片4层，外层长椭圆形，长2.5-3毫米，中内层长卵形，长约4毫米。全部苞片有光泽，淡麦秆黄色，边缘无色透明宽膜质，而外层苞片顶端有半透明蜡质扩大的圆形附属物。边缘雌花约3个，花冠与两性花花冠同形，管状，长3.5毫米，顶端5齿裂。雌花与两性花花冠全部黄色，外面有腺点。瘦果长1.8毫米。花果期8-9月。
+
+产黑龙江东南部。生于中山带山坡或灌丛中。苏联及朝鲜也有分布。

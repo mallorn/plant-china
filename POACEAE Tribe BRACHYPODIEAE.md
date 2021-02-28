@@ -1,0 +1,6 @@
+短柄草族",
+13.**POACEAE Tribe BRACHYPODIEAE**",
+
+## Description
+Perennials, or rarely annual. Leaf blades linear or convolute; ligule membranous. Inflorescence a loose raceme; spikelets (rarely only 1 spikelet) alternating on opposite sides of, and lying broadside to the rachis; rachis tough; pedicels very short. Spikelets elongate, with 5–20 florets, subterete to lightly laterally compressed, rarely strongly laterally compressed, disarticulating above glumes and between florets; glumes unequal, lanceolate, shorter than lowest lemma, herbaceous to membranous, rounded on back, distinctly 3–9-veined, apex obtuse to shortly awned; lemmas lanceolate, herbaceous to firmly membranous, sometimes becoming leathery at maturity, rounded on back, 7–9-veined, awned from entire acuminate apex; awn straight; palea subequal to lemma, ciliate on keels. Lodicules ciliate. Stamens 3. Ovary with hairy apical appendage. Caryopsis tightly enclosed by lemma and palea, ventrally furrowed, apex hairy, embryo small, hilum elongate, linear. *x* = 5, 7, 9.
+  "Statistics": "One genus and ca. 16 species: temperate Asia and Europe, mountains in Africa, America from Mexico to Bolivia; five species (two endemic) in China.

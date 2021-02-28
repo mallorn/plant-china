@@ -1,0 +1,15 @@
+高山龙胆",
+69.**Gentiana algida** Pallas",
+
+## Description
+Perennials 8-20 cm tall. Rhizomes short. Stems 1 or 2, erect, simple, subglabrous. Basal leaves in 1-3 erect rosettes; petiole 1-3.5 cm; leaf blade usually folded, linear-elliptic to lanceolate, 2-5.5 cm &amp;#215; 3-5 mm, base narrowed, apex obtuse, veins 1-3. Stem leaves 1-3 pairs; petiole 5-10 mm; leaf blade narrowly elliptic to ovate-lanceolate, 1.8-2.8 cm &amp;#215; 4-8 mm, both ends obtuse, veins 1-3. Flowers solitary, rarely in terminal 2 or 3(-8)-flowered cymes, mostly sessile or subsessile, only basal axillary flowers occasionally pedicellate. Calyx obconic to campanulate, 2-2.2 cm, tube entire or slightly split on 1 side; lobes erect, ovate to triangular, 5-6 mm, apex obtuse. Corolla pale yellow to pale yellow-green, with blue stripes, sometimes with blue spots in limbs, tubular-campanulate to funnelform, 4-5 cm; lobes ovate to triangular, 5-6 mm, apex obtuse; plicae obliquely truncate, margin entire or indistinctly denticulate. Stamens inserted at middle of corolla tube; filaments 1.3-1.6 mm; anthers narrowly ellipsoid, 2.5-3.2 mm. Style 4-6 mm; stigma lobes linear. Capsules ovoid-ellipsoid, 2-3 cm; gynophore to 4.5 cm. Seeds light brown, broadly ellipsoid to subglobose, 1.4-1.6 mm. Fl. and fr. Jul-Sep.
+
+> Grassy hillsides, stony hillsides, alpine meadows; 1200-4200 m. Xinjiang, Xizang [Bhutan, Japan, Kazakhstan, Kyrgyzstan, Korea, Mongolia, E Russia, Sikkim; North America].
+  "Synonym": "&lt;I&gt;Gentiana algida&lt;/I&gt; var. &lt;I&gt;sibirica&lt;/I&gt; Kusnezow; &lt;I&gt;G&lt;/I&gt;. &lt;I&gt;frigida&lt;/I&gt; Haenke var. &lt;I&gt;algida&lt;/I&gt; (Pallas) Ledebour; &lt;I&gt;G&lt;/I&gt;. &lt;I&gt;romanzovii&lt;/I&gt; Ledebour ex Bunge.
+**61. 高山龙胆（东北植物检索表）苦龙胆（中国植物图鉴），白花龙胆**
+
+Gentiana algida Pall. Fl. Ross. 1(2): 107. t. 95. 1788: Marq. in Journ. Linn. Soc. Bot. 48: 204. 1929: D. Wilkie, Gentians 28, f. 15. 1936: H. Smith in Bot. Not. 297. 1938; Kitag. in Rep. Inst. Sci. Res. Manch. 3. Append. 1: 358. 1939: Grossh. in Kom. Fl. URSS 18: 559: 1952; 东北植物检索表285. 图版92, 图2. 1959; Семнотр. вПовлов, ФЛ Казах. 7: 100. t. ll, f. 7. 1964;中国高等植物图鉴3: 390. 图4734. 1974, excl. spec. Kansu, Sichuan; Ohwi, Fl. Jap. 1099. 1978: Makino, New Ill. Fl. Jap. 494. 1979; 李昌福, 大韩植物图鉴626. 1979. ——Gentianodes algida (Pall.) A. et D. Love in Bot. Not. 125: 256. 1972.
+
+多年生草本，高8-20厘米，基部被黑褐色枯老膜质叶鞘包围。根茎短缩，直立或斜伸，具多数略肉质的须根。枝2-4个丛生，其中有1-3个营养枝和1个花枝；花枝直立，黄绿色，近圆形，中空，光滑。叶大部分基生，常对折，线状椭圆形和线状披针形，长2-5.5厘米，宽0.3-0.5厘米，先端钝，基部渐狭，叶脉1-3条，在两面均明显，并在下面稍突起，叶柄膜质，长1-3.5厘米；茎生叶1-3对，叶片狭椭圆形或椭圆状披针形，长1.8-2.8厘米，宽0.4-0.8厘米，两端钝，叶脉1-3条，在两面均明显，并在下面稍突起，叶柄短，长至0.6厘米，愈向茎上部叶愈小，柄愈短。花常1-3朵，稀至5朵，顶生；无花梗或具短花梗；花萼钟形或倒锥形，长2-2.2厘米，萼筒膜质，不开裂或一侧开裂，萼齿不整齐，线状披针形或狭矩圆形，长5-8毫米，先端钝，弯缺狭窄，截形；花冠黄白色，具多数深蓝色斑点，尤以冠檐部为多，筒状钟形或漏斗形，长4-5厘米，裂片三角形或卵状三角形，长5-6毫米，先端钝，全缘，褶偏斜，截形，全缘或边缘有不明显细齿；雄蕊着生于冠筒中下部，整齐，花丝线状钻形，长13-16毫米，花药狭矩圆形，长2.5-3.2毫米；子房线状披针形，长13-15毫米，两端渐狭，柄长10-15毫米，花柱细，连柱头长4-6毫米，柱头2裂，裂片外反，线形。蒴果内藏或外露，椭圆状披针形，长2-3厘米，先端急尖，基部钝，柄细长，长至4.5厘米；种子黄褐色，有光泽，宽矩圆形或近圆形，长1.4-1.6毫米，表面具海绵状网隙。染色体2n=24，26．花果期7-9月。
+
+产新疆、吉林（长白山）。生于山坡草地、河滩草地、灌丛中、林下、高山冻原，海拔1200-5300米。苏联（模式标本产地）、日本也有分布。

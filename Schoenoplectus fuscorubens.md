@@ -1,0 +1,7 @@
+褐红鳞水葱",
+16.**Schoenoplectus fuscorubens** (T. Koyama) T. Koyama Stearn & L. H. J. Williams in H. Hara, Enum. Fl. Pl. Nepal. 1: 118. 1978.",
+
+## Description
+Roots many, fibrous. Rhizomes elongated, bearing culms in a well-spaced row forming a single rank. Culms not tufted, 15-70 cm tall, 1-4 mm thick, slightly stiff, terete or obtusely several angled, smooth, clothed at base with 2 or 3 bladeless leaf sheaths. Leaf sheaths pale green, 5-15 cm, obliquely truncate at mucronate mouth. Involucral bract 1, pale green, looking like a continuation of culm, 3-15 cm, perpendicular to it. Inflorescence a pseudolateral head with 2-4 spikelets. Spikelets brown to pale brown, ovoid to oblong-ovoid, 3-6 × ca. 3 mm, several flowered. Glumes brown or brown with brown lines, broadly ovate to ovate, 3-3.2 × 1.8-2 mm, membranous, marked with dark purplish brown on margins (and sometimes on sides as well), apex mucronate. Perianth bristles 5 or 6, equaling or shorter than nutlet, retrorsely scabrous except at base. Stamens 3; anthers oblong; connective apex evident beyond anthers. Style 2-2.2 mm; stigmas 2 or 3. Nutlet dark brown at maturity, broadly obovoid to obovoid, ca. 2 mm, plano-convex or 3-sided, obscurely transversely wrinkled, shiny. Fl. and fr. Aug-Nov.
+  "Statistics": "Damp meadows on mountains; 2000-2700 m. Guizhou, Xizang [Bhutan, Nepal].
+  "Synonym": "*Scirpus fuscorubens* T. Koyama, Willdenowia 5: 491. 1969.

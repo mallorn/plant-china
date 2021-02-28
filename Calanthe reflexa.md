@@ -1,0 +1,14 @@
+反瓣虾脊兰",
+12.**Calanthe reflexa** Maximowicz Bull. Acad. Imp. Sci. Saint-Pétersbourg. 18: 68. 1873.",
+
+## Description
+Plants 20-45 cm tall. Rhizome inconspicuous. Pseudobulbs short, ca. 1 cm in diam., sometimes inconspicuous. Leaves 4 or 5, basal, well developed at anthesis, not deciduous; blade elliptic, 15-20 × 3-6.5 cm, apex acute; petiole-like base 2-4 cm. Scapes 1 or 2, erect, 20-40 cm, puberulent; rachis 5-20 cm, laxly 10-18-flowered; floral bracts persistent, narrowly lanceolate, 18-24 mm, glabrous, apex acuminate. Flowers pale purplish pink; pedicel and ovary ca. 20 mm, glabrous. Sepals similar, strongly reflexed, ovate-lanceolate, 15-20 × ca. 5 mm, abaxially puberulent, 5-veined, apex cuspidate-acute; lateral sepals oblique. Petals reflexed, linear, 15-18 × 1-3 mm, 1-3-veined, apex acuminate; lip adnate to base of column wings, 9-11 × 7-10 mm, spurless, 3-lobed; lateral lobes oblong-falcate, ca. 8 mm across their apices, margin entire, apex obtuse; mid-lobe subelliptic or obovate-cuneate, ca. 8 × 8 mm, apical margin irregularly dentate, apex acute; disk without lamellae or calli. Column ca. 6 mm, glabrous; rostellum 3-lobed; lobes narrowly falcate, mid-lobe shorter and sharply tooth-shaped. Fl. May-Jun. 2*n* = 40, 42.
+  "Statistics": "Evergreen broad-leaved forests, mossy rocks on streamsides or along valleys; 600-2500 m. Anhui, N Guangdong, N Guangxi, Guizhou, Hubei, Hunan, Jiangxi, W Sichuan, Taiwan, NE and SW Yunnan, Zhejiang [Japan, Korea].
+  "Synonym": "*Alismorkis reflexa* (Maximowicz) Kuntze; *Calanthe puberula* Lindley var. *reflexa* (Maximowicz) M. Hiroe; *C. similis *Schlechter; *Paracalanthe reflexa *(Maximowicz) Kud?.
+**12.反瓣虾脊兰（中国高等植物图鉴）**
+
+Calanthe reflexa (Kuntze) Maxim. in Bull. Acad. Imp. Sci. St. Petersb. 18: 68. 1873; Hayata, Icon. Pl. Formos. 4: 71. fig. 34. 1914; Summerh. in Curtis’s Bot. Mag. 164: t. 9648. 1943; S. Y. Hu, in Quart. J. Taiwan Mus. 25 (3, 4): 204. 1972; 台湾兰科植物1: 92-93 (图). 1975; 中国高等植物图鉴5: 724.图8277. 1976; 台湾植物志5: 913. 1978; 浙江植物志7: 529, 图7-708. 1993; 台湾兰科植物彩色图志1: 192.图28. 1996. ——Alismorchis reflexa Kuntze, Rev. Gen. Pl. 2: 650. 1819. ——Calanthe similis Schltr. in Fedde Repert. Sp. Nov. Beih. 4: 68. 1919. ——Paracalanthe reflexa (Maxim.) Kudo in J. Soc. Trop. Agr. 2: 235. 1930.
+
+假鳞茎粗短，粗约1厘米，或有时不明显。假茎长2-3厘米，具1-2枚鞘和4-5枚叶。叶椭圆形，通常长15-20厘米，宽3-6.5厘米，先端锐尖，基部收狭为长2-4厘米的柄，两面无毛，花时全体展开。花葶1-2个，直立，远高出叶层之外，被短毛；总状花序长5-20厘米，疏生许多花；花苞片狭披针形，长1.8-2.4厘米，先端渐尖，无毛；花梗纤细，连同棒状的子房长约2厘米，无毛；花粉红色，开放后萼片和花瓣反折并与子房平行；中萼片卵状披针形，长15-20毫米，宽约5毫米，先端呈尾状急尖，具5条脉，背面被毛；侧萼片斜卵状披针形，与中萼片等大，先端尾状急尖，具5条脉，背面被毛；花瓣线形，短于或约等长于萼片，宽1-3毫米，先端渐尖，具1-3条脉，无毛；唇瓣基部与蕊柱中部以下的翅合生，3裂，无距；侧裂片长圆状镰刀形，两侧裂片先端之间相距约8毫米，与中裂片近等宽，全缘，先端钝；中裂片近椭圆形或倒卵状楔形，先端锐尖，前端边缘具不整齐的齿；蕊柱长约6毫米，无毛，在上端两侧各具1枚长约0.7毫米的齿突，有时每边具2枚重迭的齿突；齿突较长，近长方形；蕊喙3裂；裂片狭镰刀状，中裂片较短而呈尖牙状。花期5-6月。
+
+产安徽（黄山）、浙江（临安、文成）、江西（庐山）、台湾（宜兰、桃园、南投、高雄）、湖北、湖南（永顺、宜章）、广东北部（乳源、乐昌）、广西北部（融水）、四川（都江堰市、天全、峨眉山、雷波、峨边、马边）、贵州（榕江、梵净山）和云南东部（东川）。生于海拔600-2500米的常绿阔叶林下、山谷溪边或生有苔藓的湿石上。日本和朝鲜半岛南部也有。模式标本产于日本。

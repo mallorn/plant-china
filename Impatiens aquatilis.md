@@ -1,0 +1,15 @@
+水凤仙花",
+60.**Impatiens aquatilis** J. D. Hooker",
+
+## Description
+Plants annual, 30-50 cm tall, glabrous. Stem erect, green or purple-tinged, long naked in lower part, nodes swollen with few adventitious roots, sparsely glandular hairy in upper part, simple or sometimes shortly branched from lower part. Leaves alternate, crowded at upper part of stem, shortly petiolate or subsessile; petiole 5-15 mm, with 2 stipitate glands at base; leaf blade pale green or becoming purple when dry abaxially, green adaxially, lanceolate or ovate-lanceolate, or ovate-oblong, 5-12 × 1.5-2.5 cm, rigidly papery, setose between teeth, lateral veins 6-8 pairs, base attenuate into petiole, margin crenate-serrate or serrulate, teeth mucronulate, apex acuminate. Inflorescences in upper leaf axils, 6-10-flowered; peduncles erect, over subtending leaves, 7-12 cm, stout. Pedicels 1-1.5 cm, slightly elongate at fruiting, bracteate at base; bracts caducous, ovate-oblong, 5-6 × 2-3 mm, membranous, apex acuminate. Flowers pink-purple, large, 3.5-4 cm deep. Lateral sepals 2, obliquely ovate or ovate, 8-10 mm, apex rounded, cuspidate. Lower sepal incurved, shortly saccate, 3-3.5 cm deep, narrowed into an incurved spur ca. 2 cm; mouth vertical or oblique, 1-1.2 cm wide, tip rostellate. Upper petal orbicular or oblate, 1-1.5 cm in diam., apex mucronulate, abaxial midvein not thickened; lateral united petals not clawed, 2-2.5 cm; basal lobes orbicular; distal lobes ca. 2 × as long as basal lobes, below middle enlarged, downward becoming narrow; auricle small. Filaments linear, 2-3 mm; anthers obtuse. Ovary erect, fusiform, ca. 3 mm. Capsule linear, 1.5-2 cm. Seeds few, brown, oblong, 2-3 mm, tuberculate. Fl. Aug-Sep, fr. Oct.
+
+> ●  Lakesides, riversides, shaded moist places; 1500-3000 m. Yunnan.
+  "Synonym": "*Impatiens tongchouenensis* H. Léveillé.
+**55．水凤仙花（植物分类学报）**
+
+Impatiens aquatilis Hook. f. in Nouv. Arch. Mus. Paris Ser. 4, 10: 247. 1908; Dunn. in Journ. Linn. Bot. Bot. 39: 458. 1911; Diels in Notes Roy. Bot. Gard. Edinb. 6: 184. 1912; W. W. Smith in Notes Roy Bot. Gard. Edinb. 8: 1915; 1915; Laenener. in Notes Roy. Bot. Gard. Edinb. 27: 266. 1967; Y. L. Chen in Acta Phytotax. Sin. 16 (2): 39. 1978 in Clavi; 云南种子植物名录上册: 300. 1984. ——I. gagnepainii Hook. f. ex Levl. in Levl., Cat. Pl. Yunnan. 120. f. 25. 1916. nom. nud.——I. tongchouenensis Levl. Cat. Pl. Yunnan 122. 1916.
+
+一年生草本，高30-50厘米，全株无毛。茎直立，绿色或带紫色，下部长裸露，节肿大，具少数不定根，上部具疏腺毛。不分枝或有时下部长出短分枝；叶互生，具短柄，在上部较密集；叶片坚硬，披针形或卵状披针形，或卵状长圆形，长5-12厘米，宽1.5-2.5厘米，顶端渐尖，基部狭成短叶柄或近无柄，边缘具圆齿状锯齿或细锯齿，齿端具小尖，齿间有刚毛．侧脉6-8对，上面绿色；下面浅绿色或干时变紫色；叶柄长5-15毫米，基部具1对具柄的腺体。总花梗生于上部叶腋，长于叶，长7-12厘米，直立，粗壮，具6-10花；花梗长10-15毫米，结果时略伸长，基部具苞片，苞片膜质，卵状长圆形，长5-6毫米，宽2-3毫米，渐尖，脱落。花较大，粉紫色，长3.5-4厘米；侧生萼片2，斜卵形或卵圆形，长8-10毫米，顶端具长突尖，具多数脉；旗瓣圆形或扁球形，直径10-15毫米，中肋背面细，具突尖；翼瓣无柄，长20-25毫米，中部具关节，基生裂片圆形，上部裂片长于基裂片的2倍；中下部膨大后变窄，背部具圆小耳。唇瓣檐部内弯，短囊状，长3-3.5厘米，口部平展，或斜上，宽10-12毫米，先端喙尖，基部狭成内弯长20毫米顶端小棒状的距。花丝线形，长2-3毫米；花药顶端钝。子房纺锤状，直立，长3毫米，渐尖。蒴果线形，长1.5-2厘米，顶端急尖。种子少数，长圆形，长2-3毫米，褐色，具粗瘤状突起。花期8-9月，果期10月。
+
+产云南（蒙自、思茅、冕宁、砚山、屏边、嵩明、富宁、昆明、双柏、丽江、东川）。生于湖边或溪边阴潮处，海拔1500-3000米。模式标本采自蒙自。

@@ -1,0 +1,16 @@
+凹叶红豆",
+20.**Ormosia emarginata** (Hooker & Arnott) Bentham Hooker’s J. Bot. Kew Gard. Misc. 4: 77. 1852.",
+
+## Description
+Trees evergreen, small, 6(-12) m, 8(-30) cm d.b.h., some-times shrubs; bark of young trees greenish, becoming grayish green. Branchlets green, smooth, glabrous, lenticels inconspic-uous; buds rusty brown pubescent. Leaves imparipinnate, (6.5-)11-20.5 cm; petiole (2.3-)3.4-4.8 cm; rachis (2.3-)4-8.6 cm, not prolonged or prolonged 1.2-2 cm below terminal leaflet, young petiole, rachis, and leaves abaxially sparsely appressed yellowish brown pilose, becoming glabrescent, both petiole and rachis grooved; leaflets (3-)5-7; petiolule 3-5 mm, stout, grooved, wrinkled; blades obovate, obovate-elliptic, long-obovate, or oblong, (1.4-)3.7-7 × (0.9-)1.6-3.2 cm, thickly leathery, base cuneate or rounded, apex obtuse, emarginate; lateral veins 7 or 8 pairs, fine, angled 45° with midvein, veinlets fine, raised, more conspicuous abaxially. Panicles terminal, 10-11.5 cm, few flowered. Flowers fragrant; pedicel 3-5 mm, glabrous. Calyx broadly campanulate, flared out and appearing flat-faced; teeth isometric, margin and inner surface gray to-mentose. Corolla white or pink; standard semiorbicular, ca. 7 × 8 mm, apex rounded, claw ca. 2 mm; wings oblong, base au-riculate, claw 2.5-3 mm; keel oblong, somewhat curved, slightly auriculate, claw ca. 2.5 mm. Stamens unequal. Ovary glabrous. Legumes dark brown or black, compressed, rhombic or oblong, 3-5.5 × 1.7-2.4 cm, apiculate, stipe 2-3 mm; valves woody, septate. Seeds 1-4, red-brown, suborbicular or elliptic, slightly compressed, 7-10 × ca. 7 mm; hilum whitish yellow, small, ca. 2 mm. Fl. May-Jun, fr. Aug-Oct.
+  "Statistics": "Mountain slopes, mixed valley forests. Guangdong, S Guangxi (Dongxing), Hainan [Vietnam].
+  "Synonym": "*Layia emarginata* Hooker &amp; Arnott, Bot. Beechey Voy. 183. 1833; *Fedorovia emarginata* (Hooker &amp; Arnott) Yakovlev; *Macrotropis emarginata* (Hooker &amp; Arnott) Walpers.
+**19.凹叶红豆（中山大学学报）图版11: 10-17**
+
+Ormosia emarginata (Hook. et Arn.) Benth. in Journ. Bot. Kew Misc. 4: 77. 1852, et Fl. Hongk. 96. 1861; Chun in Sci. Journ. Coll. Sci. Sunyatsen Univ.2: 48. 1930; Merr. in Lingnan Sci. Journ. 14: 12. 1935;陈嵘, 中国树木分类学531. t. 426. 1937; Merr. et L. Chen in Sargentia 3: 107. 1943;中国主要植物图说·豆科118.图105. 1955;海南植物志2: 241. 1965.——Layia emarginata Hook. et Arn. Bot. Beech. Voy. 183. t. 38. 1833.——Macrotropis emarginata Walp. Repert. 2: 903. 1843. ——Fedorovia emarginata (Hook. et Arn.) Yakovl. in Бот. Журн. 56: 656. 1971.
+
+常绿小乔木，通常高约6米，稀可达12米，胸径8厘米，稀达30厘米，有时呈灌木状；幼树树皮绿色，渐变为灰绿色。小枝绿色，平滑无毛，无明显皮孔；芽有锈褐色毛。奇数羽状复叶，长(6.5) 11-20.5厘米，叶柄长(2.3) 3.4-4.8厘米，叶轴长(2.3) 48.6厘米，叶轴在最上部一对小叶处延长6-15毫米或不延长生顶小叶，幼时叶柄、叶轴及叶下面中脉疏被黄褐色柔毛，旋即脱落无毛，叶柄及叶轴有沟槽；小叶（1-）2-3对，厚革质，倒卵形、倒卵状椭圆形、长倒卵形或长椭圆形，长(1.4-)3.7-7厘米，宽(0.9) 1.6-3.2厘米，先端钝圆而有凹缺，基部圆或楔形，侧脉7-8对，纤细，与中脉成45°角，细脉纤细，两面均隆起，下面较明显；小叶柄长3-5毫米，粗短，有凹槽及皱纹；圆锥花序顶生，长约11厘米；花疏，有香气；花梗长3-5毫米，细柔，无毛；花萼5裂达中部，萼齿等大，边缘及内面有灰色茸毛；花冠白色或粉红色，旗瓣半圆形，长约7毫米，宽约8毫米，先端圆，基部柄长2毫米，翼瓣篦形，有长柄，基部耳状，龙骨瓣为不整齐的长圆形，基部有纤细的柄，一侧微呈耳形；雄蕊10，不等长，3长7短；子房无毛。荚果扁平，黑褐色或黑色，菱形或长圆形，长3-5.5厘米，宽1.7-2.4厘米，两端尖，果颈长2-3毫米，果瓣木质，内面有隔膜，有种子1-4粒；种子近圆形或椭圆形，微扁，长7-10毫米，宽7毫米，种皮鲜红色，种脐小，长约2毫米，有黄白色残留珠柄。花期5-6月。
+
+产广东、海南、广西（东兴）。生于山坡、山谷混交林内。越南也有分布。
+
+木材优良，可旋切单板贴面。为海南三类珍贵用材。

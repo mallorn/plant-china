@@ -1,0 +1,14 @@
+窄叶异萼花",
+1.**Disepalum petelotii** (Merrill) D. M. Johnson Brittonia. 41: 364. 1989.",
+
+## Description
+Shrubs or small trees, 2-7 m tall. Branches dark gray, longitudinally wrinkled, puberulent when young, glabrescent. Petiole 5-7 mm, appressed pubescent; leaf blade narrowly elliptic, oblong, oblong-lanceolate, or oblanceolate, 8-20 × 2-4.5 cm, membranous and translucent punctate when young, later papery, abaxially golden to rust-colored sericeous but glabrescent or with scattered appressed hairs with age, adaxially shiny green and glabrous, secondary veins 7-13 on each side of midvein, arcuately ascending, and slightly prominent on both surfaces, base cuneate to cuneate and decurrent onto petiole, apex acuminate and sometimes with a 1-2 cm acumen. Inflorescences terminal or sometimes leaf-opposed, 1-flowered. Flowers ca. 3 cm in diam. Pedicel 1-1.7 cm, ferruginous pubescent. Sepals ovate-triangular to subcordate, 1-1.2 × 0.8-1.2 cm, outside appressed pubescent, inside glabrous. Petals greenish to yellow with a purple base, oblong to rarely oblanceolate, 2-2.5 × 0.6-1.2 cm, subequal, outside sparsely puberulent or glabrous, inside glabrous, apex obtuse to acute. Stamens oblong, 2.2-2.7 mm; connectives apically broadly truncate, puberulent. Carpels 18-35, villous; ovules 1 or 2 per carpel, basal. Fruiting pedicel 2-5 cm; carpophore ± as long as monocarps, slender; monocarps to 20, dark purple when ripe, ellipsoid to cylindric-ellipsoid, 1.2-1.5 × 0.8-1 cm, ferruginous pubescent when young, glabrescent. Seeds 1 or 2, flat-ellipsoid, 10-13 × 6-8 mm. Fl. Mar-Nov, fr. Jul-Dec.
+  "Statistics": "Forested slopes, often along moist valleys; 100-2000 m. Guangxi, S Guizhou, Hainan, SE Yunnan [N Vietnam].
+  "Synonym": "*Polyalthia petelotii* Merrill, Univ. Calif. Publ. Bot. 13: 131. 1926; *Enicosanthellum petelotii* (Merrill) Ban; *E. plagioneurum* (Diels) Ban var. *oblanceolatum* (W. T. Wang) Ban; *Uvaria oblanceolata* W. T. Wang.
+**9．云桂暗罗（植物分类学报）　图版43**
+
+Polyalthia petelotii Merr. in Univ. Calif, Publ. Bot. 13: 131. 1926; Ast in Humb. Suppl. Fl. Gen. Indo-Chine 1: 78. 1938; 李秉滔, 植物分类学报14 (1): 109. 1976.——Uvaria oblanceolata W. T. Wang,植物分类学报6: 197. 1957.——Enicosanthellum petelotii (Merr.) Ban in Bot. Journ. URSS. 60 (6): 812, fig. 2. 1975.
+
+灌木或小乔木，高达5米；幼枝被紧贴微毛，老枝无毛，有纵纹。叶幼时膜质，老时变纸质，长圆形、长圆状倒披针形或倒披针形，长8-19.5厘米，宽2-4.5厘米，顶端渐尖，基部渐狭，叶面亮绿色，无毛，叶背淡绿色，被稀疏紧贴柔毛，老渐无毛；侧脉每边7-13条，弯拱上升，未达叶缘联结，两面稍凸起；叶柄长约5毫米，被紧贴柔毛，老渐无毛。花黄色，下部紫红色，直径3厘米，单朵生于枝顶端，有时与叶对生；花梗长1-1.5厘米，被锈色紧贴短柔毛；萼片卵状三角形或近心形，长1-1.2厘米，宽7.5-11.5毫米，外面被锈色短柔毛，内面无毛；内外轮花瓣几相等，椭圆形、长圆形或卵状椭圆形，长约2厘米，宽约1厘米，顶端钝，外面被锈色短柔毛，内面无毛；雄蕊长圆形，基部略狭，药隔顶端截形；心皮约20个，长圆形，密被长柔毛，每心皮有胚珠1颗，有时2颗。果椭圆状卵圆形或长圆形，长1.2-1.5厘米，直径8-10毫米，初时绿色，成熟时暗紫色，被紧贴锈色短柔毛，老渐无毛，内有种子1个，有时2颗；果柄长1-1.5厘米，被锈色紧贴短柔毛，老渐无毛；总果柄长2-4厘米，被疏短柔毛至无毛。花期5-11月，果期7月-翌年3月。
+
+产于广西和云南。生于海拔800-1 900米山地密林中或疏林潮湿处。越南也有。本种模式标本采自越南河内。

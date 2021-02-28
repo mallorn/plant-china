@@ -1,0 +1,7 @@
+川西马铃苣苔",
+7.**Oreocharis dentata** A. L. Weitzman & L. E. Skog",
+
+## Description
+Petiole to 3.7 cm, epidermis green, densely red-brown long villous; leaf blade broadly ovate to nearly rhombic, 2.5-6 X 2-4.8 cm, adaxially densely whitish pubescent to villous, abaxially red-brown villous to woolly, hairs longer along veins, base sometimes slightly oblique, cuneate to cordate, margin coarsely dentate to coarsely crenate or serrate, sometimes also denticulate, apex acute, rarely rounded; lateral veins 5 or 6 on each side of midrib, distinct. Cymes 1-4-flowered; peduncle 4-9 cm, epidermis reddish brown, translucent to golden villous; bracts 2, narrowly triangular, 3-5 X ca. 1 mm, villous to densely pubescent, margin entire. Pedicel 1.1-2 cm. Calyx segments narrowly triangular, 4-6 mm, margin entire. Corolla (dry) orange, with red lobes, 1.9-2.4 cm, outside densely glandular pubescent, especially on lobes; tube cylindric, narrowing slightly toward throat, 1.5-1.8 cm X 4-7 mm; limb 2-lipped; adaxial lip shallowly 2-lobed, lobes 3-4 X ca. 2 mm; abaxial lip central lobe ca. 7.5 X 2 mm, lateral lobes ca. 6 X 2.5 mm. Stamens adnate to corolla 1-1.2 cm above base, 7-8 mm; filaments slender, glabrous or pubescent; anthers broadly oblong, 2-loculed, dehiscing longitudinally, connective glabrous or pubescent; staminode 1, ca. 1.2 mm. Disc ca. 2 mm, 5-lobed, undulate. Pistil ca. 1.3 cm, glabrous. Stigma 1, disc-shaped. Capsule 2.8-4 cm. Fl. Sep.
+
+> * W Sichuan.

@@ -1,0 +1,14 @@
+高原蛇根草",
+66.**Ophiorrhiza succirubra** King ex J. D. Hooker Fl. Brit. India. 3: 82. 1880.",
+
+## Description
+Herbs to subshrubs, weak to erect, to 60[-75] cm tall, usually drying partly to wholly red; stems glabrous or with pilosulous lines. Leaves in subequal pairs; petiole 0.5-2 cm, glabrous or subglabrous; blade drying thinly papery, lanceolate-elliptic, ovate-elliptic, or elliptic-oblong, 5-11(-20) × 2.5-4(-8) cm, glabrous on both surfaces or sparsely pubescent adaxially, base cuneate to obtuse, margins entire or undulate, apex acuminate to caudate; secondary veins 7-10 pairs; stipules caducous, not seen. Inflorescence congested-cymose, many flowered, often pendulous later becoming erect, glabrescent or axes sometimes puberulent to pilosulous in lines; peduncle 1-1.5[-3] cm; axes short; bracts linear-lanceolate, 6-9 mm. Flowers perhaps homostylous, on pedicels 1-1.5 mm. Calyx glabrous to puberulent or densely pilosulous; hypanthium submitriform, ca. 1.5 mm, 5(or 10)-ribbed; lobes ovate-triangular to lanceolate-triangular, usually slightly unequal, 1.4-1.8 mm, with 1 gland in each sinus. Corolla pink or white, tubular-funnelform and swollen at base, outside glabrous; tube 7-7.5[-10] mm, inside glabrous or villous; lobes ovate, ca. 2.5 mm, dorsally narrowly keeled. Capsules mitriform, [2-3.5 × 6-9 mm], glabrous to puberulent or pilosulous. Fl. Jul-Oct.
+  "Reference": "This species has apparently been distinguished based primarily on its distinctive purple-red drying color; it is characterized further in the key to species here.This species has apparently been distinguished based primarily on its distinctive purple-red drying color; it is characterized further in the key to species here.
+  "Statistics": "Broad-leaved forests; ca. 2000 m or more. Guizhou, Xizang (Mêdog), Yunnan [Bhutan, NE India, Myanmar, Nepal].
+**37. 高原蛇根草（植物研究）**
+
+Ophiorrhiza succirubra King ex Hook. f. Fl. Brit. Ind. 3: 82. 1880; Hand. -Mazz. Symb. Sin. 7: 1016. 1936; Kar et Panigrahi in Bull. Bot. Surv. Ind. 5: (3/4): 234. 1963; Hara et Gould in Hara et al. Enum. Flow. Pl, Nepal 2: 206. 1979; Lo in Bull. Bot. Res. 10 (2): 43. 1990; 西藏植物志4: 437. 1985; 横断山区维管植物, 下册: 1889. 1994.
+
+多年生草本，高20-60厘米，枝、叶和花序通常干后变红色；茎基部匍匐生根，上部近直立，近无毛或有一列短柔毛。叶薄纸质，披针状长椭圆形至卵状椭圆形，长5-11厘米，有时可达15厘米，宽2.5-4厘米，有时达5.5厘米，顶端渐尖或尾状渐尖，基部楔形，全缘或不规则浅波状，两面无毛或上面疏生短柔毛，有光泽；中脉和7-10对侧脉均阔而扁平，在下面微凸起，侧脉弧形，末端不达叶缘即消失或联成隐约可见的边脉；叶柄长0.5-2厘米，通常近无毛；托叶脱落未见。花序顶生，紧密多花，初时常俯垂，后渐直立，总梗稍粗壮，长1-1.5厘米，分枝短，斜升，均被一列很密的短柔毛；花梗长1-1.5毫米，密被短柔毛；小苞片线状披针形，长6-9毫米，短尖或稍钝，有稀疏羽状脉，无毛，萼管近僧帽状，有5条直棱（有时可见10条），长约1.5毫米，宽约3.5毫米，密被短柔毛，裂片5，阔卵状三角形或披针状三角形，常稍不等大，长1.4-1.8毫米，稍钝头，无毛，裂片间有一腺体；花冠粉红色或冠管白色，近管状，冠管长7-7.5毫米，基部膨胀，向上渐狭，至喉部渐扩大，里面被长柔毛，裂片5，阔卵形，长约2.5毫米，背面有狭窄龙骨；雄蕊5，生冠管之中部，花丝短，花药线形，长约2.5毫米；花柱伸至冠管中部，柱头线形，长约2.5毫米，被花药围绕。蒴果被短柔毛。花期7-10月。
+
+产于云南贡山、福贡（上帕），西藏墨脱和贵州；生于海拔2000米以上的阔叶林中。国外分布于尼泊尔和锡金。

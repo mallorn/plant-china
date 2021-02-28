@@ -1,0 +1,17 @@
+东北老鹳草",
+29.**Geranium erianthum** Candolle",
+
+> Leaves of *Geranium erianthum* permit a quick identification from *G. platyanthum* because they are more deeply divided. The main and the second sinus are deeper, and the middle segment is narrower at the base. Additionally, the sepal mucro is longer in *G. erianthum*, and trichomes of the stem and of the staminal filament are shorter. Usually *G. erianthum* has glandular trichomes restricted to the inflorescence.
+
+## Description
+Perennials. Rootstock ± horizontal, 5-10 mm in diam., not tuberculate, with thickened roots along rootstock. Stem 10-50 cm tall, erect, not rooting at nodes, with 0.2-0.6 mm retrorse appressed nonglandular trichomes. Stipules lanceolate, distinct. Leaves 1(or 2) alternate but opposite at inflorescence; petiole with 0.2-0.5 mm retrorse appressed nonglandular trichomes; leaf blade 3-11.7 cm, palmately cleft, ratio of main sinus/middle segment length = (0.8-)0.82-0.91, pilose with appressed nonglandular trichomes; segments 7, rhombic, 4.4-8.7(-16.9) mm wide at base, 10-34-lobed in distal half, ratio of second sinus/middle segment length = 0.18-0.35. Cymules solitary or in aggregates at apex of each branch, 2-flowered; peduncle (0-)1.1-5.5 cm. Pedicel 0.3-1.8 cm, with 0.2-0.6 mm patent to retrorse nonglandular trichomes and usually 0.3-2.5 mm patent glandular trichomes; bracteoles linear-lanceolate. Sepals 0.6-1 cm, mucro 0.9-2.7 mm, ratio of mucro/sepal length = 0.14-0.32, outside with 0.2-0.8 mm antrorse appressed nonglandular trichomes and 0.3-2 mm patent glandular trichomes, inside glabrous. Petals purplish, 1.2-1.8(-2) cm, erect to patent, outside basally with trichomes, inside glabrous, margin basally ciliate, apex rounded. Staminal filaments purplish, lanceolate, abaxially pilose and proximal half ciliate, trichomes 1.5-3.2 mm; anthers bluish, 2.1-3 mm. Nectaries 5, hemispheric, glabrous. Stigma purplish. Fruit 2.7-3.7 cm, erect when immature; mericarps smooth, with a basal callus, with 0.1-1.1 mm ± patent nonglandular trichomes and 0.8-1.4 mm patent glandular trichomes; rostrum 2.2-3 cm, with a 5-7.4 mm narrowed apex; stigmatic remains 1.6-2.3 mm. Seeds 2-2.9 mm. Fl. Jul-Aug, fr. Aug-Sep. 2*n* = 28.
+
+> Forests, scrub, meadows. Heilongjiang, E Jilin [Japan, Russia (Far East, Siberia); North America].
+  "Synonym": "*Geranium eriostemon* Fischer ex Candolle var. *orientale* Maximowicz; *G. gorbizense* Aedo &amp; Muñoz Garmendia; *G. orientale* (Maximowicz) Freyn (1902), not Miller (1768).
+**33.东北老鹳草 大花老鹳草（东北植物检索表）图版17: 1-5**
+
+Geranium erianthum DC. Prodr. 1: 641. 1824; Kom. Fl. Mansh. 2 (2): 656. 1904; R. Knuth in Engl. Pflanzenr. Heft 53. 4 (129): 122. 1912; Bobr. in Schischk. et Bobr. Fl. URSS 14: 23. 1949; Ohwi, Fl. Jap. 103. 1956; 东北草本植物志 6: 9. 1977; Kitag. Lineam. Fl. Mansh. 417. 1979.——G. orientale Freyn in Oesterr. Bot. zeischr. 52: 18. 1902; Kom. Fl. Mansh. 2 (2): 653. 1904.
+
+多年生草本，高30-60厘米。根茎短粗，直生或斜生，上部围以基生托叶，下部具束生稍肥厚纤维状根。叶基生和茎上互生，有时上部对生；托叶三角状披针形，长6-10毫米，宽2-3毫米，先端长渐尖；基生叶具长柄，柄长为叶片的2-3倍，密被倒向糙毛，茎生叶柄向上渐短，最上部叶近无柄；叶片五角状肾圆形，基部心形，长5-8厘米，宽8-14厘米，掌状5-7深裂至叶片的2/3处，裂片菱形或倒卵状楔形，下部全缘，上部不规则缺刻状深裂或为大牙齿状，表面被疏短伏毛，背面主要沿脉被糙毛。聚伞花序顶生，长于叶，总花梗被糙毛和腺毛，每梗具2-3（5）花；苞片钻状，长约2毫米，宽不及1毫米；花梗与总花梗相似，等于或短于花，直生或弯曲，果期劲直；萼片卵状椭圆形或长卵形，长7-8毫米，宽约3毫米，先端具短尖头，外被长糙毛和腺毛；花瓣紫红色，长为萼片的1.5倍，先端圆形、微凹，基部宽楔形，边缘具长糙毛；雄蕊稍长于萼片，花丝棕色，下部扩展，边缘具长糙毛；雌蕊被短糙毛，花柱分枝棕色。蒴果长约2.5毫米，被短糙毛和腺毛。花期7-8月，果期8-9月。
+
+分布于吉林东部。生于林缘草甸、灌丛和林下。俄罗斯的西伯利亚和远东、日本北部和北美有分布。

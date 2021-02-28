@@ -1,0 +1,7 @@
+飞蓬(原亚种)",
+31a.**Erigeron acris subsp. acris**",
+
+## Description
+Herbs, 5-60 cm tall. Stems solitary, sometimes several, 1-4 mm in diam. at base, green or rarely purplish, moderately to densely hirsute-villous, strigillose, or sometimes glabrate. Leaves: surfaces ± densely strigose-villous, thin, margin entire or rarely remotely serrulate, strigose-villous-ciliate; basal dense, often present at anthesis, blade oblanceolate, 1.5-10 × 0.3-1.2 cm, apex obtuse or acute; mid and upper cauline lanceolate, 0.5-8 × 0.1-0.8 cm, uppermost and branch leaves small, linear. Capitula numerous, in dense, narrow, or rarely loose and broad, paniculiform or sometimes corymbiform synflorescences, 6-10 × 11-21 mm. Phyllaries abaxially ± densely villous, often short-stipitate glandular, apex acute, inner 5-7 × 0.5-0.8 mm. Ray florets: outer series 5-7 mm, tube 2.5-3.5 mm; inner series 3-3.5 mm, style exceeding tube by 1-1.5 mm; disk florets 3.6-5 mm, tube 1.5-2 mm, limb cylindric. Achenes oblong-lanceolate, ca. 1.8 mm, sparsely strigose. Pappus 2-seriate, inner 4-6 mm. Fl. Jul-Sep.
+  "Statistics": "Meadows, pastures, forest margins; 1400-3500 m. Gansu, Guangxi, Hebei, Hubei, Hunan, Jilin, Liaoning, Nei Mongol, Qinghai, Shaanxi, Shanxi, Sichuan, Xinjiang, Xizang, Yunnan [Afghanistan, Japan, Kazakhstan, Korea, Mongolia, Russia (W Siberia), Uzbekistan; SW Asia, Europe].
+  "Synonym": "*Erigeron kamtschaticus* Candolle var. *hirsutus* Y. Ling; *Trimorpha acris* (Linnaeus) Gray; *T. vulgaris* Cassini, nom. illeg. superfl.

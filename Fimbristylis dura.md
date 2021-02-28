@@ -1,0 +1,7 @@
+类扁鞘飘拂草",
+9.**Fimbristylis dura** (Zollinger & Moritzi) Merrill Philipp. J. Sci., C. 11: 53. 1916.",
+
+## Description
+Perennials. Rhizomes short. Culms solitary or tufted, 45-75 cm, 2-4 mm wide, compressed, striate, apically scabrous. Leaves shorter than or as long as culm, subdistichous; sheath slightly bilaterally compressed, abaxially membranous and brown, mouth obliquely split; ligule absent; leaf blade linear, 3-8 mm wide, flat, margin apically scabrous, apex acute. Involucral bracts 3 or 4, linear, basal 1 or 2 longer than inflorescence. Inflorescence a compound anthela, to 20 × 10 cm, lax; rays many, to 10 cm, slightly compressed. Spikelets solitary, oblong to oblong-ovoid, 4-10 × 1-1.5 mm. Glumes brown, ovate to oblong-ovate, 1.5-2 mm, 3-veined forming an abaxial yellowish green keel excurrent into a mucro, apex acute; apical glumes often abnormal, to 4 × 1.5 mm. Stamens (2 or)3; anthers oblong. Style 0.5-1 mm, 3-sided, glabrous or apically slightly ciliate, basally inflated; stigmas 3. Nutlet yellowish white to grayish brown, ellipsoid to oblong-obovoid, ca. 1 × 0.5 mm, obtusely 3-sided, with distinct transverse oblong reticulation, sparsely verruculose. Fl. and fr. autumn.
+  "Statistics": "Riversides, shady moist places in woods. Hainan [India, Indonesia, Malaysia, Thailand, Vietnam].
+  "Synonym": "*Isolepis dura* Zollinger &amp; Moritzi in Moritzi, Syst. Verz. 97. 1846.

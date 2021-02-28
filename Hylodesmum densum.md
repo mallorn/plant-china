@@ -1,0 +1,8 @@
+密毛长柄山蚂蝗",
+6.**Hylodesmum densum** (C. Chen & X. J. Cui) H. Ohashi & R. R. Mill Edinburgh J. Bot. 57: 176. 2000.",
+
+## Description
+Herbs, erect, 50-70 cm tall. Stem simple or with a lateral branch at base, densely white strigose. Leaves 3-foliolate; peti-ole 12-14 cm; terminal leaflet blade broadly ovate, 5-7 × 3.2-5 cm, both surfaces densely white strigose, base broadly cuneate-rounded, apex acuminate; lateral blade narrowly ovate, slightly smaller, base oblique. Fruiting inflorescences racemose, termi-nal. Legume 2-jointed; articles obliquely narrowly triangular, 8-10 × 3-4 mm, minutely hooked pubescent, base obliquely cuneate, apex concave; stipe 5-6 mm; fruiting pedicel ca. 5 mm. Fl. unknown, fr. Sep-Oct.
+  "Reference": "This species is characterized by the obliquely narrowly triangular articles and branches at the base of the stem similar to *Hylodesmum leptopus* but easily distinguished by the feature of indumentum, shape of terminal leaflet, shorter stipe of ovary, and shorter fruiting pedicel. The indumentum is quite distinct.This species is characterized by the obliquely narrowly triangular articles and branches at the base of the stem similar to *Hylodesmum leptopus* but easily distinguished by the feature of indumentum, shape of terminal leaflet, shorter stipe of ovary, and shorter fruiting pedicel. The indumentum is quite distinct.
+  "Statistics": "● Forests; 600-800 m. SW Guangxi, SE Yunnan.
+  "Synonym": "*Podocarpium fallax* (Schindler) C. Chen &amp; X. J. Cui var. *densum* C. Chen &amp; X. J. Cui, Acta Bot. Yunnan. 9: 306. 1987; *Desmodium densum* (C. Chen &amp; X. J. Cui) H. Ohashi; *P. densum* (C. Chen &amp; X. J. Cui) P. H. Huang.

@@ -1,0 +1,19 @@
+黑色铁角蕨",
+79.**Asplenium adiantum-nigrum** Linnaeus Sp. Pl. 2: 1081. 1753.",
+
+> *Asplenium adiantum-nigrum*, an allotetraploid species that originated via chromosome doubling in a hybrid (*A. ×ligusticum* Bernardello et al.) between *A. cuneifolium* Viviani and *A. onopteris* Linnaeus, is unrelated to the distantly similar *A. interjectum*. *Asplenium adiantum-nigrum* differs by the thickened stipe base (trophopod) and the less deltoid lamina.
+
+## Description
+Plants 15-40 cm tall. Rhizome ascending, apex scaly; scales dark brown, narrowly triangular, up to 6 mm, hairlike in upper half, without black middle stripe, entire. Fronds caespitose; stipe 8-15(-20) cm, base conspicuously swollen, thickened, semiterete, abaxially shiny castaneous to blackish purple, with scattered brownish black hairlike scales or subglabrous, adaxially sulcate; lamina triangular-ovate, 9-25 × 4-6(-10) cm, apex acute to acuminate, tripinnate; pinnae 8-13 pairs, alternate, stalked, basal pair largest, triangular, 4-6 × 1.8-2.4 cm, base truncate, bipinnate, apex acute to acuminate; pinnules 5-8 pairs, anadromous, basal pairs largest, triangular, 1.5-3.2 × 0.6-1 cm, base cuneate-truncate, shortly stalked or subsessile, pinnate, apex acute; ultimate pinnules 4-6 pairs, alternate, anadromous, basal pair largest, elliptic to oblong or linear, 5-7 × 2.5-3.5 mm, margin serrate, apex obtuse. Costa obvious, sulcate adaxially, veins obscure, anadromously branching, simple or 2-forked, not reaching margin. Fronds firmly herbaceous to papery, green but brown-green when dry, lamina with 4- or 5-celled, uniseriate hairs, average stomatal guard cell length 54-60 µm; rachis semiterete, lower half abaxially usually shiny castaneous to dark brown, apical part green or stramineous, adaxially sulcate. Sori 1-3(or 4) pairs per pinnule or segment, median on subtending veinlet, confluent at maturity, linear, 1-2.5(-5) mm; indusia white or brownish, linear, membranous, repand to entire, opening toward costa or costule. Spores brown to dark brown, perispore lophate (cristate-alate), with average exospore length 32-37 µm. Plants sexual allotetraploids: 2*n* = 144.
+
+> On rocks or on forest floor near streams; 2000-3000 m. Shaanxi, Taiwan, E Xizang, NW Yunnan [Afghanistan, N India, Pakistan; Europe (Mediterranean to SW Asia), W North America].
+  "Synonym": "*Asplenium adiantum-nigrum* subsp. *yuanum* (Ching) Reichstein et al.; *A. adiantum-nigrum* var. *yuanum* (Ching) Ching; *A. yuanum* Ching.
+**96. 黑色铁角蕨　深山铁角蕨（台湾植物志）、中国黑色铁角蕨（秦岭植物志）　图版11, 14-16**
+
+Asplenium adiantum-nigrum L. var. yuanum (Ching) Ching in Fl. Tsinling. 2: 125. 1974. ——Asplenium yuanum Ching in Bull. Fan Mem. Inst. Biol. Bot. Ser. 10: 174. 1940; Pichi-Sermolli, Ind. Fil. Suppl, 4: 32. 1965. ——Asplenium adiantum-nigrum auct., non L. 1753; Clarke in Trans. Linn. Soc. 2. Bot. 1: 483. 1880; Hayata, Icon. Pl. Form. 4: 221. f. 151. 1914; DeVol et C. M. Kuo in Fl. Taiwan 1: 478. 1975; W. C. Shieh et al. in T. C. Huang, Fl. Taiwam. Sec. ed. 1; 451. 1994.
+
+植株高15-40厘米。根状茎斜升，先端密被鳞片；鳞片卵状披针形，长4--5毫米，宽约3/4毫米，膜质，黑褐色，有虹色光泽，全缘。叶簇生；柄长8-15厘米，粗约2毫米，栗红色，有光泽，基部疏被与根状茎上同样的鳞片，向上光滑，上面有纵沟；叶片椭圆披针形，长9-20厘米，宽4-6毫米，长渐尖头，三回羽状；羽片9-13对，相距2-3厘米，互生，斜向上，密接，有短柄（长约3-5毫米），基部一对较大，长4-6厘米，基部宽1.8-2.4厘米，卵状披针形，先端长渐尖，基部圆楔形，上侧略覆盖叶轴，二回羽状；小羽片7-8对，上先出，斜向上，彼此密接，基部一对较大，披针形，长1.5-3.2厘米，宽6-10毫米，渐尖头，基部圆楔形，有短柄或近无柄，羽状；末回小羽片4-6对，互生，上先出，斜向上，密接，基部一对较大，长5-7毫米，宽2.5-3.5毫米，椭圆形或狭舌形，钝头或圆头，顶端有较长而极尖锐的锯齿，基部楔形，与小羽轴合生。叶脉上面明显，多少隆起，下面仅可见，在末回小羽片为近羽状分枝，小脉单一或在下部的为二叉，极斜向上，几达叶边。叶厚纸质，干后棕色或上面为褐绿色；叶轴禾秆色，下面中部以下常为栗红色并有光泽，上面有浅阔纵沟。孢子囊群椭圆形，长1-2.5毫米，极斜向上，生于小脉中部，每末回小羽片有1-3对，紧靠主脉两侧排列，成熟后为棕色，满铺末回小羽片的下面；囊群盖粗线形，淡棕色，膜质，全缘，开向主脉，偶有开向叶边，宿存。
+
+产台湾、陕西（户县）、云南西北部（德钦）、西藏东部。生溪旁，海拔2 000-2 800米。巴基斯坦、印度北部、锡金也有分布。模式标本产地：云南。
+
+A. adiantum-nigrum L. 广泛分布于欧洲及非洲山地，与本变种的不同之处为末回小羽片顶端的锯齿较短。它不产我国。过去英国学者（Clarke, Beddome）认为喜马拉雅山区产的植物与欧洲的相同，其实与我国云南的相同，而与欧洲原种有异。我国台湾有本种记载，但未见标本，暂作本变种看待。

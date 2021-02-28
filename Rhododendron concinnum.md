@@ -1,0 +1,16 @@
+秀雅杜鹃",
+61.**Rhododendron concinnum** Hemsley",
+
+> It is believed that *Rhododendron* *hutchinsonianum* W. P. Fang (Acta Phytotax. Sin. 2: 83. 1953), described from Xizang, is a variant of *R*. *concinnum* (see Cullen, Notes Roy. Bot. Gard. Edinburgh 39: 76. 1980).
+
+## Description
+Shrubs, (0.4–)1.5–3 m tall; young shoots scaly. Petiole 5–13 mm, densely scaly; leaf blade oblong, elliptic, ovate, oblong-lanceolate or ovate-lanceolate, 2.5–7.5 × 1.5–3.5 cm; apex acuminate to acute, apiculate; abaxial surface pinkish green or brown, scales 0.5(–1) × their own diameter apart or contiguous, unequal, with obvious margin; adaxial surface ± scaly, sometimes pubescent along midrib. Inflorescence terminal or subterminal, umbellate, 2–5-flowered. Pedicel 0.4–1.8 cm, densely scaly; calyx 5-lobed; lobes 0.8–1.5(–6) mm, rounded, triangular or oblong, sometimes undeveloped and rim-like; corolla broadly funnelform-campanulate, pale or deep purplish red, inside with or without brownish red spots, 1.5–3.2 cm, outer surface ± scaly, glabrous or sparsely pubescent at base; stamens unequal, as long as corolla; filaments pubescent below; ovary 5-locular, densely scaly; style slightly longer than corolla, usually glabrous, rarely pubescent at base. Capsule cylindric, 10–15 mm. Fl. Apr–Jun, fr. Sep–Oct.
+
+> *Abies*-*Rhododendron* forests, thickets on slopes; 2300–3000(–3800) m. Guizhou, Henan, Hubei, Shaanxi, Sichuan, Yunnan.
+**58. 秀雅杜鹃（中国高等植物图鉴）　图版18: 1-2**
+
+Rhododendon concinnum Hemsl. in Journ. Linn. Soc. 26: 21. 1889; Rehd. et Wils. in Sargent, Pl. Wils. 1: 522. 1913; Hutch. in Curtis's Bot. Mag. 141: t. 8620. 1915; Cowan in ibid. 147: t. 8912. 1921; Hutch. in Stevenson. , Spec. Rhodod. 781. 1930; Fang in R. H. 5. Rhodod. Year Book, 2: 123. 1947; Bean, Trees and Shrubs, 3: 51. 1951; Davidian. in Rhodod. and Cam. Year Book, 17: 190. 1964; 中国高等植物图鉴3: 64. 图4082. 1974; Cullen in Not. Bot. Gard. Edinb. 39: 75. 1980; Davidian, Rhodod. Spec. 1: 359. 1982; 云南植物志4:494. 1986;中国四川杜鹃花236. 1986;贵州植物志3:206. 1990;横断山区维管植物下册1429. 1994.——R. yanthinum Bur. et Franch. in Journ. de Bot. 5: 94. 1891.——R. benthamianum Hemsl. in Gard. Chron. 47: 4. 1910. ——R. apiculatum Rehd. et Wils. in Sargent, Pl. Wils. 1: 520. 1913. ——R. yanthinum var. lepidanthum Rehd. et Wils. in Sargent, Pl. Wils. 1: 519. 1913. ——R. pseudoyanthinum Balf. f. ex Hutch. in ibid. 783. 1930; 中国高等植物图鉴3:65. 图4083. 1974.——R. concinnum Hemsl. f. laetevirens Cowan in Curtis's Bot. Mag. 147: t. 8912. 1938. ——R. hutchinso-nianum Fang in Act. Phytotax. Sinica 2: 83. 1953;中国高等植物图鉴3:65. 图4084. 1974.——R. concinnum Hemsl. var. benthamianum (Hemsl. ) Davidian in Rhodod. and Cam. Year Book, 17: 194. 1963. ——R. concinnum Hemsl. var. pseudoyanthinum (Balf. f. ex Hutch. ) Davidian, ibid. 194. 1963.
+
+灌木，高（0.4-）1.5-3米。幼枝被鳞片。叶长圆形、椭圆形、卵形、长圆状披针形或卵状披针形，长2.5-7.5厘米，宽1.5-3.5厘米，顶端锐尖、钝尖或短渐尖，明显有短尖头，基部钝圆或宽楔形，上面或多或少被鳞片，有时沿中脉被微柔毛，下面粉绿或褐色，密被鳞片，鳞片略不等大，中等大小或大，扁平，有明显的边缘，相距为其直径之半或邻接，极少相距为其直径；叶柄长0.5-1.3厘米，密被鳞片。花序顶生或同时枝顶腋生，2-5花，伞形着生；花梗长0.4-1.8厘米，密被鳞片；花萼小，5裂，裂片长0.8-1.5（-6）毫米，圆形、三角形或长圆形，有时花萼不发育呈环状，无缘毛或有缘毛；花冠宽漏斗状，略两侧对称，长1.5-3.2厘米，紫红色、淡紫或深紫色，内面有或无褐红色斑点，外面或多或少被鳞片或无鳞片，无毛或至基部疏被短柔毛；雄蕊不等长，近与花冠等长，花丝下部被疏柔毛；子房5室，密被鳞片，花柱细长，洁净，稀基部有微毛，略伸出花冠。蒴果长圆形，长1-1.5厘米。花期4-6月，果期9-10月。
+
+产陕西南部、河南、湖北西部、四川、贵州（水城）、云南东北部。生于山坡灌丛、冷杉林带杜鹃林，海拔2300-3000（-3800）米。模式标本采自四川峨眉山。

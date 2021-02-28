@@ -1,0 +1,21 @@
+石南藤",
+50.**Piper wallichii** (Miquel) Handel-Mazzetti",
+
+> There was confusion in the application of this name in FRPS, with the records divided between &lt;I&gt;Piper martinii&lt;/I&gt; and &lt;I&gt;P. wallichii&lt;/I&gt;. These records have been consolidated within &lt;I&gt;P. wallichii&lt;/I&gt; as defined here. Y. C. Tseng believes that material from Emei Shan, Sichuan, with relatively broad, subpalmately veined leaves, should be recognized as a distinct species. M. G. Gilbert and N. H. Xia believe that such material is better regarded as a form that has flowered prematurely on normally sterile climbing stems.&#x0D;\n&lt;p&gt;&#x0D;\nUsed medicinally.
+
+## Description
+Climbers dioecious. Stems black when dry, ridged, usually hispidulous. Petiole 1-2 cm, hispidulous, prophylls 1/4-1/3 as long as petioles; leaf blades ovate-lanceolate or narrowly elliptic, rarely those toward base of stem ovate, 5-14 ×  2-6.5 cm, papery, abaxially hispidulous, sometimes glabrescent, drying grayish, adaxially glabrous, base rounded to shortly tapered, basal leaves often slightly cordate, symmetric to slightly oblique, apex acuminate; veins 5-7, apical pair arising 1-1.5 cm above base, alternate or ±  opposite, others basal. Spikes leaf-opposed. Male spikes more than 2 ×  as long as leaf blades; peduncle 2.5-3 ×  as long as petioles, pubescent; rachis sparsely pubescent; bracts orbicular, 1-1.2 mm wide, peltate, ±  sessile. Stamens 3; anthers reniform. Female spikes 1.5-3 cm, to 6 cm in fruit; peduncle 2-4.2 cm, pubescent; rachis and bracts as in male spikes; bract stalk not elongated in fruit, sparsely pubescent. Ovary distinct, apex sharply pointed; stigmas 3 or 4, linear. Drupe subglobose, ca. 3 mm in diam., ±  tuberculate. Fl. Feb-Jun.
+
+> Forests, on trees and rocks in shady and wet places; 300-2600 m. S Gansu, N Guangdong, Guangxi, Guizhou, SW Hubei, W Hunan, Sichuan, Yunnan [Bangladesh, E India, ?Indonesia, Nepal]
+  "Synonym": "&lt;I&gt;Chavica wallichii&lt;/I&gt; Miquel, Syst. Piperac. 254. 1843; &lt;I&gt;Piper aurantiacum&lt;/I&gt; Wallich ex C. de Candolle, nom. illeg. (included &lt;I&gt;Chavica wallichii&lt;/I&gt;); &lt;I&gt;P. aurantiacum&lt;/I&gt; var. &lt;I&gt;hupeense&lt;/I&gt; C. de Candolle; &lt;I&gt;P. emeiensis&lt;/I&gt; Y. C. Tseng; &lt;I&gt;P. henryci&lt;/I&gt; C. de Candolle; &lt;I&gt;P. ichangense&lt;/I&gt; C. de Candolle; &lt;I&gt;P. martinii&lt;/I&gt; C. de Candolle; &lt;I&gt;P. wallichii&lt;/I&gt; var. &lt;I&gt;hupeense&lt;/I&gt; (C. de Candolle) Handel-Mazzetti.
+**33．石南藤（四川、湖南）图版17：6-10**
+
+Piper wallichii (Miq.) Hand.-Mazz. Symb. Sin. 7: 155. 1929; Hara, Fl. E. Himalaya 44. 1966; Tseng in Acta Phytotax. Sinica 17 (1) : 34. 1979.——Chavica wallichii Miq. Syst. Pip. 254. 1843, et Fl. Ind. Bat. 1 (2) : 443. 1859.——Piper aurantiacum Wall. ex C. DC. in DC. Prodr. 16: 357. 1868; Hook. f. Fl. Brit. Ind. 5: 86. 1886; Forb. et Hemsl. in Journ. Linn. Soc. Bot. 26: 364. 1891. ——Piper aurantiacum Wall. ex C. DC. var. hupeense C. DC. in Notizbl. Bot. Gart. Berlin 6: 478. 1917.——Piper wallichii (Miq.) Hand.-Mazz. var. hupeense (C. DC.) Hand.-Mazz. Symb. Sin. 7: 155. 1929.——Piper ichangense C. DC. in Notizbl. Bot. Gart. Berlin 6: 480. 1917. ——Piper henryci (Sphalm. henryi) C. DC. in Ann. Cons. Jard. Bot. Geneve 2: 271. 1898, et in Notizbl. Bot. Gart. Berlin 6: 478. 1917, et in Candollea 1: 204. 1923.
+
+攀援藤本；枝被疏毛或脱落变无毛，干时呈淡黄色，有纵棱。叶硬纸质，干时变淡黄色，无明显腺点，椭圆形，或向下渐次为狭卵形至卵形，长7-14厘米，宽4-6.5厘米，顶端长渐尖，有小尖头，基部短狭或钝圆，两侧近相等，有时下部的叶呈微心形，如为微心形时，则其凹缺之宽度狭于叶柄之宽度，腹面无毛，背面被长短不一的疏粗毛；叶脉5-7条，最上1对互生或近对生，离基1-2.5厘米从中脉发出，弧形上升至叶片3/4处弯拱连接，余者均基出，如为7脉时，则最外1对细弱而短，网状脉明显；叶柄长1-2.5厘米，无毛或被疏毛；叶鞘长8-10毫米。花单性，雌雄异株，聚集成与叶对生的穗状花序。雄花序于花期几与叶片等长，稀有略长于叶片者；总花梗与叶柄近等长或略长，无毛或被疏毛；花序轴被毛；苞片圆形，稀倒卵状圆形，边缘不整齐，近无柄或具被毛的短柄，盾状，直径约1毫米；雄蕊2枚，间有3枚，花药肾形，2裂，比花丝短。雌花序比叶片短；总花梗远长于叶柄，长达2-4厘米；花序轴和苞片与雄花序的相同，但苞片柄于果期延长可达2毫米，密被白色长毛；子房离生，柱头3-4，稀有5，披针形。浆果球形，直径3-3.5毫米，无毛，有疣状凸起。花期5-6月。
+
+产于湖北西南部（宜昌、兴山、巴东、恩施）、湖南西部（永顺、东安）、广西北部和西南部（龙胜、灵川、临桂、大鸣山）、贵州北部至西南部（沿河、遵义、安顺）、云南东南至西南部和西北部（西畴经双柏、景东至沧源、梁河、泸水、福贡、贡山）、四川北部（城口、昭化、青川、平武）和南部（绵竹、灌县、什邡、彭县、邛崃、天全、峨眉、马边、雷波、屏山、宜宾、庐州、江津）及东南部（酉阳、南川）、甘肃南部（文县）。生于林中荫处或湿润地，爬登于石壁上或树上，几海拔310-2600米。广布于尼泊尔、印度东部、孟加拉和印度尼西亚。
+
+茎入药，祛风寒，强腰膝，补肾壮阳。常治风湿痹痛、腰腿痛等。
+
+最近有的作者将本种并入于Piper arcuatum Blume中，笔者认为这两种的叶基、叶脉、花序均有较大的差异，应列为两个种为妥。

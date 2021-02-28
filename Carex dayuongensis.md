@@ -1,0 +1,6 @@
+大庸薹草",
+156.**Carex dayuongensis** Z. P. Wang Acta Bot. Yunnan. 11: 166. 1989.",
+
+## Description
+Rhizome ± horizontal, indurate, slender. Culms densely tufted, 20-30 cm tall, ca. 1 mm thick, subterete, smooth. Leaves longer than or equaling culm, flat or plicate, blades 1-2 mm wide, rough margined; sheaths brown, persistent as fibrous remnants. Involucral bracts spathelike, sheaths green, reddish brown basally, membranous on margin, with short leaflike blade. Spikes 4 or 5, remote; terminal spike male, clavate, 3.5-4.5 cm, 2.5-3 mm thick, sublaxly many flowered; peduncles slender, scabrous or smooth, well exserted from involucral bract sheath. Male glumes ligulate, ca. 6 mm, apex obtuse to acuminate; female glumes pale brown laterally, green at middle, oblong, 2-3 mm, papery, obscurely 3-veined, margins white hyaline, apex rounded or emarginate, muticous. Utricles greenish, ± equaling glume, obovate, trigonous, 2.5-3 mm, membranous, densely puberulent, 2-veined laterally and thinly several veined, base cuneate, apex abruptly contracted into a short straight beak, orifice weakly 2-toothed. Nutlets obovate-oblong, 2.5-2.8 mm, trigonous, base shortly stipitate, apex with minute beak; style base conical; stigmas 3, ± as long as utricle.
+  "Statistics": "● Forests in valleys; ca. 300 m. NW Hunan (Zhangjiajie).

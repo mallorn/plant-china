@@ -1,0 +1,6 @@
+红花截叶铁扫帚",
+24.**Lespedeza lichiyuniae** T. Nemoto H. Ohashi & T. Itoh, J. Jap. Bot. 82: 223. 2007.",
+
+## Description
+Subshrubs or perennial herbs, 50-120 cm tall. Stems erect or ascending, ascending or appressed pubescent. Leaves 3-foliolate; petiole (1.5-)2-15 mm; leaflets narrowly obovate, ter-minal one 0.7-2.8 × 0.2-0.8 cm, abaxially densely adpressed hairy, adaxially glabrous, base cuneate, apex obtuse or truncate, mucronate. Racemes axillary, peduncle short, (1 or)2-4-flow-ered. Calyx 3-4 mm, 5-parted; lobes appressed or ascending, lanceolate. Corolla pink or pale purple; standard broadly elliptic to circular, 7-7.5 × 5-5.5 mm, base with dark purple spots; wings pale purplish white, narrowly obovate to obovate, 6.7-7.3 × 2-2.3 mm; keel pale purplish white with dark purple tip, 7.2-7.6 × 2.2-2.7 mm. Cleistogamous flowers clustered in leaf axils, sessile. Legumes ellipsoid, ca. 2.4 × 1.7-2 mm, slightly longer than persistent calyx, densely adpressed hairy. Fl. Aug-Sep, fr. (Sep-)Oct-Nov.
+  "Statistics": "● Mountain valleys, sunny mountain slopes; (200-)500-1700 (-3000) m. Anhui, Chongqing, Gan-su, Guizhou, Henan, Hubei, Hunan, Jiangsu, Shaanxi, Sichuan, Yunnan [naturalized in Japan].

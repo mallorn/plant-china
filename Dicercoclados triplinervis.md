@@ -1,0 +1,13 @@
+歧笔菊",
+1.**Dicercoclados triplinervis** C. Jeffrey & Y. L. Chen Kew Bull. 39: 214. 1984.",
+
+## Description
+Roots densely tomentose. Stems to 100 cm tall, ascending at base, leafless in lower part, leafy above, simple or branching in upper part, sparsely fulvous puberulent when young, glabrescent. Leaves shortly petiolate, lower leaves withered and fallen by anthesis; median leaves rather numerous; petiole 3-5 mm, sparsely pubescent, not winged, not auriculate; blade abax-ially paler, adaxially deep green, oblong-lanceolate or lanceolate, 5-9 × 0.8-1.8 cm, leathery, abaxially glabrous, adaxially glabrous except for sparsely puberulent main veins and margins, prominently 3-veined from above base, main veins conspicuously impressed, base cuneate, margin remotely mucronulate-dentate and when dry somewhat revolute, apex acuminate or acuminate-caudate. Upper leaves similar but gradually smaller upward. Capitula solitary or paired in upper leaf axils; peduncles 1-2.5 cm, slender, divaricate, densely ferruginous puberulent, when paired bracteate at base, minutely and rather closely 7-9-bracteolate in upper part, sparsely puberulent; bracteoles linear-subulate, 2-3 mm, apically incurved. Involucres cylindric, 7-9 × 3-5 mm, calyculate; bracteoles of calyculus 5 or 6, linear-subulate, minute; phyllaries 10 or 11, linear or linear-lanceolate, 1-2 mm wide, subleathery, glabrous, margin broadly scarious, apically acute and sparsely puberulent. Florets 15 or 16; corolla yellow, ca. 7 mm, with 2-2.5 mm tube and narrowly funnelform limb; lobes oblong-lanceolate, ca. 1.5 mm, apically papillose, acute. Anthers linear, ca. 5 mm, prominently caudate, tails 2-3 × as long as antheropodia. Ovary cylindric, ca. 0.5 mm, glabrous. Style branches ca. 1.5 mm, truncate, with papillae divided at apex into 2 brushlike lobes. Pappus white, ca. 6.5 mm. Fl. Sep.
+  "Statistics": "● Probably extinct. Guizhou (Guiding).
+**1. 歧笔菊（新拟）**
+
+Dicercoclados triplinervis C. Jeffrey et Y. L. Chen in Kew Bull. 39 (2): 214. 1984; 贵州植物志9: 228. 1989.
+
+根密被绒毛。茎单生，直立，或基部斜升，高达100厘米，下部无叶，上部具叶，不分枝或上部具伞房状分枝，枝纤细，斜升，淡紫色，具条纹，幼时被疏黄褐色短柔毛，后变无毛。叶具短柄；下部叶在花期枯萎且凋落，中部叶较多数，叶片长圆状披针形或披针形，长5-9厘米，宽0.8-1.8厘米，顶端渐尖或尾状渐尖，基部楔形，边缘具疏生具小尖头齿，干时稍反卷，革质，上面深绿色，沿主脉及边缘被疏短柔毛，下面浅绿色，无毛，具明显离基三出脉，主脉明显下凹；叶柄长3-5毫米，被疏短柔毛，无翅且无耳，上部叶及分枝上叶渐小，披针形或线状披针形，具短柄。头状花序单生或2个生于上部叶腋；花序梗细，叉开，长1-2.5厘米，被密锈褐色短柔毛，基部具2小苞片，上部具较密集7-9小苞片；小苞片线状钻形，长2-3毫米，顶端内弯且被疏短柔毛。总苞圆柱形，长7-9毫米，宽3-5毫米，外层苞片5-6，线状钻形，细小；总苞片10-11，线形或线状披针形，宽1-2毫米，顶端尖，被疏短柔毛，近革质，边缘宽干膜质，外面无毛。小花全部管状，15-16花冠黄色，长7毫米，管部长2-2.5毫米，檐部狭漏斗状；裂片长圆状披针形，长1.5毫米，顶端尖，被乳头状毛；花药线形，长5毫米，具明显尾，尾部长为颈部2-3倍；花柱分枝长1.5毫米，顶端近截形，具分叉成画笔状裂长毛。子房圆柱形，长0.5毫米，无毛；冠毛白色，长6.5毫米。花期9月。
+
+产贵州（贵定）。生境不详。模式产地贵定。

@@ -1,0 +1,6 @@
+樟木薹草",
+343.**Carex changmuensis** Tang & F. T. Wang ex Y. C. Yang Fl. Xizang. 5: 410. 1987.",
+
+## Description
+Rhizome short, with many slender, long roots. Culms lateral, densely tufted, 30-40 cm tall, compressed trigonous, less than ca. 1 mm wide, clothed at base with 3 or 4 castaneous bladeless sheaths slightly disintegrating into fibers. Leaves gray-green, conspicuously longer than culm, 3-4 mm wide, flat, stiff, scabrous adaxially. Lower involucral bracts shorter or longer than inflorescence, sheathless, upper ones glumelike. Spikes 2 or 3; terminal spike male, yellow-brown, clavate, 1-1.5 cm, subsessile; lateral spikes female, gray-green, ovate, ca. 8 mm, several flowered, dense, sessile or only lowest one with short peduncle. Female glumes pale or light brown, ovate or oblong-ovate, 3-4 mm, green 3-veined costa excurrent into a mucro, apex acute. Utricles green-brown at base, ovate-lanceolate or elliptic, obtusely trigonous, 4-4.5 mm, sparsely pubescent, faintly veined adaxially, apex abruptly contracted into a medium-sized beak, orifice 2-toothed. Nutlets obovate or broadly oblong, obtusely trigonous, with 1 face concave at base; style easily deciduous; stigmas 3.
+  "Statistics": "● Evergreen broad-leaved forests; ca. 1900 m. S Xizang (Nyalam).

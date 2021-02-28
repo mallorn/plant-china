@@ -1,0 +1,15 @@
+庐山香科科",
+16.**Teucrium pernyi** Franchet",
+
+## Description
+Herbs perennial, erect, stoloniferous. Stems 60(-100) cm tall, with dense, retrorse white pubescence, with hairs ca. 0.5 mm. Petiole 3-7 mm; leaf blade ovate-lanceolate, 3.5-5.3(-8.5) &amp;#215; 1.5-2(-3.5) cm, puberulent except white pubescent on abaxial veins, base broadly cuneate-decurrent, apex short acuminate to acuminate. Spikes terminal, on short axillary branches, verticillasters 2(-6)-flowered; bracts ovate, pubescent, as long as pedicel. Pedicel 3-4 mm, pubescent. Calyx campanulate, swollen in front at base, ca. 5 &amp;#215; 3.5 mm, sparsely puberulent outside, pilose annulate at throat; middle tooth of upper lip subcircular, apex mucronate; lateral teeth triangular-ovate, less than 1/2 as long as middle tooth; lower lip teeth triangular-subulate, apically acuminate. Corolla white, sometimes tinged red, ca. 1 cm; tube slightly exserted, ca. 4.5 mm, sparsely puberulent outside; middle lobe of limb well developed, elliptic-subulate, ca. 4 &amp;#215; 2.6 mm, apex acute; posterior lobes obliquely triangular-ovate. Stamens more than 2 &amp;#215; as long as corolla tube. Style unequally 2-cleft at apex. Ovary bullate, hairy. Nutlets brownish black, obovoid, ca. 1.2 mm, conspicuously netted.
+
+> * Hilly areas, fields; 200-1100 m. Anhui, Fujian, Guangdong, Guangxi, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Zhejiang.
+  "Synonym": "&lt;I&gt;Kinostemon ningpoense&lt;/I&gt; (Hemsley) Kudo; &lt;I&gt;K. pernyi&lt;/I&gt; (Franchet) Kudo var. &lt;I&gt;ningpoense&lt;/I&gt; (Hemsley) Kudo; &lt;I&gt;Teucrium huoshanense&lt;/I&gt; S. W. Su &amp; J. Q. He; &lt;I&gt;T. ningpoense&lt;/I&gt; Hemsley.
+**16. 庐山香科科 图版10:1-6**
+
+Teucrium pernyi Franch. in Nouv. Arch. Mus. Paris 6 (2): 625. 1883, Pl. David.: 245. 1884, quoad specim. David 756 tantum.; S. Chow in Act. Phytotax. sin. 10 (4): 343. pl. LXXIII. f. 1-6. 1965——Teucrium ningpoense Hemsl. in Journ. Linn. Soc. Bot. 26: 313. 1890; Dunn in Notes Bot. Gard. Edinburgh 6: 170. 1915; Belval in Mus. Heude Notes Bot. Chin. no.: 104. 1933——Teucrium bidentatum auct. non Hemsl.: Hand. -Mazz. Symb. Sin. 7: 912. 1936, p. p., quoad Hand. -Mazz. 12703——Kinostemon pernyi (Franch.) Kudo in Taus. Nat. Soc. Formosa 19: 2. 1929, quoad nomen tantum——Kinostemon nangpoense (Hemsl.) Kudo in Journ. Soc. Trop. Agr. Taiwan 2: 146. 1930——Kinostemon pernyi (Franch.) Kudo var. ningpoense (Hemsl.) Kudo in Mem. Fac. Sci. Agr. Taihoku Univ.: 299. 1929.
+
+多年生草本，具匍匐茎。茎直立，基部常不分枝而具早年残存的茎基，基部近圆柱形，上部四棱形，无槽，高60厘米，有时达100厘米，密被白色向下弯曲的短柔毛，毛长0.5毫米。叶柄长3-7毫米，被毛同茎；叶片卵圆状披针形，长3.5-5.3厘米，宽1.5-2厘米，有时长达8.5厘米，宽达3.5厘米，先端短渐尖或渐尖，基部圆形或阔楔形下延，边缘具粗锯齿，两面被微柔毛，下面脉上被白色稍弯曲的短柔毛，侧脉3-4对，有时5对，两面微显著。轮伞花序常2花，松散，偶达6花，于茎及短于叶的腋生短枝上组成穗状花序；苞片卵圆形，被短柔毛，长与花梗相若；花梗长3-4毫米，被短柔毛。花萼钟形，下方基部一面臌，长5毫米，宽3.5毫米，外面被稀疏的微柔毛，喉部内面具毛环，10脉，二唇形，上唇3齿，中齿极发达，近圆形，先端突尖，侧齿三角状卵圆形，长不达中齿之半，下唇2齿，齿三角状钻形，渐尖，与上唇中齿同高，齿间缺弯深裂至喉部，各齿具发达的网状侧脉。花冠白色，有时稍带红晕，长1厘米，冠筒稍稍伸出，长4.5毫米，外面被稀疏的微柔毛，唇片与花冠筒成直角，中裂片极发达，椭圆状匙形，内凹，长4毫米，宽2.6毫米，先端急尖，后方一对裂片斜三角状卵圆形，微向前倾。雄蕊超过花冠筒一倍以上，花药平叉分，肾形。花柱先端不相等2裂。花盘小，盘状，全缘。子房球形，密被泡状毛。小坚果倒卵形，长1.2毫米，棕黑色，具极明显的网纹，合生面不达小坚果全长的1/2。
+
+产江苏南部，浙江，安徽，河南南部，福建，江西，湖北，湖南，广东，广西；生于山地及原野，海拔150-1120米。选模式标本采自江西庐山。

@@ -1,0 +1,6 @@
+裂叶淫羊藿",
+9.**Epimedium lobophyllum** L. H. Liu & B. G. Li Acta Phytotax. Sin. 37: 288. 1999.",
+
+## Description
+Herbs, 30-70 cm tall. Rhizome compact, rigid. Leaves basal and cauline, trifoliolate; petiole 6-9.5 cm; basal leaves smaller than cauline leaves; lateral leaflets narrowly ovate, entire, base shallowly cordate, sinus widely open, lobes unequal, inner lobe rounded, outer lobe acute, margin spinulose-serrulate, apex acuminate; petiolule of terminal leaflet 5-7 cm; terminal leaflet obovate to ovate or obovate-elliptic, 9-14 × 4-6.4 cm, base shallowly cordate, sinus open, lobes rounded, margin spinulose-serrulate, apex (2 or)3(-5)-lobed, lobes acuminate, abaxially glaucous, glabrous except main veins pilose. Inflorescence terminal, paniculate, (8-)25-34 cm, glabrous, many flowered; peduncles 7-17 mm, mostly 5-flowered. Flowers white or yellowish, 3-4.5 mm in diam. Outer sepals 4, ovate to elliptic, 2-3.5 mm, apex 2-lobed; inner sepals 4, obovate or ovate-lanceolate, 2-3.5 × ca. 1.5 mm. Petals suborbicular, 1.5-3 × ca. 1.3 mm, slightly saccate. Stamens 3-4 mm; anthers ca. 1.5 mm. Ovary narrowly ovoid, 3-3.5 mm; ovules 2-6. Capsules 1.3-1.7 cm, beak 4-5 mm. Seeds 2-6, ca. 3.5 mm. Fl. Apr-Jul, fr. Jul-Sep.
+  "Statistics": "● Forests; 700-1500 m. Hunan.

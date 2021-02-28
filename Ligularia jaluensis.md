@@ -1,0 +1,14 @@
+复序橐吾",
+74.**Ligularia jaluensis** Komarov Trudy Imp. S.-Peterburgsk. Bot. Sada. 18: 420. 1901.",
+
+## Description
+Stem erect, to 200 cm tall, ca. 1 cm in diam. at base, proximally glabrous, distally shortly brown pilose and white arachnoid-puberulent. Basal leaves petiolate; petiole to 40 cm, shortly pilose, narrowly, entirely winged, base sheathed; leaf blade triangular or ovate-triangular, 8-37 × 7-35 cm, abaxially shortly pilose only along veins, adaxially glabrous, pinnately veined, midvein robust, lateral and reticulate veins abaxially prominent, base cordate or subtruncate, margin shallowly triangular-dentate and ciliate, apex acute. Middle to distal stem leaves smaller, shortly petiolate; petiole winged, base sheathed; leaf blade triangular or oblong. Synflorescence paniculate-racemose or racemose, to 50 cm, branched, lower branches to 22 cm; leaflike bracts linear, ca. 5 mm; peduncles 1-1.5 cm, shortly pilose. Capitula numerous; supplementary bracts subulate or absent. Involucre campanulate or cupular, 1-1.1 cm × 8-15 mm, glabrous; phyllaries 8-12, in 2 rows, oblong, 3-4 mm wide, apex acute; inner phyllaries membranous at margin. Ray florets 5-8, yellow; lamina elliptic, 1.3-1.8 cm, to 6.5 mm wide, apex acute; tube ca. 5 mm. Tubular florets numerous, 8-9 mm; tube 2-2.5 mm. Achenes yellowish, cylindric, 4-6 mm. Pappus white, as long as tubular corolla. Fl. Jul-Sep.
+  "Statistics": "Meadows, forest margins; 400-1000 m. SE Heilongjiang, Jilin (Changbai Shan), Liaoning [Korea, Russia (Far East)].
+  "Synonym": "*Ligularia deltoidea* Nakai; *L. jaluensis* var. *rumicifolia* Komarov; *L. leucocoma* Nakai; *L. pulchra* Nakai; *Senecillis jaluensis* (Komarov) Kitamura.
+**79. 复序橐吾（东北植物检索表）　东北熊疏（长白山）　图版19: 6-10**
+
+Ligularia jaluensis Kom. in Acta Hort. Petrop. 18: 420. 1901 et 25: 695 1907; Kitag. Lineam. Fl. Manch. 458. 1939; Kitam. in Mem. Coll. Sci. Kyoto Univ. Ser. B. 16: 193. 1942; 东北植物检索表 402. 1959; Pojark. in Fl. URSS 26: 826. 1961; S. Y. Hu in Quart. Journ. Taiwan Mus. 20: 61. 1967; H. Koyama in Mem. Fac. Sci. Kyoto Univ. Ser. Biol. 2: 46. 1968; 李昌福, 大韩植物图鉴 744. 1979. ——L. jaluensis var. ruminifolia Kom. l. c. 25: 696. 1907. ——L. pulchra Nakai in Bot. Mag. Tokyo 31: 126. 1917. ——L. deltoidea Nakai, l. c. 31: 126. 1917; Kitag. l. c 457. 1939. ——L. leucocoma Nakai in Journ. Bot. Jap. 20: 139. 1944.
+
+多年生草本。茎直立，高达150厘米，被白色蛛丝状毛和褐色有节短柔毛，基部直径约1厘米。丛生叶及茎下部叶具柄，柄长达40厘米，被有节短毛，翅狭窄，全缘，基部鞘状，叶片三角形或卵状三角形，长8-20厘米，基部宽7-22厘米，先端急尖，边缘具浅三角状齿，齿间被有节短毛，基部心形或近平截，上面光滑，下面尤其在脉上有乳突状短毛，叶脉羽状，主脉粗，侧脉网状，在下面明显突起；茎中上部叶较小，具短的翅状柄，基部鞘状抱茎，叶片三角形或长圆形。圆锥状总状花序或有时为总状花序长达50厘米，基部分枝长达22厘米；苞片线形，长约5毫米；花序梗长10-15毫米，被有节短毛；头状花序多数，辐射状；小苞片钻形或缺如；总苞钟形或杯状，长10-11毫米，宽8-15毫米，总苞片8-12，2层，长圆形，宽3-4毫米，先端急尖，背部黑绿色，光滑，内层具宽膜质边缘。舌状花5-7，黄色，舌片椭圆形，长13-18毫米，宽达6.5毫米，先端急尖，管部长约5毫米；管状花多数，长8-9毫米，管部长2-2.5毫米，冠毛白色与花冠等长。瘦果（未熟），光滑。花期7-9月。
+
+产东北长白山一带。生于海拔450-1000米的草甸子及林缘。模式标本采自吉林。在苏联远东地区及朝鲜也有分布。

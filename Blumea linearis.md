@@ -1,0 +1,6 @@
+条叶艾纳香",
+7.**Blumea linearis** C. I Peng & W. P. Leu Bot. Bull. Acad. Sin. 40: 53. 1999.",
+
+## Description
+Subshrubs, to 1.5-2.5(-3) m tall. Stems striate, center hollow, base woody, 1.5-2.5 cm in diam., puberulent or sometimes glabrate; main stems usually simple or 2-4-branched from middle. Leaves linear, 25-35 × 2.5-3.5 cm, herbaceous, rugose, villous abaxially, sparsely pilose adaxially, base attenuate into a short petiole, margin remotely biserrate, apex acute; veins 24-30 pairs. Capitula numerous, pedunculate, terminal and axillary, in a pyramidal panicle. Involucre globose-campanulate; phyllaries in 2 or 3 series, outer ones shorter, linear-lanceolate, 2-3 × 0.7-0.9 mm, compressed, abaxially with numerous sessile glands and multicellular hairs, inner linear-lanceolate, 7-8 × ca. 0.6 mm, margins scarious, margins and apices ciliate. Receptacle convex, 1.5-2 mm in diam., alveolate, sparsely pilose. Marginal florets ca. 6 mm, 2- or 3-lobed, glabrous. Central florets yellowish, 6-7 mm, with 5 triangular lobes, lobes with sessile glands and sparsely multicellular hairs. Achenes pale brown, oblong-terete, 1.1-1.3 × ca. 0.3 mm, pilose, 10-ribbed. Pappus pale brown to yellowish white, 5-6 mm. Fl. and fr. Mar-May. 2*n* = 18*.
+  "Statistics": "● Roadsides, riverbanks; below 400 m. Taiwan.

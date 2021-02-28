@@ -1,0 +1,15 @@
+维明鳞毛蕨",
+167.**Dryopteris zhuweimingii** Li Bing Zhang Taxon. 61: 1211. 2012.",
+
+## Description
+Plants up to 1.5 m tall. Rhizome erect, short, robust, densely covered with scales; scales dark brown to light brown, ovate-lanceolate, up to 2 cm, ca. 5 mm wide at base, margin with clavate short hairs, thickly membranous, brown rufous, nitid. Fronds tufted; stipe 25-65 cm, 4-10 mm in diam., brown stramineous, densely covered with scales same as on rhizome, sparser and smaller upward, longitudinally grooved on adaxial side; lamina dark brown when dry, narrowly ovate, 70-130 × 30-70 cm, tripinnate to quadripinnatifid, papery, subglabrous abaxially, sparsely covered with dark brown short nodose hairs adaxially, apex acuminate; pinnae 15-20 pairs, opposite, alternate upward, close together, with short stalk ca. 1 cm, basal 2 or 3 pairs 7-8 cm apart, elliptic or elliptic-lanceolate, slightly falcate, 22-28 × 8-10 cm, apex acuminate, basiscopic pinnules larger than upper ones, tripinnatifid; pinnules 15-20 pairs, with short stalk, basal ones subopposite, 1.5-2 cm apart, always slightly shortened, upper ones close together or slightly overlapping; ultimate pinnules 9-16 pairs, basal 2-4 pairs opposite, alternate upward, sessile, separate, elliptic, 1-1.5 × 0.4-0.5 cm, base rounded-truncate, pinnatifid almost to rachillae, apex obtuse and crenate; lobes 4 or 5 pairs, opposite, elliptic, 3-4 × ca. 2 mm, apex truncate, margin entire or with 2 or 3 indistinct obtuse teeth; rachis and rachillae covered with few long subulate and brown scales and brown nodose hairs, shallowly longitudinally grooved adaxially; veins invisible, pinnate, fibriform, veinlets submarginal, apex with slightly swollen hydathodes. Sori globose, ca. 1 mm in diam., always 1 in each ultimate lobe, 1 row on each side of rachillae; indusium brown, leathery, with long stalk, dehisced into 2 or 3 irregular valves from top when mature.
+
+> Near streams in forests, forest margins; 500-2200 m. Guangxi, Guizhou, Hubei, Hunan, Sichuan, Taiwan, Yunnan [Philippines].
+  "Synonym": "*Peranema luzonicum* Copeland, Philipp. J. Sci., C, 4: 111. 1909 [*“luzonica”*]; *P. cyatheoides* D. Don var. *luzonicum* (Copeland) Ching &amp; S. H. Wu; *P. formosanum* Hayata; *Pleopeltis luzonica* (Copeland) Alderwerelt.
+**1b. 东亚柄盖蕨（植物分类学报）图版38**
+
+var. luzonicum (Cop.) Ching et S. H. Wu in Acta Phytotax. Sinica 21 (4): 373. 1983. ——Peranema luzonicum Cop. in Phil. Journ. Sci. Bot. 4: lll. 1909, #$#luzonica#$#; C. Chr. Ind. Fil. Suppl. 1: 54. 1913. ——Peranema formosanum Hayatain Bot. Mag. Tokyo 26: 110. 1912, #$#formosana#$#; C. Chr. Ind. Fil. Suppl. 1: 54. 1913. ——Peranema cyatheoides sensu DeVol et C. M. Kuo in H. L. Li et al., Fl. Taiwan 1: 383, pl. 133. 1975; S. H. Wu et Ching, Fern Fam. ＆ Gen. of China f. 5-147. 1991; W. C. Shieh et al. in T. C. Huang, Fl. Taiwan, sec. ed. 1: 333, pl. 136. 1994.
+
+本变种与原变种的主要区别为叶柄上部和叶轴疏被棕色或深棕色的线状披针形鳞片，末回小羽多片少锐裂。
+
+产云南（漾濞、景东、大关、新平、永善、文山）、贵州（梵净山、印江、清镇）、四川（天全、南川）、湖北（合丰）、湖南（洞口）、广西（大苗山）、台湾（阿里山）。生杂木林下，海拔500-3 100米。也分布于菲律宾（吕宋）。模式标本产地：吕宋。

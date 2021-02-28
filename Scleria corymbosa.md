@@ -1,0 +1,7 @@
+伞房珍珠茅",
+5.**Scleria corymbosa** Roxburgh Fl. Ind., ed. 1832. 3: 574. 1832.",
+
+## Description
+Perennials. Rhizomes thick, subwoody, covered with brown scales. Culms 0.6-2 m tall, 3-7 mm wide, sharply 3-angled. Leaves on apical part of culms nearly whorled; sheath laxly embracing culm; contraligule semicircular, margin ca. 1 mm wide and membranous; leaf blade linear, 50-80 × 1.4-2 cm, midvein and margins apically scabrid, apex acute. Involucral bracts leaflike, basalmost to 47 cm, sheathing, glabrous; bractlets setaceous, 1-1.5 cm, base dilated, margin ciliate. Inflorescences compound paniculate, ca. 40 cm; lateral inflorescence branches 5-7, cymose, often binate, ovoid, ca. 4 cm; inflorescence axes robust, 3-angled, slightly hairy. Spikelets 3-4 mm, 1-3 in a cluster, mostly bisexual, fewer male. Glumes broadly ovate to ovate-lanceolate, leathery, keel green, laterally brown with rust-colored short lines, apex mucronate. Male flowers: stamens 3; anthers linear, ca. 2 mm; connective apex protruding beyond anthers. Disk reduced, appressed to nutlet. Nutlet white or grayish white, obovoid to ellipsoid, ca. 3.5 × 2.5 mm, slightly 3-sided, smooth, glabrous, base attenuate, apex apiculate. Fl. and fr. summer and autumn.
+  "Statistics": "Water margins, valleys, woods; elevation probably below 100 m. Guangdong, Hainan [Cambodia, India, Indonesia, Laos, Malaysia, Myanmar, Papua New Guinea, Philippines, Sri Lanka, Thailand].
+  "Synonym": "*Scleria ridleyi* C. B. Clarke.

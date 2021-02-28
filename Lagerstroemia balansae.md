@@ -1,0 +1,8 @@
+毛萼紫薇",
+1.**Lagerstroemia balansae** Koehne",
+
+## Description
+Shrubs to small or tall trees, 5-25 m tall. Bark yellowish, smooth; young branches, leaves, petioles, inflorescences, and floral tubes golden to red-brown tomentose; trichomes dendritic, partially to completely glabrescent. Petiole 4-8 mm; leaf blade oblong-lanceolate or elliptic, 6-12[-15] × 2-5.5[-6] cm, thickly papery to thinly leathery, abaxially glabrescent except on veins, lateral veins 5-8 pairs, base acute to subrounded, apex acute or shortly acuminate. Panicles 6-15[-20] cm, open, few flowered, sometimes interrupted by leaves, densely red-brown tomentose. Floral tube 6-merous, 1-1.2 cm, smooth walled, densely golden-brown tomentose; sepals 5-6 mm, adaxially densely tomentose; annulus absent; epicalyx absent. Petals purple-red, orbicular to obovate, ca. 1.8 cm including claw 2-4 mm. Stamens 60-70, dimorphic, antepetalous stamens mostly included. Ovary densely tomentose. Capsules ovoid, 1.2-1.5 cm, 5- or 6-valved, apex tomentose. Seeds including wing ca. 1.1 cm. Fl. Jun-Jul, fr. Oct-Nov.
+
+> Common in mixed forests; low elevations. Hainan [Laos, Thailand, Vietnam].
+灌木至小乔木，有时可成大乔木，高达25米，胸径达50厘米；树皮浅黄色，间有绿褐色块状斑纹，光滑；幼枝密被黄褐色星状绒毛，老枝无毛，灰黑色。叶对生，生于枝上部的互生，厚纸质或薄革质，矩圆状披针形，长6-12厘米，宽2-5.5厘米，顶端渐尖或急尖，基部阔楔形或近圆形，幼嫩时两面被黄褐色星状毛，上面的毛很快脱落而变无毛，侧脉5-8对，近边缘处分叉而互相连接，侧脉间有不整齐的横行小脉，网状脉细密，叶柄长4-8毫米，被黄褐色星状毛。圆锥花序顶生，长6-15厘米或有时更长，密被黄褐色星状绒毛，分枝少；萼陀螺状钟形，长10-12毫米，无棱，外面全部密被黄褐色星状绒毛，内面仅上部被毛，6裂，裂片三角形；花瓣6，淡紫红色，圆形或倒卵形，长18毫米，爪纤细，长2-4毫米；雄蕊60-70，着生于子房近基部；子房3-6室，密被黄褐色粗绒毛，花柱纤细，长达3厘米。蒴果卵形，长12-15毫米，成熟时黑色，5-6瓣裂，无毛或仅顶端密被黄色星状毛；种子顶端有翅，长约11毫米，基部钝形。花期6-7月，果期10-11月。

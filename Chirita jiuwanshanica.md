@@ -1,0 +1,7 @@
+九万山唇柱苣苔",
+23.**Chirita jiuwanshanica** W. T. Wang",
+
+## Description
+Perennials, stemless. Rhizome internodes inconspicuous. Leaves basal, opposite; petiole 7-11 X 2.2-2.6 mm; leaf blade elliptic to ovate, 3-4.8 X 1.5-3 cm, papery, adaxially with short and long hairs, whitish along midrib and lateral veins, eglandular, abaxially puberulent, base oblique, cuneate to rounded, margin crenate to dentate, apex rounded to acute; lateral veins 4 or 5 on each side of midrib, conspicuous. Cymes 2- or 3-flowered; peduncle ca. 6 cm, densely puberulent; bracts 2, free, ovate to narrowly elliptic, ca. 9 X 4.5 mm, puberulent, margin 1-denticulate to subentire, apex acute to obtuse. Pedicel to 1.2 cm, puberulent. Calyx 5-sect from base; segments equal, lanceolate-linear to narrowly triangular, ca. 5 X 0.9-1.2 mm, outside densely puberulent, inside puberulent apically, margin 1- or 2-denticulate, apex attenuate. Corolla purple-blue, ca. 2.7 cm, outside puberulent, inside in longitudinal lines with very short hairs on adaxial lip; tube funnelform-tubular, ca. 2 X 0.9 cm; adaxial lip ca. 3.5 mm; abaxial lip ca. 7 mm. Filaments ca. 9 mm, glandular puberulent; anthers fused by entire adaxial surfaces, 2.8-3 mm, purple strigose at apex; staminodes 2, ca. 3 mm. Pistil ca. 2.8 cm, puberulent; ovary ca. 1 cm. Stigma ligulate-linear, ca. 2 mm, apex nearly truncate and emarginate. Capsule erect, ca. 2.5 cm. Fl. Jun, fr. Aug.
+
+> * Rocks under shrubs in valleys; ca. 700 m. N Guangxi (Rongshui Xian).

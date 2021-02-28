@@ -1,0 +1,15 @@
+鲜绿凸轴蕨",
+1.**Metathelypteris singalanensis** (Baker) Ching Acta Phytotax. Sin. 8: 306. 1963.",
+
+## Description
+Plants 75-95 cm tall. Rhizomes thick and short, erect, apices including stipe bases with dense scales; scales brown, linear-lanceolate, caudate at apices. Fronds clustered; stipes 30-50 cm, stramineous, glabrous above bases, polished; laminae lanceolate to broadly lanceolate, 30-70 × 20-30 cm, bases ± tapering, rounded-truncate, pinnate-pinnatifid, apices acuminate and pinnatifid; pinnae 15-25 pairs, spreading or oblique distally, sessile, proximal pair usually slightly shortened, distal ones linear-lanceolate, sometimes falcate, 12-18 × 2-3.5 cm, bases subtruncate, pinnatifid nearly to costae, apices caudate-acuminate; segments 20-30 pairs, basiscopic ones on costae longer than acroscopic ones, oblong, 8-15 × 3-5 mm, entire or serrate along margins, apices blunt-pointed. Veinlets evident, simple or forked on proximal segments, 6-10(-12) pairs, not reaching margins. Laminae papery, when dry green or yellowish green, glabrous abaxially, or sometimes with sparse short acicular hairs along costae and costules, adaxially with grayish white short acicular hairs along rachises and costae. Sori small, glandular, attached on ends of lateral veins or middle of acroscopic vein on forked lateral veins; indusia small, orbicular-reniform, membranous, when dry brownish yellow, sometimes sinuate along margins, glabrous or sparsely capitate shortly hairy. 2*n* = 144.
+
+> Streamsides in forests; 800-1000 m. SE Hainan [Indonesia, Malaysia, Thailand].
+  "Synonym": "*Nephrodium singalanense* Baker, J. Bot. 18: 212. 1880; *Dryopteris media* Alderwerelt; *D. singalanensis* (Baker) C. Christensen; *Lastrea singalanensis* (Baker) Beddome; *Thelypteris singalanensis* (Baker) Ching.
+**1．鲜绿凸轴蕨（植物分类学报）**
+
+Metathelypteris singalanensis (Bak.) Ching in Acta Phytotax. Sin. 8: 306. 1963; Holtt., Fl, Males. Ser 2, 1(5): 352. 1981.——Nephrodium singalanense Bak. in Journ. Bot. 18: 212. 1880.——Lastrea singalanensis Bedd., Handb. Ferns Brit. Ind. Suppl. 54. 11892.——Dryopteris singalaensis C. Chr., Ind. Fil. 293. 1906 et Suppl. 3: 98. cum syn. 1934; v. A. v. R., Handb. Mal. Ferns 194. 1909. ——Thelypteris singalanensis Ching in Bull. Fan Mem. Inst. Biol. Bot. 6: 334. 1936; K. Iwats. in Mem. coll. Sci. Univ. Kyoto Ser. B, 31(3): 146. 1965; Tagawa et K. Iwats, Fl. Tailand 3(3): 399. f. 38. 1-3. 1988.——Dryopteris media v. A. v. R. in Bull. Jard. Bot. Btzg. 2(11): 9. 1913 et Handb. Mal. Ferns Suppl. 162. 1917.
+
+植株高75-95厘米或过之。根状茎粗短，直立，顶端连同叶柄基部密被鳞片；鳞片棕色，长约7毫米，基部宽约1毫米，线状披针形，顶端狭缩成尾状。叶簇生；叶柄长30-50厘米，禾秆色，基部以上光滑，有光泽；叶片长30-70厘米，宽20-30厘米，披针形至阔披针形，先端渐尖并羽裂，基部多少变狭，圆楔形，二回羽状深裂；片15-25对，平展或斜上，彼此相距3-5厘米，无柄，基部一对通常稍缩短，其上的羽片长12-18厘米，宽2-3.5厘米，线状披针形，有时呈镰状，尾状渐尖头，基部近截形，羽状深裂几达羽轴；裂片20-30对，羽轴下侧的较上侧的为长，长8-15毫米，宽3-5毫米，长圆形，钝尖头，全缘或边缘有锯齿。叶脉明显，侧脉单一，或在下部的裂片上常二叉，每裂片6-10（-12）对，不达叶边。叶纸质，干后鲜绿色或黄绿色，下面光滑，或有时沿羽轴和主脉被极疏的短针毛，上面沿叶轴、羽轴背灰白色的短针毛。孢子囊群小，有腺，生于侧脉的近顶部或分叉侧脉的上侧一脉的中部；囊群盖小，圆肾形，膜质，干后棕黄色，边缘有时具缺刻，光滑或疏被头状短毛。染色体2n＝144。
+
+产海南东南部（陵水，吊罗山，天池）。生溪边林下，海拔800-1 000米。分布于泰国、马来西亚、印度尼西亚（西苏门答腊），海拔1 500-2 100米。模式标本采自印度尼西亚。

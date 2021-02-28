@@ -1,0 +1,8 @@
+流苏苞蕗蕨",
+14.**Hymenophyllum fimbriatum** J. Smith J. Bot. (Hooker). 3: 418. 1841.",
+
+## Description
+Rhizome long creeping, wiry, irregularly branching, ca. 0.5 mm in diam. or thicker, with dark brownish hairs when young, glabrescent; roots irregularly arising from rhizome, with dense long dark brownish root hairs. Stipe 2-7 cm, winged nearly throughout, with wings up to 1 mm wide on each side, entire but decidedly crisped. Rachis substraight or slightly zigzag in upper part, winged throughout, wings similar to those on stipes or less crisped. Lamina tripinnate-quadripinnatifid, oblong to oblong-ovate, 5-10 cm, 2.5-5 cm wide at widest middle portion, base broadly cuneate to subtruncate, apex acute or moderately so; lateral pinnae ascending, shortly stalked in larger ones, oblong-subdeltoid to oblong, 2-4.5 cm in larger ones, up to 1.8 cm wide, base broadly cuneate, apex moderately acute to rounded; pinna rachis winged and appearing like ultimate segments; larger pinnules pinnate to bipinnatifid, or secondary pinnules 1- or 3-forked; ultimate segments up to 1 mm wide, margin entire, moderately undulate to ± crisped, apex rounded to obtuse. Sori at apices of nearly all ultimate segments of apical portion of frond, ± constricted at base; involucres deeply cleft nearly to base, oblong, 1.2-1.6 × 0.8-1.3 mm; lips fimbriate-toothed at apex but teeth somewhat deciduous; receptacles included within valves, cylindric.
+
+> Epiphytic on tree trunks in primary forests; 800-1400 m. E Taiwan [Indonesia (Borneo, Seram), New Guinea, Philippines, Vietnam].
+  "Synonym": "*Mecodium fimbriatum* (J. Smith) Copeland.

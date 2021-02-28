@@ -1,0 +1,6 @@
+冰河棘豆",
+90.**Oxytropis pagobia** Bunge Mém. Acad. Imp. Sci. Saint Pétersbourg, sér. 7. 22(1): 27. 1874.",
+
+## Description
+Herbs, 5-13(-20) cm tall, acaulescent, from a simple to shortly branched caudex, matlike or cushionlike. Stipules with a lanceolate free part, 5-10 mm, white sericeous, basal half ad-nate to petiole. Leaves 3-11 cm, rather long petiolate, 13-21-foliolate; leaflet blades lanceolate to oblong-lanceolate, 5-15 × 1-2.5 mm, both surfaces with appressed trichomes, apex acu-minate. Racemes initially subglobose but becoming lax in late anthesis and fruit, many flowered; peduncle declined, slightly to much longer than leaves, with appressed trichomes; bracts sub-ulate, as long as tube. Calyx campanulate, (3.5-)4-5 mm; lobes subulate, 1-2 mm, 1/3-1/2 as long as tube. Corolla violet fading to dark purple or yellowish white; standard 7-8.5 mm, lamina suborbicular; wings 7-8 mm, as long as standard, apex rounded; keel 6.5-8 mm, beak (0.7-)1.5-2 mm. Legume stipi-tate; stipe (0.7-)1.5-2 mm; body cylindric, 8-9 × ca. 3 mm, declined by flexion of pedicels, membranous, covered with appressed black and white trichomes. Fl. and fr. Jul-Aug. 2*n* = 16*.
+  "Statistics": "● Hillsides, roadsides, shrublands, *Artemisia* steppes, grasslands, subalpine steppes, flooded or wet plains and valleys, dry places between forest margins; 2100-3800 m. Xinjiang.

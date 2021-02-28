@@ -1,0 +1,14 @@
+莲叶橐吾",
+30.**Ligularia nelumbifolia** (Bureau & Franchet) Handel-Mazzetti Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 62: 27. 1925.",
+
+## Description
+Stem erect, 80-100 cm tall, to 1 cm in diam. at base, distally white arachnoid-puberulent and shortly yellow pilose. Basal leaves petiolate; petiole white arachnoid-puberulent, 10-50 cm, base enlarged sheathed; leaf blade peltate, reniform, 7-30 × 13-38(-80) cm, abaxially white arachnoid-puberulent, adaxially glabrous, palmately veined, abaxially with prominent reticulate veins, margin sharply dentate, apex rounded; sinus ca. 1/3 as long as leaf blade, broad, basal lobes suborbicular. Distal stem leaves petiolate; petiole 5-20 cm; sheath enlarged, 4-6 × 2-2.5 cm, white arachnoid-puberulent. Compound corymbs spreading; branches numerous, divaricate, blackish purple, white arachnoid-puberulent and shortly yellow pilose; leaflike and supplementary bracts subulate, minute; peduncles blackish purple, to 1.5 cm, often curved. Capitula numerous. Involucre narrowly cylindric, 10-12 × 3-4 mm, outside glabrous; phyllaries 5-7, in 2 rows, oblong, 2.5-3 mm wide, white ciliate, apex triangular, obtuse; inner phyllaries marginally brown or yellow, broadly membranous. Florets 6-8, rarely to 12, yellow, all tubular, 7-9 mm, slightly extending from involucre; tube as long as limb. Achenes brown, cylindric. Pappus white or yellowish, 6-7 mm, slightly shorter than tubular corolla. Fl. Jul-Sep.
+  "Statistics": "● Forest understories, slopes, alpine meadows; 2400-3900 m. S Gansu, W Hubei, SW and W Sichuan, NE to NW Yunnan.
+  "Synonym": "*Senecio nelumbifolius* Bureau &amp; Franchet, J. Bot. (Morot) 5: 74. 1891; *Senecillis nelumbifolia* (Bureau &amp; Franchet) Kitamura; *Senecio moisonii* H. Léveillé.
+**23.莲叶橐吾（中国高等植物图鉴）图版7: 5-7**
+
+Ligularia nelumbifolia (Bur. et Franch.) Hand.-Mazz. in Sitzgsanz. Akad. Aviss. Wien, Math.-Nat. 62: 27. 1925, Symb. Sin. 7: 1134. 1936 et in Bot. Jahrb. 69: 112. 1938; S. Y. Hu in Quart. Journ. Taiwan Mus. 20: 66. 1967;中国高等植物图鉴 4: 597.图6571. 1975; Lauener in Not. BOt. Gard. Edinb. 34: 370. 1976.——Senecio nelumbifolius Bur. et Franch. in Journ. de Bot. 5: 74. 1891; 林镕, 北研丛刊 3: 219. 1935. ——S. maisonii Levl. in Bull. Acad. Geogr. Bot. 25: 16. 1915. ——Senecillis nelumbrifolia (Bur. et Franch.) Kitam. in Acta Phytotax. Geobat. 8: 87. 1939.
+
+多年生草本。根肉质，多数，簇生。茎直立，高80-100厘米，上部被白色蛛丝状柔毛和黄褐色有节短柔毛，基部直径达1厘米。丛生叶和茎下部叶具柄，柄长10-50厘米，无翅，被白色蛛丝状柔毛，基部有短鞘，鞘略膨大，叶片盾状着生，肾形，长7-30厘米，宽13-38厘米（有时直径达80厘米），先端圆形，边缘具尖锯齿，基部弯缺宽，长为叶片的1/3，两侧裂片近圆形，上面光滑，下面被白色蛛丝状柔毛，叶脉掌状，在下面明显；茎上部叶具短柄，柄长5-20厘米，具极度膨大的鞘，鞘长4-6厘米，宽2-2.5厘米，被白色蛛丝状柔毛，略近膜质。复伞房状聚伞花序开展，分枝极多，叉开，黑紫红色，被白色蛛丝状毛和黄褐色有节短毛；苞片和小苞片线状钻形，极短；花序梗黑紫色，长达1-5厘米，常弯曲；头状花序多数，盘状，总苞狭筒形，长10-12毫米，宽3-4毫米，总苞片5-7.2层，长圆形，宽2.5-3毫米，先端三角形，钝，具白色睫毛，背部光滑，内层具宽的褐色或黄色膜质边缘。小花6-8，稀达12个，长7-9毫米，稍伸出总苞之外，管部与檐部近等长，冠毛长6-7毫米，短于花冠，达檐部的1/2。瘦果（未熟）光滑。花期7-9月。
+
+产云南西北部至东北部、四川西南部至西北部、湖北西部、甘肃西南部。生于海拔2350-3900米的林下、山坡和高山草地。模式标本采自四川康定（打箭炉）。

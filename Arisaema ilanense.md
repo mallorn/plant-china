@@ -1,0 +1,6 @@
+宜兰南星",
+19.**Arisaema ilanense** J. C. Wang Bot. Bull. Acad. Sin. 37: 71. 1996.",
+
+## Description
+Tuber depressed globose, 1.3-3 cm in diam. Cataphylls 3-5, whitish to greenish, fleshy, apex mucronate. Leaves 2; petiole terete, 20-55 cm, basal 10-30 cm sheathing and forming pseudostem; leaf blade pedate; leaflets 7-15, sessile, oblanceolate to elliptic, base cuneate, apex acuminate; central one 10-22 × 2-4.5 cm, longer than or equal to adjacent one. Peduncle 11.5-37 cm, free part 1.5-7 cm, usually much shorter than free part of petiole. Spathe tube pale to greenish yellow outside, dark purple inside, gradually becoming pale to reddish brown proximally, cylindric, slightly auriculate at throat, 6-9 × 1.3-2 cm; limb pale greenish yellow outside, dark purple inside, ovate, 6-10 × 3-5 cm, apex acute or sometimes acuminate. Spadix unisexual, 1.5-2.4 cm in male, 1.5-3.4 cm in female. Appendix distinctly exserted from spathe tube, proximally reddish, distally dark purple to black, clavate, 9-15 cm, proximally gradually narrowed toward floriferous part or sometimes stipitate at base with some echinate neuter flowers, distally bent outward or slightly downward. Fl. Feb-Mar.
+  "Statistics": "● Broad-leaved forests; 1600-1900 m. N Taiwan.

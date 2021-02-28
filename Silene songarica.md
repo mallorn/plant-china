@@ -1,0 +1,17 @@
+准噶尔蝇子草",
+65.**Silene songarica** (Fischer, C. A. Meyer & Ave-Lallemant) Bocquet",
+
+## Description
+Herbs perennial, 15--60 cm tall, densely pubescent throughout. Principal root slender, slightly lignified. Stems caespitose, erect, simple. Basal leaves narrowly lanceolate, 3--9 cm × 3--10 mm, ciliate, base attenuate into petiole, apex acuminate; cauline leaves 3--5 pairs, sessile, linear-lanceolate. Inflorescence 2--6-flowered, rarely more; flowers nutant in early anthesis, soon becoming erect. Pedicel (2--)5--15 mm; bracts linear-lanceolate, herbaceous. Calyx narrowly campanulate, 1.2--1.5 cm × 5--7 mm, densely pubescent, sparsely glandular hairy; longitudinal veins dark green, not cohering at apex; calyx teeth triangular, margin membranous, white, ciliate, apex acute. Androgynophore ca. 1 mm, shortly pubescent. Petals white or pale red, subequaling or longer than calyx, 1.1--1.3 cm; claws oblanceolate, auricles orbicular; limbs obovate, shallowly bifid, with or without a couple of lateral teeth; coronal scales small. Stamens included; filaments glabrous. Styles included. Capsule ellipsoid-ovoid, 1--1.2 cm, shorter than calyx. Seeds dark brown, reniform, 0.8--1 mm, tuberculate. Fl. Jun--Jul, fr. Jul--Aug.
+
+> Gravelly scrub grasslands, alpine meadows; 2000--4700 m. Jilin, Nei Mongol, Xinjiang [Kazakhstan, Mongolia, Russia].
+  "Synonym": "&lt;I&gt;Melandrium songaricum&lt;/I&gt; Fischer, C. A. Meyer &amp; Avé-Lallemant, Index Sem. Hort. Petrop. Suppl. 9: 14. 1844; &lt;I&gt;Lychnis brachypetala&lt;/I&gt; Fischer ex Hornemann; &lt;I&gt;L. mongolica&lt;/I&gt; Maximowicz; ?&lt;I&gt;Melandrium auritipetalum &lt;/I&gt;Y. Z. Zhao &amp; P. Ma; &lt;I&gt;M. baicalense&lt;/I&gt; Sukaczev ex Tolmatchew; &lt;I&gt;M. brachypetalum&lt;/I&gt; (Fischer ex Hornemann) Fenzl; &lt;I&gt;M. irikutense&lt;/I&gt; Kitagawa; &lt;I&gt;M. mongolicum&lt;/I&gt; (Maximowicz) Grubov; &lt;I&gt;Silene duthiei&lt;/I&gt; Majumdar.
+**39. 准噶尔蝇子草（中国高等植物图鉴补编） 短瓣女娄菜（拉汉种子植物名称），兴安女娄菜（东北植物检索表） 图版79：5-9**
+
+Silene songarica (Fisch., Mey. et Ave-Lall.) Bocquet in Candollea 22 (1): 3. 1967 et Pnaner. Monogr. 1: 13. 1969; 中国高等植物图鉴补编1: 320. 1982.——Melandrium songaricum Fisch. , Mey. et Ave-Lail. in Suppl. Ind. Sem. Hort. Petrop. 9: 14. 1844.——Lychnis brachypetala Horn. , Suppl. Hort. Bot. Hafn. 51. 1819. ——Melandrium brachypetalum (Horn.) Fenzl in Ledeb. Fl. Ross. 1: 326. 1842; Tolm. in Kom. Fl. USSR 6: 722. tab 44. fib. 7. 1936; 东北草本植物志3: 62. 图版23. 图4-8. 1975; Y. Z. Zhao in Act. Sci. Nat. Univ. Intramongol. 16 (4): 588. 1985, non Silene brachypetala Robil. et Cast. ex DC. (1815). ——Lychnis mongolica Maxim. , Enum. Pl. Mongol. 94. tab. 13. 1889. ——Melandrucm baicalense Suk. ex Tolm. In Trav. Mus. Bot. Acad. Sci. UssR 24: 265. 1932. ——M. irikutense Kitagawa in Bot. Mag. Tokyo 48: 95. 1934. ——M. mongolicum (Maxim.) Grub. , Consp. Fl. Mongol. 132. 1955; грубов, Опред. Сос. Раст. Монг. 104. табπ. 45: 213. 1982. ——Silene duthiei Majumdar in Journ. Ind. Bot. Soc. 42: 648. 1963.
+
+多年生草本，高15-60厘米，全株密被长柔毛。主根细长，稍木质。茎丛生，直立，不分枝。基生叶叶片狭披针形，长3-9厘米，宽3-10毫米，基部渐狭成柄状，顶端渐尖，边缘具缘毛，中脉明显；茎生叶3-5对，叶片线状披针形，无柄。总状花序常具2-6花，稀更多；花直立或俯垂，花梗长5-15毫米；苞片线状披针形，草质；花萼狭钟形，长12-15毫米，宽5-7毫米，密被短柔毛和稀疏腺毛，纵脉暗绿色，脉端不连结，萼齿三角形，顶端急尖，边缘膜质，白色，具缘毛；雌雄蕊柄被短柔毛，长约1毫米；花瓣白色或淡红色，与花萼等长或微露出花萼，长11-13毫米，爪倒披针形，耳圆形，瓣片轮廓倒心形，浅2裂，裂片边缘有时具1不明显的齿，副花冠片小，近卵形；雄蕊内藏，花丝无毛；花柱内藏，线形。蒴果椭圆状卵形，长10-12毫米，10齿裂，比宿存萼短；种子肾形，长约0.8毫米，暗褐色，两侧耳状凹，脊厚，具小瘤。花期6-7月，果期7-8月。
+
+产吉林、内蒙古和新疆。生于海拔2 000-4 700米多砾石的灌丛草地或高山草甸。俄罗斯（西伯利亚、远东地区）、哈萨克斯坦和蒙古也有。模式标本采自准噶尔阿拉套山。
+
+本种与尼泊尔蝇子草 S. nepalensis Majurndar 相似，区别在于花序总状，具少数花；花萼长1.2-1.5毫米；花瓣浅2裂等。

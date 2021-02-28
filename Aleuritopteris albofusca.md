@@ -1,0 +1,15 @@
+小叶中国蕨",
+2.**Aleuritopteris albofusca** (Baker) Pichi Sermolli Nuovo Giorn. Bot. Ital., n.s.,. 53: 154. 1946.",
+
+## Description
+Rhizomes erect, short; scales bicolorous, chestnut-black with narrow, brown margins, lanceolate. Fronds clustered. Stipe 4-12 cm. Lamina dull green adaxially when dry, as long as broad, 3.5-6 cm, tripartite, leathery, abaxially white farinose. Middle pinna somewhat rhombic, as long as wide, 3-5 cm, 2-pinnatifid, base cuneate and decurrent, usually connected with lateral pinnae by a narrow wing, rarely free, apex acuminate; pinnules 4 or 5 pairs, proximal pair largest, 2-3 × 0.4-0.8 cm, linear-lanceolate, apex obtuse or acute; ultimate segments 6-9 pairs, oblong or triangular, margins entire, apex obtuse or obtusely acute. Lateral pinnae triangular, 2-4 × 2-3 cm, inequilateral, 2-pinnatifid; proximal basiscopic segment especially enlarged, lanceolate or oblong, 1-2 × 0.3-0.6 cm, pinnatifid, apex shortly acuminate or acute, connected to costule by narrow wings. Veins free, prominently raised abaxially. Sori consisting of 1(or 2) large sporangium, sporangia with broad annulus. False indusia usually wide, continuous, margins irregularly undulate-crenulate.
+
+> ● Rock crevices under trees and shrubs; 500-3200 m. Gansu (Wenxian), Guizhou, Hebei, S Hunan, Sichuan, Xizang, Yunnan.
+  "Synonym": "*Cheilanthes albofusca* Baker, Bull. Misc. Inform. Kew 1895: 54. 1895; *C. mairei* Brause; *Sinopteris albofusca* (Baker) Ching; *S. hopeiensis* C. Christensen &amp; Ching.
+**2.小叶中国蕨（中国主要植物图说 蕨类植物门）云南中国蕨（秦岭植物志）图版38：13-15**
+
+Sinopteris albofusca (Bak.) Ching in Sunyatsenia 6:11. 1941; Pic. Ser. Ind. Fil. Suppl. 4: 273. 1965; Ic. Corm. Sin. 1: 161, f. 322. 1972; F1. Tsinling. 2: 63, t. 15, f. 7-10. 1974; Y. L. Chang et al. Sporae Pterid. Sin. 170, t. 33, f. 6, 10. 1976.——Cheilanthes albofusca Bak. in Kew Bull. 54. 1895; C. Chr. Ind. Fil. 171. 1906 et in Acta Hort. Gothob. 1: 89. 1924.——Aleuritopteris albofusca Pic. Ser in Nuov. Giorn. Bot. Ital. ser. 2. 53: 154. 1946.——Cheilanthes mairei Brause in Hedwigia 54: 202, t. 4, f. D. 1924.——Sinopteris hopeiensis C. Chr. et Ching in Fan Mem. Inst. Biol. Bot. 4: 361, t. 2. 1933; C. Chr. Ind. Fil. Suppl. 3: 171. 1934 傅书遐, 中国主要植物图说 蕨类植物门 82, 图 102. 1957; 北京大学生物系, 北京植物志, 上册, 76, 图12. 1962; Y. L. Chang et al. Sporae Pterid. Sin. 170, t. 33, f. 4, 5. 1976.
+
+植株高7-16厘米。根状茎短而直立，被栗黑色而有棕色狭边的披针形鳞片。叶簇生；柄长4-12厘米，粗约1毫米，栗黑色或栗红色，有光泽，基部疏被狭卵状披针形鳞片向上先滑；叶片五角形，长3.5-6厘米，宽几相等，三裂，中央羽片最大，近菱形，长宽各3-5厘米，渐尖头，基部扩大成小耳状并楔形下延，而与侧生羽片相连（少有分离），二回羽状深裂；小羽片4-5对，斜展，有狭的间隔分开，基部一对最大，长可达3厘米，宽4毫米，线状披针形，先端钝或急尖，深羽裂达羽轴的狭翅；裂片6-9对，长圆形或三角形，钝头或钝尖头，全缘；向上的小羽片渐短，基部下侧扩大成小耳状，并呈楔形下延而彼此相连；侧生羽片三角形， 斜向上，长2-4厘米，基部宽2-3厘米，短渐尖头，不对称的二回羽状深裂，羽轴上侧的小羽片较下侧的为短，披针形或长圆形，钝尖头，边缘有几个小圆齿；羽轴下侧的小羽片较长，基部一片尤长，斜指下方，长约1-2厘米，宽3-6毫米，披针形或长圆形，短尖头或急尖头，羽状深裂达小羽轴狭翅，向上的小羽片逐渐缩短，斜展，浅裂至全缘。叶脉在末回小羽片上羽状分叉，栗棕色，极斜向上，上面不见；下面明显凸出，彼此密接成瓦楞形。叶干后革质，上面暗绿色，平滑无毛；下面被腺体，分泌白色腊质粉末；叶轴及各回羽轴和叶柄同色。孢子囊群生小脉顶端，囊群盖膜质，淡棕色至褐棕色，连续，通常较阔，幼时几达主脉，边缘具不整齐的浅波状圆齿。
+
+产北京（龙门涧）、河北（涞源）、甘肃（文县）、湖南南部、四川（康定、九龙、郎打、冕宁、雅江、宝兴、木里）、贵州（赫章）、云南（昆明、鹤庆、丽江、鸡足山）、西藏（折那）。生林下及灌丛石灰岩缝，海拔500-3200米。模式标本采自云南西部。

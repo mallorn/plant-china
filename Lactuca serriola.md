@@ -1,0 +1,15 @@
+野莴苣",
+12.**Lactuca serriola** Linnaeus Cent. Pl. 2: 29. 1756.",
+
+## Description
+Herbs 50-80 cm tall, annual. Stem solitary, pale, erect, usually branched only apically, glabrous or prickly setose in basal part. Leaves rather rigid, usually held in vertical plane in sunshine, midrib abaxially often prickly setose. Lower and middle stem leaves oblanceolate to narrowly elliptic, 3-7.5 × 1-4.5 cm, pinnatifid, pinnatisect, or more rarely not divided and leaf broadly linear, base auriculately clasping, margin spinulose; lateral lobes usually 3-6 pairs, truncate, falcate, triangular-falcate, or ovate-falcate; terminal lobe triangular-ovate, rhombic, or broadly linear. Uppermost stem leaves smaller, otherwise similar to middle stem leaves or lanceolate, linear-lanceolate, or linear, margin entire. Synflorescence paniculiform and much branched to almost racemiform in meager plants, with numerous capitula. Capitula with 15-25 florets. Involucre narrowly cylindric and 8-10 mm at anthesis, ovoid and ca. 6 mm in diam. in fruit. Phyllaries usually reflexed in fruit, apex acute; outer phyllaries ovate to lanceolate, approaching inner phyllaries in length; inner phyllaries ca. 8. Florets yellow. Achene body pale brown, narrowly obovoid, ca. 3.5 mm, compressed, with 7-9 ribs on either side; beak whitish, filiform, 3.5-5 mm. Pappus ca. 5 mm, ± caducous. Fl. and fr. Jun-Aug. 2*n* = 18.
+  "Reference": "Because molecular analyses supported the earlier assumptions on morphological grounds that *Lactuca altaica* cannot be delimited from *L. serriola* they are treated as conspecific.Because molecular analyses supported the earlier assumptions on morphological grounds that *Lactuca altaica* cannot be delimited from *L. serriola* they are treated as conspecific.
+  "Statistics": "Wastelands, roadsides, gravel areas on floodplains, rock crevices, grasslands on mountain slopes, mountain valleys; 500-2000 m. Taiwan (introduced), Xinjiang [Afghanistan, N India, Kashmir, Kazakhstan, Kyrgyzstan, Mongolia, W Russia, Tajikistan; N and NE Africa, SW Asia, Europe].
+  "Synonym": "*Lactuca altaica* Fischer &amp; C. A. Meyer; *L. scariola* Linnaeus.
+**3.阿尔泰莴苣 图版54: 1-2**
+
+Lactuca altaica Fisch. et Mey. in Ind. Sem. Hort. Petrop. 11: 73. 1846; Kirp. in Fl. URSS 29: 303. 1964; 中国高等植物图鉴4: 689.图6792. 1975; Shih in Act. Phytotax. Sin. 26: 384. 1988. ——Lactuca saligna auct. non L.: Ledeb., Fl. Alt. 4: 155. 1833.
+
+二年生草本，高40-70（120）厘米。根垂直直伸。茎单生，直立，基部带紫红色，有白色硬刺或无白色硬刺，上部圆锥花序状或总状圆锥花序状分枝，全部茎枝黄白色。基部或下部茎叶披针形或长披针形，长5-17厘米，宽1-1.5厘米，基部渐狭无柄，通常边缘全缘，极少边缘有凹缺状锯齿或羽状浅裂，中上部茎叶渐小，线形、线状披针形或长椭圆形，边缘全缘，全部叶基部箭头形，下面沿中脉常有淡黄色的刺毛。头状花序多数，在茎枝顶端排列成圆锥花序或总状圆锥花序，有7-15枚舌状小花。总苞长卵球形，长1.3厘米，宽约6毫米；总苞片5层，外层及最外层三角形或椭圆形，长2-3.5毫米，宽1-1.2毫米，顶端急尖或钝，中层披针形，长约8毫米，宽约2毫米，顶端急尖，内层线状长椭圆形，长1.3厘米，宽1.2毫米，顶端短渐尖，外层总苞片或全部总苞片或中内层总苞片有时紫红色，全部总苞片外面无毛。舌状小花7-15枚，黄色。瘦果倒披针形，压扁，浅褐色，长3. 5毫米，宽约1毫米，每面有6-8条高起的细肋，上部有上指的短糙毛，顶端急尖成细喙，喙长3毫米，细丝状。冠毛白色，微锯齿状，长约5毫米。花果期8-9月。
+
+分布新疆（阿勒泰、布尔津、塔城、沙湾、玛纳斯、乌鲁木齐、伊宁、巩留、昭苏）。生于山谷及河漫滩，海拔750-2 000米。俄罗斯（欧洲部分、西伯利亚）以及高加索、东地中海地区、哈萨克斯坦、乌兹别克斯坦、伊朗有分布。模式标本采自阿尔泰山区。

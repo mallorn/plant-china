@@ -1,0 +1,19 @@
+花丽早熟禾",
+17.**Poa calliopsis** Litvinov ex Ovczinnikov",
+
+> Most material placed here is of low-growing plants with long, slender rhizomes and delicate panicles with pendent spikelet clusters. Hybrids with *Poa qinghaiensis* are occasionally found in the NE Xizang-Qinghai Plateau. Intermediates are stouter and have larger spikelets and more scabrid lemma and palea keels than are typical for *P. calliopsis*, but the lemmas are strongly pubescent on the keel and marginal veins. Such plants are difficult to separate from *P. lipskyi*, except that they have the more pendent spikelet clusters typical of *P. calliopsis* and *P. qinghaiensis*, and often a trace of webbing on the callus, and might be referred to *P. pratensis* subsp. *staintonii*.
+
+## Description
+Perennials, with small tufts or isolated shoots, with slender rhizomes; shoots extravaginal. Culms erect, mostly solitary, 3–15(–25) cm tall, 0.5–1 mm in diam., smooth, nodes 1 or 2(–3), none or 1 exserted, uppermost 1/5–1/3 way up. Leaf sheaths smooth, ribs indistinct, lower ones 1.5–2 mm wide, 1.5–6.5 cm, 1–4 × as long as blade, uppermost closed for 1/3 of length, basal ones soon becoming fibrous, not persisting; blade flat or folded, moderately thin, 0.3–4 cm × 1–3 mm, abaxially smooth, adaxially smooth or finely scabrid, glabrous, margins scabrid, apex prow-tipped, of tillers and lower culm frequently curved, 1–4(–7) cm; ligule 0.5–2(–3) mm, abaxially smooth, apex truncate to obtuse, collars smooth, glabrous, uppermost erect or slightly divergent. Panicle initially contracted, ovoid, later open and pyramidal, 1.2–5 × 1.5–4 cm, longest internodes 0.25–1.3 cm; branches (1 or)2 per node, eventually spreading to reflexed, flexuous, rounded, smooth or distally scabrid, longest 0.7–2.5 cm, with 2–12 spikelets clustered distally; flowers perfect or female, sometimes whole inflorescence female. Spikelets broadly elliptic or ovate, golden tawny or purple, 3.5–4.5 mm, florets (1–)2 or 3; vivipary usually absent; rachilla internodes 0.3–0.6 mm, smooth, glabrous; glumes elliptic or ovate or subflabellate, subequal, smooth or keel with a few hooks, lower glume (2–) 2.25–3.3 mm, 1- or 3-veined, upper glume (2.2–)2.5–3.8 mm, 3-veined; lemmas broadly oblong, slightly arched along keel, 2.75–4.2(–4.7) mm, upper 1/4–1/2 membranous, turning golden-brownish, apex obtuse to acute, keel villous for 1/2 of length, marginal veins villous for 1/4 of length, area between veins smooth, glabrous or infrequently proximally pilulose; callus webbed, hairs dense, 1/2 as long as lemma; palea glabrous or proximally pilulose between keels, keels sparsely scabrid, 2–6 hooks per keel. Anthers 1.5–2 mm, or vestigial, ca. 0.1 mm. Fl. and fr. Jul–Aug. 2*n* = 28.
+
+> Alpine areas, meadows, waterside grassy places; 3000–3700 (–5400) m. Gansu, Qinghai, Sichuan, Xinjiang, Xizang, Yunnan [Bhutan, India, Kyrgyzstan, Nepal, Pakistan, Tajikistan].
+  "Synonym": "*Poa phariana* Bor.
+**13．花丽早熟禾（新疆植物志）图版22：5**
+
+Poa calliopsis Litw. ex Ovcz. in Izv. Tadzhik. Bazy Bot. 1: 11, 18, 1933. et in Kom. Fl. URSS 2: 414. 755. 1934; Bor, Grass. Burma Ceyl. Ind. Pakist. 556. 1960. et Rech. f. Fl. Iran. 70: 40. 1970; Tzvel. in Fed. Poac. URSS 459. 1976; T. A. Cope in Nasir, Fl. Pakist. 143: 410. 1982; 西藏植物志5: 104, 图54. 1987; 横断山区维管植物2: 2188. 1994: 新疆植物志6: 91, 图版27: 5-7. 1996.
+
+多年生，具根状茎之矮小草本。秆直立，高5-15厘米，基部残存撕裂或纤维状的枯老叶鞘。叶舌长1.5-2毫米；叶片对折或扁平，长1-4厘米，宽1.5-2毫米，顶端骤缩成钝头，边缘微粗糙。圆锥花序长圆形或金字塔形，长2-5厘米；分枝单生或孪生，纤细而曲折，平滑或微粗糙，花后水平开展或向下弯曲；小穗簇生于分枝先端，含2-3小花，长3.5-4毫米，宽椭圆形或卵形，金黄色或紫色；两颖近相等，椭圆形或卵形，长2.3-2.8毫米，第一颖具1（-3)脉，第二颖较宽，具3脉；外稃宽长圆形，顶端圆形，脊与边脉下部具长柔毛，基盘具多量绵毛，第一外稃长约3.5毫米，向上渐小；内稃稍短于外稃，脊下部平滑，上部具少数钝锯齿；花药长1.5-2毫米，有时具退化的花药。花果期7-8月。
+
+产西藏、四川北部、新疆（昆仑山）、青海。生于高山带、草甸、水边草地，海拔3000-3700（-5400）米。分布于印度西北部、巴基斯坦、伊朗、俄罗斯、中亚。模式标本采自帕米尔。
+
+本种以植株十分矮小，外稃宽而质薄，顶端圆形，具宽膜质边缘，膜质以下的部分呈金黄色或紫色，易与其他种相区别。

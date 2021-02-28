@@ -1,0 +1,14 @@
+肉茎蛇根草",
+8.**Ophiorrhiza carnosicaulis** H. S. Lo Bull. Bot. Res., Harbin. 10(2): 60. 1990.",
+
+## Description
+Herbs, apparently ascending; stems stout, subglabrous. Leaves in subequal pairs; petiole 1.5-7 cm, subglabrous; blade drying thickly papery, brownish yellow with veins dark brown abaxially, broadly ovate or broadly elliptic, 11-16 × 5.5-10 cm, glabrous on both surfaces, base subrounded, decurrent, ± inequilateral, margins entire, apex cuspidate; secondary veins 7 or 8 pairs; stipules caducous, not seen. Inflorescence slightly sparse, many flowered, pubescent; peduncle ca. 3 cm; axes helicoid, 2-3 cm; bracteoles subulate-ensiform, 2-3 mm, costate, obtuse. Flowers distylous, subsessile. Calyx pilosulous; hypanthium turbinate, 1.5-2 mm, 10-ribbed; lobes triangular, 0.6-0.7 mm, usually with 1 gland in each sinus. Corolla pale purple, subtubular, glabrous outside; tube ca. 14 mm, pilose in basal portion inside; lobes ovate-triangular, ca. 2 mm, dorsally with very short horn, apex rostrate. Capsules dark purple, mitriform, ca. 5 × 12 mm, pilosulous. Fl. Jun-Jul.
+  "Reference": "The protologue described the flowers as distylous but noted that long-styled flowers had not been seen; the putative short-styled flowers were described as having the anthers positioned just below the throat and the stigmas in the lower part of the corolla tube. The protologue figure was reproduced but not exactly by FRPS (71(1): 159, t. 40, f. 1-6. 1999); in particular, the protologue figure shows the calyx as pilosulous and the corollas as pilose internally in the basal portion, but the FRPS figure depicts the calyx and the corollas as glabrous.The protologue described the flowers as distylous but noted that long-styled flowers had not been seen; the putative short-styled flowers were described as having the anthers positioned just below the throat and the stigmas in the lower part of the corolla tube. The protologue figure was reproduced but not exactly by FRPS (71(1): 159, t. 40, f. 1-6. 1999); in particular, the protologue figure shows the calyx as pilosulous and the corollas as pilose internally in the basal portion, but the FRPS figure depicts the calyx and the corollas as glabrous.
+  "Statistics": "● Wet places in forests. Yunnan (Hekou).
+**53. 肉茎蛇根草（植物研究）图版40：1-6**
+
+Ophiorrhiza carnosicaulis Lo in Bull. Bot. Res. 10 (2): 60, fig. 21. 1990.
+
+草本；茎枝粗壮，肉质，近无毛。叶厚纸质，阔卵形或椭圆形，长11-16厘米，宽5.5-10厘米，顶端骤尖，基部近圆形，多少下延，两侧稍不对称，全缘，两面无毛，干时下面变褐黄色；侧脉稀疏，每边7-8条，上面不很明显，下面干时变茶褐色，稍宽而扁，很明显，网脉两面均不明显；叶柄粗壮，长1.5-7厘米，近无毛；托叶脱落，未见。花序顶生，稍疏散，多花，总梗稍肉质，长约3厘米，分枝螺状，长2-3厘米，均被短柔毛；花二型，花柱异长；短柱花：花梗粗壮，长约1毫米；小苞片生花梗基部，钻状剑形，长2-3毫米，稍肉质，有中脉，钝头；萼管陀螺状，具10棱，长1.5-2毫米，被短柔毛，裂片5，三角形，长0.6-0.7毫米，裂片间通常有腺体；花冠淡紫色，近管状，外面无毛，里面近基部被疏柔毛，管长约14毫米，裂片5，卵状三角形，长约2毫米，顶端内弯呈喙状，背面近顶部有一距状附属体；雄蕊5，生冠管之喉部，花丝长约1毫米，花药长约3毫米；花柱长约3.5毫米，近无毛，柱头2裂，裂片长圆状线形，长约3.5毫米，伸至花药近基部或中部；长柱花未见。蒴果暗紫色，僧帽状，宽12毫米，长5毫米。花期6-7月。
+
+我国特有，产于云南河口；生于林下湿处。

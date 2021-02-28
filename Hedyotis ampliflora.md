@@ -1,0 +1,17 @@
+广花耳草",
+2.**Hedyotis ampliflora** Hance J. Bot. 17: 11. 1879.",
+
+## Description
+Herbs or shrubs, perennial, lianescent, clambering, twining, or scandent, to perhaps 1 m; stems flattened to subterete, smooth to sulcate, densely hirtellous or pilosulous throughout or in lines, to glabrescent. Leaves petiolate; petiole 2-6 mm, densely hirtellous to puberulent; blade drying papery, lanceolate, broadly lanceolate, elliptic, or narrowly elliptic, 2-7 × 0.8-3 cm, adaxially hispidulous or strigillose along midrib to throughout, abaxially hispidulous or hirtellous to glabrous, base cuneate to obtuse, apex acute or shortly acuminate; secondary veins 3 or 4 pairs; stipules fused to petiole bases, densely hirtellous to hispidulous, sheath portion 1-3 mm, truncate to triangular, apex lacerate into 3-5 narrowly triangular to linear bristles or lobes 1-6 mm. Inflorescences terminal and occasionally also in axils of uppermost leaves, compound-cymose, corymbiform, 3-12 cm, several to many flowered, densely to sparsely hirtellous to puberulent, pedunculate; peduncles 1-3.5 cm; axes dichotomous, spreading; bracts triangular, lanceolate, or narrowly elliptic, 1-7 mm; pedicels 1-3.5 mm. Flowers pedicellate, apparently distylous. Calyx glabrous to densely hirtellous; hypanthium portion subglobose or turbinate, 0.8-1 mm; limb lobed for 3/4-4/5; lobes lanceolate to spatulate, 1.2-1.8 mm, acute, usually spreading to reflexed. Corolla white or greenish white, tubular to salverform, outside granular-puberulent; tube ca. 1 mm, barbate in throat; lobes lanceolate to spatulate, 2-2.5 mm, acute. Anthers partially or long exserted, 0.8-1 mm. Stigmas in short-styled form not seen, or exserted and ca. 0.3 mm. Fruit capsular, subglobose to ovoid, sometimes slightly flattened, 2.5-3 × 2-2.5 mm, glabrous to densely hirtellous, cartilaginous to stiffly papery, loculicidal then septicidal across top then tardily along sides, beak conical, ca. 1 mm; seeds numerous, blackish brown, angled. Fl. May-Nov, fr. Oct-Nov.
+  "Reference": "The Kew Rubiaceae checklist (Govaerts et al., World Checkl. Rubiaceae; http://www.kew.org/wcsp/rubiaceae/; accessed on May 2007) reports this species also from Vietnam; it is not listed in the Vietnam checklist.The Kew Rubiaceae checklist (Govaerts et al., World Checkl. Rubiaceae; http://www.kew.org/wcsp/rubiaceae/; accessed on May 2007) reports this species also from Vietnam; it is not listed in the Vietnam checklist.
+  "Statistics": "● Sparse forests or thickets on mountain slopes; 100-400 m. Hainan.
+  "Synonym": "*Oldenlandia ampliflora* (Hance) Kuntze.
+**46. 广花耳草（海南植物志）图版11：9-14**
+
+Hedyotis ampliflora Hance in Journ. Bot, 17: 11. 1879; Hemsl. in Journ. Linn. Soc. Bot. 23: 373. 1888; Merr. in Lingnan Sci. Journ. 5: 171. 1927; 海南植物志3: 305. 1974; 中国高等植物图鉴4: 215, 图5944. 1975. ——Oldenlandia ampliflora (Hance) Kuntze, Rev. Gen. Pl. 1: 292. 1891.
+
+藤状灌木；老茎光滑无毛；小枝幼时有明显的纵槽，槽内常有短硬毛。叶对生，纸质，披针形或阔披针形，长3.5-7厘米或过之，宽1.5-3厘米，顶端短尖或短渐尖，基部楔形或阔楔形，上面仅在中脉上有稀疏粗伏毛，下面被毛长而硬，罕无毛；侧脉明显，每边3-4条，与中脉成锐角伸出，几乎直伸向上；叶柄略宽，长2-5毫米；托叶被毛或无毛，基部合生，宽阔，顶部撕裂成3-5条刚毛状的裂片。花序顶生，为伞房花序式排列的聚伞花序，有长2-3.5厘米的总花梗；苞片微小或缺；花4数，有长1-3毫米的花梗；萼管半球形或陀螺形，长1-1.4毫米，萼檐裂片披针形，具羽状脉，与萼管等长或略长，顶端短尖，花后外反；花冠白色或绿白色，管形，长约3毫米，被粉末状柔毛，喉部密被白色硬毛，花冠裂片披针形，长于冠管，顶端内弯；雄蕊生于冠管近基部，花丝长0.8-1毫米，花药伸出，近长圆形，两端钝；花柱微伸出，被白色柔毛，柱头厚，2裂。蒴果球形，略扁，宽2-2.5毫米，无毛或被疏毛，顶部隆起，有长2-2.5毫米、外反的宿存萼檐裂片，成熟时开裂为2果爿，果爿腹部直裂；种子多数，具棱，干后黑褐色。花期6-8月。
+
+产于海南海口、临高、澄迈、保亭、万宁、文昌、陵水和儋县等地；生于疏林下或山坡灌丛中。模式标本采自海南海口市郊区。
+
+据《广东药用植物手册》记载，全草入药，有滋补、祛风湿、强筋骨、治跌打等疗效。对风湿麻痹、腰腿酸痛等疾病均有一定的疗效。

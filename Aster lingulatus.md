@@ -1,0 +1,15 @@
+舌叶紫菀",
+86.**Aster lingulatus** Franchet J. Bot. (Morot). 10: 377. 1896.",
+
+## Description
+Herbs, perennial, (15-)30-45 cm tall; rhizomes procumbent or ascending, stout. Stems erect or ascending, simple, leafy, moderately strigose and villosulous, eglandular. Leaves basal and cauline; cauline leaves slightly reduced upward, both surfaces scabrous, abaxially sparsely to moderately minutely stipitate glandular, adaxially eglandular, thick; basal leaves withered at anthesis, ascending, narrowly winged petiolate (petiole to 7 cm); blade oblanceolate or spatulate, 0.5-7 × 0.4-2.3 cm, base attenuate, margin serrate, apex obtuse to acute; lower cauline leaves withered or persistent at anthesis; cauline leaves petiolate to sessile, oblanceolate to lanceolate, 4-7 × 0.8-1.3 cm, base attenuate, often semiamplexicaul, margin serrate or entire, apex obtuse or rounded to acute; uppermost leaves erect or ± spreading, lanceolate to narrowly lanceolate, 2-5 × 0.5-1.5 cm, base amplexicaul, margin slightly sinuate, entire, sometimes few serrate, apex obtuse or rounded. Capitula 2-5 in terminal corymbiform synflorescences, rarely solitary, 2-3 cm in diam.; peduncles 1-3 cm; bract 1 or absent, linear-lanceolate, densely strigillose and villosulous, eglandular. Involucres hemispheric, 0.7-1.2 cm in diam.; phyllaries 3-seriate, subequal, middle area green, 7-8 × 1-1.5 mm, densely pilose, ± ?leaflike, margin scarious, slightly erose, sparsely ciliate, midvein inconspicuous, apex acute, dark purple, ciliate; outer phyllaries oblong; inner phyllaries lanceolate. Ray florets 22-28, blue-purple, tube glabrous, eglandular, lamina 15-18 × 2.2-2.5 mm, glabrous, eglandular; disk florets yellow, 5-6 × 3.5-4.5 mm, proximally sparsely hairy, lobes spreading, triangular, 1.2-2 mm. Achenes broadly obovoid, ± compressed, ca. 3 × 2 mm, moderately strigillose, sparsely minutely stipitate glandular distally, margin densely strigillose-ciliate, 2-ribbed. Pappus 4-seriate, straw-colored or sometimes purplish, bristles barbellate throughout; outermost bristles few, slender, ca. 1 mm; outer bristles few, slender, 2-2.5 mm; inner bristles 4-4.5 mm, acute; innermost bristles ca. 5 mm, ± clavate. Fl. Aug-Oct.
+  "Statistics": "● Alpine or subalpine grassy slopes; 2600-3600 m. W Sichuan, NW Yunnan.
+**58. 舌叶紫菀**
+
+Aster lingulatus Franch., in Journ. de Bot. 10: 377. 1896; Hand. -Mazz. in Notizbl. Bot. Gart. u. Mus. Berl. -Dahl. 13: 619, 1937, non Onno; S. Y. Hu in Quart. Journ. Taiwan Mus. 18: 292, 1965.
+
+多年生草本，根状茎横走或斜升，上部粗厚，被枯叶残片，有单生或莲座状叶丛丛生的花茎。茎直立或斜升，高15-35厘米，被开展的长毛，上部有分枝，稀不分枝，下部有较密的叶。下部叶在花期枯萎或生存，长圆状匙形，长3-7厘米，宽0.5-1厘米，下部渐狭，全缘或有微齿，顶端钝或圆形；中部叶长圆形或线状长圆形，基部稍狭，常半抱茎；上部叶较小，直立或稍开展；全部叶质厚，两面密被微糙毛。头状花序径2-3厘米，2-4个排列成伞房状，稀单生。总苞半球形，径0.7-1.2厘米；总苞片约3层，外层较短或与内层等长，线状长圆形，被密毛，顶端渐尖且常紫褐色，宽约1毫米，外层草质；内层上部草质，边缘膜质，常有缘毛。舌状花约30个；舌片蓝紫色，长15-18毫米。管状花长约4毫米。冠毛带红色，约与管状花等长。瘦果倒卵圆形，稍扁，长几达2毫米，被密绢毛。花期8-10月。
+
+分布于云南西北部（中甸、德钦、丽江、鹤庆等）及四川西部。生于亚高山或高山草地或松林下。海拔2600-3600米。
+
+与石生紫菀 (A. oreophilus Franch.) 极近似，主要以总苞片较狭且上端渐狭尖为区别。分布区也与该种相同。此两种的区别虽经前人指出，但有中间型存在，似可作为不同的变种。

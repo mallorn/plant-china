@@ -1,0 +1,6 @@
+黄花槐",
+6.**Sophora xanthoantha** C. Y. Ma Acta Phytotax. Sin. 20: 468. 1982.",
+
+## Description
+Herbs or subshrubs, less than 1 m. Stem and branches densely golden velutinous. Leaves 15-20 cm; stipules cadu-cous; leaflets 17-25, opposite, oblong or long elliptic, 2.5-3.5 × 1-1.5 cm, papery, densely golden velutinous abaxially, especial-ly on midrib and petiole, sparsely gray-white hairy adaxially, both ends obtuse; veinlets evident abaxially. Racemes terminal, 6-8 cm. Flowers dense; bracts subulate, equal to calyx. Calyx campanulate, ca. 7 mm; teeth 5, triangular, unequal, pilose. Co-rolla yellow; standard oblong or nearly oblong, ca. 11 mm, apex retuse, 2-auriculate at middle, narrowing to claw, ca. 3 mm; wings equal to standard, hastate, apex beaked; keel slightly shorter than wings, 1-auriculate. Stamens 10, slightly fused and sparsely very shortly hairy at base. Ovary densely brown hairy on both sides; ovules many; style straight, glabrous; stigma very small, capitate, sometimes shortly hairy. Legumes moniliform, 8-13 × 0.8-1 cm, villous, beak 1-2 cm, base with neck 1.5-4 cm, 2-dehiscent. Seeds 2-4, green, long elliptic, 9-10 × 4-5 mm, rounded at one end, acute at other end.
+  "Statistics": "● Hill meadows; 500-1800 m. Yunnan.

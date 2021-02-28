@@ -1,0 +1,16 @@
+线舌紫菀",
+103.**Aster bietii** Franchet J. Bot. (Morot). 10: 373. 1896.",
+
+## Description
+Herbs, perennial, 14-45 cm tall, sometimes caespitose; rhizomes robust, sometimes with short stolons. Stems erect or ascending, simple, sparsely villous (crosswalls purple), distally minutely stipitate glandular. Leaves basal and cauline; cauline leaves gradually reduced, thin, abaxially sparsely villous to pilosulose, adaxially glabrate or sparsely pilosulose, margin entire or remotely serrate to serrulate, apex mucronate; basal leaves withered at anthesis, sometimes marcescent, long winged petiolate (petiole to 10 cm); blade oblong to spatulate, 2-10 × 1-3.5 cm, base attenuate, apex acute or acuminate; lower to middle cauline leaves sessile, obovate to lanceolate, 3-9 × 1-2.8 cm, base cuneate to rounded, subclasping, apex acute to obtuse; upper cauline leaves 1.5-3 × 0.8-1.2 cm, apex acute. Capitula terminal, solitary, 7-8 cm in diam. Involucres hemispheric, 1.5-2.5 cm in diam.; phyllaries 2-seriate, equal, lanceolate to narrowly lanceolate, 15-20 mm, abaxially sparsely villous, densely minutely purple stipitate glandular, leaflike, margin long ciliate, apex long acuminate, often purplish; outer phyllaries 2-5 mm wide, proximally lanate and distally so on midvein, sometimes lanate more distally; inner phyllaries 2-3 mm wide. Ray florets 50-70, purplish blue, tube sparsely strigillose, lamina 30-40 × 1-1.5 mm, glabrous, eglandular; disk florets yellow, 7-9 mm, limb funnelform, 4-6 mm, sparsely strigillose proximally, lobes spreading, narrowly triangular, 1.8-2.3 mm, minutely stipitate glandular, tip purple. Achenes obovoid, compressed, 4-4.5 mm, glabrous or distally glabrate, moderately to densely minutely stipitate glandular, not winged, 2-ribbed. Pappus 3- or 4-seriate, reddish brown, bristles barbellate throughout; outermost bristles very few or none, slender, ca. 0.7 mm; outer bristles few, slender, 2-4 mm; inner bristles 5-5.5 mm, acute; innermost bristles ca. 6 mm, weakly clavate. Fl. Jul-Aug, fr. Aug-Nov.
+  "Statistics": "● Alpine and subalpine meadows and screes, ledges of cliffs; 3300-4600 m. E Xizang, NW Yunnan.
+  "Synonym": "*Aster mekongensis* Onno, p.p.
+**74. 线舌紫菀 图版57：6-8**
+
+Aster bietii Franch. in Journ. de Bot. 10: 373. 1876; Onno, Biblioth. Bot. 106: 55, 1932; Hand. -Mazz. in Notizbl. Bot. Gart. u. Mus. Brerl. -Dahl. 13: 621. 1937; Griers. in Not. Roy. Bot. Gard. Edinb. 16: 120, 1964; S. Y. Hu in Quart. Journ. Taiwan Mus. 18: 276, 1965. ——Aster mekongensis Onno, l. c. 54. 1932. p. p.
+
+多年生草本，根状茎粗壮，有时具短匍枝。茎直立或斜升，高14-45厘米，丛生，基部被枯叶残片，粗壮，有细沟，下部被卷曲的细柔毛，后常脱毛，上部被具柄腺毛和开展的柔毛，基部有较密的叶。莲座状叶长圆状匙形，长7-11厘米，下部急狭成具翅的长柄，叶片宽1.2-1.8厘米，边缘有浅或小尖头状齿，顶端尖或渐尖；茎基部叶在花期枯萎，中部叶卵圆形、长圆形或长圆披针形，长3-9厘米，宽1-2.8厘米，基部稍狭或圆形，无柄，半抱茎，顶端急尖或钝，全缘或有疏齿，上部叶稍小，顶端尖；全部叶质薄，近无毛或上面有疏毛，下面沿脉有长疏毛，常有缘毛；中脉及离基三出脉多少显明。头状花序在茎端单生，径7-8厘米。总苞半球形，径1.5-2.5厘米；总苞片约2层，等长，狭披针形，长15-22毫米，宽3-5毫米，草质，背面和边缘被深色毛和短腺毛。舌状花约70个，管部长1毫米，有毛；舌片蓝色或蓝紫色，线形，长30-35毫米，宽1.5-2毫米；管状花长6-7毫米，管部长2-2.5毫米，有短毛，裂片长1.5毫米，干后紫色，有腺。冠毛1层，紫褐色，基部稍黄色，约与管状花花冠等长，有稍不等长的糙毛。瘦果狭倒卵形，下部渐狭，长4-4.5毫米，宽1.5毫米，被具柄短腺毛。花期7-8月；果期8-11月。
+
+产于云南西北部（贡山、德钦、维西、丽江）、西藏东部（怒江澜沧江流域）。生于高山、亚高山山坡草地、沙地及石砾地。海拔3300-4570米。
+
+在单层冠毛的种中，本种由于有较大的头状花序，被腺毛的瘦果及细长的舌片，易与他种区别。全形略似扁毛紫菀 (A. bulleyanus J. F. Jeffr.)，但冠毛的构造不同。此种虽常被列入长毛类 (Ser. Macrochaeta Onno), 但从冠毛的构造来看，似与短毛类 (Ser. Brachychaeta Onno) 的短毛紫菀 (A. brachytrichus Franch.) 等比较接近。

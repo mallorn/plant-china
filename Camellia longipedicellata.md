@@ -1,0 +1,8 @@
+长梗茶",
+22.**Camellia longipedicellata** (Hu) Hung T. Chang & D. Fang",
+
+## Description
+Shrubs 1-2 m tall. Young branches grayish brown, slender, glabrescent; current year branchlets purplish brown, pubescent. Petiole ca. 2 mm, pubescent; leaf blade broadly ovate, elliptic, or oblong-elliptic, 4-7 × 1.5-3.5 cm, leathery, abaxially pale green, brown glandular punctate, and sparsely pubescent along midvein, adaxially dark green, shiny, and glabrous, midvein abaxially elevated and adaxially impressed, secondary veins 5 or 6 on each side of midvein, abaxially raised, and adaxially slightly impressed, base cuneate to obtuse, margin serrulate, apex acute to acuminate and with an obtuse tip. Bract solitary at base of pedicel, ovate, ca. 1.5 mm, outside pubescent, margin ciliolate. Flowers axillary or subterminal, solitary, ca. 4.5 cm in diam. Pedicel 1.2-2 cm, slender, glabrous; bracteoles 3 or 4, persistent, ovate, 1-2 mm, margin ciliolate. Sepals 5-7, broadly ovate, 4-7 mm, glabrous, margin ciliolate. Petals ca. 9, white, obovate, 2-3 × 1.5-2 cm, basally slightly connate. Stamens ca. 1 cm; outer filament whorl glabrous, basally connate into a 3-5 mm tube; inner filaments nearly distinct, white pilose. Ovary globose, ca. 2 mm in diam., glabrous, 3(or 4)-loculed; styles 3(or 4), distinct, ca. 1 cm but elongating after anthesis. Capsule oblate, 1-1.5 cm in diam., 3(or 4)-loculed; pericarp ca. 1 mm thick. Seeds brown, pubescent. Fl. Dec-Feb, fr. Sep-Oct.
+
+> ●  Thickets on calcareous hills; ca. 200 m. C Guangxi.
+  "Synonym": "*Theopsis longipedicellata* Hu, Acta Phytotax. Sin. 10: 141. 1965.

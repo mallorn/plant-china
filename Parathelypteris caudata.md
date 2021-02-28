@@ -1,0 +1,14 @@
+尾羽金星蕨",
+15.**Parathelypteris caudata** Ching ex K. H. Shing Fl. Reipubl. Popularis Sin. 4(1): 320. 1999.",
+
+## Description
+Plants 50-80 cm tall. Rhizomes erect, thick and short. Fronds clustered; stipes 20-40 cm, bases nearly black and with grayish brown, spreading multicellular acicular hairs and few brown lanceolate scales, distally castaneous-brown, subglabrous or grooves with brownish acicular hairs; laminae oblong-lanceolate, 30-40 × 10-20 cm, slightly tapering to bases, pinnate-pinnatifid, acuminate and pinnatifid at apices; pinnae 20-25 pairs, alternate, spreading, sessile, proximal ones shortened, reflexed; largest pinna pair lanceolate, 4.5-9 × 1.2-2 cm, bases slightly tapering, rounded-truncate, symmetrical, pinnatifid and reaching narrow wing on both sides of costae, apices caudate or acuminate; segments 20-28 pairs, spreading, linear-lanceolate to rectangular, 5-9 × 2.5-3 mm, undulate-crenate or thickly serrate at margins, rounded or rounded-truncate at apices. Veins evident abaxially, lateral veins simple, 6-9 pairs per segment, proximal pair arising from base of or slightly above costules. Laminae papery or thickly herbaceous, when dry dark green, abaxially with reddish purple spherical glands, usually glabrous or along rachises, costae, and veins sparsely grayish brown pubescent; adaxially with appressed reddish brown hairs, rachises and costal grooves with grayish brown acicular hairs. Sori orbicular, medium-sized, dorsifixed at middle of veinlets, 5-7 pairs per segment; indusia large, orbicular-reniform, brown, thickly membranous, glabrous or occasionally shortly setaceous.
+
+> ● Mossy forests or bamboo forests in subalpine areas on mountains; 1700-1900 m. Guangxi, S Yunnan, and E China (exact locality unknown).
+**15.尾羽金星蕨（中国蕨类植物孢子形态）金平金星蕨 麻栗金星蕨 长羽金星蕨（同前）图版8：7-11**
+
+Parathelypteris caudata Ching ex Shing in Addenda 320; Ching in Y. L. Zhang etal., Sporae Pterid. Sin. 293. t. 58: 1-2. 1976. nom. nud.——Parathelypteris kingpingensis Ching in Y. L. Zhang et al., Sporae Pterid. Sin. 296. t. 57: 35. 1976. nom. nud.——Parathelypteris marlipoensis Ching, ibid. 295. t. 57: 6. 1976. nom. nud. ——Parathelypteris longipinna Ching, ibid. 294. t. 57: 32, 33. 1976. nom. nud.
+
+植株高50-80厘米。根状茎粗短，直立。叶簇生；叶柄长20-40厘米，粗2-2.5毫米，基部近黑色，被灰棕色、开展的、多细胞针状毛及少数棕色的披针形鳞片，向上为栗棕色，近光滑或沿纵沟被浅棕色针状毛；叶片长30-40厘米，中部宽10-20厘米，长圆状披针形，先端渐尖并羽裂，向基部略变狭；二回羽状深裂；羽片20-25对，互生，开展，无柄，相距1.5-2.5厘米，下部的不缩短，斜向下，基部一对长4.5-9厘米，中部宽1.2-2厘米，披针形，先端尾尖或渐尖，基部略变狭，圆截形，对称，羽裂伸达羽轴两侧的狭翅；裂片20-28对，近平展，长5-9毫米，宽2.5-3毫米，线状披针形至长方形，先端圆形或圆截形，边缘具波状圆齿或粗钝锯齿。叶脉下面明显，侧脉斜上，单一，每裂片6-9对，基部一对出自主脉基部或稍上处。叶纸质或厚草质，干后褐绿色，下面被有红紫色的圆球形腺体，通常光滑或沿叶轴、羽轴和叶脉有少数灰棕色的短柔毛；上面被平伏的红棕色的短柔毛，沿叶轴和羽轴的纵沟密被灰棕色的针状毛。孢子囊群圆形，中等大，背生于侧脉中部，每裂片5-7对；囊群盖大，圆肾形，棕色，厚膜质，背面光滑或偶有少数短刚毛。孢子两面型，圆肾形，周壁具褶皱，其上具细网状纹饰，表面具小刺。
+
+产于华东（具体地点不详）、广西中部（大明山）、云南南部（麻栗坡、马关、屏边、金平）。生山地亚高山苔藓林和竹林下，海拔1700-1900米。模式标本采自云南马关。

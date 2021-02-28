@@ -1,0 +1,15 @@
+长圆叶唇柱苣苔",
+88.**Chirita oblongifolia** (Roxburgh) Sinclair",
+
+## Description
+Perennials. Rhizomes unknown. Stems erect, 45-90 cm, rust-brown puberulent apically. Leaves to 8 or more, along stem, opposite, widely spaced; petiole 1.6-4.5 cm X 1.5-2 mm; leaf blade oblique, ovate to elliptic or oblong, 8-18 X 5-10 cm, papery, densely puberulent, densely yellow glandular, base oblique, cuneate to cordate, margin denticulate, apex acuminate; lateral veins 8-13 on each side of midrib, conspicuous. Cymes 5-7-flowered; peduncle 1.8-3.8 cm, densely rust-brown puberulent; bracts 2, free, narrowly ovate, ca. 6 X 2-3 mm, densely puberulent, margin denticulate, apex acute. Pedicel 0.5-1.5 cm, densely rust-brown puberulent. Calyx 1.1-1.4 cm, 5-lobed from above middle; tube 7-9 mm; lobes equal, triangular, 3-5 mm, outside densely puberulent and glandular, inside glabrous with very short hairs near apex, margin entire, apex acute to acuminate. Corolla white with yellow at throat, 4-4.3 cm, outside sparsely puberulent, inside glabrous; tube funnelform, 2.7-3 X ca. 1.2 cm; adaxial lip ca. 7 mm; abaxial lip ca. 1.2 cm. Filaments ca. 1.3 cm, glabrous; anthers fused by entire adaxial surfaces, ca. 1.5 mm, glabrous; staminodes 3, central ca. 0.6 mm, laterals ca. 6 mm. Pistil ca. 2.5 cm, puberulent; ovary ca. 2 cm. Stigma obtrapeziform to obdeltoid, ca. 2-5 mm, emarginate or 2-lobed. Capsule erect, 5-7 cm. Fl. Aug-Sep, fr. Sep-Oct.
+
+> Montane evergreen broad-leaved forests; 800-1200 m. SE Xizang (Mêdog Xian), NW Yunnan (Gongshan Xian) [NE India, N Myanmar].
+  "Synonym": "&lt;I&gt;Incarvillea oblongifolia &lt;/I&gt;Roxburgh, Fl. Ind., ed. 2, 3: 113. 1832; &lt;I&gt;Aeschynanthus oblongifolius &lt;/I&gt;(Roxburgh) G. Don; &lt;I&gt;Babactes oblongifolia &lt;/I&gt;(Roxburgh) A. P. de Candolle ex Meisner; &lt;I&gt;Chirita acuminata &lt;/I&gt;R. Brown; &lt;I&gt;Roettlera oblongifolia &lt;/I&gt;(Roxburgh) Kuntze.
+**71.长圆叶唇柱苣苔（植物研究）图版90: 61**
+
+Chirita oblongifolia (Roxb.) Sinclair in Bull. Bot. Soc. Beng. 9: 102. 1957: Burtt in Not Bot. Gard. Edinb. 22(4) : 307. 1958; Wood, 1. c. 33 (1) : 174. 1974; W. T. Wang in Bull. Bot. Res. 5(3) : 70. 1985. ——Incarvillea oblongifolia Roxb. Fl. Ind. (ed. 2) 3: 113. 1832. ——Chirita acuminata Wall. ex R. Br. in Bennett et Br. Pl. Jav. Rar. 117. 1840; Clarke, Comm. et Cyrt. Beng. tab. 81. 1874; in A. DC. Monogr. Phan. 5: 119. 1883; et in Hook. f. Fl. Brit. Ind. 4: 359. 1884.
+
+多年生草本。茎高45-90匣米，上部被锈色短柔毛。叶对生，同一对叶稍不等大；叶片卵形或椭圆状卵形，两侧不对称，长8-18厘米，宽5-10.8厘米，顶端渐尖，基部斜宽楔形，或一侧楔形，另一侧圆形，边缘自基部之上有多数小钝齿，两面稍密被短柔毛，下面还密生橙黄色小腺点，侧脉每侧8-13条；叶柄长1.6-4.5厘米，密被贴伏短柔毛。聚伞花序生茎上部叶腋，1-2回分枝，有5-7花，密被锈色短柔毛；花序梗长1.8-3.2厘米；苞片狭卵形，或线状披针形，长约6毫米。花萼筒状钟形，长约1.1厘米，外面密被短柔毛和小腺点，5浅裂；裂片稍不等大，三角形、长约4毫米。花冠白色，长约4厘米，无毛；筒漏斗状，长约2.7厘米，口部直径约1.2厘米，基部直径4毫米；上唇长约8毫米，2裂，下唇长约17毫米，3裂。雄蕊无毛，花丝及退化雄蕊着生于距花冠基部12毫米处，披针状狭线形，长约13毫米，中部最宽，向两端稍变狭，不弯曲，花药宽卵形，长约1.5毫米；退化雄蕊3，中央的小，长约0.6毫米，侧生的狭线形，长6毫米，无毛。花盘环状，高约1毫米。雌蕊长约2.5厘米，子房线形，长约2厘米，密被短柔毛，柱头匙状线形，长约5毫米，顶端近截形，微凹。蒴果长约5.6厘米。花期8-9月。
+
+产西藏东南部（墨脱）和云南西北部（贡山）。生于山地常绿阔叶林中或林边，海拔750-1200米。在缅甸北部及印度东北部也有分布。

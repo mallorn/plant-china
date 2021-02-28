@@ -1,0 +1,15 @@
+独牛",
+68.**Begonia henryi** Hemsley",
+
+## Description
+Herbs, deciduous. Tubers 8-10 mm in diam. Leaves 1(or 2), basal; stipules ovate-lanceolate, membranous, margin ciliate, caducous; petiole 6-13 cm, brown villous; blade triangular-ovate or broadly ovate, rarely suborbicular, 3.5-6 × 4-7.5 cm, sparsely pubescent, venation palmate, base oblique, deeply cordate, margin crenate, apex obtuse, acute, or shortly acuminate. Inflorescence terminal, 7.5-12 cm tall, pilose or subglabrous, with very few flowers; bracts oblong or elliptic, ca. 5 × 4 mm, membranous, margin serrate, apex acute. Staminate flowers: pedicel ca. 1 cm; tepals 2, pink, oblate-orbicular or broadly ovate, 8-12 × 10-13 mm, glabrous; stamens numerous; filaments free, 1.2-1.5 cm; anthers obovoid, ca. 1.2 mm, apex emarginate. Pistillate flowers: tepals 2, oblate, 6-8 × 7-8 mm; glabrous; ovary glabrous, 3-loculed; placentae axile, undivided; styles 3; stigmas 2-cleft. Capsule pendulous, oblong, ca. 11 × 5 mm, unequally 3-winged; abaxial wing triangular, 5-7 mm; lateral wings smaller. Fl. Sep-Oct, fr. Oct. 2*n* = 30*.
+
+> ● On rocks or in fissures, shaded moist environments; 800-2600 m. N Guangxi, SE Guizhou, Hubei (Yichang), Sichuan, Yunnan.
+  "Synonym": "*Begonia delavayi* Gagnepain; *B. mairei* H. Léveillé.
+**73. 独牛（图考）柔毛秋海棠（中国高等植物图鉴）图版36：5-7**
+
+Begonia henryi Hemsl. in Journ. Linn. Soc. Bot. 23: 334. 1887, et in Journ. Bot. 26: 118. 1888; Irmsch. in Fedde, Repert. Sp. Nov Beih. 12: 440. 1922, et in Mitt. Inst. Allg. Bot. Hamburg 6: 346. 1927, et 10: 520. 1939; et in Hand.-Mazz. Symb. Sin. 7 (2): 384. 1931; Yu in Bull. Fan Mem. Inst. Biology new ser. 1 (2): 127. 1948: 中国高等植物图鉴2: 942, 图3610. 1972; Lauener in Not. Bot. Gard. Edinb. 31 (3): 434. 1972; 中国高等植物图鉴补编2: 537, 543, in clavi. 1983; C. Y. Wu et al. Index Fl. Yunnan. 1: 350. 1984, L. B. Smith et al. in Smithson. Contr. Bot. 60: 24, 66, 67, 79, 81, in clavi, 177, pl. 8, fig. 22. 1986; 贵州植物志4: 260, 图版95, 图1. 1989; 广西植物志1: 728, 图版294, 图3-4. 1991. ——B. mairei Levl. in Bull. Acad. Geogr. Bot. 22: 228. 1912, et Cat. Pl. Yunnan 17. 1916. ——B. delavayi Gagnep. in Bull. Mus. Hist. Nst. Paris 25: 197. 1919, et in Lecomte, Fl. Gen. Indo-Chine 2: 1097, 1912. in clavi; Irmsch. in Mitt. Inst. Allg. Bot. Hamburg 6: 346. 1927. ——B. duclouxii auct. non Gagnep.: Yu in Bull. Fan Mem. Inst. Biology new ser. 1 (2): 127. 1948.
+
+多年生无茎草本。根状茎球形，直径8-10毫米，有残存褐色的鳞片，周围长出多数长短不等纤维状之根。叶均基生，通常1 (-2)片，具长柄；叶片两侧不相等或微不相等，轮廓三角状卵形或宽卵形，稀近圆形，长3.5-6厘米，宽4-7.5厘米，先端急尖或短渐尖，基部偏斜或稍偏斜，呈深心形，向外开展，窄侧呈圆形，宽侧略伸长，呈宽圆耳状，边缘有大小不等三角形单或重之圆齿，上面深绿色或褐绿色，散生淡褐色柔毛，下面色淡，散生褐色柔毛，沿脉较密或常有卷曲之毛，掌状5-7条脉，下面较明显；叶柄长、短变化较大，长6-13厘米，被褐色卷曲长毛；托叶膜质，卵状披针形，边有睫毛，早落。花葶高7.5-12厘米，细弱，疏被细毛或近无毛；花粉红色，通常2或4朵，呈2-3回二歧聚伞状，分枝长5-9毫米，花梗长约10毫米，被疏柔毛；苞片膜质，长圆形或椭圆形，长约5毫米，宽约4毫米，先端急尖，边有齿；雄花：花被片2，扁圆形或宽卵形，长8-12毫米，宽10-13毫米，先端圆，基部微心形，雄蕊多数，花丝离生，长 1.2-1.5厘米，花药倒卵形，长约1.2毫米，先端微凹；雌花：花被片2，扁圆形，长6-8毫米，宽7-8毫米，先端圆，基部微心形；子房倒卵状长圆形，长可达1.5厘米，直径约4毫米，无毛，3室，有中轴胎座，每室胎座具1裂片，具有不等3翅，花柱3，柱头2裂，裂片膨大呈头状，并带刺状乳头。蒴果下垂，果梗柔弱，长1.3-1.7厘米，无毛；轮廓长圆形，长约11毫米，直径约5毫米，无毛；3翅不等大，大的呈斜三角形，长5-7毫米，上面的边平，下面的边斜，另2翅较小，窄三角形，上方的边平，下方的边斜；种子极多数，小，长圆形，淡褐色，平滑。花期9-10月，果期10月开始。
+
+产云南、四川、贵州西南部、湖北（宜昌）、广西北部。生于山坡阴处岩石上、石灰岩山坡岩石隙缝中、山坡路边阴湿处和常绿阔叶混交林下，海拔850-2600米。模式标本采自湖北。

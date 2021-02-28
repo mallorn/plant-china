@@ -1,0 +1,31 @@
+岩黄树属",
+97.**Xanthophytum** Reinwardt ex Blume Bijdr. 989. 1826.",
+
+> About 30 species: China, Indonesia (including Borneo, with most of the species), Laos, Malaysia, New Guinea, Pacific islands (Fiji), Philip-pines, Vietnam; four species in China.
+
+## Description
+Small trees, shrubs, or subshrubs, sometimes unbranched (i.e., monocaulous), unarmed, often fleshy; young growth usually densely sericeous to lanate, hirsute, or tomentose with trichomes drying golden yellow to ferruginous. Raphides present. Leaves opposite, isophyllous [or sometimes markedly anisophyllous], without domatia; stipules persistent or deciduous, interpetiolar, generally triangular or somewhat leaflike, sometimes markedly parallel-veined or -fibrous, entire or 2-lobed. Inflorescences axillary, cymose to paniculate or subcapitate, several to many flowered, sessile to pedunculate, bracteate or bracts reduced. Flowers sessile to pedicellate, bisexual, distylous or monomorphic, at least sometimes fragrant. Calyx limb shallowly to deeply 5-lobed; lobes sometimes unequal on an individual flower. Corolla white, yellow, or purple, tubular to funnelform, inside with pubescent ring in upper part of tube; lobes 5, valvate in bud. Stamens 5, exserted or included, inserted near middle to base of corolla tube; filaments reduced to developed; anthers apparently dorsifixed. Ovary 2-celled, ovules numerous in each cell on peltate placentas attached at middle of septum; stigmas clavate to 2-lobed, included or exserted. Infructescences often with peduncle, axes, and pedicels elongating notably. Fruit indehiscent, schizocarpous, or capsular, ovoid to subglobose, dry, with calyx limb persistent or deciduous, sometimes splitting septicidally into 2 indehiscent mericarps or loculicidally dehiscent valves, these each 1-celled, ellipsoid to plano-convex, each with numerous seeds; seeds small, angled, smooth, often brown.
+  "Reference": "*Xanthophytum* was reviewed for China by Chun and F. C. How (Sunyatsenia 4: 10-15. 1939, as *Paedicalyx*) and then by H. S. Lo (Bull. Bot. Res., Harbin 6(4): 21-33. 1986), who formally synonymized *Xanthophytopsis* and *Paedicalyx* in this region based on previous comments by Bakhuizen but making the necessary combinations. Axelius (Blumea 34: 425-497. 1990) provided the only comprehensive review of *Xanthophytum*. She recognized four types of trichomes characteristic of the genus (loc. cit.: 427, f. 1); also notable in *Xanthophytum* are the fruit with numerous tiny seeds apparently enclosed in drupaceous locules or mericarps, and the stamen filaments that are often fused to the corolla only at the base and appear free or nearly free. Several authors have described the fruit as drupaceous and splitting, but the fruit morphology apparently corresponds better to schizocarpous in the terminology used in this treatment. Axelius observed also that distyly in *Xanthophytum* was apparently not noted by Chinese authors, resulting in somewhat confused descriptions of floral morphology.*Xanthophytum* was reviewed for China by Chun and F. C. How (Sunyatsenia 4: 10-15. 1939, as *Paedicalyx*) and then by H. S. Lo (Bull. Bot. Res., Harbin 6(4): 21-33. 1986), who formally synonymized *Xanthophytopsis* and *Paedicalyx* in this region based on previous comments by Bakhuizen but making the necessary combinations. Axelius (Blumea 34: 425-497. 1990) provided the only comprehensive review of *Xanthophytum*. She recognized four types of trichomes characteristic of the genus (loc. cit.: 427, f. 1); also notable in *Xanthophytum* are the fruit with numerous tiny seeds apparently enclosed in drupaceous locules or mericarps, and the stamen filaments that are often fused to the corolla only at the base and appear free or nearly free. Several authors have described the fruit as drupaceous and splitting, but the fruit morphology apparently corresponds better to schizocarpous in the terminology used in this treatment. Axelius observed also that distyly in *Xanthophytum* was apparently not noted by Chinese authors, resulting in somewhat confused descriptions of floral morphology.
+  "Synonym": "*Paedicalyx* Pierre ex Pitard; *Xanthophytopsis* Pitard.
+  "keylist": "
+1 Inflorescences subcapitate to congested-cymose, subsessile to shortly pedunculate, with peduncles to 0.5 cm in flower, sometimes to 1 cm at fruiting; leaves with secondary veins 9-16 pairs.[*X. kwangtungense* 岩黄树](Xanthophytum kwangtungense.md)
+1 Inflorescences subcapitate to laxly cymose or paniculate, pedunculate with peduncles 0.5-11 cm; leaves with secondary veins 9-30 pairs——(2)
+2(1) Fruit septicidally dehiscent; inflorescences laxly cymose to paniculate; peduncles 4-11 cm; leaves with secondary veins 9-15 pairs.[*X. balansae* 长梗岩黄树](Xanthophytum balansae.md)
+2 Fruit indehiscent; inflorescences subcapitate to laxly cymose or paniculate; peduncles 0.5-6 cm; leaves with secondary veins 14-30 pairs——(3)
+3(2) Inflorescences subcapitate; corolla tube 2-2.2 mm.[*X. attopevense* 琼岛岩黄树](Xanthophytum attopevense.md)
+3 Inflorescences laxly cymose to paniculate; corolla tube 1.5-2 mm.[*X. polyanthum* 多花岩黄树",](Xanthophytum polyanthum.md)
+**4. 岩黄树属 Xanthophytum Reinw, ex Bl.**
+
+Bl. Bijdr. 989. 1826; Hook. f. in Benth. et Hook. f. Gen. Pl. 2: 53. 1873; K. Schum. in Engl. u. Prantl, Nat. Pflanzenfam. IV (4): 24. 1891; Bakh. in Blumea 7: 335. 1953; Axelius in Blumea 34: 425-497. 1990.——Paedicalyx Pierre ex Pitard in Lecomte, Fl. Gen. Indo-Chine 3: 88. 1922. ——Xanthophytopsis Pitard in Lecomte, Fl. Gen. Indo-Chine 3: 90. 1922.
+
+小乔木或亚灌木，不分枝或少分枝；茎的嫩部和分枝有金黄色至锈色毛被。叶通常仅见于上部节上，有柄，对生，偶有假互生，叶片草质间或纸质，全缘，上面通常被毛，下面至少在脉上被毛；托叶生叶柄间，三角形、披针形至卵形，有时叶状，全缘，少有2裂，通常里面基部有粘液毛。花序腋生，圆锥状或头状，由聚伞花序或密伞花序组成，总花梗短至很长，有时无或几无总花梗；苞片小或叶状；花5数，两性，雄蕊先熟，花柱异长或花柱同长；萼管近球状，通常被毛，裂片短，结果时宿存，裂片里面基部常有粘液毛；花冠管状或漏斗状，冠管里面上部有一毛环，裂片在芽时镊合状排列，开放时顶端内弯；雄蕊与花冠裂片互生，伸出或不伸出，花药位于毛环之上，内向，纵裂；子房2室，花柱丝状，伸出或不伸出，柱头棒状或浅2裂；胚珠每子房室多数，胎座盾状，生于隔壁的中部。果多为坚硬、2室的坚果，或为-2裂的蒴果；种子多数，褐色，细小，有角。
+
+本属模式种：Xanthophytum fruticulosum Bl.
+<p style='text-indent:28px'>约30种，分布于亚洲东南部，以加里曼丹和沙捞越最多。我国有3种，产于海南及广西和云南南部。
+
+## 检索表
+
+1 花序有明显的总梗。——(2)
+1 花序近无总梗或在结果时具短的总梗；果室间开裂。——[岩黄树](Xanthophytum%20kwangtungense.md)
+2 果不开裂；花序紧缩呈头状，总花梗长达4.5厘米。——[琼岛岩黄树](Xanthophytum%20attopevense.md)
+2 果室间开裂；花序疏散，总花梗长5-12厘米。——[长梗岩黄树](Xanthophytum%20balansae.md)

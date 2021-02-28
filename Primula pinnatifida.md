@@ -1,0 +1,17 @@
+羽叶穗花报春",
+289.**Primula pinnatifida** Franchet",
+
+## Description
+Herbs perennial. Leaves forming a rosette; petiole narrowly winged, ca. as long as to slightly shorter than leaf blade; leaf blade elliptic to oblong or spatulate, 2--7(--10) X 1--2(--3) cm, sparsely pilose, base attenuate, margin crenate-serrate to coarsely dentate or incised-lobulate, apex rounded; lobules suboblong, with 1 or 2 teeth on each side. Scapes (5--)10--25 cm, glabrous or nearly so, pale yellow farinose toward apex. Inflorescences spicate or subcapitate, usually many flowered. Flowers heterostylous. Calyx often tinged with purple, cup-shaped, 4--5 mm, scarcely farinose, parted below middle; lobes unequal, ovate to oblong, apex obtuse to apiculate; posterior lobe often slightly emarginate. Corolla blue-purple; tube 7--8 mm; limb slightly spreading, 5--10 mm wide; lobes short oblong or subrotund, margin entire to obscurely crenate, apex rounded. Pin flowers: stamens ca. 2 mm above base of corolla tube; style ca. as long as tube. Thrum flowers with positions reciprocal. Capsule subglobose, nearly as long as calyx. Fl. Jul-Aug. 2&lt;I&gt;n&lt;/I&gt; = 20, 40.
+
+> * Grassy slopes, in rock crevices; 3600--4200 m. SW Sichuan, N Yunnan
+  "Synonym": "&lt;I&gt;Primula apoclita&lt;/I&gt; I. B. Balfour &amp; Forrest; &lt;I&gt;P. cephalantha&lt;/I&gt; I. B. Balfour; &lt;I&gt;P. lepta&lt;/I&gt; I. B. Balfour &amp; Forrest; &lt;I&gt;P. mairei&lt;/I&gt; H. Léveillé; &lt;I&gt;P. pinnatifida&lt;/I&gt; Franchet subsp. &lt;I&gt;apoclita&lt;/I&gt; (I. B. Balfour &amp; Forrest) W. W. Smith &amp; Forrest; &lt;I&gt;P. pinnatifida&lt;/I&gt; subsp. &lt;I&gt;cephalantha&lt;/I&gt; (I. B. Balfour) W. W. Smith &amp; Forrest.
+**283.羽叶穗花报春（中国高等植物图鉴）羽裂报春（拉汉种子植物名称）图版54：7-9**
+
+Primula pinnatifida Franch. in Bull. Soc. Bot. France 32: 271. 1885; Forbes et Hernsl. in. Journ. Linn. Soc. Bot. 26: 41. 1889: Pax in Endl. Pflanzenr. 22 (IV-237): 66. 1905; Hand.-Mazz. Symb. Sin. 7: 745. 1936; Chen in Bull. Fan Mem. Inst. Biol. Bot. 9: 289. 1939; W. W. Smith et Fletcher in Trans. Trans. Bot. Soc. Edinb. 33: 288. 1942; 中国高等植物图鉴3: 299. fig. 4452. 1974;云南种子植物名录2: 1507. 1984. ——Primula mairei Levl. in Le Monde des Plantes 17 (92-93): 2. 1915, syn. nov.——Primula cephalantha Balf. f. in Not. Roy. Bot. Gard. Edinb. 9: 10. 1915, syn. nov. ——Primula apoclita Balf. f. et Forr. in Not. Roy. Bot. Gard. Fdinb. 12: 3. 1920, syn. nov.——Primula lepta Balf. f. et Forr. in ibid. 12: 12. 1924, syn. nov. ——Primula pinnatifida Franch. subsp. apoclita (Balf. f. et Forr.) W. W.Smith et Forr. in Not. Roy. Bot. hard. Edinb. 16: 29. 1928. ——Primula pinnatifida Franch. subsp. cephalantha(Balf. f.) W. W. Smith et Forr. in l. c. 16: 29.1928. ——Primuia gracilenta auct. non Dunn: Chen in Bull. Fan Mem. Biol. Bot. 9: 288. 1939, p.p. quoad specim. T. T. Yu 11636. 11740.
+
+多年生草本。根状茎短，向下发出成丛的长根。叶片椭圆形、矩圆形或匙形，长2-7（10）厘米，宽1-2(3）厘米，先端钝圆，基部渐狭窄，边缘具钝锯齿、缺刻状粗齿或羽状分裂，裂片近长方形，具2-3齿，上面疏被多细胞柔毛，下面沿中肋被毛，有时沿侧脉有少数毛，其余部分无毛，中肋稍宽，侧脉纤细，在下面稍明显；叶柄具狭翅，与叶片近等长或稍短。花葶高（5）10-25厘米，无毛或近于无毛，顶端被淡黄色粉；花序短穗状或近头状，通常多花；花萼短钟状，长4-5毫米，外面微被粉，向阳部分常染紫色，分裂略超过中部，裂片不等大，卵形至矩圆形，先端钝或具小突尖头，上面（远轴）的1枚顶端常具小凹缺；花冠蓝紫色，冠筒长7-8毫米，冠檐稍开张，直径5-10毫米，裂片短矩圆形或近圆形，先端圆形或微具小齿；长花柱花：雄蕊着生处距冠筒基部约2毫米，花柱长达冠筒口；短花柱花：雄蕊着生于冠筒上部，花药顶端微露出筒口，花柱长约1毫米。蒴果近球形，约与花萼等长。花期7-8月，果期8-10月。
+
+产于云南北部（禄劝、东川、会泽、巧家、丽江、中甸、维西）和四川西南部（木里）。生长于山坡草地和石隙中，海拔3600-4200米。模式标本采自云南丽江。
+
+本种叶缘可由具粗齿至羽状浅裂，变异较大，在同一号标本中亦可能出现两种情况，故将P. apoclita Balf. f. et Forr归并。P. mairei Levl.的毛被与本种并无区别，亦归并于此。

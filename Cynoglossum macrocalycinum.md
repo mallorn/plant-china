@@ -1,0 +1,7 @@
+大萼琉璃草",
+2.**Cynoglossum macrocalycinum** Riedl",
+
+## Description
+Herbs biennial, stout, at least 50-60 cm tall. Stems with few branches in leaf axils, with patent or slightly reflexed white hairs. Lowermost leaves indistinctly petiolate; upper middle leaves sessile, oblong-lanceolate, 13-14 &amp;#215; 3-3.5 cm, base attenuate, apex &amp;#177; acute; uppermost leaf blade ovate to oblong-lanceolate, 5.5-11 &amp;#215; 2-3 cm, base often abruptly contracted or rounded, apex acute to &amp;#177; obtuse; leaves of lateral branches lanceolate to linear-lanceolate, (3-)6-9 &amp;#215; 0.8-1.8 cm; leaf indumentum of &amp;#177; patent, curved hairs of different lengths. Cymes short, widely spaced at apex, ebracteate. Pedicel ca. 1 cm at anthesis, to 3 cm in fruit, densely white pubescent, straight at first, slightly recurved later along upper 1/3. Calyx 8-9 mm at anthesis; lobes free to base, imbricately covering each other along margin, ovate to ovate-oblong, elongated to 1-1.5 cm after anthesis, unequal in length and width, widest to 5 mm, narrowest ca. 2.5 mm, often also shorter than others, all subexplanate, densely white patent pubescent, apex broadly obtuse. Corolla dark purple, campanulate, exceeding calyx, 9-9.5 mm wide, with reticulate veins; tube ca. 5 mm, ca. as long as limb; faucal appendages large, subquadrate, larger than anthers; lobes to 2 mm, very broadly rounded. Style short, included in corolla; ovary not enlarged after anthesis. Mature nutlets unknown.
+
+> * Shaded moist slopes, valleys, meadows; 1500-1800 m. N Xinjiang

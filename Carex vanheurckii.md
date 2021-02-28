@@ -1,0 +1,13 @@
+鳞苞薹草",
+70.**Carex vanheurckii** Müller Argovensis in Van Heurck Observ. Bot. 1: 30. 1870.",
+
+## Description
+Rhizome slender, clothed with dark brown, bladeless sheaths, stoloniferous. Culms tufted, 10-30 cm tall, slender, obtusely trigonous, scabrid on upper part, brown sheathed at base, sheaths disintegrating into fibers. Leaves slightly shorter than culm, blades 1-2 mm wide, flat, scabrous on upper surface and margins, sometimes slightly revolute on margins when dry, long sheathed. Involucral bracts scalelike, rarely lowermost one subulate, green, long aristate. Spikes 2 or 3, congregated at top of culm, sometimes lowermost one slightly remote; terminal spike male, linear or fusiform, 0.7-1.5 cm, nearly sessile; lateral spikes female, globose or ovate, 4-7 mm, few flowered, sessile. Female glumes brown laterally, ovate, ca. 2.5 mm, with a pale midrib, hyaline on upper margin, apex acuminate, mucronate. Utricle yellowish green, slightly brown on upper part, obliquely patent, nearly equaling glume, elliptic or obovate, plano-convex-trigonous, 2.5-3 mm, laxly hispidulous, not veined, base cuneate, apex abruptly contracted into a short beak, hispidulous on margins of beak, orifice emarginate. Nutlets tightly enveloped in utricle, broadly obovate, trigonous, ca. 1.7 mm; style base not thickened; stigmas 3. Fl. and fr. May-Jun.
+  "Statistics": "Forests or grasslands on mountain slopes; ca. 1200 m. Heilongjiang, Jilin, Liaoning, Nei Mongol [Japan, N Korea, Mongolia, Russia (Far East, E Siberia)].
+**63. 鳞苞薹草（东北草本植物志）图版23: 9-12**
+
+Carex vanheurckii Muell. Arg. in Van Heurck Observ. Bot. 1: 30, 1870; V. Krecz. in Kom., Fl. URSS 3: 314, 1935; Ohwi, Cyper. Japon. 1: 409, 1936; Kitag., Linean. Fl. Mansh. 113, 1939; Akiyama, Caric. Far East. Reg. Asia 226, Pl. 234, fig. 1, 1955: 东北草本植物志11: 110, 1976. ——Carex amblyolepisauct. non Peterm: Trautv. et Mey., Fl. Ochot. 99, 1856; Maxim., Prim. Fl. Amur. 312, 1859, ——Carex Penylvanica Lamarck var. amblyolepis (Trautv. et Mey.) Kukenth. in Finska Vet. -Soc. Forhandl. 45: 8, 1903 et in Engl., Pflanzenr. Heft 38 (IV, 20): 446, 1909; T. Koyama in Journ. Fac. Sci. Univ. Tokyo Sect. III, 8 (4): 180, 1962.
+
+根状茎细长，常包以暗褐色无叶片的鞘，具地下匍茎。秆丛生，高10-30厘米，纤细，钝三棱形，上部微粗糙，基部包以褐色细裂成纤维状的残存的老叶鞘。叶稍短于秆，宽1-2毫米，平张，上表面和边缘均粗糙，干时有的边缘稍向下卷曲，具较长的叶鞘。苞片鳞片状，少数最下面一枚苞片呈钻状，绿色，具长芒。小穗2-3个，密集于秆的上端，有的最下面1个雌小穗稍远离；顶生小穗为雄小穗，线形或近纺缍形，长0.7-1.5厘米，近于无柄；其余为雌小穗，球形或卵形，长4-7毫米，具少数几朵花，无柄。雄花鳞片倒卵形，长约2.8毫米，顶端钝，中间淡黄褐色，边缘较宽部分为白色透明，具1条中脉；雌花鳞片卵形，长约2.5毫米，顶端渐尖，具短尖，中脉部分色淡，两边为褐色，上部边缘白色，具1条中脉。果囊斜展，几等长于鳞片，椭圆形或倒卵形，平凸状三棱形，长2.5-3毫米，淡黄绿色，上部稍带褐色，无脉，疏生短硬毛，基部渐狭为楔形，顶端急缩为短喙，边缘具短硬毛，喙口微凹。小坚果紧包于果囊内，宽倒卵形，三棱形，长约1.7毫米；花柱基部不增粗，柱头3个。花果期5-6月。
+
+产于东北各省、内蒙古；生于空旷的林下或山坡草地，海拔约1200米左右。也分布于俄罗斯东西伯利亚地区和远东地区，蒙古和朝鲜北部。

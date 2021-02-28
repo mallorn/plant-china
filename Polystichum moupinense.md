@@ -1,0 +1,15 @@
+穆坪耳蕨",
+57.**Polystichum moupinense** (Franchet) Beddome Handb. Suppl. Ferns Brit. Ind. 42. 1892.",
+
+## Description
+Plants summer-green. Rhizome erect, densely covered with broadly lanceolate brown scales. Fronds 12-20 cm; stipe stramineous, sometimes lower part brown, 4-9 cm, 1-2 mm in diam. at base, lower part persistent, covered with narrowly ovate and lanceolate brown scales. Lamina bipinnatifid, linear-lanceolate, 12-22 × 1.2-2.2 cm, base slightly contracted, apex attenuate; rachis without proliferous bulbils, scaly on both surfaces; scales light brown, lanceolate and linear. Pinnae 20-30 pairs, alternate, attached at nearly right angles to rachis, approximate, sessile, ovate or deltoid-ovate, upper pinnae narrower, middle pairs 6-10 × 4-6 mm, bases rounded-cuneate or nearly truncate, auriculate acroscopically and basiscopically, sometimes acroscopic auricles slightly longer, pinnatifid to middle of pinnae, immediate apex area obtuse. Lobes 3-5 pairs, but only 1 or 2 pairs lobed to rachis, alternate, slightly ascendant, approximate, broadly ovate to obovate, entire or serrulate, acuminate; abaxially with narrowly lanceolate light brown microscales, adaxially glabrous; frond texture papery; venation pinnate on lobes, indistinct on both surfaces. Sori on upper pinnae from middle of lamina upward, 1 or 2 on each side of midrib of lobe, or in 1 row on each side of pinna rachis; indusia present, toothed.
+
+> Alpine meadows, alpine coniferous forests; 2500-4500 m. S Gansu, Hubei (Shennongjia), Shaanxi (Taibai Shan), W Sichuan, Xizang, NW Yunnan [Bhutan, NW India, Nepal].
+  "Synonym": "*Aspidium moupinense* Franchet, Nouv. Arch. Mus. Hist. Nat., sér. 2, 10: 115. 1887; *Polystichum macrochlaenum* Ching &amp; S. K. Wu; *P. prescottianum* (Wallich ex Mettenius) T. Moore var. *moupinense* (Franchet) C. Christensen; *P. woodsioides* Christ.
+**62.穆坪耳蕨（植物研究）木坪耳蕨（中国主要植物图说·蕨类植物门），宝兴耳蕨（蕨类名词及名称）图版16：2**
+
+Polystichum moupinense (Franch.) Bedd. Handb. Ferns Brit. Ind. Suppl. 42. 1892; Christ in Bull. Soc. Bot. France 52 Mem. 1: 30. 1905 et Bull. Acad. Geogr. Bot. 16: 113. 1906; C. Chr. in Contr. U. S. Nat. Herb. 26: 286. 1931: 傅书遐, 中国主要植物图说. 蕨类植物门182. 图234. 1957; Dhir, Ferns N. W. Himal. 77. 1980; H. S. Kung in Bull. Bot. Res. 9 (3): 4. 1989; Fraser-Jenkins in Asp. Pl. Sci. 13: 257. 1991; S. K. Wu et X. Chen in W. T. Wang, Vasc. Pl. Hengduan Mts. 1: 142. 1993. ——Aspidium moupinense Franch. in Nouv. Arch. Mus. II 10: 115. 1887. ——Polystichum woodsioides Christ in Bot. Gaz. 51: 354. 1911.——P. prescottianum (Wall. ex Mett.) Moore var. moupinense (Franch.) C. Chr. in Acta Hort. Gothob. 1: 70. 1924; Tagawa in Acta Phytotax. Geobot. 4: 141. 1935.
+
+植株高12-20厘米。根茎直立，密生宽披针形棕色鳞片。叶簇生，叶柄长4-9厘米，基部直径1-2毫米，下部宿存，禾秆色，有时基部带棕色，腹面有纵沟，有卵形和披针形棕色鳞片；叶片线状披针形，长12-22厘米，宽1.2-2.2厘米，先端渐尖，基部略变狭，二回羽状分裂；羽片20-30对，互生，近平展，略有间隔，无柄，卵形或三角卵形，上部的较狭，中部的长6-10毫米，宽4-6毫米，先端钝，基部圆楔形或近截形，两侧有耳状凸，有时上侧的略长，羽状分裂至中部；裂片3-5对，但仅1-2对深裂近叶轴，互生，略斜向上，密接，宽卵形至倒卵形，先端尖，边缘全缘或有小齿；裂片具羽状脉，两面均不明显。叶坚纸质，腹面秃净，背面有狭披针形淡棕色鳞片；叶轴腹面有纵沟，两面有披针形及线形淡棕色鳞片。孢子囊群生在中部以上羽片，位于裂片主脉两侧，各有一二个，或位于羽轴两侧各成一行；囊群盖圆形，盾状，边缘有齿缺。
+
+产陕西（太白山）、甘肃南部、湖北（神农架）、四川西部、云南西北部、西藏。生高山草甸或高山针叶林下，海拔2500-4500米。印度西北部也有。模式标本采自四川宝兴。

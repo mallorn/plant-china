@@ -1,0 +1,27 @@
+狐尾马先蒿",
+255.**Pedicularis alopecuros** Franchet ex Maximowicz",
+
+## Description
+Herbs annual, 50--80 cm tall, stout, pubescent, not drying black. Roots &amp;#177; fleshy. Stems single or few, erect, often branched; branches opposite, slender. Stem leaves opposite or in whorls of 4, sessile; leaf blade lanceolate to linear-lanceolate, to 5.5 X 1--1.4 cm, both surfaces woolly, abaxially densely whitish scurfy, pinnatifid to pinnatipartite; segments 12--14 pairs, triangular to linear-oblong, crenate-dentate. Inflorescences spicate; proximal bracts longer than calyx, short petiolate, ovate-lanceolate. Calyx 8--10 mm, densely villous, deeply cleft anteriorly; lobes 5, unequal. Corolla yellow, with purple-red galea, 1.8--2 cm; tube erect, to 2 X as long as calyx; galea bent at a right angle apically, slender; beak slender; lower lip shorter than galea, glabrous, apex of middle lobe hoodlike. Filaments glabrous or pubescent apically. Capsule barely enclosed by accrescent calyx, obliquely long ovoid, ca. 1 cm. Fl. May--Aug, fr. Aug--Sep.
+
+> * Alpine meadows; 2300--4000 m. Sichuan, N Yunnan
+  "keylist": "
+1 Filaments glabrous——<a href='/info/Pedicularis alopecuros var. alopecuros?t=foc'>var. alopecuros 狐尾马先蒿 (原变种)
+1 Filaments pubescent apically——<a href='/info/Pedicularis alopecuros var. lasiandra?t=foc'>var. lasiandra 毛药狐尾马先蒿",
+**240.狐尾马先蒿**
+
+Pedicularis alopecuros Franch. ex Maxim. in Bull. Acad. St. Petersb. XXXII (1888) 548, f. 33, et in Mel. Biol. XII (1888) 818, f. 33: Forbes et Hemsl. in Journ. Linn. Soc. Bot. XXVI (1890) 205; Bonati, in Notes Bot. Gard. Edinb. V (1911) 83, et VII (1912) 150, 178, et VIII (1913) 3,9, et XV (1926) 167: Limpr. in Repert. Sp. Nov. XX (1924) 264: Hand.-Mazz. Symb. Sin. VII (1936) 870; Li, in Proc. Acad. Nat. Sci. Philad. C (1948) 297, f. 29.
+**狐尾马先蒿狐尾变种 图版LXIII, 5-6**
+
+Pedicularis alopecuros Franch. var. alopecuros
+
+一年生草本，干时不变黑色，高约50-80厘米，直立，粗壮，全体被短柔毛，主根长可达8厘米，胡萝卜状，直径约2-5毫米，有时略肉质增粗，支根多数，束生，纤维状。茎几常单出或有时从根颈发出少数，上部偶然简单，更常有分枝，枝对生，常短于主茎，纤细，主茎中空，基部木质化，显作四角形，被锈色或浅黄色短毛，但无清晰之毛线。叶对生或4枚轮生，多远距，基生及下部者均早脱落，茎生者无柄，披针形至线状披针形，长可达5.5厘米，竟约1-1.4厘米，厚纸质，基部多少抱茎，端锐尖，上面被短卷毛，下面疏被短卷毛，并有灰白色肤屑状物，有时密生使叶背变为白色，羽状半裂至深裂，裂片每边约12-14枚，三角状至线状长圆形，互相靠近，边缘有反卷的细圆齿。穗状花序生于茎枝顶端，仲长，长者可达25厘米，紧密，或基部多少有间距；苞片比萼长，具短柄，下部者卵状披针形，基部宽，顶端渐尖，上部者宽三角状卵形而具长尖，边缘具圆齿，毛被如叶；萼具短柄，斜坛状卵形，长约8-10毫米，宽约3-5毫米，在果中稍增大，密被长柔毛，膜质，前方开裂，基部稍肿胀，5条主脉细弱而不很凸起，其次脉不清楚而为疏网纹所串连，萼齿5枚，不等，后方的一枚很小，约为其他的1/3，三角状全缘而膜质，其余四枚中下部多少三角形膜质，上部稍膨大卵形，边具反卷的细圆齿，齿时具胼胝；花冠两色，管唇黄色，盔则紫红，长约18-20毫米，管伸直，比萼稍短，细瘦，直径约1-1.5毫米，盔纤细，与管直径同大，直立部分短，约为盔全长的1/3，顶端以直角向前作膝状屈曲，而成为稍稍膨大的含有雄蕊的部分，前方逐渐狭细，水平伸长成一细长之喙，喙端浅2裂，下唇比盔短，3裂，全缘，无缘毛，裂片近于相等，中裂宽卵形稍伸出，顶部微尖而略作兜状，侧裂斜卵形，稍较大；雄蕊着生在花管的中上部，2对花丝均无毛；子房卵状长圆形，长约4毫米，柱头不伸出于盔外。蒴果斜长卵形， 扁平，长约1厘米，几全被宿萼所包裹，下缝线近端处向下弓曲，上缝线 全部向下作缓慢的弓曲，至近端处突然向下以连于下缝线而组成宽斜之端，无伸长之凸尖；种子长约1毫米，暗色，有明显的网纹。花期5-8月，果期8-9月。
+
+为我国特有种，分布于云南北部及四川西南部，生于海拔2,300-4，000米的高山草原上。
+**狐尾马先蒿毛药变种**
+
+Pedicularis alopecuros Franch. var. lasiaridra Tsoong, var. nov., in Addenda 416.
+
+与前一变种的区别在其2对花丝的上部均被短毛，花药上亦被疏长毛。
+
+产我国四川。

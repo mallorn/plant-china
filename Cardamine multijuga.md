@@ -1,0 +1,10 @@
+多裂碎米荠",
+27.**Cardamine multijuga** Franchet",
+
+> &lt;I&gt;Cardamine multijuga&lt;/I&gt;, which was previously reduced to the synonymy of &lt;I&gt;C. griffithii&lt;/I&gt;, is known only from older collections. However, it is readily distinguished from &lt;I&gt;C. griffithii&lt;/I&gt; by having cauline leaves with (7 or)8-11(-15) pairs of nonciliate lateral leaflets, spreading sepals, petals, and stamens, subequal stamens, entire stigmas, and styles 3-4 mm. By contrast, &lt;I&gt;C. griffithii&lt;/I&gt; has cauline leaves with 2-4(or 5) pairs of ciliate lateral leaflets, erect sepals, petals, and stamens, tetradynamous stamens, strongly 2-lobed stigmas, and styles 0.5-1(-2) mm.
+
+## Description
+Herbs perennial, (20-)40-100(-160) cm tall, glabrous throughout. Rhizomes creeping, without stolons. Stems erect, simple or branched above, rooting from lowermost nodes, striate angled, 11-25-leaved. Leaves sessile, cauline; lower and middle ones 2.2-6(-10) cm; terminal leaflet orbicular or broadly obovate, 3-12 × 3-11 mm, with a petiolule 0.5-6 mm, base subcordate or cuneate, margin repand and not ciliate, apex obtuse or rounded; lateral leaflets (7 or)8-11(-15) pairs, slightly smaller than terminal one, ovate or ovate-oblong, base obtuse, margin repand and not ciliate, apex obtuse or rounded; proximal pair of lateral leaflets auriclelike, attached at or just above node, often giving appearance of amplexicaul leaf base. Uppermost leaves smaller. Fruiting pedicels divaricate, 1-2 cm, slender, straight. Sepals oblong, 2.5-3 × 1.5-2 mm, spreading. Petals purple or lavender, obovate, 7-9 × 3-4 mm, not clawed, apex rounded. Filaments spreading, subequal, 4-5 mm; anthers narrowly oblong, 1.5-1.7 mm. Ovules 10-16 per ovary. Young fruit glabrous; styles 2-4 mm; stigma entire. Immature seeds wingless. Fl. Jun-Jul.
+
+> * Streamsides, marshy places; 200-2800 m. Yunnan.
+  "Synonym": "&lt;I&gt;Cardamine griffithii&lt;/I&gt; J. D. Hooker &amp; Thomson subsp. &lt;I&gt;multijuga&lt;/I&gt; (Franchet) O. E. Schulz.

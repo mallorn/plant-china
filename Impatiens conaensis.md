@@ -1,0 +1,7 @@
+错那凤仙花",
+221.**Impatiens conaensis** Y. L. Chen",
+
+## Description
+Plants annual, 30-50 cm tall. Stem erect, often curved, branched in lower part, glabrous. Leaves alternate, petiolate or subsessile in upper leaves; petiole 3-8 mm; leaf blade elliptic or ovate-lanceolate, 4-8 × 1.5-3.2 cm, membranous, often with few fibrous glands on basal margin, lateral veins 7-9 pairs, base rounded or subrounded, margin crenate, teeth retuse and mucronulate, apex acuminate or caudate. Inflorescence solitary, axillary, 1- or 2-flowered; peduncles often shorter than leaves. Pedicels 1-1.5 cm, slender, bracteate at middle; bracts persistent, ovate or ovate-lanceolate, 3-4 mm, apex long acuminate. Flowers yellowish, large, 2.5-3 cm deep. Lateral sepals 2, broadly ovate or suborbicular, ca. 1 cm, hyaline margined, margin entire, apex cuspidate, abaxial midvein slightly thickened, carinate. Lower sepal shortly saccate, abruptly narrowed into an incurved spur; spur 4-5 mm, 2-lobed; mouth vertical, tip acuminate. Upper petal suborbicular, 1.2-1.3 cm in diam., hyaline margined, margin entire, abaxial midvein obtusely cristate; lateral united petals not clawed, 1.5-1.7 cm, 2-lobed; basal lobes ovate-lanceolate, small, apex with a filamentous long hair; distal lobes dolabriform, apex obtuse or slightly acute; auricle inflexed, subovate. Anthers obtuse. Ovary erect, fusiform. Capsule linear-oblong, ca. 2.5 cm. Seeds few, brown, oblong, ca. 4 mm, smooth. Fl. Jul-Aug.
+
+> ●  Forest margins, grasslands on slopes; 2700-2800 m. SE Xizang (Cona).

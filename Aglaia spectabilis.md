@@ -1,0 +1,10 @@
+曲梗崖摩",
+1.**Aglaia spectabilis** (Miquel) S. S. Jain & Bennet",
+
+> *\"Amoora stellatosquamosa\"* (C. Y. Wu &amp; H. Li in C. Y. Wu, Fl. Yunnan. 1: 233. 1977) belongs here but was not validly published because two gatherings were indicated as types (*Vienna Code*, Art. 37.2).&lt;p&gt;&lt;p&gt;*Aglaia dasyclada* is based on a mixture of *A. spectabilis* and *Dysoxylum hongkongense*. It is treated here as a synonym of *A. spectabilis* because the holotype (in IBSC) belongs to *A. spectabilis*. 
+
+## Description
+Trees to 18 m tall. Leaves alternate; petiole and rachis ca. 35 cm; petiole glabrous, abaxially rounded, adaxially with a shallow groove; leaflets 11, opposite; petiolules 1-1.5 cm, thick, adaxially sulcate and stellately lepidote; leaflet blades oblong-elliptic, both surfaces ± glabrous, secondary veins 14-16 on each side of midvein, abaxially conspicuously prominent, and adaxially depressed, reticulate veins abaxially subprominent, base truncate to rounded, margin reflexed, apex acuminate. Thyrses axillary, 20-25 cm, stellately lepidote, branches thick and often pendulous. Flower buds ovoid, ca. 6 mm. Pedicel 2-4 mm, apex nodiferous. Calyx 3-lobed; lobes broadly triangular, outside stellately lepidote. Petals 3, ovate, 5-6 mm, outside densely stellately lepidote, inside concave and glabrous. Staminal tube urceolate, ca. 3 mm, glabrous, apical margin 10-lobed; anthers 10, linear to oblong, included. Ovary ovoid, 3-locular, densely covered with yellowish pubescence; stigma triquetrous to conical, base sulcate, apex 3-dentate. Fruit dehiscent, obovoid to pyriform, 3-locular, with 1 seed per locule, pubescent and sparsely stellately lepidote; stipe to 4 mm in diam. Fl. Sep-Nov, fr. Oct.
+
+> Dense forests; 900-1800 m. S and SE Yunnan (Xichou, Xishuangbanna) [Bhutan, Cambodia, India, Indonesia, Laos, Malaysia, Myanmar, Papua New Guinea, Philippines, Thailand, Vietnam; NE Australia, Pacific islands].
+  "Synonym": "*Amoora spectabilis* Miquel, Ann. Mus. Bot. Lugduno-Batavi 4: 37. 1868; *Aglaia dasyclada* F. C. How &amp; T. C. Chen; *Amoora dasyclada* (F. C. How &amp; T. C. Chen) C. Y. Wu.

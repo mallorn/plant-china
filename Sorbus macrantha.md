@@ -1,0 +1,7 @@
+大花花楸",
+13.**Sorbus macrantha** Merrill",
+
+## Description
+Trees 6–8 m tall. Branchlets dark purple or purplish brown, terete, glabrous, with few oblong, rarely suborbicular lenticels; buds ovoid, apex shortly acuminate; scales purplish brown, glabrous. Leaves imparipinnate, together with rachis 15–20 cm; petiole 3–4 cm; stipules caducous, smaller; rachis adaxially sulcate, narrowly winged, with glands in axils of petioles; leaflet blades 5- or 6-paired, opposite or subopposite, at intervals of 1.6–2 cm, pale green abaxially, oblong or oblong-elliptic, 2–5 × 1–1.8 cm, both surfaces glabrous, base obliquely truncate or subrounded-truncate, margin coarsely sharply serrate, apex obtuse to subacute. Inflorescences terminal at apices of branchlets, 8–10 × 4–8 cm, loosely few flowered; rachis and pedicels glabrous, with narrowly elliptic lenticels; bracts caducous. Pedicel 1–2 cm. Flowers 8–11 × 10–15 mm. Hypanthium campanulate, ca. 4 mm, to 8 mm in diam., abaxially glabrous. Sepals broadly triangular, ca. 2 × 3 mm, margin shallowly glandular serrate, apex acute. Petals broadly ovate or suborbicular, 5–6 × 4–5 mm, adaxially puberulous, apex obtuse. Stamens ca. 20; filaments 3–4 mm; anthers ellipsoid, ca. 1 mm. Styles 3(–5), free, ca. 5 mm, slightly yellowish brown tomentose basally. Fruit ovoid or narrowly ovoid, ca. 1 mm in diam.; sepals persistent. Fl. May–Jul, fr. Sep.
+
+> Xizang, Yunnan [N Myanmar].

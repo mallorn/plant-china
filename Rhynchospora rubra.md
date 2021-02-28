@@ -1,0 +1,15 @@
+刺子莞",
+8.**Rhynchospora rubra** (Loureiro) Makino Bot. Mag. (Tokyo). 17: 180. 1903.",
+
+## Description
+Annuals or short-lived perennials. Rhizome short. Culms tufted, 30-65 cm tall, 0.8-2 mm thick, terete, smooth. Leaves shorter than culm; sheath brownish straw-colored, 1-7 cm; leaf blade narrowly linear, 1.5-3.5 mm wide, papery, slightly scabrous, apex acuminate. Involucral bracts 4-10, stiffly spreading, leaflike, 1-5(-8.5) cm, longer than inflorescence, unequal, densely ciliate at dilated base, sheathless. Inflorescence a single terminal head, brown to orangish brown, globose, 1-1.8 cm in diam., with many spikelets. Spikelets narrowly ovoid, 6-8 mm, shiny, 2-4-flowered. Glumes 7 or 8, brown, ovate-lanceolate to elliptic-ovate, thinly papery, keeled, vein 1, apex obtuse to acute; basal glumes each with a female flower; apical 1 or 2 glumes each with a male flower. Perianth bristles 4-6, unequal, 1/3-1/2 as long as nutlet, antrorsely scabrous. Stamens 2 or 3; filaments shorter to longer than subtending glume; anthers linear; connective evident. Style filiform; stigmas 2 or sometimes undivided, very short. Nutlet brown when mature, obovoid, 1.5-1.8 mm, biconvex, edges subacute with apical half hispid-serrulate, sides sparsely hispid-scabrous mainly on apical half, obscurely spotted with minute isodiametric epidermal cells; persistent style base conic, 1/5-1/4 as long as nutlet, base abruptly widened. Fl. and fr. May-Nov.
+  "Reference": "Plants from China would be *Rhynchospora rubra* subsp. *rubra*; other subspecies occur in Africa and Madagascar.Plants from China would be *Rhynchospora rubra* subsp. *rubra*; other subspecies occur in Africa and Madagascar.
+  "Statistics": "Road margins, grassy slopes, wet places; 100-1400 m. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hubei, Hunan, Jiangsu, Jiangxi, Taiwan, S Yunnan, Zhejiang [India, Indonesia, Japan, Korea, Laos, Malaysia, Nepal, Papua New Guinea, Philippines, Sri Lanka, Thailand, Vietnam; Africa, Australia, Indian Ocean islands, Madagascar, Pacific islands].
+  "Synonym": "*Schoenus ruber* Loureiro, Fl. Cochinch. 1: 41. 1790; *Morisia wallichii* Nees; *Rhynchospora wallichii* (Nees) Kunth.
+**6.刺子莞 图版XXXVI, 14-16**
+
+Rhynchospora rubra (Lour.) Makino in Bot. Mag. Tokyo XVII (1903) 180; Hand. -Mzt. Symb. Sin. VII (1936) 1253; Chwi, Cyper. Jap. II (1944) 16;侯宽昭等，广州植物志（1956）761，图388 Schoenus ruber Lour. Fl. Cochich.（1790）41——Rhynchospora wallichiana Kunth, Enum. II（1837）289; Benth. Fl. Hongk. （1861）396; C. B. Clarke in Journ. Linn. Soc. Bot. XXXVI（1903）260.
+
+根状茎极短。稈丛生，直立，圆柱状，高30-65厘米或稍长，平滑，直径0.8-2毫米，具细的条纹，基部不具无叶片的鞘。叶基生，叶片狭长，钻状线形，长达稈的1/2或2/3，宽1.5-3.5毫米，纸质，向顶端渐狭，顶端稍钝，三稜形，稍粗糙。苞片4-10枚，叶状，不等长，长1-5厘米，也有达8.5厘米，下部或近基部具密缘毛，上部或基部以上粗糙且多少反捲，背面中脉隆起且粗糙，顶端渐尖；头状花序顶生，球形，直径15-17毫米，棕色，具多数小穗；小穗钻状披针形，长约8毫米，有光泽，具鳞片7-8枚，有2-3朵花；鳞片卵状披针形至椭圆状卵形，有花鳞片较无花鳞片大，棕色，背面具隆起的中脉，上部几呈龙骨状，顶端钝或急尖，具短尖，最上面1或2片鳞片具雄花，其下1枚为雌花；下位刚毛4-6条，长短不一，不到小坚果长的1/2或1/3；雄蕊2或3，花丝短于或微露出鳞片外，花药线形，药隔突出于顶端；花柱细长，基部膨大，柱头2，很短，或有时只有一个柱头，顶端细尖。小坚果宽或狭倒卵形，长1.5-1.8毫米，双凸状，近顶端被短柔毛，上部边缘具细缘毛，成熟后为黑褐色，表面具细点；宿存花柱基短小，三角形。花果期5-11月。
+
+本种分布甚广，广布于长江流域以南各省及台湾；适应性大，生活力强，能生长在各种环境条件下；海拔100-1400米。分布于亚、非、澳三洲的热带地区。

@@ -1,0 +1,16 @@
+满山红",
+491.**Rhododendron mariesii** Hemsley & E. H. Wilson",
+
+> *Rhododendron daiyunicum* is probably a distinct species. The name *R*. *daiyuenshanicum* was published a year later based on the same type.&#x0D;\n&#x0D;\n&lt;p&gt;Specimens collected in Hubei by Henry were referred by Diels (Bot. Jahrb. Syst. 29: 513. 1900) to *Rhododendron farrerae* var. weyrichii (Maximowicz) Diels. This species (*R*. *weyrichii* Maximowicz) is exclusively Japanese. The Chinese specimens cited by Diels were mentioned in the protologue of *R*. *mariesii*, and one is probably the type of the latter name.
+
+## Description
+Shrubs, deciduous, 1–3 m tall; branches verticillate, softly yellowish-brown hairy, glabrescent. Petiole 5–7 mm, glabrescent; leaf blade papery to almost leathery, elliptic, ovate-lanceolate or triangular-ovate, 4–7.5 × 2–4 cm; base obtuse or subrounded; margin slightly revolute; apex acute and mucronate; both surfaces yellowish brown-villous, glabrescent, rarely abaxial surface thinly persistently floccose. Inflorescence usually 2-flowered: flowers appearing before the leaves. Pedicel 0.7–1 cm, densely softly yellow-brown hairy; calyx shallowly lobed, densely softly yellow-brown hairy; corolla funnelform, purplish red, with purple-red flecks on upper lobes, 3–3.5 cm; tube ca. 4 mm in diam.; lobes deeply divided, oblong, both surfaces glabrous; apex obtuse and rounded; stamens 8–10, unequal, shorter than, or as long as the corolla, filaments flat, glabrous; ovary ovoid, densely yellow-brown villous; style longer than stamens, glabrous. Capsule ellipsoid-ovoid, 6–9(–18) mm, densely shiny-brown-villous. Fl. Apr–May, fr. Jun–Nov.
+
+> Open forests, submontane regions; 600–1500 m. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Henan, Hebei, Hubei, Hunan, Jiangsu, Jiangxi, Shanxi, Sichuan, Taiwan, Zhejiang.
+**277. 满山红（中国树木分类学）山石榴（陕西通志），马礼士杜鹃（中国植物学会杂志），守城满山红（台湾植物志）图版122: 8-10**
+
+Rhododendron mariesii Hemsl. et Wils. in Kew Bull. Misc. Inform. 1907: 244. 1907; Wils. in Wils. et Rehd. Monog. Azal. 80. 1921; Rehd. in Stevenson, Spec. Rhodod. 113. 1930; Fang in Journ. Bot. Soc. China 2(2): 606. 1935; Hand. -Mazz. Symb. Sin. 7:771. 1936;陈嵘, 中国树木分类学953. 1937; 中国高等植物图鉴3: 145. 图4243. 1974;台湾植物志4: 30. 1978;华南杜鹃花志29. 1983; 中国四川杜鹃花 337. 1986.——R. farrerae Tate ex Sweet. var. γ mediocre Diels in Bot. Jahrb. 29: 514. 1900.——R. farrerae Tate ex Sweet var. α weyrichii Diels in ibid. 29: 513. 1900.——R. shojoense Hayata in Journ. Coll. Sci. Tokyo. 30. art. 1. 174. 1911. ——R. gnaphalocarpum Hayata, Icon. Pl. Form. 3: 132. 1913. ——R. cinereoserratum Tam in Bull. Bot. Res. 2(4): 77. 1982, syn. nov. ——R. daiyunicum Tam in ibid. 78. 1982, syn. nov.
+
+落叶灌木，高1-4米；枝轮生，幼时被淡黄棕色柔毛，成长时无毛。叶厚纸质或近于革质，常2-3集生枝顶，椭圆形，卵状披针形或三角状卵形，长4-7.5厘米，宽2-4厘米，先端锐尖，具短尖头，基部钝或近于圆形，边缘微反卷，初时具细钝齿，后不明显，上面深绿色，下面淡绿色，幼时两面均被淡黄棕色长柔毛，后无毛或近于无毛，叶脉在上面凹陷，下面凸出，细脉与中脉或侧脉间的夹角近于90°；叶柄长5-7毫米，近于无毛。花芽卵球形，鳞片阔卵形，顶端钝尖，外面沿中脊以上被淡黄棕色绢状柔毛，边缘具睫毛。花通常2朵顶生，先花后叶，出自于同一顶生花芽；花梗直立，常为芽鳞所包，长7-10毫米，密被黄褐色柔毛；花萼环状，5浅裂，密被黄褐色柔毛；花冠漏斗形，淡紫红色或紫红色，长3-3.5厘米，花冠管长约1厘米，基部径4毫米，裂片5，深裂，长圆形，先端钝圆，上方裂片具紫红色斑点，两面无毛；雄蕊8-10，不等长，比花冠短或与花冠等长，花丝扁平，无毛，花药紫红色；子房卵球形，密被淡黄棕色长柔毛，花柱比雄蕊长，无毛。蒴果椭圆状卵球形，长6-9毫米，稀达1.8厘米，密被亮棕褐色长柔毛。花期4-5月，果期6-11月。
+
+产河北、陕西、江苏、安徽、浙江、江西、福建、台湾、河南、湖北、湖南、广东、广西、四川和贵州。生于海拔600-1 500米的山地稀疏灌丛。模式标本采自湖北宜昌。

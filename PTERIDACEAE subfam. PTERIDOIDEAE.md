@@ -1,0 +1,6 @@
+凤尾蕨亚科",
+3.**PTERIDACEAE subfam. PTERIDOIDEAE**",
+
+## Description
+Plants terrestrial, small, medium-sized, or large. Rhizome erect or ascending, rarely long creeping, with solenostele or dictyostele, scaly, or rarely covered with bristles (*Taenitis*). Fronds monomorphic, rarely dimorphic or subdimorphic; stipe often straw-colored, seldom castaneous-reddish or brown, glabrous, rarely hispid or scaly; lamina 1-pinnate or 2-5-pinnate-pinnatifid, or rarely digitate or pedate, occasionally simple or 3-forked, oblong or ovate-triangular, rarely pentagonal in outline, herbaceous, papery, or leathery, mostly glabrous, rarely with white or yellow farina abaxially; venation free or rarely areolate, veinlets not included in areoles. Sori submarginal, linear, on a vascular commissure joining apices of veins, with linear, membranous indusia, or sori borne along veins, or rarely forming a narrow longitudinal band between midrib and margin and exindusiate (*Taenitis*); spores trilete, hyaline, usually with an equatorial flange.
+  "Statistics": "About 14 genera and 350 species: tropics and subtropics, especially in tropical America; five genera and 90 species (37 endemic, one introduced) in China.

@@ -1,0 +1,6 @@
+细茎飘拂草",
+14.**Fimbristylis leptoclada** Bentham Fl. Hongk. 393. 1861.",
+
+## Description
+Perennials, rhizomatous. Culms tufted, 15-60 cm tall, 0.2-1.5 mm thick, 3-angled, smooth to scabrid. Leaves basal, few; sheath pale hyaline to light brown, 1.5-4 cm, apex oblique; ligule absent; leaf blade filiform, 10-30 cm × 0.3-0.5 mm, margin ± incurved, apex obtuse. Involucral bracts 1-3, glumelike or setaceous, basalmost 0.5-2 cm. Inflorescence a simple anthela or capitate, 5-20 × 5-8 mm; rays (when present) to 2 cm. Spikelets 3-12 per inflorescence, in clusters of 2-8, ellipsoid, 2.2-3.5 × 1.5-2 mm. Glumes 10-15 per spikelet, spirally imbricate, brown, broadly ovate, 1-1.5 × 0.7-1.3 mm, densely gland-dotted, apically fimbriate ciliate, 3-veined forming an abaxial obtusely angled pale brown keel, margin membranous with a pale hyaline edge, apex rounded-truncate to shallowly emarginate and mucronulate. Stamens 1 or 2; anthers ca. 0.5 mm. Stigmas 3. Nutlet cream-colored, obovoid, 0.7-0.9 × 0.5-0.7 mm, 3-sided, verruculose. Fl. and fr. Jul-Oct.
+  "Statistics": "Dry sandy places, grasslands along roads; near sea level. Fujian, Guangdong [Indonesia, Japan (Ryukyu Islands), Malaysia, Papua New Guinea, Philippines, Sri Lanka, Thailand, Vietnam].

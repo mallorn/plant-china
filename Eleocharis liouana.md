@@ -1,0 +1,6 @@
+刘氏荸荠",
+22.**Eleocharis liouana** Tang & F. T. Wang Fl. Reipubl. Popularis Sin. 11: 226. 1961.",
+
+## Description
+Perennials, stoloniferous. Culms tufted, 14-36 cm tall, 1-3 mm thick, few ribbed and longitudinally sulcate. Leaf sheaths 2, basally dark blood-red, tubular, 4-7 cm, mouth truncate. Spikelet oblong, narrowly oblong-ovoid, or sometimes ± narrowly ovoid, 10-20 × 4-5 mm, many flowered, apex obtuse at anthesis. Basal 2 glumes empty; basalmost glume amplexicaul for more than 1/2 of spikelet base; fertile glumes green at middle and dark blood-red on both sides, laxly imbricate, oblong to linear-oblong, ca. 4 × 2 mm or narrower, margin broadly hyaline, apex obtuse to subrounded. Perianth bristles 4(or 5), longer than nutlet, densely and shortly retrorsely spinulose, spinules spreading. Stigmas 2. Nutlet at first yellow then becoming dark brown, usually ellipsoid or sometimes obovoid to subglobose, 1.2-1.5 × 1-1.2 mm, biconvex, apex constricted and not overlain by style base; persistent style base globose-ovoid to subquadrate, ca. 1/3 as long and ca. 2/3 as wide as nutlet, spongy, base rounded, apex attenuate. Fl. and fr. May-Jul.
+  "Statistics": "● Trail margins; ca. 1900 m. Yunnan.

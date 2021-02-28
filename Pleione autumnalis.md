@@ -1,0 +1,6 @@
+长颈独蒜兰",
+2.**Pleione autumnalis** S. C. Chen & G. H. Zhu Harvard Pap. Bot. 4: 429. 1999.",
+
+## Description
+Herbs, lithophytic. Pseudobulb green, ovoid-conic or flask-shaped, 2.5-4 × 1-1.4 cm, apex contracted into an elongate neck ca. 7 mm, 2-leaved. Leaves falling prior to flowering. Inflorescence erect; peduncle partly or nearly completely enclosed in sheaths, 2-4 cm; floral bract oblong-obovate, 18-22 × 10-13 mm, apical margin usually crisped-erose, apex obtuse. Flower solitary, white; pedicel and ovary 1.5-2 cm. Dorsal sepal oblong-oblanceolate, 33-37 × 9-10 mm, 5-7-veined, apex subacute; lateral sepals slightly oblique. Petals oblong-lanceolate, slightly oblique toward apex, 32-36 × 8-9 mm, 5-7-veined, apex acute; lip broadly ovate or suborbicular when flattened, 23-37 × 24-28 mm, 3-lobed above middle; lateral lobes erect, orbicular, margin undulate, apex rounded; mid-lobe subsquare-ovate or subsquare-orbicular, 10-12 × 12-14 mm, margin undulate, apex emarginate; disk with 2 or 3 broad stripes and densely warty on lateral lobes, and with 7 rows of sparse papillae along central veins, 5 of them extending from near base of lip. Column arcuate, subclavate, 14-17 mm; column wings dilated. Capsule oblanceolate-oblong, ca. 25 × 7-8 mm. Fl. Nov.
+  "Statistics": "&amp;#9679; On rocks. SW Yunnan.

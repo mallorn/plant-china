@@ -1,0 +1,7 @@
+准噶尔棘豆",
+115.**Oxytropis songarica** (Pallas) Candolle Astragalogia. 73. 1802.",
+
+## Description
+Herbs, 20-40 cm tall, acaulescent, from a thickened short branching multiheaded caudex, tuft-forming, sericeous-villous. Stipules broadly ovate, 1-1.2 cm, scarious, coarsely white pi-lose, 1- or 2-veined, basally adnate to petiole, connate and am-plexicaul. Leaves 10-35 cm, 21-39(or 41)-foliolate; petiole and rachis with appressed trichomes; leaflet blades oblong-ovate to lanceolate, 1-2 × 0.3-0.8 cm, both surfaces white sericeous with appressed dense trichomes. Racemes rather lax, several to many flowered, elongating 8-10 cm in fruit; peduncle 7-38 cm, longer than leaves, erect, round, without grooves, covered with white soft trichomes; bracts lanceolate, 7-9 mm, with white tri-chomes, apex obtuse. Calyx cylindric, 0.9-1.2 cm, covered with spreading white and black long trichomes; lobes lanceolate, 1-2.2 mm. Corolla purple; standard 1.7-2.1 cm, lamina ovate, apex slightly emarginate; wings 1.5-2 cm, apically broadening; keel 1.8-2 cm, beak ca. 1 mm. Legume sessile or substipitate; stipe to 0.5 mm; body ovoid to lanceolate-ovoid, 1.2-2 × 0.6-0.8 cm, erect-ascending, inflated, pilosulose, beaked. Fl. and fr. Jul-Aug.
+  "Statistics": "● Grasslands and gravelly dry slopes, alpine and subalpine mead-ows; 1300-2800 m. Xinjiang.
+  "Synonym": "*Astragalus songaricus* Pallas, Sp. Astragal. 63. 1800.

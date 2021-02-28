@@ -1,0 +1,9 @@
+粉口兰",
+.**Pachystoma pubescens**",
+**1.粉口兰（中国高等植物图鉴）图版42：7-8**
+
+Pachystoma pubescens Bl., Bijdr. 376, t. 29. 1825; Rchb. f. in Bonpl. 3: 251. 1855; Miq., Fl. Ind. Bat. 3: 675. 1859; Ames in Merri 11, Enum. Philip. Fl. Pl. 1 (3): 338. 1924; S. Y. Hu in Quart. J. Taiwan Mus. 27: 455. 1974;中国高等植物图鉴5: 727.图8284. 1976; 海南植物志4: 437. 1977; Seidenf. in Opera Bot.89: 54, fig. 26. 1986 , et 114: 86. 1992;台湾兰科植物3: 209-211 (图). 1987; Averyanov, Vasc. Pl. Syn. Vietnam. Fl. 1: 130. 1990; Seidenf. et J. J. Wood, Orch. Penins. Malay. Singap. 159. fig. 69. 1992; Averyanov, Inden. Guide Vietnam. orch. 95. 1994. ——Apaturia chinensis Lindl., Gen. Sp. orch. Pl. 131. 1831. ——Pachystorna chinense (Lindl.) Rchb. f. in Bonpl. 3: 251. 1855; Schltr. in Fedde Repert. Sp. Nov. Beih. 4: 246. 1919; S. Y. Hu, Gen. Orch. Hong Kong 69, fig. 35. 1977. ——Pachychilus chinensis Bl., Mus. Bot. Lugd. Bat. 2: 173. 1855. ——Pachystoma chinense (Lindl.) Hayata in J. Coil. Sci. Univ. Tokyo 30: 321. 1911. ——Pachystoma formosanunm Schltr. in Fedde Repert. Sp. Nov. Beih. 4: 245. 1919; Hayata, Icon. Pl. Formos. 10: 34. 1921;台湾植物志5: 1079. 1978. ——Pachystoma brevilabium Schltr. in Fedde Repert. Sp. Nov. 17: 69. 1921.
+
+植株高达80厘米，地下根状茎横生，牛轭状，粗4-8毫米。叶1-2枚，花后发出，纸质，似禾叶状，通常比花葶长，具4-5条主脉。花葶从根状茎发出，直立，细长，苍白色，被数枚膜质鳞片状鞘；鞘长3-8.5厘米，先端急尖或渐尖；总状花序长8-15厘米，具数朵至10余朵稍疏离的花；花序轴疏被短柔毛；花苞片直立，膜质，狭披针形，长1.5-2厘米，先端长渐尖，背面疏被短柔毛；花梗和子房长约1厘米，密被短柔毛；子房棒状；花黄绿色带粉红色；中萼片椭圆形，长约1.1厘米，宽3.5-5毫米，先端锐尖或稍钝，具5条脉，背面密被毛；侧萼片长圆状披针形，与中萼片等长而较狭，先端渐尖或急尖，具5条脉，背面密被毛；萼囊短钝；花瓣狭匙形或倒披针形，与萼片等长，宽1.5-2.2毫米，先端稍钝或锐尖，具3-5条脉；唇瓣贴生于蕊柱足上，长约1厘米，上部3裂；侧裂片直立，近长圆形，宽约3毫米，先端钝；中裂片倒卵形，先端近钝圆形并具短尖；唇盘从基部至中裂片先端纵贯3-5条具疣状突起的脊突；蕊柱长约1厘米，密布长硬毛，基部具短的蕊柱足；蕊喙肉质，半圆形；花粉团长约1毫米。花期3-9月。
+
+产台湾（南投、高雄等地）、广东（连南、信宜）、香港、海南（崖县、陵水、白沙、儋县）、广西南部（东兴）、贵州西南部（罗甸、望谟）和云南（西畴、广南、腾冲、保山一带）。通常生于海拔800米的山坡草丛中。广布于热带喜马拉雅至东南亚和太平洋的一些岛屿。模式标本采自印度尼西亚。

@@ -1,0 +1,18 @@
+穗状香薷
+15.**Elsholtzia stachyodes** (Link) C. Y. Wu
+
+## Description
+Herbs 30-100 cm tall. Stems erect, yellow-brown or purplish, sparsely white floccose-pubescent, &amp;#177; glabrescent, much branched. Petiole 0.5-4 cm, nearly as long as blades, white, adaxially puberulent; leaf blade rhombic-ovate, 2.5-6 &amp;#215; 1.5-3.5 cm, thin papery, adaxially sparsely pubescent, abaxially with sparse yellowish glands, pubescent on veins, base cuneate to broadly cuneate, decurrent, margin incised-serrate above base, apex abruptly acuminate. Spikes terminal and axillary, terminal ones 4-8.5 cm, &amp;#177; interrupted; verticillasters few flowered; bracts subulate-linear, longer than corolla. Pedicel ca. 0.5 mm. Calyx campanulate, ca. 1.5 mm, densely white villous outside; teeth lanceolate, subequal, pubescent inside; fruiting calyx slightly dilated, tubular-campanulate, ca. 2 mm. Corolla white, sometimes purple-red, ca. 2 &amp;#215; as long as calyx, pubescent outside, glabrous inside, tube funnelform, upper lip emarginate, middle lobe of lower lip elliptic, lateral lobes rounded. Anterior stamens undeveloped, posterior 2 included or slightly exserted. Nutlets yellowish, ellipsoid. Fl. and fr. Sep-Dec.
+
+
+> Hills, waste areas, open forests, limestone mountains; 800-2800 m. Anhui, Guangdong, Guangxi, Guizhou, Hubei, Shaanxi, Sichuan, Yunnan, Zhejiang [India, Myanmar, Nepal].
+
+  "Synonym": "&lt;I&gt;Hyptis stachyodes&lt;/I&gt; Link, Enum. Hort. Berol. Alt. 2: 106. 1822; &lt;I&gt;Aphanochilus foetens&lt;/I&gt; Bentham; &lt;I&gt;A. incisus&lt;/I&gt; Bentham; &lt;I&gt;A&lt;/I&gt;. &lt;I&gt;paniculatus&lt;/I&gt; Bentham; &lt;I&gt;Mentha blanda&lt;/I&gt; de Candolle; &lt;I&gt;M&lt;/I&gt;. &lt;I&gt;foetens&lt;/I&gt; Wallich ex Bentham; &lt;I&gt;M&lt;/I&gt;. &lt;I&gt;incisa&lt;/I&gt; Wallich ex Bentham; &lt;I&gt;M. paniculata&lt;/I&gt; Roxburgh; &lt;I&gt;Perilla leptostachya&lt;/I&gt; D. Don.
+
+**15.穗状香薷 图版68：2**
+
+Elsholtzia stachyodes (Link) C. Y. Wu in Act. Phytotax. Sin. 12(3): 340. 1974——Hyptis stachyodes Link, Enum. Pl. Hort. Berol. 2: 106. 1822——Perilla leptostachya D. Don, Prodr. Fl. Nepal. 115. 1825——Mentha blanda DC. Pl. Rar. Hort. Genev. 1: 27. t. 8. 1825——Aphanochilus incisus, A. foetens et A. paniculatus Benth. in Bot. Reg. sub t. 1282. 1829; in Wall. Cat. n. 1551, 1552, 1557, 1828, nom.; in Wall. Pl. Asiat. Rar. 1: 29, 30. 1830, pro syn. A. foetens Benth; Kudo in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 64. 1929——Mentha paniculata Roxb. Fl. Ind. 3: 4. 1832——Mentha incisa Wall. ex Benth. Labiat. Gen. et Sp. 162. 1833 Mentha foetens Wall. ex Benth. Labiat. Gen. et Sp. 162. 1833——Elsholtzia incisa (Benth.)Benth. Labiat. Gen. et Sp. 162. 1833; in DC. Prodr. 12: 161. 1848; Hook. f. Fl. Brit. Ind. 4: 644. 1885; Dunn in Notes Bot. Gard. Edinburgh 6: 150. 1915; Hand.-Mazz. Symb. Sin. 7: 935, 1936; in Act. Hort. Gothob. 13: 354. 1939; Mukerj. Lab. Ind. 89. 1940; Murata in Hara, Fl. E. Himalaya 274. 1966; et in Act. Phytotax 24: 81. 1969.
+
+柔弱草本，高0.3-1米。茎直立，钝四稜形，具槽，黄褐色或常带紫红色，幼时略被卷曲白色短柔毛，其后毛多少脱落，多分枝，分枝具花序。叶菱状卵圆形，长2.5-6厘米，宽1.5-3.5厘米，先端骤渐尖，基部楔形或阔楔形，下延至叶柄成狭翅，边缘在基部以上具整齐或近整齐缺刻状锯齿，薄纸质，上面绿色，散布白色短柔毛，下面淡绿色，仅沿脉上被短柔毛，余部散布淡黄色凹陷腺点，侧脉约4对，与中脉在上面微显著下面明显隆起；叶柄长0.5-4厘米，通常长度几与叶片相等，腹面具槽，槽上密被余部疏被白色微柔毛。穗状花序顶生及腋生，位于茎、枝顶上者较长，长4-8.5厘米，腋生枝上者最短，长仅1.5厘米，开花时粗可达6（8)毫米，通常粗5毫米，由疏花多少不连续的轮伞花序所组成；苞片钻状线形，具肋，常超出花冠；花梗短，长0.5毫米，与序轴被白色短柔毛。花萼钟形，长约1.5毫米，外面密被白色柔毛，内面齿上略被微柔毛，萼齿5，披针形，近相等，果时花萼略增大，管状钟形，长约2毫米。花冠白色，有时为紫红色，长约为花萼长之二倍，外面被短柔毛，内无毛，冠筒向上渐宽大，冠檐二唇形，上唇直立，先端微缺，下唇开展，3裂，中裂片椭圆形，侧裂片先端圆形。雄蕊4，前对不发育，后对内藏或微露出。花柱微露出，先端近相等2裂。小坚果椭圆形，淡黄色。花、果期9-12月。
+
+产陕西，湖北，四川，贵州，云南，广西，广东，浙江，安徽；生于开旷山坡、路旁、荒地、林中旷处或石灰岩上，海拔800-2800米。尼泊尔，印度北部至缅甸也有。模式标本采自尼泊尔。

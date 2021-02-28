@@ -1,0 +1,6 @@
+海南滨禾蕨",
+4.**Oreogrammitis hainanensis** Parris, sp. nov. sp. nov. <br><small>[**sp. nov.**]</small>",
+
+> Type: China. Hainan: Five Finger Mountain [Wuzhi Shan], 1830 m, 30 Jan 1923, *E. Smith 1548* (holotype, K!; isotype, SING!).*Oreogrammitis hainanensis* resembles *O. reinwardtii* in having the acroscopic vein branch very short and not extending beyond the sorus, but it differs in having the veins invisible and stipe hairs shorter. It differs from *O. sinohirtella* in having a longer stipe and lamina and mostly shorter stipe hairs.Stipe 11-16 mm, with dense simple solitary pale to dark reddish brown hairs 0.1-0.5 mm; phyllopodia absent. Lamina narrowly elliptic, 7.2-11 × 0.7-0.8 cm, gradually attenuate or cuneate to stipe, margin entire, apex acute to acuminate; midrib brown, slightly prominent abaxially, plane to grooved adaxially; lateral veins hidden, 1-forked, acroscopic branch shorter than basiscopic branch, not extending beyond sorus, endings with hydathodes; hairs occasional to scattered on all parts of lamina, simple, solitary, medium reddish brown, 0.1-2.6 mm. Sori orbicular or elliptic, superficial, close to midrib. Sporangia setose.
+
+> ● Rupestral in mountain forests; 700-1400 m. Hainan.

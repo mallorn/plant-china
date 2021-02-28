@@ -1,0 +1,14 @@
+华湖瓜草",
+1.**Lipocarpha chinensis** (Osbeck) J. Kern Blumea, Suppl. 4: 167. 1958.",
+
+## Description
+Perennials. Culms tufted, 10-60 cm tall, 1-1.5 mm thick, flat or compressed triquetrous, longitudinally sulcate, very laxly puberulent. Leaves basal; sheath tubular, 1.8-2.5 cm, glabrous, basal ones without a blade, apical ones with a blade; leaf blade linear, ca. 1/2 as long as culm, 2-4 mm wide, papery, margin revolute, apex acuminate. Involucral bracts 2 or 3, leaflike, 2-7 cm, not sheathing. Spikes (3 or)4-7-fascicled, ovoid to broadly ovoid, 5-10 × ca. 5.5 mm, with numerous bractlets and spikelets; bractlets pale and purple striate, oblanceolate, ca. 2 mm, keeled, submembranous, apex subtruncate to acuminate. Spikelets with 2 glumes and 1 bisexual flower; basal glume elliptic, ca. 1.5 mm, membranous, 5-veined, margin involute, apex obtuse; apical glume ovate-lanceolate, ca. 1.5 mm, with a bisexual flower, apex acute. Stamens 2; anthers narrowly oblong. Style of medium length; stigmas 3, nearly as long as style, puberulent. Nutlet brown when mature, oblong-obovoid, ca. 1 mm, biconvex, with punctate processes on surface, apex rounded and shortly apiculate. Fl. and fr. May-Oct. 2*n* = 26.
+  "Statistics": "Wet places at roadsides, ditch margins, river margins, mountain slopes, field margins; 100-2100 m. Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hunan, Jiangxi, Shandong, Taiwan, SE Xizang, Yunnan, Zhejiang [Bhutan, Cambodia, India, Indonesia, Japan (Ryukyu Islands), Kashmir, Korea, Laos, Malaysia, Myanmar, Nepal, Papua New Guinea, Philippines, Sri Lanka, Thailand, Vietnam; Africa, N Australia, Indian Ocean islands, Madagascar].
+  "Synonym": "*Scirpus chinensis* Osbeck, Dagb. Ostind. Resa, 220. 1757; *Hypaelyptum argenteum* Vahl, nom. illeg. superfl.; *Lipocarpha argentea* R. Brown, nom. illeg. superfl.; *L. bawangensis* R. H. Miao; *L. senegalensis* (Lamarck) T. Durand &amp; H. Durand; *S. senegalensis* Lamarck.
+**2．华湖瓜草 图版LXII, 10**
+
+Lipocarpha chinensis (Osbeck) Tang et Wang, comb. nov. ——Scirpus chi-nensis Osbeck in Dagbok, Ostind. Resa (1753) 220; Merr. in Am. Journ. Bot. III (1916) 584; Koyama in Journ. Fac. Sci. Univ. Tokyo Sect. III Bot. VII (1958) 290. ——Scirpus squarrosus Linn. Mant. I (1767) 181. ——Hypaelyptum microcephalaR. Br. Prod. Fl. Nov. Holl. (1810) 220——Lipocarpha microcephala (R. Br. ) Kunth, Enum. Pl. II (1837) 268; Benth. Fl. Hongk. (1861) 388; C. B. Clarke inJourn. Linn. Soc. Bot. XXXVI (1903) 257; Ohwi, Cyper. Jap. II (1944) 167; 侯宽昭等, 广州植物志 (1956) 760.
+
+丛生矮小草本，无根状茎。稈纤细，高10-20厘米，直径约0.7毫米，扁，具槽，被微柔毛。叶基生，最下面的鞘无叶片，上面的鞘具叶片；叶片纸质，狭线形，长为稈的1/4或1/2，宽0.7-1.5毫米，上端呈尾状渐尖，两面无毛，中脉不明显，边缘内捲；鞘管状，抱茎，膜质，长1.5-2.5厘米，无毛，不具叶舌。苞片叶状，无鞘，上端呈尾状渐尖；小苞片鳞片状；穗状花序2-3（-4） 个簇生，卵形，长3-5毫米，宽3毫米，具极多数鳞片和小穗；鳞片倒披针形，顶端骤缩呈尾状细尖；小穗具2片小鳞片和1朵两性花；小鳞片膜质，透明，具数条粗的脉，下面1片中空无花，上面1片内具1朵两性花；雄蕊2个，花药线状长圆形，长为花丝的1/3；花柱细长，露出于小鳞片外，柱头3个，被微柔毛。小坚果小，长圆状倒卵形，三稜形，微弯，顶端具微小短尖，长约1毫米，麦稈黄色，具光泽，表面有细的皱纹。花果期6-10月。
+
+本种分布很广，从东北至西南及台湾等省均产；生于水边和沼泽中，海拔400米左右。也分布于日本、越南、印度。

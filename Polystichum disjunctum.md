@@ -1,0 +1,18 @@
+疏羽耳蕨",
+71.**Polystichum disjunctum** Ching ex W. M. Chu & Z. R. He Fl. Reipubl. Popularis Sin. 5(2): 226. 2001.",
+
+> *Polystichum disjunctum* mostly resembles *P. biaristatum* but has 1 or 2 proliferous bulbils near the rachis tip.
+
+## Description
+Plants evergreen. Rhizome erect, densely scaly; scales dark brown, narrowly lanceolate, up to 1.5 cm, only apical margins serrulate, subentire below apex. Fronds up to 1.5 m; stipe up to &gt; 50 cm, up to 4 mm in diam. at base, basal stipe densely scaly; scales dimorphic (large and small), upper part only with few small scales; large scales dark brown or middle part castaneous and margins brown, broadly lanceolate to lanceolate, curved, up to 2 cm × 4 mm, or middle part thickened, with broad margins, margins membranous, upper margins serrulate, subentire below apex; small scales light brown at base, castaneous upward, narrowly lanceolate, or subulate-lanceolate to subulate-linear, bases broadly rounded. Lamina bipinnate, green or light green when dry, adaxially darker, ovate-lanceolate or narrowly deltoid, up to 60 × 30 cm, base slightly or not contracted, apex abruptly slightly contracted, attenuate; rachis and costa stramineous, abaxially covered with numerous small scales; small scales brown to castaneous, subulate-lanceolate to subulate-linear, persistent; rachis with 1 or 2 proliferous bulbils near tip, bulbils densely covered with lanceolate and brown small scales. Pinnae up to 20 pairs, slightly ascendant, or sometimes basal pairs attached at right angles to rachis, alternate or nearly opposite, approximate, apical pairs obliquely ovate-lanceolate to obliquely ovate, pinnatipartite to pinnatilobate, apex acute; other pairs lanceolate or oblong-falcate-lanceolate, up to 18 × 4 cm, bases slightly or not contracted, pinnate, apices pinnatifid-acuminate. Pinnules up to 15 pairs, connected or approximate, alternate or opposite, slightly ascendant, obliquely ovate, up to 2 × 1 cm at middle, apices slightly curved acroscopically, acute, spinulose; acroscopic bases truncate, slightly auriculate, parallel with rachis, basiscopic side curved, margins sparsely incised, often spinulose on upper part; abaxially densely scaly; microscales brown to dark brown, linear; frond texture papery; venation bipinnate, abaxially visible, slightly raised, adaxially slightly visible, midrib obviously concave, veinlets ascendant, nearly reaching pinnule margins. Sori terminal on shorter veinlets, medial or close to pinnule margins; indusia present, entire, centers concave and shallowly funnelform when mature, light brown. Spores semi-orbicular in equatorial view; perispore sculpturing thin, shallowly reticulate.
+
+> Montane broad-leaved evergreen forests; 1100-2100 m. W Guangxi, Yunnan [N Vietnam].
+**13．疏羽耳蕨（新拟）图版3：6-9**
+
+Polystichum disjunctum Ching ex W. M. Chu et Z. R. He, sp. nov. in Addenda.
+
+植株高达1.5米。根状茎直立，顶端密被鳞片；鳞片深棕色，狭披针形，长达1.5厘米，两侧仅顶端有细齿，其下几全缘。叶簇生；叶柄长达50厘米以上，基部直径达4毫米，上面有沟槽，下部密被大小二型鳞片，上部仅疏被小鳞片，大鳞片阔披针形至披针形，向一侧弯曲，长达2厘米，宽达4毫米，深棕色或中部质地厚，亮栗黑色，两侧有棕色的膜质阔边，顶部两侧有细齿，其下几全缘，小鳞片狭披针形，棕色或亮栗黑色，或呈钻状狭披针形至钻状线形，基部阔而圆，浅棕色，向上亮栗黑色；叶片卵状披针形或长三角形，长达60厘米，宽达30厘米，顶部略急缩渐尖，基部略缩狭或不缩狭，二回羽状；叶片羽裂渐尖的顶部以下侧生羽片达20对，略向上斜展或基部有时平展，互生或近对生，均有明显的间距，近顶部的几对斜卵状披针形至斜卵形，急尖头，羽状深裂至浅裂，其余的均为披针形或长圆镰刀状披针形，长达18厘米，宽达4厘米，先端长渐尖，基部略缩狭或不缩狭，羽状；羽片羽裂渐尖的顶部以下侧生小羽片可达15对，密接或接近，互生或对生，略向上斜展，斜卵形，长达2厘米，中部宽达1厘米，顶端略向上弯，急尖并有1短芒刺；基部上侧平截，略突起呈钝耳状与羽轴平行，下侧弧形，边缘有疏缺刻，上半部常有少数短芒刺；小羽片的叶脉二回羽状，下面可见，略突起，上面略可见，中脉明显凹陷，小脉向上斜出，大多几达边缘。叶草质，干后绿色或浅绿色，上面色略深；叶轴及羽轴禾秆色，上面均有深沟槽，下面均宿存甚多钻状狭披针形至钻状线形的棕色至栗黑色的小鳞片，叶轴近顶部通常有1-2个密被棕色披针形小鳞片的芽胞；小羽片下面有甚多棕色至深棕色的线形细小鳞片。孢子囊群生于较短的小脉顶端，中生或近边缘着生；圆盾形的囊群盖全缘，成熟时中央下凹呈浅漏斗状，浅棕色。孢子赤道面观半圆形或超半圆形，周壁较薄，褶皱形成浅网状纹饰。
+
+产云南西南部至东南部和广西西部，生海拔1150-2100米的山地常绿阔叶林下。越南北部也有。
+
+该种初见极似二芒耳蕨Polystichum biaristatum,许多性状也很近似，但其叶轴近顶端常生有1-2芽胞，不难区别。

@@ -1,0 +1,17 @@
+白边卷柏",
+5.**Selaginella albocincta** Ching Acta Bot. Yunnan. 3: 251. 1981.",
+
+> *Selaginella albocincta* is endemic to China, and its habit is very close to the Indian *S. adunca* A. Braun ex Hieronymus. They both exhibit forked veins, which might be an adaptation to their dry habitats.
+
+## Description
+Plants terrestrial or epilithic, xerophytic, seasonally green, erect or long creeping; fertile stems erect, 15-30 cm or more. Rhizophores restricted to base of erect stems or at intervals throughout length of creeping stem and branches, borne on ventral side in axils of branches. Main stems branched throughout or from near base or from lower part upward, pinnately branched, stramineous or brown, 0.5-1 mm in diam. at lower part, stem terete, not sulcate, glabrous, basal lateral branches sometimes developed into rather long branch systems; primary leafy branches 5-8 pairs, 2 or 3 times forked, branchlets sparse, adjacent primary branches on main stem 3-5 cm apart, main stem including leaves 0.5-1 mm wide at middle, ultimate branches 0.5-1.6 mm wide including leaves. Leaves alternate, inconspicuously dimorphic, leathery, shiny, white-margined, veins forked. Axillary leaves on branches symmetrical, oblong, 0.6-1.8 × 0.2-0.5 mm, base exauriculate, margin ciliolate. Dorsal leaves ± symmetrical, those on main stems not obviously larger than those on branches; dorsal leaves on branches elliptic, 0.8-1.4 × 0.4-0.7 mm, contiguous or imbricate, strongly embracing stem and covering ventral leaves, apex mucronate. Ventral leaves asymmetrical, those on main stem not obviously larger than those on branches; ventral leaves on branches slightly ascending, elliptic, 0.8-1.5 × 0.2-0.6 mm, apex mucronate; basiscopic base rounded, margin entire (or minutely denticulate), involute; acroscopic margin minutely ciliolate or denticulate. Strobili solitary, terminal, compact, tetragonal, 4-8 × 1.2-1.8 mm; sporophylls unlike sterile leaves, monomorphic, broadly white-margined, broadly ovate, margin ciliolate, apex acute; strobili with only 1 megasporophyll at base of lower side, elsewhere with microsporophylls; microsporangia orbicular, rather thin, cells uniform; microspores orange-red, megaspores brown.
+
+> ● Rocky slopes in dry warm valleys, under shrubs; 1700-3300 m. Sichuan, Xizang, Yunnan.
+  "Synonym": "*Lycopodioides* *albocincta* (Ching) H. S. Kung; *Selaginella albidocincta* Ching.
+**5.白边卷柏（云南植物研究）**
+
+Selaginella albocincta Ching in Acta Bot. Yunnan., 3 (2): 251. 1981. ——s. al-bido-cincta Ching in C. Y. Wu, Fl. Xizang., 1: 21. 1983: Vasc. Pl. Hengduan Mts.1: 8. 1993. ——Lycopodioides albocincta (Ching) S. H. Kung, Fl. Sichuan. 6: 61, Pl. 17, f. 5-9. 1988, syn. nov.
+
+土生或石生，旱生，夏绿植物，直立或长匍匐，能育枝直立，茎枝纤细，禾秆色或土生或石生，旱生，夏绿植物，高（5-）10-30厘米，匍匐，具横走的根状茎，茎枝纤细，交织成片。根托在主茎与分枝上断续着生，由茎枝的分叉处下面生出，长2.5-5（-15）厘米，纤细，直径0.24-0.38毫米；根多分叉，密被根毛。主茎全部分枝，不呈“之”字形，或多少呈“之”字形，主茎下部直径0.36-0.74毫米，茎圆柱状，不具沟槽。红褐色或褐色，光滑无毛，内具维管束1条。侧枝3-4回羽状分枝，相邻侧枝间距2-4厘米，分枝光滑，末回分枝连叶宽0.7-1.9毫米。叶覆瓦状排列，不明显的二形，叶质较厚，表面光滑，边缘不为全缘或近全缘，不具白边；主茎上的叶覆瓦状排列，略大于分枝上的叶，略二形，中叶绿色，披针形或卵状披针形，鞘状，叶背呈龙骨状，基部盾状，边缘撕裂，有睫毛。主茎上的腋叶较分枝上的大，狭长圆形，顶端圆钝，基部盾状；分枝上的腋叶对称，狭椭圆形或狭长圆形，0.8-2.1毫米x0.4-0.8毫米，边缘撕裂，有睫毛。中叶多少对称，主茎上的略大于分枝上的，分枝上的卵状斜方形，0.8-1.5毫米×0.4-0.8毫米，覆瓦状排列，脊状隆起或强烈隆起，叶先端与轴平行，具小尖头，基部斜，盾状，边缘近全缘或撕裂状并具睫毛。侧叶不对称，主茎上的较分枝上的大；分枝上的长圆状倒卵形或倒卵形，略斜升，紧密排列，1-2毫米x0.4-0.8毫米，先端短芒状或具小尖头，基部上侧不扩大，覆盖小枝，上侧边缘膜质近全缘；基部下侧下延，撕裂状并有睫毛。孢子叶穗紧密，四棱柱形，单生于小枝末端，6-30 (-80)毫米x1-1.5毫米；孢子叶与营养叶近似，孢子叶一形，不具白边，阔卵形，边缘略撕裂状并具睫毛，锐龙骨状，先端急尖；大、小孢子叶在孢子叶穗下侧间断排列。大孢子浅黄色；小孢子橘黄色或橘红色。
+
+产四川（德荣、木里、乡城）、云南（维西、贡山、丽江、德钦、中甸）、西藏（芒康、八宿、察隅）。生于干热河谷岩石山坡灌丛下，海拔1700-3250米。模式标本采自西藏。中国特有。

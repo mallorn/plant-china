@@ -1,0 +1,14 @@
+杜根藤",
+17.**Justicia quadrifaria** (Nees) T. Anderson J. Linn. Soc., Bot. 9: 514. 1867.",
+
+## Description
+Herbs. Stems 4-angled, basally decumbent and usually rooting at nodes then erect, sulcate, bifariously pubescent, soon glabrescent. Petiole 0.4-2.5 cm, sparsely pubescent; leaf blade oblong, lanceolate, to rarely orbicular, (2-)6-8 × (1-)2-3.5 cm, both surfaces glabrous or only pubescent along veins, secondary veins 5-7 on each side of midvein, base narrowly cuneate and decurrent onto petiole, margin entire or slightly serrate, apex acute. Spikes axillary, ca. 1 cm, usually 3-flowered, solitary or several in a cluster; bracts with a 3-4 mm petiole, ovate to obovate, 3-8 × 3-5 mm, sparsely pubescent, pinnately veined, apex obtuse; bracteoles linear, ca. 1 mm, glabrous. Calyx 5-6 mm, outside puberulent, 5-lobed almost to base; lobes linear-lanceolate. Corolla white with purple spots on lower lip, ca. 8 mm, outside pubescent; lower lip ca. 4 × 3 mm, patent, apex 3-lobed; upper lip oblong, erect, apex 2-lobed. Anthers with thecae superposed, lower ones spurred at base. Ovary glabrous; style ca. 6 mm, sparsely hirsute. Capsule ca. 8 mm, glabrous. Seeds ovate in outline, ca. 1.5 × 1 mm, verruculose, glabrous.
+  "Statistics": "On rock in forested valleys; 800-1600 m. Chongqing, Guangdong, Guangxi, Guizhou, Hainan, Hubei, Hunan, Sichuan, Yunnan [India, Indonesia, Laos, Myanmar, Thailand, Vietnam].
+  "Synonym": "*Gendarussa quadrifaria* Nees in Wallich, Pl. Asiat. Rar. 3: 105. 1832; *Adhatoda quadrifaria* (Nees) Nees; *A. zollingeriana* Nees; *Calophanoides quadrifaria* (Nees) Ridley.
+**10．杜根藤（植物名实图考）图版44：4**
+
+Calophanoides quadrifaria (Nees) Ridl. Fl. Mal. Pen. 2: 593. 1923; Bremek. in Dansk Bot. Ark. Bind. 20(1): 53. 1961; 云南种子植物名录(下册): 1671. 1984. ——Justicia quadrifaria(Nees)T. Anders. in Journ. Linn. Soc. Bot. 9: 514. 1867; C. B. Clarke in Hook. f. Fl. Brit. Ind. 4: 530. 1885; Forbes et Hemsl. in Journ. Soc. Bot. 26: 296. 1890; Craib in Kew Bull. 10: 441. 1911. R. Ben. in H. Lec. Fl. Gen. Indo-Chine 4: 735. 1935. ——Gendarussa quadrifaria Nees in Wall. Pl. As. Rar. 3: 105. 1832. ——Adhatoda quadrifaria Nees in DC Prodr. 11: 396. (44)1847. ——A. zollingeriana Nees in DC. Prodr. 11: 396. (43)1847; C. B. Clarke in Hook. f. Fl. Brit. Ind. 4: 530. 1885. ——Calophanoides chinensis auct. non(Champion)C. Y. Wu et H. S. Lo ex Y. C. Tang,中国高等植物图鉴4: 175. 1975, quoad f. 5764; 湖北植物大全: 505. 1993. p. p. min.
+
+草本，茎基部匍匐，下部节上生根，后直立，近4棱形，在两相对面具沟，幼时被短柔毛，后近圆柱形而无毛。叶有柄，柄长0.4-1.5-(2)厘米，叶片矩圆形或披针形，基部锐尖，先端短渐尖，边缘常具有间距的小齿，背面脉上无毛或被微柔毛，长2.5-8（-10）厘米，宽1-3.5厘米，叶片干时黄褐色。花序腋生，苞片卵形，倒卵圆形，长8毫米，宽5毫米，具3-4毫米柄，具羽脉，两面疏被短柔毛；小苞片线形，无毛，长1毫米，花萼裂片线状披针形，被微柔毛，长5-6毫米。花冠白色，具红色斑点，被疏柔毛；上唇直立，2浅裂，下唇3深裂，开展；雄蕊2，花药2室，上下叠生，下方药室具距。蒴果无毛，长8毫米；种子无毛，被小瘤。
+
+产湖北（宜昌）、重庆（巫山）、广西（天峨）、广东（罗浮山）、海南（保亭）、云南（景东、潞西、勐腊、双江）。生于海拔850-1600米。印度东北部[阿萨姆、卡西山区（模式标本产地，未见模式标本）]、缅甸、泰国、越南、印度尼西亚爪哇也有分布。

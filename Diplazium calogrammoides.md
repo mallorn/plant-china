@@ -1,0 +1,19 @@
+拟长果双盖蕨",
+80.**Diplazium calogrammoides** (Ching ex W. M. Chu & Z. R. He) Z. R. He",
+
+> *Diplazium calogrammoides* is similar to *D. calogrammum* but differs by the dense scales with black margin, cordate pinnule base, and smooth costa abaxially without green fleshy aculeate processes.
+
+## Description
+Plants evergreen, large. Rhizome creeping to ascending, brown, up to 5 cm in diam. including remaining stipe bases, apex like base of stipe, densely scaly; scales brown, lanceolate, ca. 1 cm, membranous, margin black, regularly toothed, base subcordate; fronds approximate. Fertile fronds up to 1.8 m; stipe brown at base, upward light brown stramineous, up to 70 cm, ca. 8 mm in diam., upward glabrous, shallowly grooved adaxially; lamina 2-pinnate with pinnules pinnatifid to pinnatisect, deltoid, more than 1 m × 80-90 cm, apex acuminate; pinnae 10-12 pairs, alternate, ascending, nearly symmetrical, apex long acuminate; upper 5 or 6 pairs of pinnae broadly lanceolate or sickle-shaped lanceolate, acroscopic base broadly cuneate, basiscopic base cordate, shortly stalked or sessile, pinnatifid to pinnatipartite, apex ascending, sickle-shaped; middle and lower pinnae oblong-lanceolate, pinnate, stalked; basal pinnae largest, up to 60 × 20 cm, with stalk 2-3 cm; pinnules up to ca. 15 pairs, spreading, alternate, shortly stalked or upper pinnules not stalked, broadly lanceolate or lanceolate, up to 11 × 3 cm, acroscopic base truncate or broadly cuneate, basiscopic base shallowly cordate, sometimes both sides of base cuneate or truncate, basal acroscopic pinnule lobe often shorter, incised ca. 1.5 cm from margin, apex acuminate or long acuminate; pinnule lobes up to ca. 10 pairs, subspreading, alternate, contiguous, broadly oblong, ca. 1 cm wide, margin shallowly crenate or repand, apex rounded; veins visible abaxially, not prominent adaxially, pinnate, veinlets up to 8 pairs per pinnule lobe, usually forked or simple, occasionally 3-furcate or pinnate, ascending. Lamina herbaceous, dark green when dry, glabrous, gray-green abaxially, with slightly small pale brown scales; rachis and costa stramineous, glabrous, shallowly grooved adaxially, costule glabrous abaxially. Sori linear, substraight, up to 6 pairs per pinnule lobe, mostly borne from midrib to 2/3-4/5 of veinlet length, basal acroscopic sori longest, single or double; indusia light brown when mature, thinly membranous, opening acroscopically, persistent. Spores reniform, perispore broad and hyaline, sometimes few rugate, few inconspicuous granular ornamentation.
+
+> ● Evergreen forests in valleys; 2100-2200 m. Yunnan (Jingdong, Wuliang Shan).
+  "Synonym": "Basionym: *Allantodia calogrammoides* Ching ex W. M. Chu &amp; Z. R. He, Acta Phytotax. Sin. 36: 377. 1998.
+**67. 拟长果短肠蕨（植物分类学报）心形短肠蕨（中国蕨类植物孢子形态）图版 113: 1-5**
+
+Allantodia calogrammoides Ching ex W. M. Chu et Z. R. He in Acta Phytotax. Sin. 36 (4): 377, t. 1: 3-7. 1998; Y. L. Chang et al., Sporae Pterid. Sin. 193, t. 49, f. 8, 13. 1976, nom. seminud.
+
+常绿大型林下植物。根状茎横卧至斜升，褐色，连同叶柄基部直径达5厘米，先端及叶柄基部密被鳞片；鳞片褐色，膜质，披针形长约1厘米，边缘黑色，有整齐的细齿，基部弧形着生；叶近生。能育叶长达1.8米；叶柄长达70厘米，直径约8毫米，基部褐色，向上浅绿禾秆色，光滑，上面有浅纵沟；叶片三角形，长达1米以上，宽80-90厘米，羽裂渐尖的顶部以下二回羽状一小羽片羽状半裂至深裂；侧生羽片约10-12对，互生，斜展，近对称，先端羽裂长渐尖，上部5-6对阔披针形至镰状披针形，羽状半裂至深裂，先端向上镰形弯曲，基部上侧阔楔形，下侧心形，略有短柄或无柄，其余各对矩圆披针形，羽状，有柄，基部1对最大，长达60厘米，宽20厘米，柄长2-3厘米；侧生小羽片达15对左右，平展，互生，有短柄或上部的无柄，阔披针形或披针形，长达11厘米宽达3厘米，先端渐尖或长渐尖，基部上侧平截或阔楔形，下侧浅心形，有时上下两侧均为斜形或平截，基部上侧裂片通常较短小；小羽片的裂片约达10对，近平展，互生，密接，阔矩圆形，长约1.5厘米，宽达1厘米，先端钝圆，边缘有浅钝锯齿或浅波状；叶脉上面不明显，下面可见，羽状，在小羽片的裂片上小脉可达8对，通常二叉或单一，偶为三叉或羽状，斜向上。叶草质，干后上面深绿色，光滑，下面灰绿色，略有细小的浅褐色鳞片；叶轴和羽轴禾秆色，光滑，上面有浅沟，中肋下面也平滑。孢子囊群线形，近通直，在小羽片的裂片上可达6对，大多沿小脉基部上侧向上达小脉长度的2/3-4/5，基部上侧的最长，常为双生；囊群盖成熟时浅褐色，薄膜质，从外侧张开，宿存。孢子肾形，周壁较宽阔透明，有时具少数褶皱，表面具少数不甚明显的颗粒状纹饰。
+
+特产于云南（景东无量山）。生于山谷常绿阔叶林下，海拔2100-2200米。
+
+本种形体外貌与长果短肠蕨 Allantodia calogramma (Christ) Ching 颇为相似，区别在于根状茎先端密被松展的鳞片，鳞片的黑边明显，小羽片基部心形，中肋下面不具绿色肉质小刺，孢子周壁宽阔透明，并有褶皱；后者根状茎先端的鳞片稀少而伏贴，鳞片的黑边不明显，小羽片基部平截，中肋下面疏生绿色肉质小刺。

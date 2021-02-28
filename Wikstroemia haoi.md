@@ -1,0 +1,8 @@
+武都荛花",
+20.**Wikstroemia haoi** Domke",
+
+## Description
+Shrubs to 1 m tall, much branched. Branches black-purple, terete, ± densely white tomentose, glabrescent, irregularly rugose-lenticellate; leaf buds small, white sericeous. Leaves opposite or alternate, subopposite on flowering branches; petiole ca. 2 mm, puberulous; leaf blade dark green adaxially, whitish green abaxially, elliptic or ovate-elliptic, 0.8-1.5(-2.5) × 0.3-0.8(-1.5) cm, abaxially sparsely sericeous, adaxially less hairy, base tapering to petiole, margin ± revolute, apex acute or slightly obtuse; midrib conspicuously raised, lateral veins inconspicuous, concave or obscure. Inflorescences terminal and subterminal, ± spicate, sometimes grouped into a panicle, 3-20-flowered; peduncle 0.3-2.5 cm. Pedicel ca. 1 mm. Calyx purplish or brownish yellow; tube ± narrowly obconic, ca. 9 × 1 mm, exterior white or yellow sericeous, glabrescent; lobes 4, outer lobes ca. 2 × as long as inner, obovate or suborbicular-elliptic, ca. 2 × 1.5 mm, apex rounded. Stamens 8, lower whorl inserted above middle of calyx tube, upper whorl at throat; filaments very slender; anthers oblong, ca. 1 × 0.5 mm; upper ones slightly exserted from calyx tube. Disk scale 1, linear, ca. 1.5 × 0.1 mm, finely dentate or irregularly crenulate, apex obtuse to truncate. Ovary cylindric-clavate, ca. 3 mm, glabrous except for pilose tip; style very short, slender; stigma globose, papillose. Drupe brownish red, ovoid, ca. 6 mm. Fl. summer.
+
+> ● Open woodlands, forest margins, rocky slopes, roadsides; 2500(-3000) m. S Gansu, N Sichuan.
+  "Synonym": "*Daphne haoi* (Domke) Halda.

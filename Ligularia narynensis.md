@@ -1,0 +1,16 @@
+山地橐吾",
+41.**Ligularia narynensis** (C. Winkler) O. Fedtschenko & B. Fedtschenko Consp. Fl. Turkestan. 4: 212. 1911.",
+
+## Description
+Stem erect, 9-70 cm tall, floccose-lanate, 2-6 mm in diam. at base, with a densely reddish brown lanate circle. Basal leaves petiolate; petiole 2-15 cm, floccose-lanate, base narrowly sheathed; leaf blade adaxially green, ovate-cordate, orbicular-cordate, triangular-cordate, or oblong-cordate, 1.4-15 × 1.6-10 cm, abaxially floccose-lanate, adaxially glabrous, pinnately veined, base cordate, margin undulate or sharply dentate, apex obtuse or acute, mucronate. Middle to distal stem leaves shortly petiolate or sessile, narrowly ovate to lanceolate. Distal stem leaves linear-lanceolate, often with undeveloped capitula in axil. Capitula 1-15, in corymb or rarely solitary; leaflike and supplementary bracts linear-lanceolate, to 2.2 cm; peduncles 0.8-10 cm. Involucre hemispheric or cupular, 8-13 × 11-20 mm, outside glabrous; phyllaries (8-)10-15, in 2 rows, dark brown, lanceolate, oblong, or elliptic, 2-7 mm wide, apex acute or acuminate; inner phyllaries white membranous at margin. Ray florets 9-15, yellow; lamina oblong or broadly elliptic, 1.1-2.5 cm × 2-7 mm, apex acute or truncate; tube 3-4 mm. Tubular florets numerous, 8-9 mm, higher than involucre; tube ca. 3 mm. Achenes yellowish white or purplish brown, cylindric, 4-7 mm. Pappus white, as long as tubular corolla. Fl. and fr. Jun-Aug.
+  "Statistics": "Grassy slopes, forest understories, alpine meadows; 600-3200 m. Xinjiang [E Kazakhstan, Kyrgyzstan].
+  "Synonym": "*Senecio narynensis* C. Winkler, Trudy Imp. S.-Peterburgsk. Bot. Sada 11: 319. 1890; *Ligularia robusta* (Ledebour) Candolle var. *kareliniana* (Trautvetter) O. Fedtschenko &amp; B. Fedtschenko; *Senecillis narynensis* (C. Winkler) Kitamura; *Senecio robustus* (Candolle) Schultz Bipontinus var. *karelinianus* Trautvetter.
+**43.天山橐吾 图版11: 5-6**
+
+Ligularia narynensis (C. Winkl.) O. et B. Fedtsch. Consp. Fl. Turkest. 3: 212. 1909; Pojark. in Fl. URSS 26: 822. 1961. ——Senecio robustus var. typical Trautv. in Bull. Soc. Nat. Mosc. 39: 362. 1866; Franch. in Bull. SoC. Bot. France 39: 300. 1892, p. p. quoad pl. alatav. non S. robusta (Ledeb.) DC. ——S. robustus var. kareliniana Irautv. l. c. 39: 362. 1866; Franch. l. c. 39: 300. 1892. ——S. narynensis C. Winkl. in Acta Hort. Petrop. 11: 319. 1890; Franch. l. c. 39: 362. 1892. ——Ligularia schischkinii Rubtz. in Not. Syst. Inst. Bot. Acad. URSS 7. 138. 1938; Pojark. l. c. 26: 825. 1961. syn. nov. ——L. altaica auct. non DC.: 林镕, 北研丛刊2:536. 1934. ——L. robusta auct. non (Ledeb.) DC.: 林镕, l. c. 2: 536. 1934.
+
+年生草本。根细，肉质。茎直立，高7-60厘米，被白毛丛卷毛，基部直径2-6毫米，被密的褐色棉毛。丛生叶与茎下部叶具柄，柄长2-15厘米，被白色丛卷毛，基部鞘状，叶片卵状心形、圆心形、三角状心形或长圆状心形，长1.4-10.5厘米，宽1.6-8厘米，先端钝或急尖，有小尖头，边缘具波状齿或尖锯齿，基部心形，上面光滑，绿色，下面被白色丛卷毛，灰白色，叶脉羽状；茎中上部叶狭卵形至狭披争彻衫，无柄或有短柄，无鞘；最上部叶线状披针形，叶腋常有不发育的头状花序。头状花序1-8，辐射状，常排列成伞房状花序，稀单生；苞片及小苞片线状披针形，长达2.2厘米；花序梗长0.8-4.5厘米；总苞半球形或杯状，长9-13毫米，宽11-20毫米，总苞片10-13，披针形、长圆形或宽椭圆形，宽2-7毫米，先端急尖或渐尖，黑褐色，背部光滑，内层具白色膜质边缘。舌状花9-12，黄色，舌片长圆形或宽椭圆形，长11-22毫米，宽4-7毫米，先端急尖或平截，管部长3-4毫米；管状花多数，高于总苞，长8-9毫米，管部长约3毫米，冠毛白色与花冠等长。瘦果黄白色或紫褐色，圆柱形，长4-7毫米，光滑，具肋。花果期5-8月。
+
+产新疆。生于海拔800-3200米的阴坡灌丛、山坡草地、林下及高山草地。在苏联也有分布。天山、纳伦是模式标本产地。
+
+Ligularia schischkinii Rubtz.仅以植物及叶小，头状花序单生，稀2个为特征。以此特征来作为一个独立的种是不能成立的，它应是本种在高山环境中的一个生态变型。

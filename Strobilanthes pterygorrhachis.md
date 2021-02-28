@@ -1,0 +1,6 @@
+翅轴马蓝",
+67.**Strobilanthes pterygorrhachis** C. B. Clarke J. Linn. Soc., Bot. 25: 54. 1889.",
+
+## Description
+Subshrubs to 3.8 m tall, vigorous, subglabrous. Stems and branches weakly 4-angled. Petiole 2-9 cm, glabrous; leaf blade ovate, ca. 15 × 7.5 cm, glabrous, adaxially darker and with abundant cystoliths, base cuneate and shortly decurrent onto petiole, margin serrate, apex acute to shortly acuminate. Inflorescences terminal or axillary, spikes, secund; rachis 3-25 cm, slightly zigzag, strongly winged, glabrous; bracts at base of spike leaflike, petiolate, lanceolate, to 2 × 0.7 cm but diminishing in size apically to 6 × 3 mm; bracteoles linear-oblanceolate, 5-10 mm. Flowers mostly paired, to 4 cm apart basally on rachis but somewhat confluent apically. Calyx 2.5-3.6 cm, subequally 5-lobed to near base; lobes narrowly lanceolate, 2.2-3.2 × ca. 0.3 cm, margin minutely ciliolate, apex narrowed into a finely acuminate or aristate point. Corolla yellow, ca. 3.5 cm, outside pubescent, inside glabrous except for trichomes retaining style; tube short, basally cylindric then abruptly widened and bent just below mouth. Filaments glabrous, shorter pair 3-4 mm, longer pair 5-6 mm; anther thecae oblong, 3-3.5 × ca. 1 mm. Ovary comose; style ca. 3 cm, glabrous. Capsule comose. Fl. Aug.
+  "Statistics": "Moist places in forests; ca. 1800 m. Xizang (Mêdog) [India].

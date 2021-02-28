@@ -1,0 +1,10 @@
+海南复叶耳蕨",
+16.**Arachniodes hainanensis** (Ching) ching Acta Bot. Sin. 10: 258. 1962.",
+
+> *Arachniodes dimorphophyllum* (Hayata) Ching (Acta Bot. Sin. 10: 257. 1962 [*“dimorphyllum”*]; *Polystichum dimorphophyllum* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 30: 428. 1911; *Rumohra dimorphophyllum* (Hayata) H. Itô), the most closely related species to this fern, is reportedly from Taiwan. However, without available specimens, it is not included here and reserved for further verification.
+
+## Description
+Rhizome shortly creeping, stiff, 2-3 cm in diam., apex densely scaly; scales reddish brown, linear-lanceolate, apex sometimes filiform, to 2 cm × 1.5 mm, spreading and soft. Fronds approximate, dimorphic, 30-60 cm. Sterile fronds 30-45 cm; stipe stramineous, 13-20 cm, ca. 2.5 mm in diam., base with scales similar to those on rhizome, scales sparser upward, appressed; lamina 2-pinnate, yellowish brown when dried, deltoid-lanceolate or lanceolate, 25-30 × 10-15 cm, subleathery, base rounded-cuneate, apex attenuate, rachis scaly as distal portion of stipe; pinnae 15-20 pairs, stalked, alternate or lower pairs opposite, spreading, lanceolate or deltoid-oblong, base rounded or broadly cuneate, apex acute or obtuse; pinnules 5-8 pairs per pinna, shortly stalked, oblong, to 2 × 0.8 cm, base acroscopically truncate and hardly auriculate, basiscopically cuneate, apex obtuse, margin serrate with mucronate teeth; axes of lamina, pinna, and pinnules with sparse minute brown filiform scales abaxially. Fertile fronds to 60 cm; stipe often 1/3 longer than lamina; lamina similar to that of sterile fronds in shape and dissection, but strongly contracted with much shorter and narrower pinnae. Sori small, terminal on veinlets, approximate, 4-8 pairs per ultimate segment, closer to midvein than margin; indusia dark brown, membranous, ciliate or irregularly denticulate on margin.
+
+> ● Shaded wet moss-covered rocks in dense or open forests, also in thickets or in crevices on arid cliffs by streams; 400-500 m. Hainan.
+  "Synonym": "*Rumohra hainanensis* Ching, Sinensia 5: 44. 1934.

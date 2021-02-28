@@ -1,0 +1,9 @@
+粗毛野桐属",
+22.**Hancea** Seemann",
+
+> Both morphological and molecular analyses (Slik &amp; Welzen, Blumea 46: 3-66. 2001; Sierra et al., Blumea 51: 519-540. 2006; Sierra et al., Blumea 52: 361-366. 2007) have demonstrated that *Hancea* (as *Cordemoya*) is sister to *Mallotus* and *Macaranga*. There are no easy characters to reliably separate the genus as a whole from *Mallotus*, mostly because of convergence with aberrant species within *Mallotus*. The most reliable characters are pollen morphology and the very characteristic indumentum, lacking stellate hairs and glandular scales but with gland-tipped hairs or sessile stellate scales with central cells. In practice, the easiest character is the absence of obvious glands on the adaxial leaf surface in *Hancea*, which are always present in the Chinese species of *Mallotus*.
+
+## Description
+Shrubs or trees, monoecious or dioecious; indumentum of simple hairs and gland-tipped hairs or sessile peltate-stellate hairs with central cells. Leaves [alternate or] opposite; stipules present, sometimes interpetiolar; leaf blade simple, base not glandular, margin entire, pinnately or palmately 3-veined. Inflorescences terminal or axillary, sometimes ramiflorous, [branched or] unbranched, male flowers 1-3 per bract, female 1 per bract. Male flowers: sepals 2-4, valvate; petals absent; disk absent; anthers 2-locular, extrorse, longitudinally dehiscent; pistillode absent. Female flower: sepals (3 or)4-6(or 7), imbricate or valvate; petals absent; disk absent; ovary [3-locular] with 1 ovule per locule; styles short; stigmas erect, adaxially shortly papillose. Fruit a capsule, spiny, spines sometimes gland-tipped. Seeds ± globose, 3-angled, without aril or carunculate.
+  "Statistics": "About 17 species: Madagascar, Mascarenes, S China to Malaysia, Indonesia to New Guinea; one species in China.
+  "Synonym": "*Cordemoya* Baillon.

@@ -1,0 +1,13 @@
+蟋蟀薹草",
+388.**Carex eleusinoides** Turczaninow ex Kunth Enum. Pl. 2: 407. 1837.",
+
+## Description
+Rhizome short. Culms tufted, 30-40 cm tall, slender, compressed trigonous, slightly scabrous above, clothed at base with purple-red or brown bladeless sheaths eventually disintegrating into parallel fibers. Leaves shorter than or subequaling culm, blades gray-green, linear, 2.5-4 mm wide, flat, papillose, margins scabrous. Lower 1 or 2 involucral bracts leaflike, surpassing inflorescence, sheathless, upper glumelike. Spikes 3-5, approximate, cylindric, 10-25 × ca. 0.5 mm, densely many flowered; terminal spike gynaecandrous or with male flowers at apex or base, female in middle; lateral spikes female, upper 2 or 3 sessile or subsessile, lower 1 or 2 with peduncles up to ca. 1.5 mm. Female glumes dark purple-black, oblong-elliptic, ca. 2.5 × 1.2-2 mm, with a light midrib, margins narrowly white hyaline, apex obtuse. Utricles light brown or light green, sometimes red or purple spotted above, longer than glume, suberect, elliptic or obovate-elliptic, plano-convex, (2-)2.5-3 mm, membranous, indistinctly veined, base shortly stipitate, apex abruptly contracted into a short cylindric reddish brown beak, orifice entire or slightly emarginate. Nutlets tightly enveloped, broadly obovate, 1.5-1.7 × ca. 1.3 mm, base very shortly stipitate; style base not thickened; stigmas 2. 2*n* = 84.
+  "Statistics": "Alpine frozen soil, wet places; 1700-2500 m. Jilin [Japan, Korea, Mongolia, Russia (Far East, E Siberia); North America (Alaska, NW Canada)].
+**352. 蟋蟀薹草（东北草本植物志）图版83: 9-12**
+
+Carex eleusinoides Turcz. ex Kunth, Enum. Pl. 2: 407, 1837; Boott. Illustr. Carex 4: 132, t. 428, fig. 1, 1867; Meinsh. in Acta Horti. Petrop. 18: 332, 1901; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 299, 1909; Kom., Fl. Karntsch. 1: 235, 1927; V. Krecz. in Kom., Fl. URSS 3: 231, 1935; Ohwi, Cyper. Japon. 1: 290, 1936; Akiyama, Caric. Far East. Reg. Asia 73. pl. 40, 1955; 周以良, 东北林学院植物标本室汇刊1: 12, 14, fig. 5 et 4 (incl. var, subalpina Chou) 1959; 东北草本植物志11: 166, 图版76, 图1-7. 1976.——C. baranovii Chou ex Liou et al. Clav. Pl. Chin. Bor. -orient. 524, t. 191, fig. 1, 1959. (nomen seminud.).
+
+根状茎短，斜生。秆丛生，高30-40厘米，纤细，三棱形，上部粗糙，基部叶鞘无叶片，紫红色或褐色，稍细裂成纤维状。叶短于或近等长于秆，宽2.5-4毫米，平张，边缘粗糙，灰绿色。苞片下部的1-2枚叶状，长于花序，无鞘，上部的鳞片状。小穗3-5个，接近，圆柱形，长1-2.5厘米，宽约5毫米，花密生，顶生小穗雌雄顺序或顶端及基部为雄花，中部为雌花；侧生小穗均为雌性；上部的2-3个无柄或近无柄，下部的1-2个具长柄，柄长达1.5厘米。雌花鳞片长圆状椭圆形，顶端钝，长约2.5毫米，宽1.2-2毫米，暗紫黑色，边缘具狭的白色膜质，背面中脉淡褐色。果囊稍长于鳞片，椭圆形或倒卵状椭圆形，平凸状，长2.5-3毫米，膜质，淡褐色或淡绿色。有时上部具紫色斑点，具细脉，基部具极短的柄，顶端急缩成短喙，喙短圆柱状，喙口全缘。小坚果疏松地包于果囊中，宽倒卵形，长1.5-1.7毫米，宽约13毫米，基部具极短的柄；花柱基部不膨大，柱头2个。花果期8-9月。
+
+产吉林；生于高山冻原上、水边，海拔1700-2500米。分布于蒙古、俄罗斯（东西伯利亚、远东地区）、朝鲜、日本。

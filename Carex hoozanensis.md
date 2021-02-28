@@ -1,0 +1,6 @@
+凤凰薹草",
+313.**Carex hoozanensis** Hayata Icon. Pl. Formosan. 10: 67. 1921.",
+
+## Description
+Rhizome thick, obliquely ascending. Culms densely tufted, slender, 5-20 cm tall, 1.2-1.5 mm thick, smooth, suberect, clothed for most length with bladed sheaths. Leaves several times longer than culm, blades broadly linear, 5-15 mm wide, flat, leathery, 3-costate, with rather conspicuous, transverse, light yellowish brown veinlets, shortly sheathing. Involucral bracts leaflike, surpassing inflorescence, shortly sheathing. Spikes 2 or 3, subfastigiate, erect; terminal spike male, linear, 1.5-3 cm; lateral spikes female, oblong, 1.5-3 × 0.7-0.8 cm, sublaxly many flowered, subsessile or shortly pedunculate. Female glumes pale, ovate-elliptic to ovate-oblong, ca. 3 mm, membranous, broad, green 3-veined costa forming a cusp at subacute apex. Utricles olive-green, longer than glume, patent, ovate-fusiform, 7-8 mm, herbaceous, glabrous, finely many veined, rather gradually narrowed at both ends, apical beak narrowly conic, orifice 2-lobed. Nutlets tightly enveloped, obovate, 4-5 mm, trigonous with angles usually minutely constricted at middle, base annulate; style gradually enlarged toward base forming a persistent beaklike appendage on nutlet; stigmas 3, short.
+  "Statistics": "Forests. Taiwan [Vietnam].

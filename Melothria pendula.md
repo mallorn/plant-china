@@ -1,0 +1,12 @@
+美洲马(瓜交)儿",
+1.**Melothria pendula** Linnaeus Sp. Pl. 1: 35. 1753.",
+
+## Description
+Stems slender, setulose to glabrous. Petiole slender, retrorsely hispid, 0.9-5 cm; leaf blade adaxially dark green, abaxially paler, ovate to pentagonal, membranous to herbaceous, abaxially shortly hispid or scabrid, adaxially hispid or scabrid-punctate, cordate, unlobed or shallowly to deeply 3-5-lobed, apex obtuse to acuminate, apiculate. Male flowers 3-12 in axillary fascicles, often with an accompanying solitary flower; peduncle slender, 0.5-3.5 cm; pedicels slender, 1.5-9 mm; calyx campanulate, 1.5-3.5 mm, shortly pubescent to glabrous; corolla yellow; segments spreading, obovate-oblong, 1.5-2.5 mm, emarginate, apiculate; stamens 3, two 2-celled, one 1-celled; filaments short, ca. 0.5 mm; anthers ellipsoid. Female flowers solitary, often coaxillary with male flowers; pedicel slender, 0.7-3.5 cm; calyx and corolla as in male flowers. Fruit black when ripe, subglobose to ellipsoid, 0.8-1.9 × 0.8-1.2 cm. Seeds pallid, ovate, compressed, minutely fimbrillate, 4-5 × 2-2.8 mm, 0.6-0.9 mm thick. Fl. and fr. Jan-Dec.
+  "Statistics": "Ruderal weeds; low elevations. Taiwan [native to the Americas (S United States to Argentina); introduced in SE Asia].
+美洲马(瓜交)儿",
+1.**Melothria pendula** Linnaeus Sp. Pl. 1: 35. 1753.",
+
+## Description
+Stems slender, setulose to glabrous. Petiole slender, retrorsely hispid, 0.9-5 cm; leaf blade adaxially dark green, abaxially paler, ovate to pentagonal, membranous to herbaceous, abaxially shortly hispid or scabrid, adaxially hispid or scabrid-punctate, cordate, unlobed or shallowly to deeply 3-5-lobed, apex obtuse to acuminate, apiculate. Male flowers 3-12 in axillary fascicles, often with an accompanying solitary flower; peduncle slender, 0.5-3.5 cm; pedicels slender, 1.5-9 mm; calyx campanulate, 1.5-3.5 mm, shortly pubescent to glabrous; corolla yellow; segments spreading, obovate-oblong, 1.5-2.5 mm, emarginate, apiculate; stamens 3, two 2-celled, one 1-celled; filaments short, ca. 0.5 mm; anthers ellipsoid. Female flowers solitary, often coaxillary with male flowers; pedicel slender, 0.7-3.5 cm; calyx and corolla as in male flowers. Fruit black when ripe, subglobose to ellipsoid, 0.8-1.9 × 0.8-1.2 cm. Seeds pallid, ovate, compressed, minutely fimbrillate, 4-5 × 2-2.8 mm, 0.6-0.9 mm thick. Fl. and fr. Jan-Dec.
+  "Statistics": "Ruderal weeds; low elevations. Taiwan [native to the Americas (S United States to Argentina); introduced in SE Asia].

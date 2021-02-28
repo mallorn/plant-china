@@ -1,0 +1,13 @@
+细秆薹草",
+229.**Carex capillaris** Linnaeus Sp. Pl. 2: 977. 1753.",
+
+## Description
+Rhizome short, without stolons. Culms densely tufted, 15-40 cm tall, rather slender, obtusely trigonous, smooth, with brown sheaths at base, old sheaths usually disintegrated into fibers. Leaves much shorter than culm, 1/3-1/2 height of culm, blades 1.5-2 mm wide, flat, rather soft, scabrous on margins, shortly sheathed. Involucral bracts leaflike, linear, shorter than subtending spike, with rather long sheath. Spikes 3 or 4, rather remote, slightly pendulous; terminal spike male, sometimes with 2 or 3 female flowers at base or apex, narrowly lanceolate, 0.5-1 cm, not surpassing uppermost female spike; lateral spikes female, narrowly oblong, 0.8-1.5 cm, loosely 6-10-flowered; peduncles slender, longest up to 5 cm, smooth or slightly scabrous. Female glumes early deciduous, yellow-brown or brown, obovate, ca. 2.5 mm, membranous, green 3-veined, with veins and midrib convex, margins broadly white hyaline, apex obtuse or acute and mucronate. Utricles dark yellow-green or brown-green, suberect, longer than glume, ovate-oblong or narrowly ovate, obtusely trigonous, 3.5-4 mm, membranous, nerveless, base gradually attenuate into a short stipe, apex gradually narrowed into a ± long beak, beak slightly scabrous on margins, white hyaline and obliquely truncate or emarginate at orifice. Nutlets yellowish, tightly enveloped, obovate, trigonous, ca. 1.5 mm; style base slightly thickened; stigmas 3. Fl. and fr. Jun-Jul.
+  "Statistics": "Alpine grasslands and meadows, mountain slopes, streamsides, watersides. Gansu, Jilin, Liaoning, Nei Mongol, Qinghai, Shaanxi, Shanxi [Japan, Korea, Russia; Europe, North America].
+**205. 细秆薹草**
+
+Carex capillaris Linn., Sp. Pl. 977, 1753; Boott, Illustr. Carex 4: 182, 1867; Kom., Fl. Mansh. 1: 377, 1901; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 590, 1909; Ohwi, Cyper. Japon. 1: 448, 1936; Akiyama, Caric. Far East. Reg. Asia, 140, pl. 125, fig. 2, 1955; 东北草本植物志11: 97, 图版42, 图1-5, 1976; 内蒙古植物志8: 85, 图版35, 图7-10, 1985, excl. syn.; 中国高等植物图鉴5: 319, 图7468, 1976.
+
+根状茎短，无地下匍匐茎。秆密丛生，高15-40厘米，较细弱，钝三棱形，平滑，下部生叶，基部具褐色叶鞘，老叶鞘常细裂成纤维状。叶较秆短得多，约为秆长的1/2-1/3，宽1.5-2毫米，平张，较柔软，边缘稍粗糙，具较短的叶鞘。苞片叶状，纤细，短于小穗，具较长的苞鞘。小穗3-4个，间距稍长，稍下垂，顶生小穗为雄小穗，有时基部或顶端具2-3朵雌花，狭披针形，长0.5-1厘米，高不超过相邻的雌小穗；其余为雌小穗，狭长圆形，长0.8-1.5厘米，疏生6-10余朵花；具较细长的小穗柄，最长可达5厘米，平滑或稍粗糙。雄花鳞片倒卵状长圆形，顶端钝，膜质，黄褐色，具白色半透明的宽边，具3条脉，脉间淡绿色；雌花鳞片倒卵形，长约2.5毫米，顶端钝或急尖而具短尖，膜质，黄褐色或栗褐色，具白色半透明的宽边，具3条脉，脉间绿色，中脉明显隆起，早脱落。果囊近于直立，长于鳞片，卵状椭圆形或狭卵形，钝三棱形，长约3.5-4毫米，膜质，暗黄绿色或褐绿色，具光泽，无脉，基部渐狭成短柄，顶端渐狭为中等长的喙，喙边缘稍粗糙，喙口白色膜质，斜截形或微凹。小坚果稍紧地包于果囊中，倒卵形，三棱形，长约1.5毫米，淡黄色；花柱基部稍增粗，柱头3个。花果期6-7月。
+
+产于我国东北和西北各省；生于山坡或山顶草地、河滩、草甸或水沟边。也分布于朝鲜、日本、俄罗斯和一些欧洲国家及北美洲。模式标本采自山西。

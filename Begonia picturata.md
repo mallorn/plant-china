@@ -1,0 +1,7 @@
+一口血秋海棠",
+118.**Begonia picturata** Yan Liu et al.",
+
+## Description
+Herbs, rhizomatous. Rhizomes 5-15 × 0.6-1.2 cm; internodes 0.8-3 cm. Leaves all basal; stipules ovate-triangular to lanceolate-triangular, 10-23 × 6-10 mm; petiole 7-17 cm, 3-6 mm thick; blade with a wide whitish ring-shaped belt, or with digitate dark brown bands along main veins and at leaf margin, ovate to broadly ovate, 7-20 × 5.5-14 cm, thickly papery, ± rugose, abaxially shortly villous, particularly so on veins, adaxially villous-setose or tomentose-setose, basally 6- or 7-veined, all veins on abaxial surface prominently raised, base obliquely deeply cordate. Inflorescences axillary, flowers 4-17 in a dichasial cyme; peduncle 10-16 cm, hirsute-villous; pedicel hispid-villous; bracts ovate, oblong, or orbicular. Staminate flowers: tepals 4, outer 2 suborbicular to oblong; inner 2 obovate, oblong, or oblanceolate; androecium zygomorphic; stamens 20-50; anthers oblong-obovoid, apex subemarginate, yellow with red margin along anther sacs. Pistillate flowers: tepals 3, usually caducous; outer 2 suborbicular to broadly ovate; inner 1 obovate; ovary 7-11 × 5-7 mm, red villous-setose or hispid-setose, 3-winged, 1-loculed with parietal placentation; wings unequal, abaxial wing lunate. Capsule nodding, 10-15 × 6-8 mm; abaxial wing 6-9 mm tall. Fl. Feb-May, fr. Mar-Jun. 2*n* = 30*.
+
+> ● Shaded rocky limestone slopes, in caves; 700-800 m. Guangxi (Jingxi).

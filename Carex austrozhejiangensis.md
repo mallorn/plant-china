@@ -1,0 +1,6 @@
+浙南薹草",
+296.**Carex austrozhejiangensis** C. Z. Zheng & X. F. Jin Acta Phytotax. Sin. 42: 546. 2004.",
+
+## Description
+Rhizome thick, woody, rigid. Culms lateral, 15-40 cm tall, slender, obtusely trigonous, smooth, clothed at base with dark brown sheaths. Leaves longer than culm, blades pale green, linear, 7-12 mm wide, flat, apex acuminate-caudate. Involucral bracts shortly bladed, sheath 6-12 mm. Spikes 3 or 4, distant; terminal spike male, cylindric, 1.5-2 cm; lateral spikes female, cylindric, 2-3.5 cm, densely flowered; peduncles erect. Female glumes reddish brown, broadly ovate, 3-3.5 mm (excluding awn), green 3-veined costa excurrent into a scabrous awn ca. 1 mm at subacute apex. Utricles green, longer than glume, slightly patent, ovoid-ellipsoid, 6.5-7 mm (including beak), glabrous, many veined, base contracted, apex gradually contracted into a beak 1.5-2 mm, orifice barely 2-toothed. Nutlets loosely enveloped, broadly obovoid, trigonous, ca. 5 mm (including beak), not constricted on angles at middle, base shortly stipitate, apical beak erect, ca. 1 mm; style base thickened; stigmas 3. Fl. and fr. May-Jul.
+  "Statistics": "● Roadsides, slopes, forests, streamsides; ca. 600 m. Zhejiang (Longquan, Qingtian, Suichang).

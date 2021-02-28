@@ -1,0 +1,15 @@
+羽叶新月蕨",
+7.**Pronephrium parishii** (Beddome) Holttum Blumea. 20: 123. 1972.",
+
+## Description
+Plants 30-50 cm tall. Rhizomes long creeping, blackish brown, with dense white hooked short hairs and brown hairy lanceolate scales. Fronds monomorphic or dimorphic; stipes 10-40 cm, dark stramineous, bases with sparse scales and throughout with dense hooked hairs; laminae ovate-triangular, 25-30 × 10-15 cm, long acuminate at apices; lateral pinnae 2-5 pairs (fertile laminae sometimes ternate), oblique distally, subopposite, oblong-lanceolate; proximal pair of pinnae longest, 6-15 × 2-3 cm, stalk 1-2 mm, rounded or rounded-cuneate at bases, entire, shortly acuminate at apices; distal pinnae adnate to rachises and decurrent; terminal pinna ca. 20 × 3-4 cm, margins undulate, usually with 1 or 2 free small auricles at bases, acuminate at apices. Veins evident abaxially, veinlets obliquely spreading and parallel, in middle of lateral pinnae usually 8 or 9 pairs, oblique or spreading, veinlet pairs joining by theirs ends and forming triangular areoles, an excurrent veinlet arising from joining point connected with veinlets of others forming subsquare areoles. Laminae firmly papery, adaxially glabrous except for dense hooked hairs in costal grooves, abaxially with hooked hairs along costae and veinlets and also with scattered hooked hairs on intercostal areas. Sori attached on veinlets, orbicular when young, becoming narrowly ovate and confluent, exindusiate; sporangia each with 2 hooked hairs.
+
+> Forests; 200-500 m. Taiwan [S India, Japan, Malaysia, Myanmar, Sri Lanka].
+  "Synonym": "*Meniscium parishii* Beddome, Ferns Brit. Ind. t. 184. 1866; *Abacopteris triphylla* (Swartz) Ching var. *parishii* (Beddome) Ching; *Cyclosorus parishii* (Beddome) Tardieu; *M. triphyllum* Swartz var. *parishii* (Beddome) Beddome; *Pronephrium triphyllum* (Swartz) Holttum var. *parishii* (Beddome) Nakaike; *Thelypteris triphylla* (Swartz) K. Iwatsuki var. *parishii* (Beddome) K. Iwatsuki.
+**7．羽叶新月蕨（台湾植物志）**
+
+Pronephrium parishii (Bedd. ) Holtt. in Blumea 20: 123. 1972. et Fl. Males. Ser. 1 (5) : 535. 1981; Jarrett, Ind. Fil. Suppl. 5: 161. 1985. ——Menisciumparishii Bedd. Ferns Brit. Ind. t. 184. 1866.——Meniscium triphyllum var.parishii Bedd. Handb. 399. 1883. ——Abacopteris triphylla var. parishii (Bedd. ) Ching in Bull. Fan. Mem. Inst. Biol. Bot. 8: 241. 1938; Holtt. , Rev. Fl. Mal. 2: Mal. Ferns 287. 1955. ——Thelypteris triphylla var. parishii (Bedd. ) K. Iwats.in Mem. Coll. Sci. Univ. Kyoto ser. B. 31: 191. 1965. et Ferns & Fern All. Jap. 211. 1993.——Pronephrium triphyllum var. parishii (Bedd. ) Kuo in Fl. Taiwan 1: 431. 1975; Tsai et Shieh in Fl. Taiwan 2ed. 1: 399. 1994; Nakaike, New. Fl. Jap. Pterid. (rev. & enlarg. ) 543. 4. f. 543. 1992.
+
+本种不同于典型的三羽新月蕨P. triphyllum（Sw.）Holtt.在于有2-3对或达5对的侧生羽片（能育叶有时三出）；叶片卵状三角形，长25-30厘米，基部宽10-15厘米；顶生羽片长约20厘米，宽3-4厘米，边缘波状，基部通常有1-2片分离的小耳片；仅基部一对羽片最长，有短柄，长6-15厘米，宽2-3厘米，向上的羽片与叶轴合生并下延。
+
+产台湾（台北、台东）。生林下。印度南部、斯里兰卡、缅甸、中南半岛、马来西亚和日本（琉球）也有分布。模式标本采自缅甸。

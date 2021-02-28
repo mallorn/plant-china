@@ -1,0 +1,14 @@
+岩参",
+4.**Cicerbita azurea** (Ledebour) Beauverd Bull. Soc. Bot. Genève. 2: 123. 1910.",
+
+## Description
+Herbs 30-60 cm tall, perennial. Rhizomes horizontal to oblique. Stem solitary, erect, branched apically, ± with brownish glandular hairs or glabrous. Basal and lower stem leaves with petiole 4.5-5.5(-18) cm, narrowly winged or unwinged, base ± expanded and semiamplexicaul to clasping; leaf blade pinnatisect, abaxially sparsely villous but glabrescent, margin sinuate-dentate; lateral lobes 1 pair, elliptic-triangular to triangular; terminal lobe cordate, ovate, triangular-hastate, or rarely reniform, 2-8 × 1.5-6 cm, apex acuminate to rounded. Middle and upper stem leaves with winged petiole; leaf blade smaller, lateral lobes 1 pair or absent. Synflorescence racemiform to more rarely paniculiform, with few to many capitula. Capitula with usually 11-18 florets. Involucre cylindric, 1.1-1.3 × 0.4-0.6 mm. Phyllaries usually tinged deep violet, glandular hairy along midvein or glabrous; outer phyllaries lanceolate to linear-lanceolate, longest 6-9 mm; inner phyllaries 8-10, abaxially sparsely villous but glabrescent. Florets deep blue. Achene pale brown, narrowly ellipsoid, 4-5 mm, weakly compressed, constricted for ca. 0.2 mm below pappus disk. Pappus double, outer hairs inconspicuous and ca. 0.1 mm, bristles 6-8 mm. Fl. and fr. Jul-Oct.
+  "Statistics": "Forest margins, mountain slopes, open areas in forests, grasslands on flats; 600-2900 m. N Xinjiang [Kazakhstan, Kyrgyzstan, Mongolia, SC Russia].
+  "Synonym": "*Sonchus azureus* Ledebour, Fl. Altaic. 4: 138. 1833; *Cicerbita azurea* var. *glabra* Sennikov; *C. glabra* (Sennikov) Tzvelev; *Lactuca azurea* (Ledebour) Danguy; *Mulgedium azureum* (Ledebour) Candolle.
+**2.岩参 图版53: 1-2**
+
+Cicerbita azurea (Ledeb.) Beauverd in Bull. Soc. Bot. Geneve 2 Ser 2: 123. 1910; Kirp. in Fl. URSS 29: 358, 1964; Shih in Act. Phytotax. Sin. 29: 397. 1991. ——Sonchus azureus Ledeb., Fl. Alt. 4: 138. 1833. ——Mulgedium azureum DC., Prodr. 7: 248. 1838; Ledeb., Fl. Ross. 2: 842. 1845-1846.——Lactuca azurea (Ledeb.) Danguy in Bull. Mus. Nat. Hist. Paris 20: 39. 1914; Ling in Contr. Inst. Bot. Nat. Acad. Peiping 3: 185. 1935; S. Y. Hu in Quart. Journ. Taiwan Mus. 20 (1-2): 14. 1967.
+
+多年生草本，有直径达4毫米的根状茎。茎单生，直立，高30-60厘米，基部直径达5毫米，上部总状或总状圆锥状花序分枝，全部花序分枝被头状具柄的短或长腺毛，下部无毛。基生叶及下部茎叶大头羽状全裂，有长4.5(5.5)厘米，极少长达18厘米的叶柄，柄有狭翼或无翼，柄基稍扩大抱茎，顶裂片大，心形、卵形或三角状戟形，稀少肾形，长2-8厘米，宽1.5-6厘米，顶端短渐尖、急尖或圆形，边缘有锯齿，侧裂片1对，椭圆形、三角形或锯齿状，极少边缘少锯齿，基部与羽轴宽融合；中部茎叶渐小，与基生叶及下部茎叶同形并等样分裂或不裂，叶柄短，有宽或狭翼；上部或最上部茎叶更小，线形或线状披针形；全部叶下面有极稀疏的糙毛。头状花序多数或少数，沿茎枝顶端排成总状花序，极少为总状圆锥花序。总苞钟状，长1.1厘米，直径约6毫米。总苞片3层，外层及最外层披针形，长2.5-4毫米，宽1-1.5毫米，内层长椭状披针形或线状长椭圆形，长1. 1厘米，宽达2毫米，全部总苞片外面沿中脉有稠密或稀疏的头状具柄的长或短腺毛。舌状小花紫色、紫蓝色或蓝色，12-18枚，瘦果长椭圆形，长4-5毫米，宽约1毫米，顶端有收缢，无喙，压扁，无毛，每面有8条高起的细肋，浅褐色，边缘稍粗厚。外层冠毛极短，糙毛状，内层冠毛长毛状，长6-8毫米，单毛状。花果期7-10月。
+
+分布新疆（乌鲁木齐、尼勒克、昭苏、布尔津、和硕、清河、沙湾、库车、新源、托里、哈密）。生于山坡林缘、林间空地及平原草地，海拔1 680-2 850米。俄罗斯西伯利亚、哈萨克斯坦以及蒙古有分布。模式标本采自阿尔泰山区。

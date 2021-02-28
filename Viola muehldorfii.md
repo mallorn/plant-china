@@ -1,0 +1,15 @@
+大黄花堇菜",
+92.**Viola muehldorfii** Kiss",
+
+## Description
+Herbs perennial. Rhizome procumbent, yellow-brown to whitish, long, slender, with small, dry, white membranous scales, and white rootlets. Stems erect, simple, 20-60 cm tall, spreading white villous or subglabrous in lower part, usually with 1 small, white, ovate, membranous scale at base. Basal leaves 1-3, petiole to 10 cm; leaf blade cordate or reniform, both surfaces sparsely puberulous, more densely puberulous on veins abaxially, base cordate, margin serrate and ciliate, apex mucronate. Cauline leaves usually 3, rarely 4; stipules free, opposite, ovate, margin entire or glandular serrate, apex acute; petiole of lower one ca. 3 cm, densely minutely villous, blade of lower one orbicular-cordate, ca. 4 × 4.5 cm, base broadly cordate, apex acuminate; upper two short petiolate or subsessile, leaf blade of upper two at apex of stem, subopposite, ovate, both surfaces white puberulous, base shallowly cordate, apex acuminate or acute. Flowers in second leaf axil at apex of stem, golden-yellow, 1.5-2 cm; pedicels glabrous, 2-bracteolate in upper part; bracteoles broadly ovate. Sepals narrowly ovate or lanceolate, ca. 8 mm, usually glabrous, 3-veined, margin entire, basal auricles short, ca. 0.3 mm. Petals obovate, purple striate, lateral petals inside barbate at base, anterior one subspatulate, 1.5-2 cm (spur included); spur ca. 2 mm, stout, apex obtuse; spur of anterior stamens undeveloped, short, broad. Ovary glabrous; styles gradually thickened upward; stigmas capitate, with a series of white beards on each lateral side, shortly beaked in central part, with a rounded stigma hole at tip of beak. Capsule ellipsoid, ca. 7 mm, apex ± acute, usually with persistent style. Seeds glaucous, globose, ca. 2 mm in diam., with white appendage. Fl. May-Aug, fr. Jul-Sep.
+
+> Mixed needle-leaved and broad-leaved forests, forest margins, streamsides; 300-500 m. Heilongjiang [Korea, Russia].
+  "Synonym": "*Viola lasiostipes* Nakai.
+**109. 大黄花堇菜（东北师范大学科学研究通报） 图版24: 1-7**
+
+Viola muehldorfii Kiss. in Bot. Kozlem. 19: 92. 1921; Juz. in Kom. Fl. URSS 15: 450. Pl. 21. f. 4. 1949. 竹内亮, 东北师范大学科学研究通报 1: 89. 图版2, 图12. 1955et 採集と飼育 25 (6): 40-41. f. 1. 1963; 东北植物检索表231. 1959; Kitag. Neo-Lineam. Fl. Mansh. 457. 1979; 东北草本植物志 6: 126. 1977.——V. lasiostipes Nakai in Bot. Mag. Tokyo 36: 32. 1922.
+
+多年生草本。根状茎细长而横走，节间较长，节上有白色干膜质小鳞片，生白色细根。地上茎直立，不分枝，高60-20厘米，被白色开展的长毛或下部近无毛，基部通常有一枚卵形的白色膜质小鳞片。基生叶1-3枚，叶片心形或肾形，先端具短尖，基部心形，边缘具稍向内弯的锯齿及缘毛，两面疏被白色细毛，但下面脉上毛较密，具长达10厘米的叶柄；茎生叶通常3枚，稀4枚，下方的一枚叶片圆心形，长约4厘米，宽约4.5厘米，先端渐尖，基部宽心形，具长约3厘米的叶柄，柄上密生长细毛，上方2枚叶片生于茎顶，近对生，卵形，先端渐尖或急尖，基部浅心形，两面被白色细毛，具短柄或近无柄，托叶与叶柄离生，2枚，对生，卵形，先端急尖，全缘或具腺状锯齿。花金黄色，生于茎顶第二叶的叶腋内；花梗无毛，在上部弯曲处有2枚宽卵形的小苞片；萼片长卵形或披针形，长约8毫米，全缘，通常无毛，具3脉，基部的附属物短，长约0.3毫米；花瓣倒卵形，有紫色脉纹，侧瓣里面基部有须毛，下方花瓣近匙形，连距长1.5-2厘米，距长约2毫米，粗而末端钝圆；下方雄蕊之距不发达，短而宽；子房无毛，花柱向上渐增粗，柱头头状，两侧有一列白色须毛，中央具短喙，喙端具圆形柱头孔。蒴果椭圆形，长约0.7厘米，先端稍尖，通常有宿存的花柱。种子球形，直径约2毫米，苍白色，有白色附属体。花期5月中、下旬至6月下旬，果期6-7月。
+
+产黑龙江省伊春市带岭林区及尚志县等地。生于针阔混交林林下或林缘腐殖质较丰富的湿润土壤上，或生于溪边。朝鲜及苏联远东地区均有分布。

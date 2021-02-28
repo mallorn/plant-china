@@ -1,0 +1,6 @@
+菲律宾荸荠",
+5.**Eleocharis philippinensis** Svenson Rhodora. 31: 155. 1929.",
+
+## Description
+Perennials. Stolons slender. Culms erect, brown, tufted, 30-50 cm tall, 1.5-2.5 mm thick, acutely 4- or 5-angled. Leaf sheaths 2 or 3, reddish brown to dark brown, tubular, 2-8 cm, mouth obliquely truncate, apex acute. Spikelet cylindric, 1.5-4 cm × 2.5-3 mm. Basalmost glume empty; fertile glumes brownish green, laxly spiraled and in 4 rows, broadly lanceolate, 4-5 × 1.5-2.5 mm, membranous, abaxially purplish red puncticulate medially, many veined and with a slightly conspicuous midvein, margin hyaline, apex obtuse to slightly acute. Perianth bristles 7, 3 on outer series as long as nutlet, 4 on inner series as long as style base, retrorsely spinulose. Stigmas 2. Nutlet yellowish brown, obovoid, 1.5-2 × 1-1.2 mm, biconvex, deeply pitted with 15-20 longitudinal rows of hexagonal epidermal cells, apex slightly constricted into a short neck and with a slightly annular thickening; persistent style base long pyramidal, apex attenuate. Fl. and fr. Sep-Oct.
+  "Statistics": "Flooded fields, moist areas. Guangdong, Hainan [India, Indonesia, Malaysia, Papua New Guinea, Philippines, Thailand, Vietnam; N Australia, Pacific islands (New Caledonia)].

@@ -1,0 +1,9 @@
+博罗鳞盖蕨",
+25.**Microlepia boluoensis** Y. Yuan & L. Fu Nordic J. Bot. 30: 170. 2012.",
+
+> It has not been possible to include this recently described species, known to us only from the protologue, in the key to species.
+
+## Description
+Plants large, to 35 m tall. Rhizome short, creeping, up to 15 mm in diam., with dense, dark brown, multicellular, uniseriate hairs. Fronds remote, 1.5-2 cm apart; stipe to 13 m, ca. 14 mm in diam. at base, with elongate uniseriate hairs toward base and short uniseriate hairs toward apex; rachis with dark brown, uniseriate hairs and prominently grooved abaxially; lamina light green abaxially, deeply tripinnatifid in medial and proximal portion in well-developed plants, ovate, 180-250 cm, papery when dry, with long, scattered, yellow-brown hairs on abaxial surface, rachis, and veins, gradually acuminate at apex; pinnae ca. 23 pairs, ascending, deeply pinnatifid, lanceolate, to 69 × 17 cm, cuneate at base, acuminate at apex; basal two pairs 2-4 cm apart, slightly reduced, subopposite; remaining pinnae alternate, subacute or rounded at apex and with lobed margins; pinnules ca. 33 pairs, linear-lanceolate, ca. 9 cm × 22-28 mm, pinnate except medial and distal portion with small subfalcate lobes, gradually acuminate at apex; ultimate pinnules ca. 15 pairs, ovate or oblong, subsessile, first basal acroscopic pinnule largest, usually parallel to rachis, remaining pinnules smaller, obtuse or rounded at apex, acroscopic base oblique, basiscopic base cuneate with incised margins. Veins simple or forked, oblique and visible on both surfaces of pinnules. Sori 1-13 on each pinnule, brownish, small, intramarginal and terminal on veins; indusium cup-shaped, thin, covered with hairs, rounded at base, cuneate at apex.
+
+> ● Semi-shaded slopes along forest margins and roadsides; 200-300 m. Guangdong (Luofu Shan).

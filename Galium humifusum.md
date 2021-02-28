@@ -1,0 +1,17 @@
+蔓生拉拉藤",
+23.**Galium humifusum** M. Bieberstein Fl. Taur.-Caucas. 1: 104. 1808.",
+
+## Description
+Herbs, perennial, sometimes slightly woody at base, clambering to procumbent, from a thick rootstock with slender, trailing reddish rhizomes. Stems up to 1 m tall, 4-angled to subterete, often caespitose, glabrescent to white pilosulous, hirtellous, and/or pilose often with mixed trichome types, smooth or sparsely scaberulous. Leaves in whorls of 6-10, sessile, frequently reflexed; blade drying papery, from linear and narrowly oblong-oblanceolate to oblong-elliptic or ligulate, (5-)10-28(-32) × (1-)1.5-3(-6) mm, adaxially glabrous and scaberulous, abaxially glabrous to densely white pilosulous or -pilose, base straight to cuneate, margin antrorsely aculeolate and usually markedly revolute, apex obtuse to acute and mucronate with tip to 2 mm; vein 1. Inflorescences with numerous terminal and axillary, congested to fasciculate, leaflike and many-flowered cymes; peduncles glabrous to hirtellous and/or pilosulous, with reduced leaves and leaflike bracts, 1.5-3 mm; pedicels 1-4 mm. Ovary ellipsoid, 0.8-1 mm, glabrous to hispidulous with straight trichomes. Corolla yellowish white to white, funnelform, 1.5-2.5 × 2.5-3 mm, glabrous to sometimes hairy on outside; lobes 4, ca. 1/2 as long as tube, triangular-ovate, acute to apiculate. Mericarps ellipsoid to reniform, 1-1.5 × 1.5-2 mm, glabrous and smooth, granulate or hispidulous, becoming separated in middle as fruit expand but remaining attached at top and bottom. Fl. and fr. May-Oct.
+  "Reference": "This species has often been included in *Asperula* (e.g., Pobedimova et al., Fl. URSS 23: 276. 1958) because of its funnelform, relatively large, white corollas, but its affinities are clearly with members of *Galium*, particularly *G. verum*, though the flowers are distinct. Rarely the two species form a hybrid, which has been called *G. ×himmelbauerianum* (Ronniger) Soó, and both should be placed into *G.* sect. *Galium*.This species has often been included in *Asperula* (e.g., Pobedimova et al., Fl. URSS 23: 276. 1958) because of its funnelform, relatively large, white corollas, but its affinities are clearly with members of *Galium*, particularly *G. verum*, though the flowers are distinct. Rarely the two species form a hybrid, which has been called *G. ×himmelbauerianum* (Ronniger) Soó, and both should be placed into *G.* sect. *Galium*.
+  "Statistics": "Riversides and beaches, forests, grasslands, farmland sides, wastelands, meadows, mountain slopes; 400-2200 m. Xinjiang [Afghanistan, Kazakhstan, Mongolia, Pakistan, Russia, Turkistan; SW Asia (Armenia, Azerbaijan, Georgia, Iran, Iraq), E Europe (Balkan Peninsula, Ukraine)].
+  "Synonym": "*Asperula humifusa* (M. Bieberstein) Besser.
+**45. 蔓生拉拉藤（植物分类学报）图版60：4-8**
+
+Galium humifusum M. Bleb. Fl. Taur. -Cauc. 1: 104. 1808; Pobed. in Nov. Syst. Pl. Vasc. 7: 276. 1971; F. Ehrendorfer et F. Krendl in Fl. Europaea 4: 22. 1976; W. C. Chen in Acta Phytotax. Sinica 28 (4): 305. 1990.——Asperula humifusa(M. Bleb.) Bess. Pl. Cremen. suppl. 3: 4. 1814; Pobed. in Kom. Fl. URSS 23: 276. 1958.
+
+多年生草本；根状茎纤细，蔓生，木质，微红色；根粗，木质；茎1至多个，平铺，长0.2-1米，纤细，具4角棱，具白色柔毛，稀近无毛，常从基部分枝。叶纸质，每轮6-10片，狭披针形至线形，长0.5-2.3厘米，宽1-5毫米，边缘常反卷，两面有白色柔毛，边缘具短的向上的刚毛，常向下弯而几乎与茎紧贴，1脉，近无柄。聚伞花序腋生或顶生，有时组成伞房状的圆锥花序，少至多花，总花梗和花梗被短柔毛；花梗长1-4毫米，叉开，在果时常向下弯；花冠黄白色，短漏斗状，长1.5-3毫米，花冠管与裂片等长或较短，裂片长圆形，顶端渐尖，开放时反折；雄蕊着生在冠管上，花丝稍宽，与花药等长或较长；花柱顶部2裂，柱头球形。果小，无毛，宽椭圆形，长1-1.5毫米，宽1.5-2毫米，通常双生。花果期5-10月。
+
+产新疆。生于山坡、沟边、河滩、荒地、田边、林中、草地，海拔420-2200米。分布于欧洲、亚洲（中部和西部）。
+
+尚待进一步研究的种和变种：

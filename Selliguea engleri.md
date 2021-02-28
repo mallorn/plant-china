@@ -1,0 +1,15 @@
+恩氏假瘤蕨",
+11.**Selliguea engleri** (Luerssen) Fraser-Jenkins Taxon. Revis. Indian Subcontinental Pteridophytes. 46. 2008.",
+
+## Description
+Rhizome 3-4 mm in diam., densely scaly; scales reddish brown, linear to linear-lanceolate, 3-6 mm, margin entire, apex acuminate. Fronds monomorphic. Stipe straw-colored or light brown, 5-15(-20) cm, glabrous; lamina simple, linear or oblanceolate, 5-15(-28) × 1-3 cm, widest above middle, base cuneate, margin entire or slightly crenate, apex shortly acuminate. Lateral veins visible, veinlets obscure. Lamina papery or subleathery, stiff, both surfaces glabrous, abaxial surface usually glaucous. Sori orbicular, small, slightly closer to midrib, superficial.
+
+> Epiphytic on tree trunks or on rocks; 1000-2000 m (in Taiwan). Fujian, Guangxi, Guizhou, Jiangxi, Taiwan, Zhejiang [Japan, Korea].
+  "Synonym": "*Polypodium engleri* Luerssen, Bot. Jahrb. Syst. 4(4): 361. 1883; *Crypsinus engleri* (Luerssen) Copeland; *C. engleri* var. *coriaceus* (Tagawa) Tagawa; *Phymatodes engleri* (Luerssen) Ching; *P. engleri* var. *coriacea* Tagawa; *Phymatopsis engleri* (Luerssen) H. Itô; *P. engleri* var. *coriacea* (Tagawa) Ching; *P. engleri* var. *hypoleuca* (Hayata) H. Itô; *Phymatopteris engleri* (Luerssen) Pichi Sermolli; *Polypodium engleri* var. *hypleuca* Hayata; *P. hastatum* Thunberg var. *engleri* (Luerssen) Christ.
+**11. 恩氏假瘤蕨**
+
+Phymatopteris engleri (Luerss.) Pic. Serm. in Webbia 28 (2): 462. 1973; Jarrett et al., Ind. Fil. Suppl. 5: 133, 1985 ——Polypodium engleri Luerss. in Engl. Bot. Jahrb. Syst. 4: 361. 1883; C. Chr., Ind. Fil. 525. 1906. ——Phymatodes engleri (Luerss.) Ching in Contr. Inst. Bot. Nat. Acad. Peiping 2 (3): 72. 1933. Phy-matopsis engleri (Luerss.) H. Ito in J. Jap. Bot. 11: 98. 1935; Fil. Jap. 3: Pl. 387. 1944; Ching in Acta Phytotax. Sin. 9 (2): 185. 1964; Fl. Fujian. 1: 245. 1982; C. F. Zhang, et S. Y. Zhang. Fl. Zhejiang 1: 322. t. 1-340. 1993. ——Crypsinus engleri (Luerss.) Copel., Gen. Fil. 206. 1947: Nakaike, Enum. Pterid. Jap. 326. 1975: New Fl. Jap. Pterid. 642. t. 642a, 642b. 1992; K. Iwats., Ferns and Fern Allies of Jap. 276. Pl. 189-3. 1992; Shieh. De Vol et C. M. Kuo, Fl. Taiwan 2nd ed. 1: 478. 1994. ——Polypodium hastatum Thunb. var. engleri (Luerss.) Christ in Bull. Herb. Boiss. 6: 875. 1898. ——Polypodium engleri Luerss. var. hypoleucum Hayata, Mat. Fl. Formos. 446, 1911. ——Phymatopsis engleri (Luerss.) H. Ito var. hypoleuca (Hayata) H. Ito in J. Jap. Bot. 11: 98. 1935. ——Phymatodes engleri (Luerss.) Ching var. coriacea Tagawa in Acta Phytotax. Geobot. 11: 309. 1942. ——Phymatopsis engleri (Luerss.) H. Ito var. coriacea (Tagawa) Ching in Acta Phytotax. Sin. 9 (2): 186. 1964. ——Crypsinus engleri (Luerss.) Copel. var. coriaceus (Tagawa) Tagawa in Acta Phytotax. Geobot. 15: 142. 1954.
+
+植株高约20-30厘米。根状茎长而横走，粗约2-3毫米，密被鳞片；鳞片披针形，约2-5毫米，棕色，顶端渐尖，边缘全缘。叶近生或远生；叶柄长约5-10厘米，最长可达15厘米，淡棕色，光滑无毛；叶片倒披针形，长约5-15厘米，最长可达28厘米，中上部最宽，宽约1-3厘米，先端短渐尖，基部楔形，边缘具缺刻和加厚的软骨质边，通直或呈波状。侧脉明显，不达叶边，小脉不明显。叶坚纸质或近革质，背面通常灰白色，两面光滑无毛。孢子囊群圆形，在叶片中脉两侧各一行，略靠近中脉着生，孢子囊群在叶片背面不凹陷。
+
+产台湾、福建、浙江、江西、广西和贵州等。附生树干上或石上。日本和朝鲜也有。模式标本采自日本。

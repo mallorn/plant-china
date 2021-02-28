@@ -1,0 +1,8 @@
+新疆风铃草",
+16.**Campanula stevenii** M. Bieberstein Fl. Taur.-Caucas. 3: 138. 1819.",
+
+## Description
+Plants perennial, glabrous throughout. Rhizomes elongated, exposed. Caudexes erect, often enveloped by remains of old leaves. Stems caespitose, erect, 20-50 cm tall. Basal leaves basally attenuate into a long petiole; blade spatulate or elliptic, margin sparsely denticulate; cauline leaves sessile, broadly linear, 2-6 cm. Flowers terminal, solitary or several. Calyx tube obconic, 3-7 mm; lobes subulate, 5-9 mm. Corolla purple, funnel-shaped, cleft to middle, 1.5-2 cm. Capsules narrowly obovoid, 12-16 × 6-10 mm. Seeds brown-yellow, elliptic, nearly 1 mm. Fl. Jun-Jul.
+  "Reference": "Six subspecies are recognized; our plants are *Campanula stevenii* subsp. *albertii* (Trautvetter) Viktorov (Novosti Sist. Vyssh. Rast. 34: 231. 2002, *\"alberti\"*; *C. albertii* Trautvetter, Trudy Imp. S.-Peterburgsk. Bot. Sada 6: 83. 1879, *\"alberti\"*), endemic to N Xinjiang and Kyrgyzstan.Six subspecies are recognized; our plants are *Campanula stevenii* subsp. *albertii* (Trautvetter) Viktorov (Novosti Sist. Vyssh. Rast. 34: 231. 2002, *\"alberti\"*; *C. albertii* Trautvetter, Trudy Imp. S.-Peterburgsk. Bot. Sada 6: 83. 1879, *\"alberti\"*), endemic to N Xinjiang and Kyrgyzstan.
+  "Statistics": "Shaded slopes, glades, dry grasslands; 1100-2500 m. N Xinjiang [Kyrgyzstan, Russia (European part, Far East, Siberia); SW Asia (Turkey), Europe].
+  "Synonym": "*Campanula simplex *Steven, Mém. Soc. Imp. Naturalistes Moscou 3: 255. 1812, not Lamarck ex Candolle (1805); *C. steveniana *Schultes; *Neocodon stevenii* (M. Bieberstein) Kolakovsky &amp; Serdyukova.

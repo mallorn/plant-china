@@ -1,0 +1,7 @@
+卧龙乌头",
+44.**Aconitum wolongense** W. T. Wang",
+
+## Description
+Caudex carrot-shaped, ca. 11 cm, ca. 1.4 cm in diam. Stem ca. 92 cm, apically 1-branched, apically sparsely retrorse and appressed pubescent, ca. 11-leaved. Proximal cauline leaves withered at anthesis, and middle leaves long petiolate; petiole 8--15 cm, glabrous; leaf blade cordate-pentagonal, ca. 6.5 × 9 cm, papery, abaxially sparsely sericeous at veins, adaxially appressed pubescent at veins, base deeply cordate, 3-parted; central lobe broadly rhombic, subpinnate lobes obliquely flabellate, unequally 2-parted. Inflorescence terminal, ca. 3.8 cm, 2- or 3-flowered; rachis and pedicels appressed and retrorse pubescent; bracts narrowly oblong, to 1.4 cm. Pedicels 0.9--1.3 cm, with 2 bracteoles at distal part or near apex; bracteoles lanceolate-linear or narrowly linear, 3.5--4 mm, glabrous. Sepals purple-blue; lower sepals obliquely broadly rhombic or elliptic, 1--1.1 × 0.65--0.9 cm; lateral sepals obliquely broadly obovate, ca. 1.4 × 1.5 cm, both surfaces sparsely appressed pubescent, apex truncate-rounded; upper sepal navicular, ca. 1.9 cm from base to beak, abaxially sparsely appressed pubescent. Petals glabrous, ca. 1.5 cm; claw ca. 1.3 cm; limb ca. 4 mm, ecalcarate; lip ca. 1.8 mm, apex slightly concave. Stamens glabrous; filaments entire. Carpels 6, densely pale brown pubescent. Fl. ?Jul.
+
+> * Sichuan (Wenchuan Xian).

@@ -1,0 +1,7 @@
+海南省藤",
+16.**Calamus hainanensis** C. C. Chang & L. G. Xu ex R. H. Miao Acta Sci. Nat. Univ. Sunyatseni. 1981(3): 116. 1981.",
+
+## Description
+Stems clustered, climbing, to 15 m, to 1 cm in diam. Leaf sheaths green with brown and whitish hairs, without spines or with scattered, conic-based spines to 0.5 cm; ocreas small; knees inconspicuous or absent; flagella present; petioles very short; rachis to 0.4 m with 12-14 linear pinnae per side, these regularly arranged but with wide gaps between groups, shiny green, curled over at tips, apical ones inserted close together in a fan shape, apical pair not joined at their bases; middle pinnae 9-15 cm, 0.7-1 cm wide at mid-point, adaxial veins and margins bristly; cirri absent. Inflorescences to 0.7 m, flagellate; inflorescence bracts tubular. Fruits yellowish or orange, ellipsoid, to 2.7 × 2 cm, stalked, scales grooved.
+  "Reference": "The validity of this name has been challenged on the basis that no type was designated; however, the protologue listed only a single collection, which thus must be the type collection, and was published before 1990 when the ICBN required the explicit designation of a holotype. Thus, the name is valid.The validity of this name has been challenged on the basis that no type was designated; however, the protologue listed only a single collection, which thus must be the type collection, and was published before 1990 when the ICBN required the explicit designation of a holotype. Thus, the name is valid.
+  "Statistics": "● Lowland rain forests; below 1000 m. Hainan.

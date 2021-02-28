@@ -1,0 +1,6 @@
+艳花独蒜兰",
+9.**Pleione aurita** P. J. Cribb & H. Pfennig Orchidee (Hamburg). 39: 111. 1988.",
+
+## Description
+Herbs, epiphytic. Pseudobulb green or pale green, conic, somewhat angular in cross section, 2-4 × 1-2 cm, 1-leaved. Leaf erect, oblanceolate, 8-18 × 2-4 cm, apex acute. Inflorescence erect; peduncle 5-7 cm; floral bract pale pink with darker veins, narrowly elliptic-oblanceolate, cucullate, ca. 25 × 10-15 mm, apex acute or subacute. Flower solitary, showy, pale pink, rose-pink, or purple, paler toward base of floral segments, lip with a yellow or orange-yellow stripe at center; pedicel and ovary green, arcuate, 16-20 mm, 6-ribbed. Dorsal sepal hooded over column, narrowly elliptic or oblong-elliptic, 39-50 × 11-15 mm, apex subacute; lateral sepals porrect or spreading weakly, obliquely elliptic, 39-43 × 14-16 mm, apex subacute. Petals strongly reflexed, oblanceolate or spatulate, 39-43 × 14-19 mm, apex obtuse or rounded; lip broadly flabellate when flattened, deeply cucullate, 39-40 × 50-60 mm, obscurely 3-lobed toward apex, apical margin undulate and irregularly erose, apex emarginate; disk with 4 or 5 rows of long papillae extending from base of lip to ca. 5 mm from apex of mid-lobe. Column clavate, 25-30 mm, apex irregularly dentate; column wings narrow. Fl. Apr-May.
+  "Statistics": "&amp;#9679; Montane forests; 1400-2800 m. W Yunnan.

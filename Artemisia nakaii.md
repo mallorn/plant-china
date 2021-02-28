@@ -1,0 +1,7 @@
+矮滨蒿",
+19.**Artemisia nakaii** Pampanini Nuovo Giorn. Bot. Ital., n.s.,. 34: 682. 1927.",
+
+## Description
+Herbs, biennial, 30-60 cm tall, long branched, densely arachnoid and sericeous pubescent or glabrescent. Basal leaves ± forming rosettes; petiole 4-10 cm; leaf blade suborbicular or ovate, 8-15 × 8-15 cm, 3-pinnatisect; lobules filiform, 6-15 mm. Lower and middle stem leaves: leaf blade orbicular or ovate, 1.5-8 × 0.8-1.5 cm, 1- or 2-pinnatisect; segments 2 or 3 pairs; lobules linear or filiform, 4-15 × ca. 0.5 mm. Uppermost leaves and leaflike bracts 1(or 2)-pinnatisect. Synflorescence a narrow to broad panicle. Capitula nodding. Involucre ellipsoid or obconical, (2-)3(-4) mm in diam.; phyllaries minutely tomentose, ± glabrescent; receptacle white pubescent. Marginal female florets 2-5. Disk florets 8-16, bisexual. Achenes obovoid-ellipsoid. Fl. and fr. Aug-Oct.
+  "Reference": "*Artemisia nakaii* is based on the gathering *Faurie 361*, originally included within *A. fauriei*, which differs by its perennial habit and basal leaves with longer, (10-)15-30 mm, filiform lobules.*Artemisia nakaii* is based on the gathering *Faurie 361*, originally included within *A. fauriei*, which differs by its perennial habit and basal leaves with longer, (10-)15-30 mm, filiform lobules.
+  "Statistics": "Sand banks along rivers, grasslands; low elevations. Hebei, Liaoning, SE Nei Mongol [Korea].

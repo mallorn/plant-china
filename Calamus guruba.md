@@ -1,0 +1,7 @@
+褐鞘省藤",
+24.**Calamus guruba** Buchanan-Hamilton ex Martius Hist. Nat. Palm. 3: 211 [ed. 2]. 1845.",
+
+## Description
+Stems clustered, climbing or forming thickets, to 20 m, to 3 cm in diam. Leaf sheaths dull green with rusty brown or light brown hairs, with scattered to densely arranged, dark brown, flattened, upward-pointing spines to 3.5 cm (sometimes to 10 cm at sheath apices); ocreas conspicuous, tattering and soon falling; knees present; flagella to 3 m; rachis to 1.3 m with 30-65 linear-lanceolate pinnae per side, these regularly arranged, apical ones smaller than others; middle pinnae 25-45 cm, 1.7-2.2 cm wide at mid-point, adaxial and abaxial veins bristly; cirri absent. Inflorescences to 3 m, flagellate; inflorescence bracts not sheathing, split open and flat, brown. Fruits yellowish or brown, globose, to 0.8 cm in diam.
+  "Statistics": "Lowland or montane rain forests, scrub forests, dry forests, disturbed areas, especially roadsides; below 1200 m. Yunnan [Bangladesh, Bhutan, Cambodia, India, Laos, Malaysia (Peninsular), Myanmar, Thailand].
+  "Synonym": "*Calamus guruba* var. *ellipsoideus* San Y. Chen &amp; K. L. Wang; *C. mastersianus* Griffith; *C. multirameus* Ridley; *C. nitidus* Martius; *Daemonorops guruba* (Buchanan-Hamilton ex Martius) Martius; *D. guruba* var. *hamiltoniana* Martius; *D. guruba* var. *mastersiana* (Griffith) Martius; *Palmijuncus guruba* (Buchanan-Hamilton ex Martius) Kuntze; *P. nitidus* (Martius) Kuntze.

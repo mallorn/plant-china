@@ -1,0 +1,14 @@
+山育杜鹃",
+63.**Rhododendron oreotrephes** W. W. Smith",
+
+## Description
+Shrubs, 1–4 m tall; young shoots deep purplish red, sparsely scaly, otherwise glabrous or pubescent. Petiole pinkish purple, 7–13 mm, sparsely scaly, sometimes pubescent; leaf blade elliptic, oblong or ovate, 1.8–6 × 1.4–3.5 cm; base rounded to cordate, rarely broadly cuneate; apex obtuse or rounded, apiculate; abaxial surface pinkish green or green, scales contiguous, or less than (rarely more than) their own diameter apart, all similar, yellowish brown or brown; adaxial surface without scales. Inflorescence terminal or subterminal, shortly racemose, 3–5(–10)-flowered; rachis 1–8 mm. Pedicel purplish red, 0.5–2 cm, sparsely scaly; calyx undulately 5-lobed or annular, ca. 1.5 mm; corolla broadly funnelform-campanulate, 5-lobed to the middle, pale purple or pale red or deep purplish red, 1.8–3 cm, outer surface glabrous, lobes ovate; stamens unequal, long ones as long as or slightly longer than corolla; filaments spreading-pubescent below; ovary 5-locular, densely scaly; style glabrous. Capsule cylindric, 8–13 mm. Fl. May–Jul.
+
+> Evergreen-deciduous mixed forests, *Abies* or *Larix* forest margins, *Quercus*-*Rhododendron* thickets; (2100–)3000–3700 m. SW Sichuan, SE Xizang, N Yunnan [Myanmar].
+**60. 山育杜鹃（中国高等植物图鉴）图版17: 5-6**
+
+Rhododendon oreotrephes W. W. Smith in Not. Bot. Gard. Edinb. 8: 201. 1914; Hutch. in Curtis's Bot. Mag. 144: t. 8784. 1918 et 162: t. 9597. 193-40; id. in Stevenson, Spec. Rhodod. 776. 1930; Hand. -Mazz. Symb. Sin. 7: 772. 1936; Bean, Trees and Shrubs, 3: 110. 1951; Davidian in Rhodod. and Gam. Year Book, 17: 200. 1963; 中国高等植物图鉴3: 71. 图4095. 1974; Cullen in Not. Bot. Gard. Edinb. 39 69. 1980; Davidian, Rhodod. Spec. 1: 364. 1982; 云南植物志4: 496. 图版136, 1-2. 1986; 横断山区维管植物下册1428. 1994. ——R. timeteum Balf. f. et Forrest in Not. Bot. Gard. Edinb. 12: 166. 1920. ——R. artosquameum Balf. f. et Forrest in ibid. 13: 234. 1922; 中国高等植物图鉴3: 66. 图4086. 1974. ——R. cardoeoides Balf. f. et Forrest in ibid. 13: 239. 1922.——R. depile Balf. f. et. Forrest in ibid. 13: 255. 1922. ——R. hypotrichotum Balf. f. et Forrest in ibid. 13: 268. 1922. ——R. phaeochlorum Balf. f. et Forrest in ibid. 13: 284. 1922. ——R. pubigerum Balf. f. et Forrest inibid. 13: 289. 1922. ——R. trichopodum Balf. f. et Forrest in ibid. 13: 304. 1922. ——R. siderophylloides Hutch. in Journ. Roy. Hort. Soc. 60: 326, 1935. ——R. exquisetum Hutch. in Gard. Chron. 98: 98. 1932; 中国高等植物图鉴3: 66. 图4085. 1974.
+
+常绿灌木，高1-4米。幼枝紫红色，疏生鳞片，无毛或有微柔毛。叶通常聚生幼枝上部，叶片椭圆形、长圆形或卵形，长1.8-6厘米，宽1.4-3.5厘米，顶端钝圆，具短尖头，基部钝圆，有时微凹，稀宽楔形，上面无鳞片，下面粉绿色或褐色，密被黄褐色或褐色鳞片，鳞片近等大，小至中等大小，相距小于直径至近邻接，稀相距超过其直径；叶柄长0.7-1.3厘米，粉紫色，疏被鳞片，有时有微毛。花序顶生或同时枝顶腋生，短总状，3-5-（-10）花；花序轴长1-8毫米；花梗长0.5-2厘米，紫红色，疏生鳞片；花萼长约1.5毫米，波状5裂或近于环状；花冠宽漏斗状，长1.8-3厘米，略两侧对称，淡紫、淡红或深紫红色，5裂至近中部，外面洁净，裂片圆卵形；雄蕊不等长，长雄蕊近与花冠等长或略长，花丝基部被开展的短柔毛；子房5室，密被鳞片，花柱光滑。蒴果长卵形，长0.8-1.3厘米。花期5-7月。
+
+产四川西南部、云南西北及东北部、西藏东南部。生于针叶-落叶阔叶混交林、黄栎-杜鹃灌丛、落叶松林缘或冷杉林缘，海拔（2 100-）3000-3700米。缅甸东北部也有。模式标本采于云南丽江。

@@ -1,0 +1,48 @@
+细柄薹草组",
+45.**Carex sect. Graciles** Kükenthal in Engler Bot. Jahrb. Syst. 27: 516. 1899.",
+
+> About 30 species: E, S, and SE Asia, Australia, Pacific islands; 21 species (13 endemic) in China.
+
+## Description
+Plants perennial, with short rhizome, rarely with long, slender rhizome, without stolons. Involucral bracts sheathed. Spikes few to numerous, single or several fasciculate in an involucral bract sheath or arranged in a raceme or panicle, usually bisexual, rarely unisexual or bisexual and unisexual, bisexual spikes androgynous, laxly or densely many flowered, rarely few flowered; peduncle slender. Utricles lenticular or plano-convex, several veined, base stipitate, beak orifice shortly 2-toothed. Nutlets compressed lenticular or plano-convex; style base slightly thickened; stigmas 2, rather long.
+  "keylist": "
+1 Utricles 4-7.5 mm (only ca. 3 mm in C. lushanensis), yellow-green or stramineous in maturity, glabrous or only scabrous on beak margins——(2)
+1 Utricles usually not exceeding 4 mm in length, sometimes up to 4.5 mm in few species, yellow-brown or reddish brown in maturity, hispidulous on both surfaces or only on margins, glabrous in few species——(6)
+2(1) Spikes oblong or oblong-cylindric, 12-15(-18) mm; utricles densely disposed, orbicular or broadly elliptic (except beak), 3-4 mm; nutlets orbicular or broadly obovate——(3)
+2 Spikes cylindric, 2-6.5 cm; utricles laxly disposed, elliptic, oblong, or lanceolate-oblong (except beak), 5-7.5 mm; nutlets elliptic or oblong——(4)
+3(2) Female glumes lanceolate-ovate; utricles broadly elliptic (except beak), ca. 3 mm; nutlets puncticulate.[*C. lushanensis* 芦山薹草](Carex lushanensis.md)
+3 Female glumes ovate or narrowly ovate; utricles orbicular (except beak), ca. 4 mm; nutlets not puncticulate.[*C. orbicularinucis* 圆坚果薹草](Carex orbicularinucis.md)
+4(2) Spikes (4-)5-6.5 cm; utricles very laxly disposed, oblong-lanceolate, 6-7.5 mm; nutlets oblong, ca. 3 mm, yellowish in maturity.[*C. sinodissitiflora* 华疏花薹草](Carex sinodissitiflora.md)
+4 Spikes (1.5-)2-3(-4) cm; utricles slightly laxly disposed, elliptic, 5-6 mm; nutlets elliptic, 2-2.5 mm, brown in maturity——(5)
+5(4) Leaf blades 2-4 mm wide; spikes single in an involucral bract sheath, sometimes branched at lower spikes; utricles ca. 6 mm; nutlets compressed plano-convex.[*C. longipes* 长穗柄薹草](Carex longipes.md)
+5 Leaf blades 5-8 mm wide; spikes 1-3 borne in an involucral bract sheath, usually branched; utricles ca. 5 mm; nutlets biconvex.[*C. ereica* 二峨薹草](Carex ereica.md)
+6(1) Utricles (except beak) oblong or narrowly oblong, 4-4.5 mm; stigmas longer than or equaling utricle; female glumes slightly longer than or equaling utricle——(7)
+6 Utricles (except beak) broadly ovate, elliptic, or suborbicular, not exceeding 4 mm; stigmas usually shorter than utricle, rarely slightly longer than utricle; female glumes shorter than utricle——(9)
+7(6) Female glumes narrowly ovate or lanceolate, awned or mucronate at apex, longer than utricle.[*C. teinogyna* 长柱头薹草](Carex teinogyna.md)
+7 Female glumes oblong-ovate or narrowly oblong, muticous and without mucro at apex, nearly equaling or slightly shorter than utricle——(8)
+8(7) Leaves ca. 1/3 length of culm; spikes laxly with female flowers; female glumes nearly equaling or slightly longer than utricle; stigmas persistent.[*C. bilateralis* 台湾薹草](Carex bilateralis.md)
+8 Leaves longer than or equaling culm; spikes densely with female flowers; female glumes equaling or slightly shorter than utricle; stigmas late deciduous.[*C. hattoriana* 长叶薹草](Carex hattoriana.md)
+9(6) Terminal spike male, lateral spikes bisexual and androgynous or unisexual and female——(10)
+9 Spikes numerous, bisexual, androgynous——(14)
+10(9) Lateral spikes bisexual, androgynous——(11)
+10 Lateral spikes unisexual, female or 3-8 spikes fascicled in an involucral bract sheath, one of them male and others female——(12)
+11(10) Culms stout, 60-100 cm tall, clothed with dark brown bladeless sheaths on lowermost 30-50 cm; utricles dense.[*C. stipitinux* 柄果薹草](Carex stipitinux.md)
+11 Culms rather thin, 50-60(-70) cm tall, clothed with brown bladeless sheaths on lowermost ca. 10 cm; utricles lax.[*C. autumnalis* 秋生薹草](Carex autumnalis.md)
+12(10) Culms rather stout; leaf blades 4-12 mm wide; 3-8 spikes fascicled in an involucral bract sheath, one of them male, occasionally with few female flowers at apex, remaining spikes female, peduncles hispidulous.[*C. omeiensis* 峨眉薹草](Carex omeiensis.md)
+12 Culms rather thin; leaf blades 1-1.5 mm wide; spikes single, rarely 2-nate in an involucral bract sheath, terminal spike male, remaining spikes female, peduncles glabrous——(13)
+13(12) Utricles hispidulous on both surfaces.[*C. chui* 曲氏薹草](Carex chui.md)
+13 Utricles glabrous.[*C. pergracilis* 纤细薹草](Carex pergracilis.md)
+14(9) Spikes arranged in a panicle or raceme; utricles 2-3(-4) mm, usually glabrous——(15)
+14 Spikes single or several fasciculate in an involucral bract sheath, not branched and not arranged in a panicle or raceme; utricles exceeding 3 mm, hispidulous on both surfaces, on veins and margins, or only on margins——(18)
+15(14) Culms stout, 80-140 cm tall; spikes linear-cylindric and arranged in a panicle; female glumes ovate or narrowly ovate, apex acute.[*C. henryi* 亨氏薹草](Carex henryi.md)
+15 Culms somewhat slender, 40-70 cm tall; spikes narrowly oblong or lanceolate, single or 3-6-nate in an involucral bract sheath, spikes or only lower spikes usually branched, arranged in a raceme; female glumes broadly ovate, apex obtuse or rounded——(16)
+16(15) Utricles ca. 2.5 mm, oval in outline, apex abruptly contracted into a beak; female glumes ca. 1 mm, apex ending below beak.[*C. gentilis* 亲族薹草](Carex gentilis.md)
+16 Utricles 3-4.5 mm, ovate-elliptic or broadly ovate, apex rather gradually narrowed to beak; female glumes 2-3.5 mm, apex reaching beak——(17)
+17(16) Utricles ca. 3 mm, ovate-elliptic; spikes 1-2 cm.[*C. mosoynensis* 滇西薹草](Carex mosoynensis.md)
+17 Utricles 3.5-4 mm, broadly ovate; spikes 1.5-3 cm.[*C. nachiana* 日南薹草](Carex nachiana.md)
+18(14) Spikes more than 5 to many, usually 1-4 in an involucral bract sheath, 15-30 mm; utricles white hispidulous on both surfaces or on veins and margins——(19)
+18 Spikes 3-5, single in an involucral bract sheath, 8-15 mm; utricles only hispidulous on margins——(20)
+19(18) Spikes usually 1 or 2 in an involucral bract sheath, densely flowered; utricles broadly elliptic or orbicular (except beak), beak short, ca. 1/4 length of utricle, white hispidulous on both surfaces.[*C. brunnea* 褐果薹草](Carex brunnea.md)
+19 Spikes usually 3 or 4 in an involucral bract sheath, laxly flowered; utricles elliptic (except beak), beak medium sized, ca. 1/3 length of utricle, hispidulous on veins and margins.[*C. gongshanensis* 贡山薹草](Carex gongshanensis.md)
+20(18) Culms 10-35 cm tall, with slender stolons; utricles 3-3.5 mm, only hispidulous on margins of beak.[*C. sendaica* 仙台薹草](Carex sendaica.md)
+20 Culms 35-100 cm tall, without stolons; utricles 4-4.5 mm, hispidulous on margins.[*C. bodinieri* 滨海薹草",](Carex bodinieri.md)

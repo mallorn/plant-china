@@ -1,0 +1,13 @@
+聚花野丁香",
+8.**Leptodermis glomerata** Hutchinson in Sargent Pl. Wilson. 3: 406. 1916.",
+
+## Description
+Small shrubs, up to 60 cm or slightly taller; stems branched at base, branches erect, slender, usually purplish red, with hairs in 2 opposite bands, internode 3-4 cm or longer. Leaves opposite; petiole 1-2 mm or longer; blade thinly papery, lanceolate or ovate-lanceolate, sometimes ovate, 1-5 × 0.6-2 cm, glabrous or scabrid at margins adaxially, subglabrous abaxially, reticulately veined, base very pointed, apex acute or acuminate; lateral veins 4-6 pairs, arched, prominent abaxially; stipules broad at base, long cuspidate upward, 2.5-4 mm, sparsely hairy near base or subglabrous outside. Flowers congested at tips of branches, sessile or conspicuously petiolate for lateral flowers, dimorphic, heterostylous; long-styled flowers with bracteoles membranous, opposite, connate at base, 2.5 mm or slightly shorter, glabrous, abruptly subulate-acuminate. Calyx turning black when dry; tube 2-2.2 mm, glabrous; lobes 5, lanceolate-subulate, ca. 2 mm, stiff, glabrous, usually not ciliate, acuminate or acute. Corolla tube slightly curved, ca. 1 cm, dilated upward, pubescent outside, sparsely pubescent on throat; lobes 5, ovate, ca. 3.5 × 2.5 mm, obtuse and apiculate. Stamens 5, inserted in throat of corolla tube; filaments ca. 2.8 mm; anthers ca. 3 mm, slightly exserted. Style glabrous, 10-11 mm; stigmas 5-lobed, lobes ca. 1 mm; short-styled flowers: style ca. 5 mm, stigmas 3-5-lobed, lobes linear, 2.5-5 mm. Capsule narrowly ellipsoidal, persistent calyx lobes ca. 9 mm, 5-ridged, pale brown, glabrous, 5-valved when mature, with 5 utricle-like pyrenes; seeds linear, embedded in reticulate aril; aril free from testa.
+  "Statistics": "● Sparse forests, hill slopes; 1800-2500 m. Yunnan.
+**3. 聚花野丁香（云南种子植物名录）图版32: 1-9**
+
+Leptodermis glomerata Hutchins. in Sargent, Pl. Wils. 3: 406. 1916; Levl. Cat. Pl. Yunnan 246. 1917; H. Winkl. in Fedde, Repert. Sp. Nov. 18: 165. 1922; Chung in Mem. Sci. Soc. China 1: 240. 1924; 云南种子植物名录, 下册: 1259. 1984.
+
+矮灌木，高达60厘米或稍过之；茎基部分枝，枝直立，纤细，常带浅紫红色，具2条对生的毛线，节间长3-4厘米或过之。叶对生，薄纸质，披针形或卵状披针形，有时卵形，长1-5厘米，宽0.6-2厘米，顶端短尖或渐尖，基部极尖，上面无毛或边缘略粗糙，下面近无毛，有网状脉纹；侧脉每边4-6条，弧状，下面凸起；叶柄长1-2毫米或稍过之；托叶基部很阔向上长骤尖，长2.5-4毫米，外面近基部被疏毛或近无毛。花于枝顶团聚，无柄或侧生的明显有柄，二型，花柱异长；长柱花：小苞片膜质，对生，基部合生，骤然钻状渐尖，长2.5毫米或略短，无毛；萼干时变黑色，管长2-2.2毫米，无毛，萼裂片5，披针状钻形，长2毫米，渐尖或短尖，坚硬，无毛，通常无缘毛；冠管微弯，长1厘米，向上扩大，外面被微小柔毛，喉部被疏柔毛，裂片5，卵形，长3.5毫米，宽2.5毫米，顶端钝而有短尖头；雄蕊5，生冠管喉部，花丝长约2.8毫米，花药长约3毫米，微露出；花柱无毛，长约10-11毫米，柱头5裂，裂片长1毫米。短柱花：花柱长约5毫米，柱头3-5裂，裂片线形，长2.5-5毫米。蒴果狭椭圆形，宿萼裂片长约9毫米，有5棱，淡褐色，无毛，成熟时5瓣裂，含5个胞果状分核；种子线形，包藏于网状的假种皮内，假种皮与种皮分离。
+
+产云南东南部和昆明附近。常生于疏林中或山坡上，海拔1800-2450米。模式标本采自弥勒。

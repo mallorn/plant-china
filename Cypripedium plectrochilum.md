@@ -1,0 +1,14 @@
+离萼杓兰",
+19.**Cypripedium plectrochilum** Franchet Bull. Soc. Bot. France. 32: 27. 1885.",
+
+## Description
+Plants 12-30 cm tall, with a stout, rather short rhizome. Stem erect, pubescent, with several sheaths at base and 3 or rarely 2 or 4 leaves above. Leaf blade elliptic to narrowly elliptic-lanceolate, 4.5-6 × 1-3.5 cm, abaxial veins occasionally puberulent, adaxially subglabrous, apex acute or shortly acuminate. Inflorescence terminal, with 1 flower; peduncle slender, pubescent; floral bracts foliaceous, elliptic-lanceolate or lanceolate, 2-3 × 0.7-0.8 cm, slightly ciliate, apex acuminate or acute; pedicel and ovary 1.5-2.5 cm, densely pubescent. Flowers relatively small; sepals and petals chocolate-brown or greenish brown, petals usually with a white margin; lip and staminode white, tinged with pink. Dorsal sepal ovate-lanceolate, 1.6-1.8 × 0.7-0.8 cm, slightly hairy at base, minutely ciliate, apex acute; lateral sepals free, linear-lanceolate, 1.6-1.8 × 0.2-0.3 cm, slightly hairy at base, apex acuminate or acute. Petals linear, 1.6-2.1 × 0.1-0.2 cm, pubescent toward adaxial base; lip deeply pouched, obconic, slightly oblique, 1.6-2.4 × ca. 1 cm, pubescent around mouth, inner bottom hairy, obtusely tipped. Staminode obovate or square-obovate, 5-6 mm, abaxially carinate, with a very short stalk at base. Capsule narrowly ellipsoid, ca. 2 cm × 5-6 mm, ridged, sparsely pubescent along ridges. Fl. Apr-Jun, fr. Jul. 2*n* = 20.
+  "Statistics": "Forests, forest margins, thickets, stony and grassy slopes; 2000-3600 m. W Hubei, W Sichuan, SE Xizang, C and NW Yunnan [Myanmar].
+  "Synonym": "*Cypripedium arietinum* Franchet (1885), not R. Brown (1813).
+**19.离萼杓兰（中国高等植物图鉴）图版5: 1**
+
+Cypripedium plectrochilum Franch. in Bull. Soc. Bot. France 32: 27. 1885; Schltr. in Fedde Repert. Sp. Nov. Beih. 4: 86. 1919; Hand.-Mazz. , Symb. Sin. 7: 1323. 1936; S. Y. Hu in Quart. J. Taiwan Mus. 26 (1-2): 147. 1973;中国高等植物图鉴5: 603.图 8036. 1976; S. C. Chen in Brittonia 35(2): 163. 1983; S. C. Chen et Y. Z. Xi in Proc. 12th World Orch. Conf. 145. 1987; 横断山区维管植物2: 2510. 1994; Cribb, Genus Cypripedium 222. fig. 37 A-H. pl. 99, 100. 1997;中国兰花全书114.图6-1(1). 1998. ——Cypripedium arietinum auct. non R. Br. : Franch. in J. Bot. (Morot)8: 252. 1894; Rolfe in J. Linn. Soc. Bot. 36: 63. 1903.
+
+植株高12-30厘米，具粗壮、较短的根状茎。茎直立，被短柔毛，基部具数枚鞘，鞘上方通常具3枚叶，较少为2或4枚叶。叶片椭圆形至狭椭圆状披针形，长4.5-6厘米，宽1-3.5厘米，先端急尖或短渐尖，上面近无毛，背面脉上偶见微柔毛。花序顶生，具1花；花序柄纤细，被短柔毛；花苞片叶状，椭圆状披针形或披针形，长2-3厘米，宽7-8毫米，先端渐尖或急尖，边缘略有缘毛；花梗和子房长1.5-2.5厘米，密被短柔毛；花在属中为较小者；萼片栗褐色或淡绿褐色，花瓣淡红褐色或栗褐色并有白色边缘，唇瓣白色而有粉红色晕；中萼片卵状披针形，长1.6-1.8厘米，宽7-8毫米，先端急尖，内外基部稍被毛，边缘具细缘毛；侧萼片完全离生，线状披针形，长1.6-1.8厘米，宽仅2毫米，先端渐尖或急尖，基部与边缘亦具与中萼片相似的毛；花瓣线形，长1.6-2.1厘米，宽1-2毫米，内表面基部具短柔毛；唇瓣深囊状，倒圆锥形，略斜歪，长1.6-2.4厘米，宽约1厘米，末端钝，囊口周围具短柔毛，囊底亦有毛；退化雄蕊宽倒卵形或方形的倒卵形，长5-6毫米，基部具很短的柄，背面有龙骨状突起。蒴果狭椭圆形，长约2厘米，宽5-6毫米，有棱，棱上被短柔毛。花期4-6月，果期7月。
+
+产湖北西部（巴东）、四川西部、云南中部至西北部和西藏东南部。生于海拔2000-3600米的林下、林缘、灌丛中或草坡上多石之地。缅甸也有分布。模式标本采自四川。

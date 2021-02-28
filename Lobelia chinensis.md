@@ -1,0 +1,16 @@
+半边莲",
+2.**Lobelia chinensis** Loureiro Fl. Cochinch. 2: 514. 1790.",
+
+## Description
+Herbs, perennial. Stems decumbent, slender, 6-30 cm tall, glabrous, lower nodes rooted. Leaves alternate, sessile or petiole to 1 mm; blade narrowly elliptic, elliptic, or lanceolate, 7-26 × 1.5-7 mm, glabrous, base rounded, obtuse, or broadly cuneate, margin entire or obviously serrate at upper part, apex acute or acuminate. Flowers usually solitary, axillary at upper leaves of branches; pedicels slender, 1.2-2.5(-3.5) cm; bracteoles 2 at base, ca. 1 mm, glabrous, or absent. Hypanthium narrowly obconical, base attenuate, not well distinguished from pedicel, 3-5 mm, glabrous; calyx lobes lanceolate, ± as long as tube, margin entire or with a pair of denticles. Corolla rose, white, or bluish, 10-15 mm, divided to base at back, white villous below throat; lobes all spreading in a plane on anterior side; lateral 2 lobes lanceolate or oblanceolate, longer than others, central 3 elliptic. Filament tube 6-8 mm, connate above middle, glabrous; anther tube 2-2.5 mm, back glabrous or sparsely villous. Capsule obconic, 6-7 mm. Seeds broadly elliptic, compressed, pitted. Fl. and fr. May-Oct.
+  "Statistics": "By paddy fields, streams, among wet grasses. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hubei, Hunan, Jiangsu, Jiangxi, Sichuan, Taiwan, Yunnan, Zhejiang [Bangladesh, Cambodia, India, Japan (including Ryukyu Islands), Korea, Laos, Malaysia, Nepal, Sri Lanka, Thailand, Vietnam].
+  "Synonym": "*Lobelia caespitosa* Blume; *L. campanuloides* Thunberg; *L. chinensis *var. *albiflora *(F. E. Wimmer) F. E. Wimmer; *L. radicans* Thunberg; *L. radicans* var. *albiflora *F. E. Wimmer; *Pratia thunbergii *G. Don.
+**7. 半边莲 急解索，细米草，瓜仁草**
+
+Lobelia chinensis Lour., Fl. Cochinch. 2: 514. 1790; A. DC. in DC., Prodr. 7: 300. 1839; 广州植物志, 564. 1956; E. Wimm., Pfl. R. Heft 107: 609. 1953, incl. var. ; Moeliono et Tuyn, in Fl. Males. ser. 1, 6 (1): 130, 1960; 中国高等植物图鉴, 4: 396. 图6025, 1975.——L. erinus Thunb., Fl. Jap. 325. 1784, non L. (1771) ——L. radicans Thunb., Trans. Linn. Soc. Bot. 2: 330. 1794; Franch., Pl. David. 1: 192. 1884; Tsoong, Contr. Inst. Bot. Nat. Acad. Peiping 3 (3): 114. f. 16, D, 1935. ——L. campanuloides Thunb., Trans. Linn. Soc. Bot. 2: 331. 1794. ——L. caespitosa Bl., Bijdr. 729. 1826. ——Dortmannia chinensis, D. campanuloides, D. radicans O. Kuntze, Rev. Gen. 2: 380. 1891. ——Raputium caespitosum, R. campanuloides, R. chinense, R. radicans, Presl, Prodr. Monogr. Lobeliac. 13. 14. 1836. -——Isolobus radicans A. DC., l. c. 353. ——I. kerii, I. roxburghianus A. DC., l. c., 353. ——Pratia radicans et P. thunbergii G. Don, Gen. Syst. 3: 700. 1834.
+
+多年生草本。茎细弱，匍匐，节上生根，分枝直立，高6-15厘米，无毛。叶互生，无柄或近无柄，椭圆状披针形至条形，长8-25厘米，宽2-6厘米，先端急尖，基部圆形至阔楔形，全缘或顶部有明显的锯齿，无毛。花通常1朵，生分枝的上部叶腋；花梗细，长1.2-2.5 (3.5) 厘米，基部有长约1毫米的小苞片2枚、1枚或者没有，小苞片无毛；花萼筒倒长锥状，基部渐细而与花梗无明显区分，长3-5毫米，无毛，裂片披针形，约与萼筒等长，全缘或下部有1对小齿；花冠粉红色或白色，长10-15毫米，背面裂至基部，喉部以下生白色柔毛，裂片全部平展于下方，呈一个平面，2侧裂片披针形，较长，中间3枚裂片椭圆状披针形，较短；雄蕊长约8毫米，花丝中部以上连合，花丝筒无毛，未连合部分的花丝侧面生柔毛，花药管长约2毫米，背部无毛或疏生柔毛。蒴果倒锥状，长约6毫米。种子椭圆状，稍扁压，近肉色。花果期5-10月。
+
+产长江中、下游及以南各省区。印度以东的亚洲其它各国也有。生于水田边、沟边及潮湿草地上。模式标本采自广东。
+
+全草可供药用，含多种生物碱，主要为：山梗菜碱 (lobeline)、山梗菜酮碱 (lobelanine)、异山梗菜酮碱 (isolobelanine)、山梗菜醇碱 (lobelanidine)。有清热解毒、利尿消肿之效，治毒蛇咬伤、肝硬化腹水、晚期血吸虫病腹水、阑尾炎等。

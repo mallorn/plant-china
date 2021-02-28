@@ -1,0 +1,17 @@
+腺毛马蓝",
+75.**Strobilanthes forrestii** Diels Notes Roy. Bot. Gard. Edin-burgh. 5: 162. 1912.",
+
+## Description
+Herbs to 30-75 cm tall, isophyllous. Stems 4-angled, thinly pilose with gland-tipped trichomes, glabrescent, basally woody. Leaves subsessile; leaf blade ovate to rarely ovate-oblong, 2-5 × 1.2-3 cm, both surfaces thinly pilose, adaxially with cystoliths, secondary veins ca. 4 on each side of midvein, base rounded, cordate, or rarely cuneate, margin crenate to subentire, apex acute to obtuse. Inflorescences terminal or very rarely also from apical leaf axils, spikes, 5-15 cm; rachis pilose with gland-tipped trichomes; bracts leaflike, pilose with gland-tipped trichomes; basal bracts ovate-elliptic, 1-3 × 1-2 cm, margin obscurely crenate; apical bracts lanceolate, 7-10 × ca. 3 mm, margin entire; bracteoles linear to narrowly oblong, 6-11 × ca. 1 mm, pilose with gland-tipped trichomes. Flowers 1-2.5 cm apart on rachis. Calyx 0.8-1.2 cm, 5-lobed almost to base; lobes linear with one ca. 2 mm longer than others, pilose with gland-tipped trichomes. Corolla blue to purple, 3.2-4 cm, curved, outside with a few trichomes, inside glabrous except for trichomes retaining style; tube basally cylindric and ca. 2 mm wide for ca. 5 mm then bent to ca. 90° and widened to ca. 1.5 cm at mouth; lobes ovate, ca. 6 × 7 mm, apex obtuse. Stamens 4, included; shorter filament pair ca. 2 mm; longer filament pair ca. 8 mm, shortly pubescent; anther thecae oblong, ca. 2 × 0.8 mm; pollen type 3. Ovary gland-tipped puberulent at tip; style ca. 2.8 cm. Capsule oblong, ca. 1.2 cm, apically gland-tipped pilose, 4-seeded. Seeds dark brown, ovate in outline, ca. 3 mm, pubescent; areola white, small. Fl. Jul-Aug.
+  "Reference": "*Strobilanthes forrestii* was misidentified as *S. extensa* (*Pteracanthus extensus*) by Handel-Mazzetti (Symb. Sin. 7: 895. 1936), C. Y. Wu (Index Fl. Yunnan. 2: 1682. 1984), and H. P. Tsui and C. C. Hu (FRPS 70: 136. 2002; Fl. Yunnan. 16: 696. 2006).*Strobilanthes forrestii* was misidentified as *S. extensa* (*Pteracanthus extensus*) by Handel-Mazzetti (Symb. Sin. 7: 895. 1936), C. Y. Wu (Index Fl. Yunnan. 2: 1682. 1984), and H. P. Tsui and C. C. Hu (FRPS 70: 136. 2002; Fl. Yunnan. 16: 696. 2006).
+  "Statistics": "● Forests, grass slopes; ca. 3000 m. Yunnan.
+  "Synonym": "*Pteracanthus forrestii* (Diels) H. P. Tsui; *P. rotundifolius* (Benoist) Bremekamp; *Strobilanthes panpienkaiensis* H. Léveillé; *S. rotundifolia* Benoist.
+**27.圆叶马蓝（新拟）圆叶紫云菜（云南种子植物名录）**
+
+Pteracanthus rotundifolius (D. Don) Bremek. in Verh. Ned. Akad. Wetensch. Afd. Naturk. Sect. 2. 41(1): 199. 1944. J. R. I. Wood in Edinb. Journ. Bot. 51(2): 247. 1994. ——Strobilanthes rotundifolius R. Ben. in Bull. Mus. Hist. Naturk. Paris 28: 97. 1922; Bremek, in Verh. Ned. Akad. Wetensch. Afd. Naturk. Sect. 2. 41(1): 284. 1944; J. R. I. Wood in Edinb. Journ. Bot. 51(2): 247. 1994;云南种子植物名录(下册): 1686. 1986.
+
+草本，茎直立，被腺毛状柔毛，具沟，叶无柄，宽卵形，基部心形，顶端钝，稀近急尖，边缘具圆齿状齿牙，长达25毫米，宽23毫米。叶片两面被腺毛状柔毛，侧脉在基部两边和其上面相继伸出。花生于顶生的宽穗状花序。下部苞片叶状，上部的小，全缘。小苞片披针形，钝，被腺毛柔毛。萼片线状矩圆形，钝，被腺毛柔毛，长12毫米，宽2毫米。花冠长3厘米，冠管基部短圆柱形，上部扩大，指状，冠檐裂片近相等，外面被柔毛。雄蕊4，花丝直立，花药矩圆形。花粉粒椭圆形，有肋条。子房光滑无毛，顶端有毛；花柱稍被柔毛。柱头线形，平，膜质。蒴果不详。（模式标本未见）
+
+产云南（嵩明岳灵山）特有。模式标本：Ducloux，no. 7495.采自云南嵩明岳灵山。（Yu li chan）。
+
+据R. Ben.文载：本种与Strobilanthes panpienkaiensis Levl.[已归入Pteracanthus forrestii（Diels）Bremek.]相近，其区别在卵形叶，苞片的形状，较大萼，腺毛的密度。J．R. I．Wood在Edinb. Journ. Bot. 51 (2）：247．1994．将本种归为Strobilanthes lamiifolia（Nees）T. Anders.的新异名。作者未见模式标本，也未列入检索表，因其相近的种类均为马蓝属，暂先放在本属，待看到模式标本后，再与相近种类作进一步比较研究，才能作较确切定位。

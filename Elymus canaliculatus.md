@@ -1,0 +1,8 @@
+沟槽披碱草",
+15.**Elymus canaliculatus** (Nevski) Tzvelev",
+
+## Description
+Culms erect or geniculately ascending, slender to stout, 30–70 cm tall, 3- or 4(or 5)-noded, glabrous. Leaf sheath glabrous, or sparsely scabrous or grayish purplish hairy at base; ligule 0.2–0.6 mm; auricles pale green or purple, 0.4–0.7 mm; leaf blade green to dark green, involute, 6–20 × 0.1–0.4 cm, abaxial surface glabrous but margin scabrous, adaxial surface scabrous to pilose. Spike strongly nodding at flowering, distichous, lax, 6–20 × 0.6–1.5 cm; rachis scabrous. Spikelets 1 per node, light green to purple, 40–70 × 4–7 mm, with 4–7(–9) developed florets. Glumes narrowly lanceolate-elliptic, proximal one 3–9 × 0.7–1.8 mm excluding awn, distal one 4–10 × 1–2 mm excluding awn, 5–7-veined, scabrous abaxially, margin thin or hyaline, apex mucronate or tapering into a short awn to 5 mm. Lemma narrowly lanceolate-elliptic, 8–12 × 1–2 mm, pubescent abaxially; callus narrow, pointed, setulose or densely so; awn strongly curved, stout, 2.5–5 cm at maturity. Palea narrowly lanceolate-elliptic, slightly shorter than or equaling body of lemma, glabrous adaxially, ciliate along keels. Anthers yellow or purple, 4–5 mm. Fl. and fr. summer. 2*n* = 28*.
+
+> Mountain slopes, rocks, valleys; middle to upper mountain belts. Xizang [Pakistan, Russia (Alai, Pamirs), Tajikistan].
+  "Synonym": "*Agropyron canaliculatum* Nevski, Izv. Bot. Sada Akad. Nauk SSSR 30: 509. 1932; *Elymus longearistatus* (Boissier) Tzvelev subsp. *canaliculatus* (Nevski) Tzvelev; *Roegneria ca-naliculata* (Nevski) Ohwi; *R. longearistata* (Boissier) Drobow var. *canaliculata* (Nevski) L. B. Cai.

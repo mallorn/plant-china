@@ -1,0 +1,14 @@
+墨脱秋海棠",
+65.**Begonia hatacoa** Buchanan-Hamilton ex D. Don",
+
+## Description
+Herbs, 30-65 cm tall. Rhizome not seen. Stem branching twice or more. Leaves cauline; stipules lanceolate, 6-10 mm, membranous, apex acuminate; petiole 8-24 mm, densely brown hirsute; blade ovate-lanceolate to elliptic-lanceolate, asymmetric, 6-9.6 × 2.1-3.2 cm, abaxially brown pubescent, adaxially glabrous or subglabrous, venation palmate-pinnate, 5-7-veined, base slightly oblique, rounded or slightly cordate, margin remotely serrulate, apex long acuminate to caudate. Inflorescences glabrous; peduncle 2-3.1 cm; bracts narrowly elliptic to lanceolate, 5-8 × 1.5-3.5 mm, membranous, abaxially brown hirsute when young, apex acuminate. Staminate flowers: pedicel 5-10 mm; tepals 4, outer 2 triangular-ovate, ca. 5 × 3.5 mm, glabrous, inner 2 oblong, ca. 4 × 1.5 mm; stamens numerous; filaments free, ca. 1.5 mm; anthers reniform, ca. 0.8 mm. Pistillate flowers: tepals 5, unequal, largest broadly ovate, ca. 7 × 4 mm, glabrous, smallest oblong or lanceolate, 6-7 × 1.5-2 mm; ovary glabrous, 2-loculed; placentae axile, bilamellate; styles 2, fused at base; stigmas 2-cleft, spiraled. Capsule pendulous, oblong, ca. 14 × 8 mm, unequally 3-winged; abaxial wing broadly falcate, 1.5-2 cm × 6-9 mm, apex rounded; lateral wings smaller, ca. 4 mm. Fl. Oct-Nov, fr. Dec-Jan.
+
+> Evergreen broad-leaved forests, on rocks in shaded moist environments on slopes or by streams; 1200-1500 m. SE Xizang (Mêdog) [Bhutan, N India, Nepal].
+**90.墨脱秋海棠（新拟）**
+
+Begonia hatacoa Buch. -Ham. ex D. Don, Prodr. Fl. Nepal. 223. 1825; Hara in Journ. J ap. Bot. 47: 143. 1972, et in Ohashi, Fl. E. Himal. 3: 85. 1975; et in Hara et William, Enum. Flow. Pl. Neparl 2: 181. 1979. L. B. Smith et al. in Smithson. Contr. Bot. 60: 176, Pl. 16, fig. 7. 1986. ——B. rubro-venia Hook. in Curtis’s Bot. Mag. 79: t. 4689. 1853; C. B. Clarke in Hook. f. Fl. Brit. Ind. 2: 645. 1879; et in Journ. Linn. Soc. Bot. 18: 119, Pl. 3, fig. 36. 1881; Hara, Fl. E. Himal. 215. 1966, et 2: 85. 1971.
+
+多年生草本，高30-65厘米。根状茎和基生叶未见。茎生叶互生，具柄；叶片轮廓卵状披针形至椭圆状披针形，长6-9.6厘米，宽2.1-3.2厘米，先端长渐尖至尾状渐尖，基部微偏斜，圆形或微心形，边缘具有极疏的三角形小齿，上面深绿色，无毛或近无毛，脉较明显，下面黄绿色仅沿脉被褐色短柔毛，掌状3（-5)条脉，在下面呈褐色，并明显突起；叶柄长8-24毫米，有棱，密被褐色硬柔毛；托叶膜质，披针形，长6-10毫米，先端渐尖。花粉红色，2-4朵，呈2-3回聚伞状，花序梗长2-3.1厘米，一次分枝长8-15毫米，花梗长5-10毫米，均近无毛或被褐色硬柔毛，小苞片和苞片膜质，长椭圆形至披针形，长5-8毫米，宽1.5-3.5毫米，先端急尖，幼时外面有褐色硬柔毛，后脱落近无毛；雄花：花被片3，外面2片三角状卵形，长约5毫米，宽约3.5毫米，先端圆钝，外面近无毛，内面1片长圆形，长约4毫米，宽约1.5毫米；雄蕊多数，花丝离生，长约1.5毫米，花药肾形，侧生，长约0.8毫米，雌花：花被片5，外面2片宽卵形，长约7毫米，宽约4毫米，先端钝或圆，外面无毛，内面3片长圆形至披针形，长6-7毫米，宽1.5-2毫米，先端钝至急尖；子房长圆形，长约11毫米，宽约6毫米，外面无毛，2室，每室胎座具2裂片，具不等3翅，花柱2，基部合生，柱头2裂，膨大呈螺旋状扭曲，并带刺状乳突。蒴果下垂，果梗长1.2-1.5厘米，无毛，轮廓长圆形，长约1.4厘米，宽约8毫米，无毛，具不等3翅，一翅特大，呈宽镰刀状，长1.5-2厘米，宽6-9毫米，先端圆，上方的边向下斜，有明显之脉，另2翅窄，长约4毫米，均无毛；种子极多数，小，长圆形，光滑，淡褐色。花期10-11月，果期12-1月。
+
+产西藏（墨脱）。生于常绿阔叶林下石上、山坡林下岩石上、林下潮湿处和林下水沟边，海拔1200-1500米。尼泊尔、不丹、印度北部也有。模式标本采自尼泊尔。在我国首次发现。

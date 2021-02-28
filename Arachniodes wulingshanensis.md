@@ -1,0 +1,7 @@
+武陵山复叶耳蕨",
+34.**Arachniodes wulingshanensis** S. F. Wu Keys Vasc. Pl. Wuling Mts. 572. 1995.",
+
+## Description
+Rhizome creeping, succulent at growing apex, ca. 1.5 cm in diam., densely scaly; scales pale brown, broadly lanceolate, 3-5 × 1.5-2 mm, thin and soft. Fronds approximate, to 80 cm; stipe stramineous, to 35 cm, ca. 4 mm in diam., base scaly as rhizome, upward scales diminishing to glabrescent; lamina 2-pinnate, yellowish green when dried, ovate-oblong, ca. 45 × 20 cm, thinly papery, base cuneate, abruptly narrowed, apex forming an acuminate terminal pinna much broader than lateral ones, rachis glabrescent; lateral pinnae ca. 6 pairs, basal 2 pairs opposite, others alternate, with 0.5-1.7 cm stalk, obliquely spreading; lowest pinnae lanceolate, to 18 × 4.5 cm, base rounded-cuneate, apex acuminate; (primary) pinnules ca. 15 pairs, spreading, with ca. 1.5 cm stalk, obliquely rhombic, slightly falcate, 2-2.5 × ca. 1 cm, basal pair slightly smaller, base acroscopically truncate and auriculate, basiscopically cuneate and slightly decurrent, apex acute or acuminate, margin serrate with mucronate teeth; upper pinnae similar in appearance, terminal pinna with shallowly pinnatifid pinnules; axes of pinna (and veins as well) occasionally with a few minute brown linear scales abaxially. Sori terminal on veinlets, 6-8 pairs per ultimate pinnule, medial between midvein and margin; indusia brown, firmly membranous, and entire.
+
+> ● Forests; 200-400 m. Hunan (Yongshun).

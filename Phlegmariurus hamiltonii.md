@@ -1,0 +1,22 @@
+喜马拉雅石杉",
+9.**Phlegmariurus hamiltonii** (Sprengel ex Greville & Hooker) Li Bing Zhang Fl. Reipubl. Popularis Sin. 6(3): 42. 2004.",
+
+> Historically, the distribution of *Phlegmariurus hamiltonii* was widely reported from the Himalaya to SW, S, and E China and SE Asia (e.g., Cambodia, Japan, Laos, Malaysia, Thailand, Vietnam). In fact, it is only a Sino-Himalayan species, so all other distributions are based upon misidentifications.The description of the spore morphology of “*Lycopodium hamiltonii* Sprengel” in Sporae Pterid. Sin. (39-40. 1976) is not that of this species.The leaves of this species are elliptic-lanceolate, strongly angled upward, sessile, and lustrous.
+
+## Description
+Lycophytes, medium-sized. Stems caespitose, mature branches pendulous, 2 to several times forked, 20-80 cm, main stems ca. 6 mm in diam., stem together with leaves 2.8-3.5 cm wide. Trophophylls much or slightly angled upward, elliptic-lanceolate, ca. 1.6 cm, more than 6 mm wide, base cuneate, decurrent, mature leaves inconspicuously stipitate, lustrous, leathery, midrib distinct, margin entire, apex obtuse. Strobili slightly thinner than sterile part, not columniform, terminal on branches. Sporophylls sparsely arranged, elliptic-lanceolate, 9-13 × ca. 1.5 mm, midrib distinct, base cuneate, margin entire, apex blunt. Sporangia yellowish, reniform, vertically bisected.
+
+> Epiphytic on tree trunks or rocks in broad-leaved evergreen forests; 700-2300 m. W Yunnan (Ximeng, Yongde) [Bhutan, India, N Myanmar, Nepal].
+  "Synonym": "*Lycopodium hamiltonii* Sprengel ex Greville &amp; Hooker, Bot. Misc. 2: 366. 1831, based on *L. obtusifolium* Buchanan-Hamilton ex D. Don, Prodr. Fl. Nepal. 18. 1825, not Swartz (1806); *Huperzia aloifolia* (Wallich ex Greville &amp; Hooker) Trevisan; *H. hamiltonii* (Sprengel ex Greville &amp; Hooker) Trevisan; *L. aloifolium* Wallich ex Greville &amp; Hooker; *L. empetrifolium* Dalzell; *Urostachys aloifolius* (Wallich ex Greville &amp; Hooker) Herter ex Nessel; *U. hamiltonii* (Sprengel ex Greville &amp; Hooker) Herter ex Nessel.
+**9. 喜马拉雅马尾杉（植物分类学报)**
+
+Phlegmariurus hamiltonii (Sprengel) L. Love et D. Love in Taxon 26: 326. 1977: Ching in Acta Bot. Yunnan. 4(2): 126. 1982; Fl. Xizang. 1: 12. 1983; B. Ollg., Index Lycop. 79. 1989; L. B. Zhang et H. S. Kung in Acta Phytotax. Sin. 37(1): 47. 1999. —— Lycopodium hamiltonii Sprengel in Syst. Veg. 5: 129. 1828: Hook. et Grev. Ic. Fil. t. 233. 1831, et in Bot. Misc. 2: 366. 1831; C. B. Clarke in Trans. Linn. Soc. II. Bot. 1: 590. 1880; Baker, Handb. Fern Allies 28. 1887: Pritzel in Engl. u. Prantl, Nat. Pflanzenfam. 1(4): 594. 1900: Herter in Engl. Bot. Jahrb. 1909: 593. 1909, etin Engl. Bot. Jahrb. 43: Beibl. 98: 32. 1909; Mehra et Bir in Res. Bull. Panjab Univ. 15(1-2): 101. 1964; K. Iwats. in Ohashi, Fl. E. Himal. 3: 166. 1975: B. Ollg. l. c. 48. —— Urostachys hamiltonii (Sprengel) Herter ex Nessel, Baerlappge. 68. 1939. —— Huperzia hamiltonii (Sprengel) Trev. in Atti Soc. Ital. Sci. Nat. 17: 248. 1874; Dixit, Census Ind. Pterid. 7. 1984, et Lycop. Ind. 48, Pl. II: f. 5. 1988; B. Ollg. in Opera Bot. 92: 165. 1987, et l. c. 14; Manickam et Irudayaraj, Pterid. Fl. W. Ghats-S. Ind. 27. 1992. —— H. hamiltonii (Sprengel) U. Sen et T. Sen in Fern Gaz. 11(6): 419. 1978; Bir et al. in Ind. Fern J. 6: 32. 1989. —— L. obtusifolium Himilt. ex Don, Prodr. Fl. Nepal. 18. 1825，non (P. Beauv.) Sw. 1806: B. Ollg. in Opera Bot. 92: 165, 1987, et l. c. 59. —— L. empetrifolium Dalz. in Journ. Bot. 4: 113. 1852. —— L. aloifolium Wall. ex Hook. et Grev. Ic. Fil. 2: t. 233. 1881. —— H. aloifolia (Wall. exHook. et Grev.) Trev. in Atti Soc. Ital. Sci. Nat. 17: 248. 1874. —— U. aloifolius (Wall. ex Hook. et Grev.) Herter ex Nessel，Baerlappge. 70. 1939.
+
+中型附生蕨类。茎簇生，成熟枝下垂，2至多回二叉分枝，长20-80厘米，主茎直径约6毫米，枝连叶宽2.8-3.5厘米。叶螺旋状排列。营养叶强度上斜或略上斜，椭圆状披针形，长约1.6厘米，宽达6毫米以上，基部楔形，下延，成熟叶片的柄不明显，有光泽，顶端圆钝，中脉明显，革质，全缘。孢子囊穗比不育部分略细瘦，非圆柱形，顶生。孢子叶椭圆状披针形，排列稀疏，长9-13毫米，宽约1.5毫米，基部楔形，先端钝，中脉明显，全缘。孢子囊生在孢子叶腋，肾形，2瓣开裂，黄色。
+
+产云南西部。附生于海拔1900-2300米的常绿阔叶林树干或石壁。印度、尼泊尔、锡金、不丹、缅甸北部有分布。模式标本采自尼泊尔 Narainhetty（Buchanan s. n., BM）。
+
+历史上，本种曾被广泛报道，以至于它成了一个从喜马拉雅至我国西南、华南、华东、台湾，至日本、越南、老挝、柬埔寨、东南亚的广布种。但实际上，它只是一个喜马拉雅一中国西部种。而 V. A. V. Rosenburg（1915）关于本种在马来西亚，A. H. G.Alston（1951）关于本种在越南、老挝、柬埔寨及 M. Tagawa & K.Iwatsuki（1979）关于本种在泰国的分布报道应为鉴定之误。
+<p style='text-indent:28px'>《中国蕨类植物孢子形态》上所描述的“Lycopodium hamiltonii Sprengel”的孢子形态也并非本种的孢子形态。
+<p style='text-indent:28px'>本种为中国分布新记录，尽管以前有文献（Ching, 1982; Ching & S. K. Wu, 1983) 猜测我国西藏南部有分布，但并无标本凭证。
+<p style='text-indent:28px'>本种叶片椭圆状披针形，强度上斜，无柄，有光泽。 

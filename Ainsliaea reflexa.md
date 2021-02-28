@@ -1,0 +1,15 @@
+长柄兔儿风",
+24.**Ainsliaea reflexa** Merrill Philipp. J. Sci. 1(Suppl. 3): 242. 1906.",
+
+## Description
+Herbs, perennial, 10-60 cm tall. Leaves in basal rosette; petiole 3-9 cm, distal part winged, proximal part wingless, rarely nearly wingless; leaf blade ovate or ovate-lanceolate, 2-7 × 2-5 cm, papery, palmate-pinnate veined, both surfaces sparsely villous, base attenuate, margin slightly repand, callose-denticulate, apex acute or obtuse. Capitula subsessile or shortly pedunculate, commonly 2 or 3 clustered, arranged in spikes, (1-)3-flowered; involucre cylindric, 2-3 mm in diam.; phyllaries ca. 5-seriate, papery, abaxially glabrous or apically pilose, outer phyllaries ovate, 1.5-2.5 mm, inner lanceolate, ca. 1.2 cm. Florets bisexual, chasmogamous and cleistogamous (in same plant or at different seasons). Chasmogamous floret corollas tubular, 5.5-9 mm, deeply 5-lobed, anther appendages rounded. Achenes terete, ca. 3 mm, ribbed, densely pilose; pappus absent. Fl. Dec-Apr. Cleistogamous floret corollas closed, tubular, minutely 4-lobed, ca. 4 mm, hidden in pappus. Achenes terete, 3-5 mm, ribbed, densely pilose; pappus brownish, ca. 7 mm. Fl. Dec-Jul.
+  "Reference": "*Ainsliaea tonkinensis*, a rheophyte distributed in Vietnam, is sometimes treated as a synonym of *A. reflexa* (see Freire, Ann. Missouri Bot. Gard. 94: 149. 2007). Further studies are necessary to confirm whether or not they are conspecific.*Ainsliaea tonkinensis*, a rheophyte distributed in Vietnam, is sometimes treated as a synonym of *A. reflexa* (see Freire, Ann. Missouri Bot. Gard. 94: 149. 2007). Further studies are necessary to confirm whether or not they are conspecific.
+  "Statistics": "Open forests, forest margins, scrub; 500-3500 m. Guangdong, Hainan, Taiwan, Xizang, Yunnan [Indonesia, Philippines, Vietnam].
+  "Synonym": "*Ainsliaea angustifolia* J. D. Hooker &amp; Thomson ex C. B. Clarke var. *luchunensis* H. Chuang; *A. longipetiolata* Merrill; *A. reflexa* var. *lobbiana* Beauverd; ?*A. tonkinensis* Merrill.
+**16.长柄兔儿风**
+
+Ainsliaea reflexa Merr. in Philip. Journ. Sci. 1 (Suppl. 3.): 242. 1906; Hayata in Journ. Coll. Sci. Tokyo 25(19): 143. 1908; Kitamura in Mem. Coll. Sci. Kyoto Univ. ser. B. 15: 306. 1940, et in Acta Phytotax. Geobot. 10: 19. 1941;台湾植物志4: 779. 1978.
+
+多年生草本。根状茎粗壮，直或微弯，直径3-4毫米，根颈被褐色绒毛；根纤细，散生，长可达10厘米。茎直立，不分枝，高20-60厘米，被较密的柔毛。叶基生的密集呈莲座状，叶片厚纸质，卵形至长卵形，长3-7厘米，宽2-5厘米，顶端短尖或钝，基部狭，下延，边缘有疏离的胼胝体状细齿，两面疏被长柔毛；中脉两面均平坦，侧脉3-5对，弧形上升，离缘弯拱网结，网脉明显，网眼很小；叶柄远长于叶片，长4-13厘米，疏被长柔毛，上部多少具翅，翅愈向下愈狭；茎生叶少数，狭椭圆形或线状披针形，长1-2.5厘米，宽2-7毫米，两端均尖，毛被和边缘的细齿与基生叶相同，下部的具短柄，上部的近无柄；花序轴上的叶更小，苞片状。头状花序具花3朵，花期直径5-6毫米，单生或2-3聚集，无梗或具2-3毫米被毛的短梗，于茎顶作穗状花序式排列，花序轴被短柔毛；总苞圆筒形，基部略狭，直径约4毫米；总苞片近5层，多少被疏柔毛，外层的卵形，长1.5-2.5毫米，宽1-2毫米，顶端长渐尖，中层卵状披针形，长5-6毫米，宽不足1.5毫米，顶端渐尖，最内层披针形，长约12毫米，宽1-2毫米，顶端略尖；花托狭，不平，无毛，直径约1毫米。花全部两性，闭花受精的花冠圆筒形，隐藏于冠毛之中，长约4.2毫米，不开裂；花药内藏，长约2.1毫米，顶端钝，基部的尖尾长约为花药的1/3；花柱长约4毫米，花柱分枝较长，长达1.5毫米，顶端圆。未成熟的瘦果圆柱形，稍压扁，长约5毫米，密被粗毛。冠毛淡褐色，羽毛状，长约6毫米，基部稍联合。花期12月至翌年3月。
+
+产于海南（东方、昌江及琼中）和台湾（宜兰、台中、南投、嘉义、阿里山、台东、高雄、屏东）。生于山地疏林或斜坡灌丛中，海拔500-800米。菲律宾北部（吕宋）也有。

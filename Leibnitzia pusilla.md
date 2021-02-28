@@ -1,0 +1,16 @@
+灰岩大丁草",
+2.**Leibnitzia pusilla** (Candolle) S. Gould in H. Hara et al. Enum. Fl. Pl. Nepal. 3: 33. 1982.",
+
+## Description
+Herbs, perennial, dimorphic; rhizome covered by marcescent leaf sheath. Vernal phase: leaves in rosette, appearing after capitula, subsessile; leaf blade lanceolate, to 12 × 5 mm, papery, abaxially arachnoid lanate, adaxially glabrous, base attenuate or subtruncate, margin denticulate, repand, or runcinate, apex obtuse, rounded, or mucronate. Scapes 1 or tufted, 3-12 cm, arachnoid lanate; bracts many, narrowly lanceolate, 3-6 mm. Capitula solitary, terminal, radiate, 0.8-1.2 cm in diam.; involucre broadly campanulate; phyllaries ca. 3-seriate, oblong, abaxially lanuginous, outer phyllaries ca. 4 mm, inner phyllaries 8-11 mm. Marginal female florets bilabiate, outer lips oblong, ca. 5 mm, inner lips filiform, ca. 4 mm; central bisexual florets many, bilabiate, tubular, corolla 4.5-7 mm. Achenes terete, 3-6 mm, pubescent; pappus white or dark white, 4-6 mm. Fl. Apr-Jun. Autumnal phase: leaves in rosette, appearing after capitula; petiole 1.5-3.5 cm, lanuginous; leaf blade elliptic-oblong or ovate, 3-10 × 1.5-3.5 cm, base subcordate, subtruncate, or attenuate, margin sinuate or crenate, apex rounded or obtuse. Scapes 1 or tufted, 10-30 cm, lanuginous; bracts many, subulate, linear or filiform, 1-2 cm. Capitula solitary, terminal, ca. 2 cm in diam.; involucre campanulate; phyllaries 3- or 4-seriate, outer phyllaries subulate to linear, 7-13 mm, inner phyllaries lanceolate to oblong or filiform, 1.4-2 cm. Florets cleistogamous, closed, marginal florets female, 1-seriate, bilabiate, tubular, corolla 4-13 mm; central bisexual florets many, bilabiate, tubular, as long as female floret. Achenes fusiform, 6-7 mm; pappus dark white, 9-11 mm. Fl. Jul-Oct.
+  "Statistics": "Forests, on rocks; 2400-3600 m. Guizhou, Qinghai, Sichuan, Xizang, Yunnan [Bhutan, Nepal].
+  "Synonym": "*Oreoseris* *pusilla* Candolle, Prodr. 7: 17. 1838; *Gerbera anandria* (Linnaeus) Schultz Bipontinus var. *bonatiana* Beauverd; *G. bonatiana* (Beauverd) Beauverd; *G. lanuginosa* (Candolle) Schultz Bipontinus var. *pusilla* (Candolle) J. D. Hooker; *G. lijiangensis* Y. C. Tseng, p.p. maj.; *G. pusilla* (Candolle) Schultz Bipontinus; *G. saxatilis* C. C. Chang ex Y. C. Tseng; *G. serotina* Beauverd; *Leibnitzia bonatiana* (Beauverd) Kitamura; *L. serotina* (Beauverd) Kitamura.
+**11．石上大丁草**
+
+Gerbera saxatilis Chang ex Y. C. Tseng in Acta Bot. Austr. Sinica 3: 10. 1986.
+
+多年生草本。根状茎短，为残存的叶鞘所围裹，无毛；根肉质，簇生。叶基生，莲座状，叶片纸质，狭椭圆形或近倒披针形，长7-10厘米，宽2.5-3.5厘米，顶端圆，基部略狭或截平，边缘具波状圆齿，圆齿下方有倒向的细尖齿，下部的1对凹缺常大，上面无毛，有密细腺点，下面密被灰白色绵毛；侧脉6-8对，纤细，离缘弯拱网结，网脉明显，网眼很小；叶柄长5.5-6.5厘米，多少被绵毛，基部扩大成鞘；叶鞘长约2厘米，宽达8毫米，通常无毛。花葶单生，直立，长13-15厘米，被绵毛，毛愈向顶部愈密；苞叶少数，疏生，基部几不扩大，线形或丝状，长11-13毫米，宽 0.2-0.5毫米，顶端尖。头状花序单生于花葶之顶，直径约2厘米；总苞阔钟形，略长于冠毛；总苞片约4层，外层线形或丝状，长约3.5毫米，宽0.1-0.2毫米，略被蛛丝状毛，向内层渐宽，最内层长圆形，长14-17毫米，宽2-3毫米，顶端长渐尖，通常无毛；花托无毛，直径3-4毫米；雌花1层，花冠舌状，长10-13毫米，舌片长5-8毫米，顶端具3细齿，内2裂丝状，从下向上开裂；退化雄蕊5枚，离生，花药顶端长尖，基部具明显的细短尾。两性花管状2唇形，长10-12毫米，花冠管上部和下部几等粗，外唇具3齿，内唇2裂；雄蕊5枚，花药顶端渐尖，基部具无毛的长尾；雌花和两性花的花分枝内侧均略扁，顶端钝，长1-1.5毫米。未成熟的瘦果短而粗，圆柱状，长约1.7毫米，宽达1毫米，无毛。冠毛粗糙，污白色，长9-11毫米。花期8月。
+
+产于四川西部（宝兴、九龙）。生于石上，海拔2400-3500米。模式标本采自四川、宝兴。
+
+本种的外形与白背大丁草Gerbera nivea (DC.) Sch.-Bip.有些相似，但本种的叶缘波状，具圆齿，非羽状分裂，花葶的苞叶线形或丝状，稀疏，雌花的舌片遥小，退化雄蕊基部具细短尾而不同。

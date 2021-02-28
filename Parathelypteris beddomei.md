@@ -1,0 +1,19 @@
+长根金星蕨",
+1.**Parathelypteris beddomei** (Baker) Ching Acta Phytotax. Sin. 8: 302. 1963.",
+
+> *Parathelypteris beddomei* is similar to *P. nipponica* in outline but differs by plants thinner, rhizomes extremely slender, pinnae covered with more multicellular long acicular hairs, and growth in wet habitats.
+
+## Description
+Plants 20-30(-40) cm tall. Rhizomes extremely long creeping, with sparse brown ovate small scales and dense brownish long hairs when young. Fronds remote or approximate; stipes slender, 4-10 cm, stramineous and glabrous; laminae oblanceolate, 15-25(-30) × 3-4(-6) cm, gradually tapering to bases, pinnate-pinnatifid, acuminate and pinnatifid at apices; pinnae 20-24(-30) pairs, alternate, sessile, obliquely spreading, proximal 7-9 pairs gradually shortened into small auricles, proximal pair of pinnae only 1-2 mm, middle pinnae lanceolate, 1.5-3.5 × 0.4-0.5 cm, bases minutely broadened, symmetrical, rounded-truncate, pinnatifid to narrow wing on both sides of costae, apices shortly acuminate; segments 10-14 pairs, oblong, entire, rounded at apices. Veins visible on both sides, veinlets pinnate, free, simple, reaching margins, 3 or 4 pairs per segment, proximal pair arising from bases of costae. Laminae herbaceous, yellowish brown when dry, abaxially with grayish white 3-7-celled fine long hairs along costae and veins, also with few orange-yellow spherical glands, adaxially with unicellular short acicular hairs along costae and veins. Sori small, 2 or 3 pairs per segment, attached near ends of veinlets, close to margins; indusia orbicular-reniform, small, brown, thickly membranous, glabrous, persistent. 2*n* = 62.
+
+> Mountain meadows, streamsides, wetlands; 600-2500 m. Taiwan, Zhejiang [S India, Indonesia, Japan, Malaysia, Philippines].
+  "Synonym": "*Nephrodium beddomei* Baker in Hooker &amp; Baker, Syn. Fil. 267. 1867; *Aspidium beddomei* (Baker) Prantl; *Dryopteris beddomei* (Baker) Kuntze; *Lastrea beddomei* (Baker) Beddome; *Thelypteris beddomei* (Baker) Ching; *Wagneriopteris beddomei* (Baker) A. Löve &amp; D. Löve.
+**1．长根金星蕨（植物分类学报）缩羽副金星蕨（台湾植物志，第二版）图版5:1-3**
+
+Parathelypteris beddomei (Bak.) Ching Ching in Acta Phytotax. Sin. 8: 302. 1963; Kuoin Fl. Taiwan 1: 421. 1975; C. F. Zhang et S. Y. Zhang, Fl. Zhejiang 1: 163. 1993; Shing in W. T. Wang, Vasc. Pl. Hengduan Mts. 1: 93. 1993; Tsai et Shiehin Fl. Taiwan 2ed. 1: 388. 1994. ——Lastrea beddomei Bedd., Ferns Brit. Ind. Corr. 2. 1870 et Suppl. 16. 1876; Cop., Gen. Fil. 138. 1947; Ohwi, Fl. Jap. Pterid. 99. 1957; Tagawa, Col, Ill. Jap. Pterid. 109. Pl. 41. f. 231. 1959. ——Aspidium beddomei Prantl, Verh. Zool. Bot. Ges. 31: 119. 1882. ——Dryopteris beddomei O. Ktze. Rev. Gen. 812. Pl. 2. 1891; C. Chr. , Ind. Fil. 254. 1906; v. A. v. R., Handb. Mal. Ferns 191. 1908; Hay., Ic. Pl. Form. 4: 151. f. 91. 1914; Ogata, Ic. Fil. Jap. 4: Pl. 167. 1931; Tagawa in Acta Phytotax. Geobot. 1: 306. 1936. ——Thelypteris beddomei Ching in Bull. Fan Mem. Inst. Biol. Bot. 6: 308. 1936; H. Ito in Nakai et Honda, Nov. Jap. Pterid. 4: 133. 1939; K. Iwats. in Mern. Coll. Univ. Kyoto B, 31(3): 166. 1965 et Ferns & Fern Allies Jap. 216. pl. 239: 3. 1992.——Lastrea gracilescens auct. non Moore 1858; nec Hook. 1857: Bedd. Ferns South. Ind. Pl. 110. 1863-65.
+
+植株高20-30（-40）厘米。根状茎极长，横走，粗1.5-2毫米，疏被棕色的卵形小鳞片，无毛或幼时密被淡棕色长毛。叶远生或近生；叶柄纤细，长4-10厘米。粗约1毫米，禾秆色，光滑；叶片长15-25（-30）厘米，中部宽3-4（-6）厘米，倒披针形，先端渐尖并羽裂，向基部逐渐变狭，二回羽状深裂；羽片20-24（-30）对，互生，无柄，斜展或近平展，彼此接近，相距4-7毫米，下部7-9对渐次缩短成小耳形，基部一对长仅1-2毫米，中部羽片长1.5-3.5厘米，宽4-7毫米，披针形，先端短渐尖，基部稍变宽，对称，圆截形，羽裂达羽轴两侧的狭翅；裂片10-14对，接近，斜展，长圆形，圆头，全缘。叶脉两面可见，侧脉羽状分离，小脉单一，斜上，伸达叶边，每裂片3-4对，基部一对出自主脉基部。叶草质，干后黄褐色，下面除有少数橙黄色的圆球形腺体外，沿羽轴和叶被较多的、灰白色、由3-7个细胞组成的细长毛，上面沿羽轴和叶脉被单细胞的短针毛。孢子囊群小，每裂片2-3对，生于侧脉的近顶部，靠近叶边；囊群盖圆肾形，小，棕色，厚膜质，无毛，宿存。染色体2n=62。
+
+产浙江（临安、龙泉、庆元）、台湾北部（桃园、新竹、南湖大山、台中、南投、阿里山、高雄、屏东）。生山地草甸、溪边或湿地，海拔650-2500米。也分布于日本南部（四国、九州）、印度南部、马来西亚、菲律宾和印度尼西亚。模式标本采自印度。
+
+本种形体似中日金星蕨Parathelypteris nipponica（Franch. et Sav.）Ching,但更为细瘦，根状茎极细长，羽片下面被较多的多细胞的长针毛，生于潮湿生境。

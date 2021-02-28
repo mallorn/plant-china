@@ -1,0 +1,14 @@
+滇西耳草",
+24.**Hedyotis dianxiensis** W. C. Ko J. S. China Agric. Univ. 16(4): 44. 1995.",
+
+## Description
+Herb, climbing to scandent; stems flattened to subterete, often angled and/or sulcate, densely villous and usually also tomentose. Leaves petiolate; petiole 1-2.5 mm, densely villous or tomentose; blade drying papery, lanceolate, lanceolate-elliptic, or narrowly ovate, 2-9 × 0.6-3 cm, adaxially moderately to densely hispidulous with pubescence denser on principal veins, abaxially densely pilosulous to hirtellous throughout, base cuneate to rounded, apex acute to long acuminate; secondary veins 3-5 pairs; stipules interpetiolar, broadly rounded to truncate, 1-3.5 mm, densely villosulous or pilosulous, with 3-9 bristles or linear lobes 1-6 mm. Inflorescences terminal and in axils of uppermost leaves, capitate, subcapitate, or glomerulate, densely pilosulous or hirtellous, sessile or pedunculate; peduncle 2-12 mm; heads 1-10, solitary or borne separately along peduncles or axes, each subglobose, 1-2 cm in diam., 15-30-flowered; bracts reduced. Flowers sessile or subsessile, distylous. Calyx with hypanthium portion turbinate to subglobose, ca. 1 mm, densely hispid; limb deeply lobed; lobes spatulate-oblong, triangular, or lanceolate, 1.2-2 mm, hispidulous to glabrescent. Corolla yellowish green, funnelform, outside glabrous to pilosulous, inside densely bearded in throat and onto lobes; tube ca. 2 mm; lobes spatulate-oblong to triangular, ca. 4 mm. Anthers 0.8-1.2 mm, exserted or included. Stigma 0.5-0.8 mm, exserted or included. Fruit capsular, subglobose to obovoid, 3.5-4 mm, pilosulous or hirtellous, cartilaginous, septicidally then later loculicidally dehiscent, with conical beak ca. 1 mm; seeds several, angled. Fl. Feb-May, fr. Jun.
+  "Reference": "Although all specimens seen of this species are pubescent, which agrees with the descriptions available, it is keyed out here also with glabrescent stems in case glabrous individuals are eventually found, as in most pubescent Rubiaceae species.Although all specimens seen of this species are pubescent, which agrees with the descriptions available, it is keyed out here also with glabrescent stems in case glabrous individuals are eventually found, as in most pubescent Rubiaceae species.
+  "Statistics": "● Humid thickets at streamsides; 600-800 m. Yunnan (Xishuangbanna).
+**49. 滇西耳草（华南农业大学学报）**
+
+Hedyotis dianxiensis Ko in Journ. S. China Agr. Univ. 16 (4): 44. 1995.
+
+高大藤本，除花冠外几乎全部被干后浅黄色长柔毛或短柔毛；节间距离长4-10厘米。叶对生，纸质，披针形或狭长卵形，长4-7厘米，宽0.6-1.5厘米，顶端长渐尖，基部楔形或阔楔形；叶脉明显，侧脉每边3-4条，纤细；叶柄极短，长仅1.5-2毫米；托叶基部阔，截头形，顶部有长4-6毫米的针状刺。花序头状，顶生和生于上部叶腋，由15-30朵具短花梗的花聚合而成，直径1-2厘米，具长1-1.5厘米的总花梗；花4数；萼管近球形，长约4毫米，萼檐裂片长圆形，长2毫米；花冠外面无毛，喉部有须毛，冠管长2毫米，裂片长圆形，长4毫米，外反，基部里面被长毛，顶端微尖，裂缝间有短刺毛；花丝长0.8-1毫米，被毛，花药长圆形，两端钝，长1.2毫米；花柱长突出，长8毫米，中部被长毛，略膨大，柱头浅2裂，略粗大。蒴果近球形，直径约2毫米，具长梗，被短疏毛，成熟时开裂为2果爿，果爿腹部直裂，顶部高出萼檐裂片；种子数粒，小，具棱。花期2-5月。
+
+产于云南西双版纳；生于溪旁湿润的灌丛中。模式标本采自云南西双版纳。

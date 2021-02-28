@@ -1,0 +1,6 @@
+短序樟",
+14.**Cinnamomum brachythyrsum** J. Li Acta Bot. Yunnan. 18: 53. 1996.",
+
+## Description
+Trees. Branchlets brown, terete, scattered with longitudinally fissured convex lenticels, glabrous; current year branchlets not lenticellate, longitudinally finely striate. Terminal buds long conical, ca. 5 × 2 mm, white sericeous-pubescent outside. Leaves alternate or subopposite; petiole 6-10 mm, concave-convex, glabrous; leaf blade glaucous and opaque abaxially, yellow-green and shiny adaxially, elliptic, 5-9 × 2-4 cm, leathery, white sericeous abaxially, glabrous adaxially, pinninerved, midrib elevated on both surfaces but conspicuously so abaxially, lateral veins 5-8 pairs, subconspicuous on both surfaces, axils of lateral veins not dome-shaped abaxially, transverse veins and veinlets inconspicuous on both surfaces, base broadly cuneate to subrounded, apex acute to shortly acuminate. Flowers unknown. Infructescence paniculate, subterminal or axillary, 2-3 cm; peduncle short, ca. 2 mm, peduncle and rachis sparsely sericeous-villous. Fruit dark brown, globose, 1-1.5 cm in diam., glabrous; perianth cup in fruit dilated, crateriform, up to 1.3 cm in diam. at apex; fruit stalk 5-8 mm, sparsely sericeous-villous. Fr. May.
+  "Statistics": "● Mountain slopes. SE Yunnan.

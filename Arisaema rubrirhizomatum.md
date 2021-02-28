@@ -1,0 +1,9 @@
+红根南星",
+7.**Arisaema rubrirhizomatum**",
+
+> *Haec species *Arisaemati victoriae *V. D. Nguyen et *A. hippocaudato* S. C. Chen &amp; H. Li similis, sed ab eis appendice spadicis ex ore tubi spathae non exserta atque floribus neutris brevibus minus quam 7 mm longis differt.*
+
+## Description
+Plants basically dioecious. Rhizome erect, oblique, or horizontal, dark brown outside, purple in section, cylindric or conic, 2-5 × 1-2 cm. Cataphylls 3, encircling pseudostem, lanceolate, membranous, outermost one 1-2 cm, innermost one 18-19 cm. Leaves 1 or 2; petiole purplish green or olive-green with pale green spots, 30-50 cm, proximal 20-30 cm sheathing into pseudostem; leaf blade green, leathery, 3-foliolate; central leaflet with petiolule 1-4 cm, blade elliptic or oblong to lanceolate, 12-26 × 5-12 cm, base cuneate; lateral leaflets sessile or with short petiolule 1-4 cm, blade oblong-lanceolate or obliquely ovate, 10-20 × 3.5-11 cm, apex acuminate. Peduncle colored as petiole, slightly longer than petioles, 30-50 cm. Spathe green with a white area ca. 2 cm in diam. at proximal part of limb; tube 3-5 × 1.5-1.8 cm, throat spreading outward; limb deltoid-ovate, 5-7 × 3.5-5 cm, apex acute. Spadix basically unisexual; female zone ca. 2.2 × 1.5 cm; ovary obconic; ovules 2-4; synandria of 5 stamens, sessile; male zone ca. 3.5 cm × 5 mm, rarely with a few male flowers above; anthers ovoid, dehiscing by 2 apical slits; appendix dark purplish, 4-5 cm, slender, from base to apex covered with rather numerous filiform or subclavate neuter flowers, brushlike. Berries reddish, ovoid, ca. 5 mm in diam. Seed 1, yellowish, ca. 3.5 mm in diam., rugose. Fl. Feb-May, fr. Jul.
+  "Statistics": "● Evergreen forests, thickets, along streams, in limestone mountain areas; 1000-1900 m. SE Yunnan.
+  "Synonym": "Type: China. Yunnan: Malipo, Xiajinchang, 1700-1850 m, limestone area along stream, 21 Feb 1994, *S. K. Wu, Y. P. Yang, J. Murata &amp; T. Kawahara 243* (holotype, TI).

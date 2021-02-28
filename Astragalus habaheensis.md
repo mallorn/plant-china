@@ -1,0 +1,6 @@
+哈巴河黄耆",
+286.**Astragalus habaheensis** Y. X. Liou Fl. Desert. Reipubl. Popul. Sin. 2: 444. 1987.",
+
+## Description
+Plants subshrubby, ca. 10 cm tall, caespitose. Stems of cur-rent year 4-8 cm, very densely tomentose, with ± medifixed, flexuous, white hairs 0.5-0.8 mm. Leaves 2-3 cm; stipules 2-4 mm, free from petiole, densely hairy; petiole 0.5-0.8 cm, with rachis ± hairy like stem; leaflets in 1-3(or 4) pairs, 8-23 × 1.5-3.5 mm, both surfaces densely or adaxially sometimes only sparsely hairy like stem, apex acute. Racemes rather densely 6-8-flowered; peduncle 1.5-4 cm, hairy like stem; bracts 2-4 mm, white and black hairy. Calyx 7-10 mm, tubular to slightly in-flated, rather densely covered with strongly asymmetrically bi-furcate to basifixed, subappressed to ascending, flexuous, white hairs 0.8-1 mm, with shorter black hairs mixed in, especially at teeth; teeth 1-2.5 mm. Petals purple-red, drying partly to yel-lowish; standard obovate, ca. 21 × 9 mm, apex emarginate; wings ca. 18 mm; keel ca. 17 mm. Legumes sessile, 8-11 mm, 3-4 mm high and 2.5-3 mm wide, with a beak ca. 1 mm; valves densely white to yellowish villous, with basifixed to subbasifixed spreading hairs 2-3 mm and with some short hairs 0.3-0.5 mm mixed in.
+  "Statistics": "● Xinjiang.

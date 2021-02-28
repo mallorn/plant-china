@@ -1,0 +1,17 @@
+白桫椤",
+1.**Sphaeropteris brunoniana** (Wallich ex Hooker) R. M. Tryon Contr. Gray Herb. 200: 21. 1970.",
+
+> A very similar species, *Sphaeropteris glauca* (Blume) R. M. Tryon (syn. *Cyathea contaminans* Wallich ex Hooker), is mysteriously absent from China and is widely distributed from N India, Thailand, and Laos to New Guinea and the Philippines. The obvious difference is the stipe, rachis, and rachillae of *S. glauca* are prominently spiny (vs. smooth or only finely warty at the stipe base in *S. brunoniana*).
+
+## Description
+Trunk erect, up to 10-20 m tall, up to 20 cm in diam. Stipe and rachis yellowish to purplish, smooth, or finely warty at base; scales pale brown or brown, thin, with setiferous edges; lamina 2-pinnate-pinnatifid, 2-3 × to 1.6 m; pinnae 20-30 pairs, ascending, lanceolate; largest pinnae up to 90 × 25 cm; pinnules narrowly lanceolate, 9-14 × 2-3 cm, slightly narrowed at base, apex caudate, pinnatifid to pinnatisect; pinnule segments 16-25 pairs, falcate, 10-16 × 3-5 mm, wider at base, entire or minutely crenate, rarely with small segments; veins 2- or 3-forked; abaxial side of pinnules glabrous, adaxial side glabrous or with sparse hairs; lamina glaucous abaxially; adaxial side of pinna rachis with pale antrorse hairs, a few pale hairs and scales along costules abaxially. Sori close to midveins of fertile pinnule segments, often throughout lower lamina; paraphyses pale to brown, filamentous, longer than sporangia or equal in length; indusia absent.
+
+> Evergreen forests in valleys; 500-1200 m. Hainan, Xizang, Yunnan [Bangladesh, India (N Himalaya), Myanmar, Nepal, Vietnam].
+  "Synonym": "*Alsophila brunoniana* Wallich ex Hooker, Sp. Fil. 1: 52. 1844; *A. contaminans* Wallich ex Hooker var. *brunoniana* (Wallich ex Hooker) Scott; *A. contaminans* var. *inermis* Kurz; *A. sollyana* Griffith; *Cyathea brunoniana* (Wallich ex Hooker) C. B. Clarke &amp; Baker; *C. hainanensis* Ching; *Sphaeropteris hainanensis* (Ching) R. M. Tryon.
+**1. 白桫椤 (西藏植物志) 图版75: 1-8**
+
+Sphaeropteris brunoniana (Hook.) R. M. Tryon in Contr. Gray Herb. 200: 21. 1970: Fl. Xizang. 1: 56. 1983: Sylva Sinica 1: 146, f. 5: 1-6. 1993: Q. Xia inActa Phytotax. Sin. 27 (1): 4. 1989. ——Alsophila brunoniana Hook., Sp. Fil. 1: 52. 1844; Bedd., Ferns Brit. India t. 86. 1865. ——A. soll3una Griff., Notulae2: 624. 1849, et Ic. Pl. As. 2, t. 130, f. 3-4. 1849. ——A. contaminans var.brunoniana Scott in Trans. Linn. Soc. 30: 35, t. 15. 1847. ——A. contaminans var. inermis Kurz, For. Fl. Burma 2: 573. 1877. ——Cyathea brunoniana (Hook.) C. B. Clarke et Baker in J. Linn. Soc. Bot. 24: 409. 1888; Holttum in Kew Bull. 19: 486. 1965. ——Cyathea hainanensis Ching in Acta Phytotax. Sin. 8: 168. 1959; Fl. Hainan. 1: 140. 1964; Holtturn in Kew Bull. 19: 487. 1965. ——Sphaeropteris hainanensis (Ching) R. M. Tryon in Contr. Gray Herb. 200: 21. 1970; Sylva Sinica 1: 147, f. 5: 7-8. 1983: Q. Xia in Acta Phytotax. Sin. 27 (1): 5, 1989, syn. nov. ——C. contaminans auct. non Copel. : Fl. Hainan. 1: 139. 1964.
+
+茎干高达20米，中部以上直径达20厘米。叶柄禾秆色，常被白粉，长达50厘米，基部有小疣突，其余光滑，上面有宽沟，沟的两外侧各有一条由气囊体连成的灰白色纹线，延伸至叶轴渐稀疏；鳞片薄，灰白色，边缘有斜上的黑色刺毛；叶片大，长达3米，宽达1.6米，三回羽状深裂，叶轴光滑，浅禾秆色，被白粉；羽片20-30对，斜展，披针形，最长达90厘米，宽约25厘米，基部一对羽片的柄长达7厘米，尖端羽状深裂，羽轴光滑，浅禾秆色；小羽片条状披针形，下部稍狭，尖端长尾尖，长9-14厘米，宽2-3厘米，深裂至几全裂，小羽轴上面无毛或有疏毛，下面无毛；裂片约16-25对，长10-16毫米，宽3-5毫米，略呈镰刀形，基部较宽，边缘近全缘或略具波状齿，偶有浅裂，小脉2-3叉，叶为纸质，干后上面暗绿色，下面灰白色，两面均无毛。每裂片有孢子囊群7-9对，位于叶缘与主脉之间，无囊群盖，隔丝发达与孢子囊几等长或长过于孢子囊。
+
+产西藏（墨脱）、云南（河口、勐仑、勐腊、金平、绿春、西双版纳、潞西、瑞丽、盈江、景洪）、海南（昌江、乐东、白沙、陵水、三亚）。生于常绿阔叶林缘、山沟谷底。海拔500-1150米。不丹、锡金、尼泊尔、印度北部、孟加拉国、缅甸和越南北部也有分布。模式标本采自尼泊尔。

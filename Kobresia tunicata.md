@@ -1,0 +1,14 @@
+玉龙嵩草",
+10.**Kobresia tunicata** Handel-Mazzetti Symb. Sin. 7: 1254. 1936.",
+
+## Description
+Rhizomes short. Basal sheaths prominent and persistent, brown, not shiny, not retaining dried leaf blades. Culms densely tufted, erect and rigid, trigonous, 20-25 cm tall, ca. 1.5 mm in diam. Leaves basal, longer than culms; blade flat or folded, 1.5-3 mm wide, midrib distinct abaxially. Inflorescence loosely paniculate, brown, lanceolate, ca. 5 cm × 7 mm; lowest involucral bract glumelike, blunt; inflorescence branches linear, androgynous; spikelets unisexual, terminal spikelets male (up to 3), lower ones (up to 9) female. Female glumes brown, with green midvein, ovate-lanceolate or oblong-ovate, 5-5.5 × 1.5-2 mm, midvein narrow, margin hyaline, apex subacute or obtuse. Prophylls pale brown, linear-lanceolate, 5.2-6 × ca. 1 mm, papery, apex hyaline, 2-keeled, keels scabrid, margins free to base, overlapping. Immature nutlets narrowly elliptic, obscurely trigonous, ca. 4 mm (including stipe) × 0.8 mm, stipitate, crowned with stout beaklike style base, beak ca. 1 mm. Stigmas 3. Sterile rachilla of female spikelets flat, ca. 2 mm, sometimes with vestigial glume at apex. Fl. and fr. May-Sep.
+  "Reference": "Both Kükenthal and Ivanova (in schedis, 1939, 1941) referred the type specimen of *Kobresia tunicata* (*Handel-Mazzetti 3525*, WU) to *K. kansuensis*, of which it may only be a less-robust form with unisexual spikelets. It is also possible that it is a form of *K. graminifolia* with a branched inflorescence, but further collections are required.Both Kükenthal and Ivanova (in schedis, 1939, 1941) referred the type specimen of *Kobresia tunicata* (*Handel-Mazzetti 3525*, WU) to *K. kansuensis*, of which it may only be a less-robust form with unisexual spikelets. It is also possible that it is a form of *K. graminifolia* with a branched inflorescence, but further collections are required.
+  "Statistics": "● Alpine grasslands, marshes at edges of pools; 3300-4300 m. Sichuan, Yunnan.
+**20. 玉龙嵩草（横断山区维管植物）图版4: 10-12**
+
+Kobresia tunicata Hand. -Mazz., Symb. Sin. 7 (5): 1254, 1936; 横断山区维管植物下册: 2347, 1994. ——Kobresia capilifolia (Decne.) C. B. Clarke var. condensata Kukenth. in Not. Bot. Gard. Edinb. 7: 134, 1912 et l. c. 8: 9, 1913. ——Kobresia handelmazzettii Ivan. in Journ. Bot. USSR, 24: 494, 1939. ——Kobresia royleana (Nees) Bocklr. var. kokanica (Regel) auct. non Kukenth.: Hand. -Mazz., l. c. 1256, 1936.
+
+根状茎短。秆密丛生，纤细，稍坚挺，高20-30厘米，粗1-1.5毫米，钝三棱形，光滑，基部的宿存叶鞘褐色、无光泽、分裂呈纤维状。叶短于秆，平张，宽1.5-3毫米，平滑，仅边缘粗糙。圆锥花序紧缩成穗状，圆柱形，长3-5厘米，宽5-7毫米；苞片鳞片状，顶端具芒；小穗多数而密生，长圆形，下部的长1-1.5厘米，上部的稍短；支小穗多数，顶生的数个雄性，侧生的雌性和雄雌顺序，如为后者则在基部雌花之上具1朵雄花。鳞片卵形或倒卵形，长4-5毫米，顶端锐尖或钝，纸质，两侧栗褐色，具宽的白色膜质边缘，中间绿色，有3条脉。先出叶长圆形，与鳞片近等长，膜质，下部白色，上部栗褐色，腹面边缘分离几至基部，背面具粗糙的2脊，脊间无明显的脉，顶端白色薄膜质。小坚果狭长圆形，三棱形，长约4毫米，基部无柄，顶端几喙；花柱基部稍增粗，柱头3个。退化小穗轴如存在则比果短，刚毛状。
+
+产云南西北部（丽江玉龙山）；生于高山灌丛草甸，海拔3700-4250米。模式标本采自丽江玉龙山。

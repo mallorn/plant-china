@@ -1,0 +1,15 @@
+钱币石韦",
+8.**Pyrrosia nummulariifolia** (Swartz) Ching Bull. Chin. Bot. Soc. 1: 47. 1935.",
+
+## Description
+Plants small, 2-7 cm tall. Rhizome long creeping, 0.6-1.6 mm in diam., in cross section sometimes with a single, central sclerenchyma strand; phyllopodia 0.5-1.5 cm apart, lateral buds between or opposite to phyllopodia. Scales peltate, 3.3-5.7 × 0.3-0.7 mm, base entire to ciliate; acumen light brown, ciliate; short, ± orbicular to ovate scales regularly present. Fronds strongly dimorphic, distinctly to indistinctly stipitate. Sterile fronds: ± sessile or up to 2 cm stipitate; lamina elliptic to ovate, 1.5-2 × 1.2-1.5 cm, base cordate to rounded or occasionally cuneate, apex rounded. Fertile fronds: stipe up to 2.5 cm; lamina elliptic to obovate, 5-7 × 0.3-1.1 cm, base cuneate to gradually attenuate. Hydathodes absent. Indument persistent, dimorphic, dense, brown, lower layer mostly whitish; upper layer composed of hairs 0.7-1.4 mm in diam., with erect-spreading, acicular rays, usually distinctly raised above a lower layer with mainly woolly rays. Sori superficial, without central bundle of paraphyses. Sporangia with stalks 1-1.5 × as long as capsule.
+
+> On rocks; 400-1100 m. Yunnan [Bhutan, India, Indonesia, Myanmar, Philippines, Thailand].
+  "Synonym": "*Acrostichum nummulariifolium* Swartz, Syn. Fil. 191, 419. 1806; *A. obovatum* Blume; *Cyclophorus nummulariifolius* (Swartz) C. Christensen; *C. nummulariifolius* var. *obovatus* (Blume) Bonaparte; *C. nummulariifolius* var. *rufus* Alderwerelt; *C. obovatus* (Blume) Alderwerelt; *Galeoglossa nummulariifolia* (Swartz) C. Presl; *G. obovata* (Blume) C. Presl; *Gymnopteris nummulariifolia* (Swartz) C. Presl; *Niphobolus nummulariifolius* (Swartz) J. Smith; *N. obovatus* (Blume) Kunze; *Polypodium nummulariifolium* (Swartz) Mettenius; *P. obovatum* (Blume) Mettenius; *Pyrrosia nummulariifolia* var. *rufa* (Alderwerelt) Ching; *P. obovata* (Blume) Ching.
+**31.钱币石韦（蕨类名词名称）**
+
+Pyrrosia nummulariifolia (Sw.) Ching in Bull. Chin. Bot. Soc. 1: 47. 1935; Holt-tum, Ferns Mal. 144. f. 59. 1955: Copel., Fern Fl. Philip. 3: 475. 1960; Satija et Bir, Polypo. Ferns Ind. 38. 1985; Hovenk., Monogr. Pyrrosia 214. f. 23. 1986; Tagawa et K. Iwats., Fl. Thailand 3: 494. 1989; Shing et K. Iwats. in J. Jap. Bot. 72 (2) : 80-81. 1997. ——Acrostichum nummularifolium Sw., Syn. Fil. 191, 419. t. 2. f.1. 1806. ——Acrostichum obovatum Blume, Enum. Pl. Jav. 2: 102-1828. ——Pyrrosia obovata (Blume) Ching in Bull. Chin. Bot. Soc. 1: 47. 1935. ——Cyclopho-rus nummulariifolius (Sw. ) C. Chr. var. rufa Alderw, in Bull. Dept. Agric. Ind. Neerl. 21: 8. 1908. ——Pyrrosia nummulariifolia (Sw.) Ching var. rufa (Alderw.) Ching in Bull. Chin. Bot. Soc. 1: 47. 1935.
+
+植株矮小，不育叶约高2厘米，能育叶高5-7厘米。根状茎细长横走，密被紧贴的线状披针形鳞片；鳞片棕色，尾状渐尖头，下部边缘有稀疏的长睫状毛（长度约等于鳞片宽度的2倍以上），易折断。叶远生，二型；不育叶具短柄，叶片椭圆形，或卵形，圆头，基部钝圆，长约1. 5-2厘米，宽1. 2-1，5厘米，干后纸质，上面灰色，光滑无毛，下面淡棕色，被两层星状毛，上层的具有棕色长分支臂，下层的具有无色卷毛状的分支臂；能育叶近舌状，最宽处在中上部，圆钝头，向下渐变狭成楔形，下延，具较长的柄，全缘，上面灰色，无毛，下面被两种星状毛，棕色。孢子囊群近圆形，叶片下面被厚层的星状毛覆盖，棕色。
+
+产云南（景东、河口）。附生于岩石上，海拔400-1050米。不丹、印度、缅甸、泰国、菲律宾、印度尼西亚和北里曼丹岛也有分布。

@@ -1,0 +1,7 @@
+文山兜兰",
+9.**Paphiopedilum wenshanense** Z. J. Liu & J. Yong Zhang Acta Bot. Yunnan. 22: 391. 2000.",
+
+## Description
+Plants terrestrial. Leaves 4 or 5, distichous; blade abaxially purple except for green and purple-spotted base, adaxially tessellated with dark and pale green and somewhat mottled with dull whitish, subelliptic, 5-10 × 3.5-4.5 cm, obtuse-rounded and unequally bilobed at apex. Scape suberect, terminating in 1-3 flowers; peduncle green spotted with purple-brown, 2.5-3.5 cm, pubescent; floral bracts ovate-elliptic, duplicate, 1.6-2 × 1.5-2 cm, abaxially hairy on midvein, minutely ciliate; pedicel and ovary 4-4.5 cm, hairy. Flowers whitish or yellow-white, 5-7 cm in diam.; dorsal sepal and petals with brown-red spots 2-2.5 mm in diam., and each with a central longitudinal stripe composed of brown-red spots; synsepal, lip, and staminode with smaller brown-red spots. Dorsal sepal broadly ovate to suborbicular, 2.5-3.5 × 2.5-3.5 cm, obtuse-rounded at apex; synsepal ovate, 2-2.5 × ca. 2 cm. Petals broadly elliptic or oblong-elliptic, 3.5-4 × 2.5-3 cm, adaxially hairy toward base; lip ellipsoid, 3.5-4 × 2-2.5 cm, white puberulent outside, apical margin narrowly incurved. Staminode broadly elliptic, 8-9 × 8-9 mm, with a caudate apex 1.5-2 mm. Fl. May.
+  "Statistics": "&amp;#9679; Densely shrubby and grassy slopes in limestone areas. SE Yunnan.
+  "Synonym": "*Paphiopedilum concobellatulum* Hort.

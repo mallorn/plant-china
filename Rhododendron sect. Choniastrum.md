@@ -1,0 +1,47 @@
+长蕊杜鹃组",
+2.**Rhododendron sect. Choniastrum** Franchet",
+
+## Description
+Shrubs or small trees, evergreen; branches glabrous or glandular setose. Inflorescence axillary or terminal, 1–7-flowered; corolla funnelform to campanulate; stamens 10; style as long as or longer than stamens. Capsule oblong-cylindric or cylindric, glabrous or puberulent, rarely glandular setose; style contiguous and valved on upper part when mature. Seeds with short-caudate appendages at both ends, ornamented.
+  "Statistics": "Twenty species: from China and Japan to peninsular Malaysia and Indonesia; 18 species (13 endemic) in China.
+  "keylist": "
+1 Pedicel and sometimes ovary densely glandular-setose.——(2)
+1 Pedicel glabrous or pubescent; ovary glabrous or pubescent, sometimes with a few glandular setae.——(4)
+2(1) Inflorescence usually 1-flowered; petiole 0–6 mm.[Rhododendron subestipitatum 单花无柄杜鹃](Rhododendron subestipitatum.md)
+2 Inflorescence 5–7-flowered; petiole 10–17 mm.——
+3 </td><td width=550>Young shoots, petioles, midrib and abaxial surface of leaf blade sparsely setose or glandular-setose; \r\ncorolla purplish or pink, 4.5–5 cm.[Rhododendron henryi 弯蒴杜鹃](Rhododendron henryi.md)
+3 Young shoots, petioles, and both surfaces of leaf blade densely setose or glandular-setose; corolla \r\nwhite or reddish, 5–6 cm[Rhododendron championiae 刺毛杜鹃](Rhododendron championiae.md)
+4(1) Pedicel pubescent, tomentose or setose.——(5)
+4 Pedicel glabrous.——(9)
+5(4) Inflorescence terminal, 10–15(–17)-flowered; leaves scattered along the stems.[Rhododendron cavaleriei 多花杜鹃](Rhododendron cavaleriei.md)
+5 Inflorescence subterminal, 1–8-flowered; leaves in apical clusters.——(6)
+6(5) Inflorescence 1–3-flowered; pedicel 1.5–2 cm.——(7)
+6 Inflorescence (3–)4–8-flowered; pedicel 2–3.5 cm.——(8)
+7(6) Pedicel yellowish brown pubescent; corolla white with yellowish flecks, 4.5–6 cm.[Rhododendron hancockii 滇南杜鹃](Rhododendron hancockii.md)
+7 Pedicel sparsely reddish setose; corolla cherry red, 3–4.5 cm.[Rhododendron tutcherae 香缅树杜鹃](Rhododendron tutcherae.md)
+8(6) Corolla 5–5.5 cm; young shoots glandular-setose.[Rhododendron dayaoshanense 大姚山杜鹃](Rhododendron dayaoshanense.md)
+8 Corolla 3–3.5 cm; young shoots glabrous.[Rhododendron stamineum 长蕊杜鹃](Rhododendron stamineum.md)
+9(4) Inflorescence (3–)4–8-flowered.——(10)
+9 Inflorescence 1–3-flowered.——(15)
+10(9) Pedicel 1–2 cm.——(11)
+10 Pedicel 2.5–3 cm; calyx margin usually glabrous; leaves usually in apical clusters.——(13)
+11(10) Calyx lobes minute, triangular, margin usually glabrous; leaves usually in apical clusters.[Rhododendron truncatovarium 平房杜鹃](Rhododendron truncatovarium.md)
+11 Calyx lobes sometimes well-developed, ± linear, margin fimbriate-ciliate or glandular pectinate; leaves often scattered along the stems.——(12)
+12(11) Petiole ca. 1 cm; corolla ca. 5 cm, pink to purplish.[Rhododendron westlandii 凯里杜鹃](Rhododendron westlandii.md)
+12 Petiole 1.5–2 cm; corolla 4.5–4.8 cm, white flushed yellow.[Rhododendron huguangense 大鳞杜鹃](Rhododendron huguangense.md)
+13(10) Calyx lobes narrowly triangular to narrowly lingulate, 5–20 mm, often ciliate; ovary truncate at insertion of style, densely yellowish tomentose.[Rhododendron longilobum 凸纹杜鹃](Rhododendron longilobum.md)
+13 Calyx reduced to an undulate rim or 5 minute teeth, glabrous; ovary tapering into style, glabrous or densely gray-white-tomentose.——(14)
+14(13) Lateral veins obsolete.[Rhododendron stamineum 长蕊杜鹃](Rhododendron stamineum.md)
+14 Lateral veins reticulate and conspicuous on both surfaces.[Rhododendron feddei 黔中杜鹃](Rhododendron feddei.md)
+15(9) Petiole 2–8 mm.——(16)
+15 Petiole 10–15 mm.——(18)
+16(15) Calyx lobes 5–13 mm; corolla white, 4.5–6 cm.[Rhododendron hancockii 滇南杜鹃](Rhododendron hancockii.md)
+16 Calyx lobes 1–2 mm; corolla pale rose or rose-violet, 2.5–4 cm.——(17)
+17(16) Flower bud scales uniformly gray-white pubescent on outer surface; corolla 3.2–4 cm; capsule apex acuminate.[Rhododendron taishunense 泰顺杜鹃](Rhododendron taishunense.md)
+17 Flower bud scales pubescent only on margin and at apex on outer surface; corolla ca. 2.5 cm; capsule apex truncate.[Rhododendron vaniotii 玫色杜鹃](Rhododendron vaniotii.md)
+18(15) Corolla cherry red, without markings.[Rhododendron tutcherae 香缅树杜鹃](Rhododendron tutcherae.md)
+18 Corolla pink to white, with a distinct darker blotch on upper lobe.——(19)
+19(18) Ovary tapering into style; pedicel 1–2 cm; inflorescence 2- or 3-flowered.[Rhododendron moulmainense 毛棉杜鹃](Rhododendron moulmainense.md)
+19 Ovary apex truncate; pedicel 2–3 cm; inflorescence often 1-flowered.——(20)
+20(19) Corolla 5–5.7 cm; flower bud scales gray-white pubescent on outer surface.[Rhododendron mackenzianum 长蒴杜鹃](Rhododendron mackenzianum.md)
+20 Corolla 3.5–4.8 cm; flower bud scales pubescent only on margin and at apex.[Rhododendron latoucheae 西施花",](Rhododendron latoucheae.md)

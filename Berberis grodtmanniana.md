@@ -1,0 +1,6 @@
+安宁小檗",
+76.**Berberis grodtmanniana** C. K. Schneider Oesterr. Bot. Z. 67: 32. 1918.",
+
+## Description
+Shrubs, evergreen, 1-1.5 m tall. Branches dark gray or yellow, stout, very sulcate, not verruculose; spines 3-fid, 1-3 cm, stout, adaxially flat. Leaves subsessile; leaf blade abaxially pale green, adaxially deep green, lanceolate, 3-6 × 0.4-1.2 cm, leathery, abaxially not pruinose, midvein conspicuously raised, lateral and reticulate veins inconspicuous, adaxially with impressed midvein, lateral veins slightly visible, base cuneate, margin conspicuously revolute or not, 7-12(-15)-spinose-serrate on each side, apex acute or acuminate, aristate. Flowers 5-10-fascicled. Pedicels (3-)4-12 mm; bractlets ca. 1 mm, apex acuminate. Sepals in 2 whorls; outer sepals ovate, ca. 2 × 1 mm, apex acute; inner sepals ovate-elliptic, ca. 5.5 × 3 mm. Petals obovate, 4.5-5 × 2.5-3 mm, apex emarginate. Stamens ca. 3 mm; anther connective not prolonged, truncate. Ovules solitary, sessile. Berry ellipsoid, 8-9 × ca. 4 mm, not or sometimes slightly pruinose; style persistent, short. Fl. Apr-May, fr. May-Aug.
+  "Statistics": "● Forests, thickets, roadsides, runlet sides; 1900-3500 m. Sichuan, Yunnan.

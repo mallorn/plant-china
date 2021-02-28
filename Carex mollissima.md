@@ -1,0 +1,14 @@
+柄薹草",
+350.**Carex mollissima** Christ Kongl. Svenska Vetensk. Acad. Handl., n.s. 22(10) [Scheutz, Pl. Vasc. Jenis.]: 181. 1888.",
+
+## Description
+Rhizome short, with long and branched stolons. Culms 30-40 cm tall, slightly slender, compressed triquetrous, scabrid on upper part, yellowish brown and bladeless sheathed at base, sheaths sometimes disintegrating into fibers. Leaves longer than culm, blades 2-4 mm wide, flat, soft, scabrid on margins and veins, long sheathed. Involucral bracts leaflike, longer than spike, nearly not sheathed, lowermost sometimes shortly sheathed. Spikes 3 or 4, lowermost spike remote, upper spikes approximate; terminal 1 or 2 spikes male, linear or clavate, 1-1.8 cm, shortly pedunculate; remaining spikes female, oblong-cylindric or cylindric, 1-3.5 × 0.7-0.8 cm, densely many flowered, upper spikes shortly pedunculate, lowermost spike pedunculate, peduncle up to 5 cm. Female glumes pale ferruginous or pale, ovate-oblong, ca. 3 mm, membranous, 3-veined, margins white hyaline, apex obtuse. Utricles yellowish green, horizontally patent or reflexed, longer than glume, ovate, inflated trigonous, 4-5 mm, papery, glabrous, slightly nitid, several veined, base subrounded, with short and bent stipe, apex abruptly contracted into a long beak 1-1.5 mm, orifice slightly slitting into 2 teeth or emarginate. Nutlets rather loosely enveloped, elliptic or obovate, trigonous, ca. 1.5 mm, base shortly stipitate; style slender, base bent, not thickened; stigmas 3, rather short. Fl. and fr. Jul-Aug.
+  "Statistics": "Swamps in high mountain regions. Heilongjiang, Nei Mongol (Da Hinggan Ling) [Korea, Russia].
+  "Synonym": "*Carex divaricata* Kükenthal; *C. yingkiliensis* A. I. Baranov &amp; Skvortsov.
+**314. 柄薹草（东北草本植物志）**
+
+Carex mollissima Christ. ex Scheutz, Fl. Vase. Jeniss. 181, 1887; Kukenth. in Engl., Pflanzenr. Heft 38 (IV. 20): 719, fig. 124. A-D, 1909; V. Krecz. in Kom. Fl. URSS 3: 433, pl. 23, fig. 13, 1935; Ohwi, Cyper, Japon. 1: 502, 1936; Akiyama, Caric. Far East. Reg. As. 173, t. 171 fig. 2, 1955; T. Koyamain Journ. Fac. Sci. Univ. Tokyo III, 8 (4): 241, 1962; 东北草本植物志11: 70, 图版30, 图6-9, 1976; 内蒙古植物志8: 65, 图版27, 图1-5, 1985. ——Carex divaricata Kukenth. in Forh. Finska Vetensk. Soc. 45: 12, 1902-1903. ——Carex yingkiliensis Bar. et Skv., 刘慎谔等东北植物检索表542, 图版201, 图2.
+
+根状茎短，具长的地下匍匐茎分枝。秆高30-40厘米，稍细弱，扁三棱形，上部稍粗糙，基部具淡黄褐色无叶片的鞘，鞘有时细裂成纤维状。叶长于秆，宽2-4毫米，平张，质软，边缘和脉上稍粗糙，具长的叶鞘。苞片叶状，长于小穗，近于无鞘或有时最下面的具短鞘。小穗3-4个，间距最下面的小穗稍远离，上面的较接近，上端1-2个小穗为雄小穗，线形或棍棒形，长1-1.8厘米，具短柄；其余小穗为雌小穗，长圆状圆柱形或圆柱形，长1-3.5厘米，宽7-8毫米，密生多数花，上面的具短柄，下面的柄长可达5厘米。雄花鳞片长圆形，顶端钝，膜质，淡锈色，边缘具白色透明的宽边，具1条绿色的脉；雌花鳞片卵状长圆形，长约3毫米，顶端钝，膜质，淡锈色或苍白色，边缘白色透明，具3条脉。果囊后期水平叉开或向下反折，长于鳞片，卵形，鼓胀三棱形，长4-5毫米，纸质，淡黄绿色，无毛，稍具光泽，具多条脉，基部近圆形，具长约1毫米的弯柄，顶端稍急缩为软长的喙，喙长约1-1.5毫米，喙口浅裂为两齿或微凹。小坚果很松地包于果囊内，椭圆形或近倒卵形，三棱形，长约1.5毫米，基部具短柄；花柱细长，基部弯曲，不增粗；柱头3个，很短。花果期7-8月。
+
+产于黑龙江、内蒙古大兴安岭地区；生于高山沼泽地。也分布于俄罗斯、朝鲜。

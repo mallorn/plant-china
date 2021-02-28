@@ -1,0 +1,15 @@
+华西复叶耳蕨",
+39.**Arachniodes simulans** (Ching) ching Acta Bot. Sin. 10: 259. 1962.",
+
+## Description
+Rhizome creeping, succulent at growing apex, 1-3 cm in diam., densely scaly; scales pale brown, ovate-lanceolate or lanceolate, to 8 × 1-2 mm, apically attenuate or hairlike, thin and soft. Fronds remote or approximate, 0.7-1.2(-1.4) m; stipe stramineous, 38-60 cm, 4-6 mm in diam., base and lower part densely scaly as rhizome, upward scales diminishing to glabrescent; lamina (3 or)4(or 5)-pinnate, dull pale green when dried, ovate-deltoid, 32-60 × 25-40 cm, firmly herbaceous or papery, base rounded or cordate, apex acuminate (or attenuate), rachis glabrescent or sparsely with linear scales; pinnae ca. 10 pairs, alternate, with to 3 cm stalk, obliquely spreading; lowest pinnae deltoid-lanceolate, to 35 × 18 cm, base rounded-cuneate, apex acuminate; primary pinnules ca. 16 pairs, with to 1.2 cm stalk, lanceolate, (basal basiscopic ones slightly longer, to 14 × 4 cm), base broadly cuneate, apex acuminate; secondary pinnules with to 0.5 cm stalk, deltoid-oblong or distally oblong-lanceolate, base cuneate, apex acuminate or obtuse; tertiary (and quaternary) pinnules shortly stalked or sessile, ovate-oblong or rhombic, ca. 1 × 0.5 cm, base acroscopically cuneate and slightly auriculate, basiscopically cuneate, apex acute or obtuse, margin sharply serrate often with aristate teeth; upper pinnae gradually reduced; axes and veins of ultimate segments with sparse minute brown lanceolate and ± appressed linear scales abaxially. Sori terminal on veinlets, 1-4(-6) pairs per ultimate segment, submarginal; indusia brown, membranous, ciliate or erose, often fugacious.
+
+> Slopes in forests or bamboos, on shaded wet rocks, valleys, thickets or under shrubs by streams; (500-)900-2300(-2800) m. Anhui, Chongqing, SE Gansu, Guizhou, Hubei, Hunan, Jiangxi, S Shaanxi, Sichuan, Yunnan [Bhutan, India, Japan].
+  "Synonym": "*Rumohra simulans* Ching, Sinensia 5: 54. 1934; *Arachniodes cantilenae* Sa. Kurata; *A. centrochinensis* Ching; *A.* *chingii* Y. T. Hsieh; *A. dayaoensis* Y. T. Hsieh; *A. decomposita* Ching; *A. elevatas* Ching; *A. gizushanensis* Ching; *A. guanxianensis* Ching; *A. jiangxiensis* Ching; *A. jinfoshanensis* Ching; *A. lushuiensis* Y. T. Hsieh; *A. pianmaensis* Ching; *A. yinjiangensis* Ching; *A. yunnanensis* Ching.
+**98. 华西复叶耳蕨 （植物学报）图版2: 4**
+
+Arachniodes simulans (Ching) Ching in Acta Bot. Sin. 10: 259. 1962. ——Runzohra simulans Ching in Sinensia 5: 54. t. 8. 1934: Tard. -Blot et C. Chr. in Lecomte, Fl. Indo-China 7 (2): 326. 1941. ——Arachniodes centro-chinensis Ching in Fl. Tsin-Ling 2: 174. 1974.
+
+植株高80-120厘米。叶柄长38-50厘米，粗4-6毫米，禾秆色，基部密被棕色、披针形，顶部毛髯状，向上略被同样较小鳞片，上部近光滑。叶片阔卵状三角形，长30-55厘米，宽25-40厘米，顶部略狭缩呈三角形，渐尖头，四回羽状；羽片约20对，互生，有柄，斜展，密接，基部一对最大，三角状披针形，长达30厘米，基部宽约15厘米，长渐尖头，三回羽状；一回小羽片16对，互生，有柄，基部下侧一片略较大，披针形，长达14厘米，宽约4厘米，渐尖头，二回羽状；二回小羽片约16对，互生，下部的有柄，基部一 (二) 对为羽状或羽裂，末回小羽片或裂片4-6对，卵状长圆形，急尖头，边缘具有芒刺的尖锯齿；第二至第六对羽片阔披针形或披针形，三回羽状或羽裂，基部上侧一片一回小羽片略较大；第七对羽片明显缩短，披针形，长8厘米，羽状，向上的各对羽片逐渐缩小。叶近草质，干后灰绿色，光滑，叶轴和各回羽轴下面偶被1、2棕色、披针形小鳞片。孢子囊群每二回小羽片或裂片4-6对，靠近叶边生；囊群盖棕色，厚膜质，边缘有睫毛，以后脱落。
+
+产于甘肃、江西、湖北、湖南、四川、贵州和云南。生山谷林下，海拔100-1900米。越南也有。模式标本采自四川峨眉山。

@@ -1,0 +1,7 @@
+粗齿唇柱苣苔",
+77.**Chirita macrodonta** D. Fang & D. H. Qin",
+
+## Description
+Perennials, stemless. Rhizome internodes inconspicuous. Leaves basal; petiole 5-25 cm X 2-4 mm; leaf blade orbicular to ovate, 4.5-15 X 5-16.5 cm, papery, villous, eglandular, base cordate, margin double dentate, occasionally lobed, apex acute to rounded, basal veins 3-6; lateral veins 2 or 3 on each side of midrib, adaxially inconspicuous, abaxially slightly conspicuous. Cymes 4-15-flowered; peduncle 8-23 cm, densely spreading villous and glandular pubescent; bracts 2, free, lanceolate to oblong, 4-10 X 1-2.5 mm, densely villous and glandular pubescent, margin 3-5-glandular denticulate, apex acute. Pedicel 2-5 cm. Calyx 5-sect from base; segments equal, lanceolate, 0.8-1.2 cm X ca. 1.5 mm, densely villous and glandular pubescent, margin entire or 1- or 2-denticulate, apex acute. Corolla white to purplish, 2.5-3.4 cm, outside glandular pubescent, inside pubescent at lobe base; tube subtubular, 1.7-2.5 X ca. 1 cm; adaxial lip ca. 6 mm; abaxial lip 1-1.2 cm. Filaments ca. 1 cm, glabrous; anthers fused by entire adaxial surfaces, ca. 4 mm, abaxially densely bearded; staminodes 2, ca. 5.5 mm. Pistil ca. 2.1 cm; ovary ca. 6 mm, densely glandular villous or densely glandular pubescent. Stigma obtrapeziform, ca. 2 mm, 2-lobed. Fruit and seeds unknown. Fl. Jul.
+
+> * Forests on limestone hills; ca. 200 m. Guangxi (Lingchuan Xian).

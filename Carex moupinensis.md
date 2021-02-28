@@ -1,0 +1,14 @@
+宝兴薹草",
+35.**Carex moupinensis** Franchet Nouv. Arch. Mus. Hist. Nat., sér. 2. 10: 102. 1887.",
+
+## Description
+Rhizome stoloniferous, woody. Culms 20-50 × 0.3-0.4 cm, stiff, trigonous, base with persistent brown sheaths. Leaves longer or shorter than culms, flat, 3-5 mm wide, pubescent and glabrescent later, papillose abaxially, scabrid adaxially, long sheathed, sheath mouth villous. Involucral bracts same as leaves, shorter than inflorescence, much longer than inflorescence branches. Panicle compound, 10-20 cm, 4-10-branched; inflorescence branches corymbose, simple, 5-12-spiked, 2-3 × 1.5-2 cm; peduncles of inflorescence branches tenuous, 6-8 cm, trigonous, loosely pubescent; inflorescence axes sharply trigonous, loosely pubescent; bractlets brown, glumelike, lanceolate, 3-4 mm, loosely pubescent. Spikes unisexual, male ones at upper part of inflorescence branches, female at lower part, arising from flowerless utriculiform cladoprophylls; male spikes oblong, 6-10 mm, many flowered, sometimes with few female flowers at base; female spikes oblong, 7-10 mm, densely many flowered, sometimes with few male flowers at top; male glumes brown, lanceolate, 2.5-3.5 mm, membranous, with 1 midrib, apex acuminate; female glumes brownish white with dense brown spots, lanceolate, 2.5-3.5 mm, with 1 midrib, margins narrowly hyaline, apex acuminate. Utricles brownish white with brown spots, obliquely patent, shorter than glumes, obovate, sometimes obliquely obovate, slightly inflated, trigonous, ca. 2 mm, papery, glabrous, 2-veined abaxially, apex contracted abruptly into short beak, orifice obliquely truncate. Nutlets yellowish white at maturity, obovate, trigonous, ca. 1.2 mm; style base thickened; stigmas 3.
+  "Statistics": "● Shady slopes, roadsides. Guizhou, Hubei, Sichuan, Yunnan.
+  "Synonym": "*Homalostachys sinensis* Boeckeler.
+**32. 宝兴薹草（中国高等植物图鉴）图版17: 8-11**
+
+Carex moupinensis Franch. in Nouv, Arch. Mus. Paris 2. 10: 102, 1888 et l. c. 3, 8: 257, t. 7, fig. 2, 1896 et Pl. David. 2: 140, 1890; Diels in Bot. Jahrb. 29: 231, 1901; C. B. Clarke in Journ. Linn. Soc. Bot. 36: 299, 1904; Kukenth. In Engl., Pflanzenr. Heft 38 (IV. 20): 289. 1909; 中国高等植物图鉴5: 273, 图7386, 1983; 贵州植物志8: 631, 图版198: 5-8, 1988.——Homolostachys sinensis Bocklr. Cyper. Nov. 1: 38, 1888.
+
+根状茎长而匍匐，木质。秆高20-50厘米，粗3-4毫米，坚挺，三棱形，自基部以上至花序以下生叶，基部具褐色的宿存叶鞘。叶长于或短于秆；叶片平张，宽3-5毫米，下面初时疏被短柔毛，后渐变无毛，有乳头状突起，上面明显粗糙，叶鞘长，鞘口疏被长柔毛。苞片与叶近同型，短于花序，但较支花序长得多。圆锥花序复出，长10-20厘米，具4-10个支花序；支花序近伞房状，长2-3厘米，宽1.5-2厘米，单生，具5-12个小穗；支花序柄纤细，长6-8厘米，三棱形，疏被短柔毛；支花序轴锐三棱形，亦疏被短柔毛；小苞片鳞片状，披针形，长3-4毫米，褐色，疏被短柔毛。小穗单性，雌雄同株异序，雄性支花序生于上部，雌性的生于下部；小穗从囊状、内无花的枝先出叶中生出，雄性小穗长圆形，长6-10毫米，具多数雄花，但有时在基部具数朵雌花；雌性小穗长圆形，长7-10毫米，具多数密生的花，有时在顶端有少数雄花；小穗柄长3-5毫米。雄花鳞片披针形，长2.5-3.5毫米，顶端渐尖，膜质，褐色，具1条中脉；雌花鳞片披针形，长2.5-3.5毫米，顶端渐尖，褐白色，密生棕褐色斑点，具狭的白色膜质边缘，有1条中脉。果囊斜展，短于鳞片，倒卵形，有时微偏斜倒卵形，微肿胀三棱形，长约2毫米，纸质，无毛，褐白色，密生棕褐色树脂状小点，腹面具2侧脉，顶端骤缩成短喙，喙口斜截形。小坚果倒卵形，三棱形，长约1.2毫米，成熟时黄白色；花柱基部增粗，柱头3个。花果期4-6月。
+
+产于湖北、贵州、四川、云南；生于山坡阴处、路旁、沟边。模式标本采自四川宝兴。

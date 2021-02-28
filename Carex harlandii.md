@@ -1,0 +1,14 @@
+长囊薹草",
+312.**Carex harlandii** Boott Ill. Gen. Carex. 2: 87. 1860.",
+
+## Description
+Rhizome thick and short, woody. Culms lateral, 30-90 cm tall, trigonous, stiff, smooth. Sterile leaves longer than culm, blades broadly linear, 1-2.2 cm wide, flat, leathery, base plicate, upper margins scabrous, apex acuminate. Involucral bracts leaflike, longer than inflorescence, sheathing. Spikes 3 or 4, distant; terminal spike male, linear-cylindric, 4.5-8 cm, pedunculate; lateral spikes mostly female, with several male flowers at apex, uppermost spike contiguous with male spike, remaining spikes distant, cylindric, 4.5-9 × 0.9-1.3 cm, densely flowered, with short peduncles. Female glumes pale green, ovate-oblong or oblong, 3-3.5 mm, green 3-veined costa excurrent into a scabrous awn. Utricles yellow-green or green, much longer than glume, obliquely patent, elliptic-rhomboid, 9-10 mm (including beak), papery, glabrous, many veined, base gradually narrowed, apex abruptly contracted into a long beak, orifice 2-toothed. Nutlets yellow-brown, tightly enveloped, rhomboid-elliptic, trigonous, ca. 7 mm, constricted on angles at middle, faces concave at base, base curved stipitate, apex abruptly contracted into a slender and erect beak, orifice annulate; style base broadly conic; stigmas 3. Fl. and fr. Apr-Jul.
+  "Statistics": "Forests, thickets, moist places and on rocks along streamsides, grasslands, slopes. Anhui, Fujian, Guangdong, Guangxi, Hainan, Hubei, Jiangxi, Zhejiang [Indonesia, Myanmar, Thailand, N Vietnam].
+  "Synonym": "*Carex anomocarya* Nelmes; *C. chlorocystis* Boeckeler; *C. harlandii* var. *liuguensis* S. Yun Liang &amp; D. Y. Liu; *C. harlandii* var. *xiuningensis* S. W. Su.
+**275. 长囊薹草（中国高等植物图鉴）图版65: 1-4**
+
+Carex harlandii Boott, Illustr. Carex 2: 87, t. 255, 1860: Benth., Fl. Hongk. 403, 1861; Franch. in Nouv. Arch. Mus. Paris III, 9: 176, 1897; C. B. Clarke inJourn. Linn. Soc. Bot. 36: 289, 1903; Kukenth. in Engl., Pflanzenr. Heft 38 (IV. 20): 630, fig. 107, A-E. 1909; 中国高等植物图鉴5: 331, 图7491, 1976; 浙江植物志7: 304, 图7-417, 1993; 福建植物志6: 371, 图339, 1995. ——C. chlorocystis Bocklr. in Bot. Jahrb. 5: 520, 1884. ——C. anomocarya Nelmes in Kew Bull. 1950: 202, 1951: ——C. harlandii Boott var. liuguensis S. Y. Liang et D. Y. Liu in Bull. Bot. Res. 6 (1): 181, 1986. ——C. harlandil Boott var. xiuningensis S. W. Su in Fl. Anhuie. 5: 496, 图3027. 1992.
+
+根状茎粗短，木质。秆侧生，高30-90厘米，三棱形，坚挺，平滑。不育叶长于秆，宽10-22毫米，平展，基部对折，上部边缘粗糙，先端渐尖，革质。苞片叶状，长于花序，具鞘。小穗3-4个，彼此远离，顶端1个雄性，线状圆柱形，长4.5-8厘米；具小穗柄；侧生小穗大部分为雌花，顶端有少数雄花，最上1个靠近雄小穗，其余的远离，圆柱形，长4.5-9厘米，宽8-13毫米，花密生；小穗柄短。雌花鳞片卵状长圆形或长圆形，长3-3.5毫米，淡绿色，背面3脉绿色，向顶端延伸成粗糙的芒。果囊长于鳞片1倍多，长9-10毫米（连喙），斜展，椭圆状菱形，纸质，黄绿色或绿色，无毛，具多条脉，中部以下渐狭，上部渐狭成长喙，喙口具2齿。小坚果紧包于果囊中，菱状椭圆形，三棱形，长7毫米，黄褐色，中部棱边缢缩，下部棱面凹陷，基部具柄，弯曲，上部急缩成细而直的喙，喙顶端膨大呈环状；花柱基部膨大成圆锥状，柱头3个。花果期4-7月。
+
+产浙江、江西、福建、湖北、广东、广西；生于林下和灌木丛中、溪边湿地或岩石上，以及山坡草地。模式标本采自香港。

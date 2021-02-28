@@ -1,0 +1,7 @@
+都安秋海棠",
+152.**Begonia suboblata** D. Fang & D. H. Qin",
+
+## Description
+Herbs rhizomatous. Rhizomes creeping, sometimes branched, villous; internodes 3-6 × 2-6 mm. Leaves all basal; stipules broadly or very broadly ovate, 3-5 × 3-6 mm, fimbriate; petiole 2-11 cm, densely villous; blade with veins purple-red on both surfaces when young, oblate-orbicular or reniform, 2.5-6 × 3.4-8 cm, herbaceous or thickly so, abaxially villous on veins, adaxially sparsely long-hirsute, basally 6-8-veined, smaller veins obscure, tertiary veins randomly reticulate, base cordate, margin denticulate and long-ciliate, without a distinct apex. Inflorescence axillary; peduncle 4-12 cm, glabrous or subglabrous; flowers 2-4 in 1-2 times branched dichasial cyme; bracts caducous, glabrous. Staminate flowers: pedicel 5-15 mm; tepals 4, outer 2 nearly oblate-orbicular, 9-10 × 11-13 mm, inner 2 obovate, 6-7 × 3-3.5 mm, apex obtuse; stamens numerous; filaments 1-1.5 mm; anthers obovoid, ca. 1.2 mm, apex subemarginate. Pistillate flowers: pedicel 6-10 mm; tepals 3, outer 2 nearly oblate-orbicular, ca. 6 × 8 mm, inner narrowly obovate, ca. 5 × 2.5 mm, apex obtuse; styles 3, fused at base, ca. 1 mm; ovary glabrous, 3-loculed at middle to lower part, placentation septal (parietal toward summit of ovary). Capsule nodding, ovoid, 7-10 × 5-7 mm, glabrous, unequally 3-winged; abaxial wing lunate or suborbicular, ca. 5 mm. Fl. Apr.
+
+> ● On limestone rocks in forests; ca. 800 m. Guangxi (Du’an).

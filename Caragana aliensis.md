@@ -1,0 +1,7 @@
+阿里锦鸡儿",
+16.**Caragana aliensis** Y. Z. Zhao Kew Bull. 63: 345. 2008.",
+
+## Description
+Shrubs. Bark gray-brown; branches short and crowded together, cinereous. Stipules rufous, ovate, membranous, densely fulvous villous. Leaves paripinnate, 8-10-foliolate; rachis per-sistent, rigid to springy, 2-4 cm; leaflet blades yellow-ish green, elliptic-obovate, 6-10 × 3-5 mm, both surfaces densely fulvous villous, apex blunt. Flowers solitary, sessile. Calyx campanulate, ca. 1.7 × 0.7 cm, densely fulvous villous; lobes triangular, ca. 6 mm. Corolla yellow; standard ca. 2.7 cm, limb nearly orbicular ca. 1.8 cm in diam., gradually narrowed at base to claw; wings ca. 2.6 cm, wider in upper part, claw ca. 1/2 as long as limb, auricle short, linear, incurved, ca. 1 mm; keel ca. 2.4 cm, claw slightly shorter than limb, auricle short, tooth-like. Ovary densely fulvous villous outside, glabrous inside. Legume unknown.
+  "Reference": "*Caragana aliensis* seems to be related to *C. aegacanthoides*, but whether the former species should be recognized or not requires further study. This treatment is based on the protologue; we have not seen the type specimen (at NWBI).*Caragana aliensis* seems to be related to *C. aegacanthoides*, but whether the former species should be recognized or not requires further study. This treatment is based on the protologue; we have not seen the type specimen (at NWBI).
+  "Statistics": "● Hillsides. Xizang (Zanda).

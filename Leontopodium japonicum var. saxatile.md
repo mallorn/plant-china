@@ -1,0 +1,6 @@
+岩生薄雪火绒草",
+14c.**Leontopodium japonicum var. saxatile** Y. S. Chen Fl. China. 20-21: 783. 2011.",
+
+> Type: China. Zhejiang: Lin’an Xian, Changhua, Longtang Shan, Qingliang Feng, on rocks, alt. 1750 m, 8 Sep 1959, *Zhejiang Plant Resources Expedition 29803* (holotype, PE).
+  "Statistics": "Paratypes: Anhui: Huang Shan, on rocks, *Anonymous s.n.* (PE-00503277). Zhejiang: Lin’an Xian, Changhua, Longtang Shan, *Zhejiang Plant Resources Expedition 29703* (PE); Tiantai Xian, Tiantai Shan, 5 Oct 1921, *K. K. Tsoong 3940* (PE).Stems somewhat slender, 1-2 mm in diam., densely leafy throughout; internodes 4-8 mm. Leaves ovate to oblong-ovate, 20-30 × 6-11 mm, apex acute. Capitula arranged in dense corymbs, 3.5-4.5 mm in diam.; bracteal leaves ovate, 10-12 × 5-7 mm. Fl. Aug-Sep, fr. Sep-Oct.● Open rocks; 1000-1800 m. S Anhui (Huang Shan), Zhejiang (Lin’an, Tiantai).
+  "Synonym": "*Haec varietas a *Leontopodio japonico *var. *japonico* caulibus subgracilibus 1-2 mm in diametro omnino dense foliatis, internodiis 4-8 mm longis, foliis ovatis usque oblongo-ovatis 20-30 mm longis 6-11 mm latis, capitulis in corymbos densos dispositis atque foliis bractealibus ovatis 10-12 mm longis 5-7 mm latis differt.*

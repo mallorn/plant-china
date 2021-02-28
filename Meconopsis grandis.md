@@ -1,0 +1,13 @@
+大花绿绒蒿",
+10.**Meconopsis grandis** Prain J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 64: 320. 1895.",
+
+## Description
+Herbs, perennial. Taproot narrowly radishlike or fibrous; rootstock shortly branched, rubiginous villous. Stems erect, 40-120 cm tall, stout, sparsely extended or slightly deflexed setose. Basal leaves: petiole 10-17 cm, sparsely brown barbellate-villous, basally with ampliate sheath; blade pale green abaxially, green adaxially, narrowly oblanceolate to lanceolate-oblong or elliptic-oblong, 15-26 × 5-8.4 cm, both surfaces brown barbellate-pilose, midvein broad, lateral veins distinct, base attenuate into petiole, margin distantly irregularly serrate or broadly crenate, apex acute or nearly acute. Lower cauline leaves similar to basal leaves, but upper cauline leaves increasingly smaller, uppermost 3-5-pseudoverticillate, sessile. Flowers rarely more than 3, from upper leaf whorl, very rarely from lower cauline axils. Pedicel to 45 cm at fruiting. Flowers nutant, large. Petals 4, rarely 5, blue, purple, or lilac-purple, nearly orbicular or broadly obovate, 6.2-8 × 4.8-7.6 cm. Filaments white, filiform, 7-15 mm; anthers orange or yellow, oblong, 1-2 mm. Ovary green, ovoid or oblong, glabrous or densely pilose; styles 7-10 mm; stigmas green, clavate, 4-6-lobed. Capsule elliptic-oblong, 2.8-4.4 × 1.2-1.5 cm, 4-6-valvate from apex for a short distance. Seeds reniform, seed coat longitudinally shallowly pitted. Fl. Jun-Aug.
+  "Statistics": "Understories of *Picea* forests, forest margins, among shrubs on slopes; 3000-4100 m. SC Xizang [Bhutan, NE India, E and W Nepal].
+**9.大花绿绒蒿(中国植物学杂志)**
+
+Meconopsis grandis Prain in Journ. As. Soc. Bengal 64, 2: 320. 1895；Fedde in Engl. Pflanzenr. 4: 263. 1909; Prain in Bull. Misc. Inf. Kew 1915: 167. 1915; Kingdon-Ward in Gard. Chron., Ser. 3, 79: 439. 1926; Stapf. in Curtis Bot. Mag. 146: t. 9304. 1933；Tayl. Monogr. 68. 1934; Hara in Fl. E. Him. 3: 43. 1975; T. C. Whitmore in Hara et al. Enum. Fl. Pl. Nepal 2: 37. 1979; C. Y. Wu et H. Chuang in Act. Bot. Yunn. 2 (4): 374. 1980;中国高等植物图鉴补编1: 648. 1982, in clavi；西藏植物志2: 230, 图77: 3-4. 1985；H. Koba et al., Name List Fl. Pl. Gymnosp. Nepal 317. 1994.
+
+多年生草本。主根狭萝卜状或纤维状根系；根茎短，盖以残枯的叶基，其上密被锈色、具多短分枝的长柔毛。茎直立, 粗壮，高40-120厘米，疏被伸展或稍反曲的刚毛。基生叶狭倒披针形至披针状长圆形或椭圆状长圆形，长15-20厘米，宽5-6厘米，先端急尖或近急尖．基部渐狭而入叶柄，边缘具疏离、不规则的锯齿或宽圆齿，两面被棕色、具多短分枝的柔毛，表面绿色，背面淡绿色，中脉宽，侧脉明显，叶柄长10-17厘米，被棕色、具多短分枝的长柔毛，基部扩大成鞘；下部茎生叶同基生叶，上部茎生叶较小．丛生成假轮生状，无柄。花通常不超过3朵，生于最上部假轮生状叶腋内．稀生于下部茎生叶腋内（栽培者生于基生花葶上）；花梗果时达45厘米。花大，下垂；花瓣4（有时达9)，近圆形或宽倒卵形，长约6.8厘米，宽约6.2厘米，紫色或蓝色；花丝丝状，长0.7-1.5厘米, 白色，花药长圆形，长1-2毫米, 橙黄色；子房卵珠形或长圆形，绿色，无毛或密被毛, 花柱长7-10毫米，柱头棒状，4-6圆裂绿色。蒴果狭椭圆状长圆形，自顶端4-6微裂。种子肾形，种皮具浅纵凹痕。花果期6-9月。
+
+产西藏中南部（林芝、米林、错那、亚东、定结），生于海拔3000-5100米的冷杉林下、林缘或山坡灌丛中。不丹、锡金、尼泊尔西部有分布。

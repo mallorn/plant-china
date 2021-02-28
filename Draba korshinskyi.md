@@ -1,0 +1,10 @@
+科氏葶苈",
+36.**Draba korshinskyi** (O. Fedtschenko) Pohle",
+
+> The first record of &lt;I&gt;Draba korshinskyi&lt;/I&gt; from Xizang was made by Hedge (Fl. Iran. 57: 181. 1968) and later confirmed by Tolmachev and Junussov (Fl. Tajik. 5: 194. 1978). The above first record from Xinjiang is based on Qinghai-Xizang Team 870482 (HNWP, KUN) and Xinjiang Team 1368 (WUK).
+
+## Description
+Herbs perennial, 1-8(-12) cm tall, densely cespitose, scapose. Caudex many branched, ultimate branches terminated in rosettes and covered with papery leaf remains of previous years. Stems erect, slender, simple, glabrous throughout, sometimes sparsely pubescent proximally with minute, forked or stellate trichomes. Basal leaves densely rosulate, persistent, sessile; leaf blade linear to narrowly oblong, 2-8 × 0.5-1(-1.5) mm, abaxially tomentose with short-stalked or subsessile, stellate trichomes mixed with fewer simple ones, adaxially glabrous or sparsely tomentose distally with branched and simple trichomes, sometimes ciliate with soft simple trichomes rarely to 0.5 mm, base subobtuse, margin entire, apex obtuse to acute; midvein obscure or prominent abaxially rarely to apex, much narrower than blade on each side. Cauline leaves absent. Racemes 3-18(-25)-flowered, ebracteate, elongated in fruit. Fruiting pedicels 2-6 mm, ascending, straight or slightly curved, glabrous, slender. Sepals oblong, 1.5-2 × 0.8-1.1 mm, erect, glabrous or abaxially tomentose with branched trichomes, base of lateral pair not saccate, margin narrowly membranous. Petals yellow, narrowly obovate, 2.5-4 × 1-1.5 mm, apex subemarginate. Filaments 1.5-2.5 mm; anthers ovate, 0.2-0.4 mm. Ovules 8-12 per ovary. Fruit ovoid to subglobose, 2-4 × 2-3 mm, inflated, not twisted; valves glabrous, obscurely veined, base semicordate, apex acute; style 0.2-0.4 mm. Seeds brown, ovate, 1-1.2 × 0.6-0.7 mm. Fl. Jun-Jul, fr. Jul-Aug.
+
+> Stony grounds; 3900-5100 m. Xinjiang, Xizang [Afghanistan, Kashmir, Pakistan, Tajikistan].
+  "Synonym": "&lt;I&gt;Draba alpina&lt;/I&gt; Linnaeus var. &lt;I&gt;korshinskyi&lt;/I&gt; O. Fedtschenko, Trudy Imp. S.-Peterburgsk. Bot. Sada 21: 266. 1903.

@@ -1,0 +1,15 @@
+大金紫堇",
+45.**Corydalis dajingensis** C. Y. Wu & Z. Y. Su Acta Bot. Yunnan. 4: 4. 1982.",
+
+## Description
+Herbs, perennial, glaucous. Tuber vertical, 3-10 × 0.5-1 cm, branched below, sometimes splitting with age; roots mainly at tips of tuber branches. Stems 1 or few from each tuber, branched and leafy throughout; underground parts of stems meandering, pale, soft, 5-40 cm; aboveground stems green to reddish, 5-10(-15) cm, often much branched, with 2-5 leaves; frequently forming a loose cushion. Leaves fleshy, long petiolate; blade glaucous abaxially, green or glaucous adaxially, orbicular to oblong in outline, 2-6 × 1-5 cm, ternate to pinnate with 1 or 2(or 3) pairs of leaflets, glabrous or papillose-scabrid along veins and margin (papillose margin sometimes distinctly purplish); terminal leaflet 1-3 × 1-3 cm, shortly petiolate, lateral ones usually smaller, sessile; leaflets entire or usually cut into obovate obtuse lobes. Raceme corymbose, 3-10-flowered, shortly stalked; bracts narrowly obovate with long cuneate base, 10-50 × 3-8 mm, entire or coarsely dentate apically, or ± deeply cut into subacute lobes. Pedicel 2-6 cm, somewhat fleshy, at fruiting arcuately recurved. Flowers bluish to reddish purple or white; inner petals pale. Sepals peltate, 1-2 mm, much dentate, rounded. Outer petals ± crested, limb with prominent lateral lobes; upper petal 15-20(-22) mm; spur almost straight or often strongly downcurved, cylindric, 6-13 mm; nectary ca. 2/3 as long as spur; inner petals 7-8 mm, with low crests. Stigma compressed, broadly rectangular, with 4 apical papillae and lateral and basal geminate papillae. Capsule often oblong, 5-10 × ca. 3 mm, 4-9-seeded; style ca. 3 mm. Seeds black, shiny, obscurely colliculate, ca. 2 mm, with lobed elaiosome clinging to seed. Fl. and fr. Jun-Sep.
+  "Reference": "This species is sometimes divided according to leaf division, flower size, and spur length, but the variation is reticulate.This species is sometimes divided according to leaf division, flower size, and spur length, but the variation is reticulate.
+  "Statistics": "● Alpine scree, stone crevices; (3500-)3900-5000 m. N and W Sichuan, E Xizang.
+  "Synonym": "*Corydalis cristata* Maximowicz var. *pseudoflaccida* Fedde; *C. geocarpa* Harry Smith ex Lidén; *C. tuberipisiformis* Z. Y. Su.
+**218.大金紫堇（云南植物研究）**
+
+Corydalis dajingensis C. Y. Wu et Z. Y. Su in Act. Bot. Yunnan. 4 (1): 4, f. 1, 1-7. 1982;横断山区维管植物，上册：605. 1993. ——C. cristata var. pseudoflaccida Fedde in Fedde Repert. 22: 28. 1926.
+
+主根未见。茎长10-25厘米，地下部分具少数鳞片，地上部分具3-5叶，分枝。叶具长柄和三小叶，叶柄基部多少鞘状，小叶稍肉质，上面绿色，下面苍白色，宽卵圆形，顶生的长1-3厘米，宽6-18毫米，具短柄，侧生的较小，无柄，全部2-3裂，稀全缘。总状花序伞房状，具2-6 (-10)花，花序轴不明显（约长5-15毫米）。苞片披针形，长1-1.5厘米，宽2-6毫米，近总苞状排列。花梗纤细，长1.5-2厘米，果期长达3-4厘米，弧形下弯。花紫红色，先直立，后平展，顶端着色较深。萼片近圆形，长约1-1.5毫米，具齿。外花瓣具鸡冠状突起，瓣片侧面弧形下凹，十分类似裂瓣紫堇。上花瓣长1.2-1.5厘米；距圆筒形，约与瓣片等长，直或末端多少弯曲；蜜腺体约占距长的2/3，纤细，末端渐尖。下花瓣稍前伸，直或瓣片下弯，近基缢缩。内花瓣长7-8毫米，顶端暗紫色。柱头头状，顶生4乳突。蒴果卵圆形，长5-8毫米，宽约3毫米，具3-5种子和长3-4毫米的花柱，自弯曲的果梗顶端反折。
+
+产四川北部（金川、马尔康）和西部（康定、理县），生于海拔4100米左右的高山流石滩。模式标本采自四川金川。

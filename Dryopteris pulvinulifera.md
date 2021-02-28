@@ -1,0 +1,15 @@
+肿足鳞毛蕨",
+91.**Dryopteris pulvinulifera** (Beddome) Kuntze Revis. Gen. Pl. 2: 213. 1891.",
+
+## Description
+Plants up to 90 cm tall. Rhizome creeping, densely clothed with linear-lanceolate, bright golden scales. Fronds caespitose; stipe stramineous, 25-30 cm, base densely scaly; scales bright golden, narrowly lanceolate; lamina deltoid-lanceolate, 40-60 cm, widest at base, ca. 40 cm wide, lower part quadripinnate, upper part tripinnate, apex acuminate; pinnae 10-18 pairs, usually overlapping, 1 or 2 basal pairs deltoid-lanceolate, ca. 20 × 14 cm, widest at base, stalk ca. 6 mm, apex acuminate; pinnules 12-14 pairs, lanceolate, base oblique, cuneate, shortly stalked, apex acuminate, basal basiscopic ones longest, up to 9 × 1.5-2 cm, widest at base, bipinnatipartite or bipinnatifid, tertiary segments 8-10 pairs, oblique, approximate, oblong or subfalcate, base oblique, apex obtuse, basal one pinnatipartite, adjacent one above lobed, apex acute; secondary pinnae oblong, pinnate or pinnatipartite, base cuneate, sessile, apex obtuse-acute, tertiary segments entire, rarely incised. Lamina: rachis and costa with few brownish black, subulate, small scales abaxially; veins pinnate, obscure adaxially, conspicuous abaxially. Sori terminating veinlets, in 1 regular row on each side of costa; indusia orbicular-reniform, thin, persistent.
+
+> Evergreen broad-leaved forests; 2200-2700 m. NW Yunnan (Gongshan) [Bhutan, India, Nepal, Philippines, Sri Lanka].
+  "Synonym": "*Lastrea pulvinulifera* Beddome, Ferns Brit. India 2: 333. 1870; *Dryopteris harae* H. Itô; *L. pulvinulifera* var. *zeylanica* Beddome; *L. sparsa* (D. Don) T. Moore var. *zeylanica* (Beddome) Beddome; *Nephrodium pulvinuliferum* (Beddome) Baker; *N. sparsum* D. Don var. *squamulosum* C. B. Clarke.
+**89. 肿足鳞毛蕨（横断山区维管植物）　图版30: 1-3**
+
+Dryopteris pulvinulifera (Bedd.) O. Ktze. in Rev. Gen. Pl. 2: 813. 1891: C. Chr. Ind. Fil. 237. 1905; Ching in Bull. Fan Mem. Inst. Biol. Bot. 8: 466. 1938; Fraser-Jenk-ins in Bull. Br. Mus. Nat. Hist. Bot. 18(5):　434. fig. 55. 1989; 横断山区维管植物 上册 1: 131. 1983. ——Lastrea pulvinulifera Bedd. Ferns Brit. India 2: 333. pl. 333. 1870. ——Nephrodiuim pulvinuliferum (Bedd.) Bak. in Hook. ＆ Bak. Syn, Fil. ed. 2: 500. 1874. ——Lastrea pulvinulifera var. zeylanica Bedd. Suppl. Ferns S. India 17. 1876. ——Nephrodium sparsum var. squamulosum C. B. Clarke in Trans Linn. Soc. II Bot. 1: 524. 1880. ——Dryopteris harae H. Ito in Hara Fl. E. Himalay 476. Pl. 26. 1966.
+
+植株高约90厘米。根状茎横卧，密被亮金黄色线状披针形的鳞片。叶簇生；叶柄禾秆色，长25-30厘米，基部密被狭披针形、亮金黄色鳞片外，近光滑；叶片三角状披针形，长40-60厘米，先端渐尖，基部最宽，约40厘米，下部四回羽裂，上部三回羽裂；羽片10-18对，彼此常叠接，叶片基部1-2对羽片三角状披针形，长约20厘米，基部宽约14厘米，先端渐尖，基部具0.6厘米短柄，三回羽状浅裂；二回小羽片12-14对，披针形，先端渐尖，基部偏斜，楔形，具短柄，羽轴下侧基部羽片最长，长可达9厘米，基部宽达1.5-2厘米，二回羽状深裂或半裂；三回羽片8-10对，斜展，彼此以狭间隔分开，长圆形或近镰刀形，圆钝头，基部偏斜，基部羽状深裂，基部以上浅裂，裂片先端具尖头；叶片中部以上羽片三回羽状或三回羽状深裂，二回羽片长圆形，钝尖头，基部楔形，无柄，羽状或羽状深裂，三回小羽片全缘或偶有缺刻。叶轴及各回羽轴背面疏具褐黑色、钻形小鳞片。叶脉羽状，上面不显，背面显著，孢子囊群圆形，生于小脉先端，在中肋两侧各排成整齐一行，孢子囊群盖圆肾形，质薄，宿存。
+
+产云南西北部（贡山）。生常绿阔叶林下，海拔2200-2700米。印度、斯里兰卡、尼泊尔、不丹、菲律宾也有。模式标本采自锡金。

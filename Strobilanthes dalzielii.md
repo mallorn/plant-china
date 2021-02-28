@@ -1,0 +1,12 @@
+曲枝马蓝
+39.**Strobilanthes dalzielii** (W. W. Smith) Benoist in Lecomte Fl. Indo-Chine. 4: 679. 1935.
+
+## Description
+Subshrubs or perennial herbs, 40-100 cm tall, branched, strongly anisophyllous. Stems slender, erect, zigzag, slightly pubescent to subglabrous. Petiole 0-3 mm; leaf blade ovate to ovate-lanceolate, smaller of pair 2-5 × 1-2 cm and larger one 9-14 × 3-5 cm, abaxially glaucous and glabrous or sparsely pubescent along veins, adaxially green, glabrous, and with prominent cystoliths, secondary veins 3-5 on each side of midvein, base rounded but cordate for apical leaves, margin serrate, apex acuminate to acute and sometimes falcate. Inflorescences axillary or terminal, spikes, 2-5 cm, 2-5-flowered; rachis usually zigzag, sparsely white puberulent; bracts linear-lanceolate, ca. 3 × 1 mm, glabrous, 1-veined; bracteoles linear, ca. 5 × 1 mm, glabrous or puberulent with gland-tipped trichomes. Flowers distant on rachis, solitary, not paired. Calyx ca. 1 cm, densely white pilose at base and along midvein, 5-lobed almost to base; lobes linear, apex finely acuminate. Corolla purplish blue or white, 3.5-4.5 cm, curved, outside densely white pilose in bud, inside glabrous except for trichomes retaining style; tube basally cylindric and ca. 2 mm wide for ca. 1 cm then ventricose and gradually widened to 1-1.5 cm at mouth; lobes suborbicular, ca. 8 mm in diam. Stamens 4, slightly exserted; filaments hirsute, shorter pair ca. 5 mm, longer pair ca. 8 mm; anther thecae oblong, ca. 2 mm; pollen type 13. Ovary glabrous; style ca. 3.2 cm, pilose. Capsule linear-oblong, 1.8-2.2 cm, compressed, glabrous, 4-seeded, apex apiculate. Seeds ovate in outline, ca. 2 × 2 mm, densely appressed tomentose; areola very small. Fl. Oct-Jan.
+
+  "Reference": "The strongly anisophyllous subsessile leaves combined with the densely pubescent buds make *Strobilanthes dalzielii* very distinct.The strongly anisophyllous subsessile leaves combined with the densely pubescent buds make *Strobilanthes dalzielii* very distinct.
+
+  "Statistics": "By streams; 400-1200 m. Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hubei, Hunan, Jiangxi, Taiwan, Yunnan [Laos, Thailand, Vietnam].
+
+  "Synonym": "*Acanthopale dalzielii* W. W. Smith, Notes Roy. Bot. Gard. Edinburgh 11: 193. 1919; *Championella dalzielii* (W. W. Smith) Bremekamp; *C. dalzielii* var. *glabra* Benoist; *Pteroptychia dalzielii* (W. W. Smith) H. S. Lo; *Strobilanthes dalzielii* var. *inaequalis* Benoist.
+

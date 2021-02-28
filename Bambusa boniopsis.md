@@ -1,0 +1,17 @@
+妈竹",
+39.**Bambusa boniopsis** McClure",
+
+## Description
+Culms 3–6 m, 1–2.5 cm in diam., basally erect, apically suberect; internodes slightly curved or straight, 23–30 cm, initially thinly white powdery, glabrous; wall slightly thick; nodes flat, from mid-culm upward with a ring of white powder above sheath scar; branching from 3rd to 5th node up. Branches several to many, clustered, central dominant. Culm sheaths deciduous, rigid when dry, glabrous, apex slightly slanted outward and asymmetrically broadly arched; auricles unequal, minutely wrinkled, usually partly covered by blade base; larger auricle usually elliptic to broadly elliptic, 1–1.3 × 0.7–0.8 cm; smaller auricle usually elliptic, ca. 0.4 × 0.2 cm; oral setae very fine, curved; ligule ca. 1.5 mm, margin erose, very fine ciliolate; blade deciduous, erect, asymmetrically ovate-lanceolate, longer than sheath, abaxially initially thinly white powdery, glabrous, base rounded, swollen on one side, obviously narrower than sheath apex. Leaf blade linear-lanceolate, 10–16 × 1.4–2 cm, abaxially glaucous, densely pubescent, adaxially sparsely deciduously long hispid. Pseudospikelets solitary or in clusters of 2 or 3 at each node of flowering branches, linear or linear-lanceolate, 2–3 × 0.5–0.7 cm; prophylls 2-keeled; basal bracts gemmiferous; florets 3–7, middle 2 or 3 fertile; rachilla segments flat, 3–4 mm, apex thickened and cupular, hairy. Glumes 1, ovate-oblong, 6.5–7 mm, 11–13-veined, glabrous, acute; lemma with very small purple spots, oblong-lanceolate, 1.2–1.5 cm, glabrous, 17–19-veined, apex acute, mucronate; palea 1–1.2 cm, ciliate toward apex, 4-veined between and 3-veined on either side of keels, apex penicillate; lodicules 3; anterior 2 narrow and oblique, ca. 4 mm, margins long ciliate; posterior 1 nearly oblong, apex 3-toothed. Anthers yellow, ca. 4.5 mm, apex retuse. Ovary very broadly ovoid, stalked, apex thickened and hispidulous; style ca. 0.8 mm, hispidulous; stigmas 3, ca. 2 mm, plumose. Caryopsis initially obconiform, ca. 7 mm, apex hispidulous, style base persistent.
+
+> * Ravines, forests, around villages. Hainan.
+  "Synonym": "*Bambusa fecunda* McClure.
+**36.妈竹（广东）硬头黄竹（海南）图版23**
+
+Bambusa boniopsis McClure in Lingnan Univ. Sci. Bull. No. 9: 7. 1940; 海南植物志4: 355页. 1977;中国竹谱11页. 1988.——B. fecunda McClure in 1. c. No. 9: 9. 1940. syn. nov.; 海南植物志4: 356页. 图1169. 1977.
+
+竿高3-6米，直径1-2.5厘米，尾梢近直立，下部近于挺直；节间长23-30厘米，稍弯或通直，幼时薄被白蜡粉，无毛，竿壁较厚；节处不隆起，仅于竿中下部各节的箨环之上方环被一圈白色蜡粉；分枝常自竿基第三至五节开始，竿中部各节为数枝乃至多枝簇生，主枝略较粗长。箨鞘早落；背面无毛，幼时稍有白蜡粉，干时质硬，纵肋稍显，先端稍向外侧的那一边下斜，呈不对称的宽拱形；箨耳不相等，微有皱褶，常有部分为箨片的基部所掩盖，边缘具极细弱的卷曲短繸毛，大耳呈椭圆形至宽椭圆形，长10-13毫米，宽7-8毫米，小耳通常为椭圆形，长约4毫米，宽2毫米；箨舌高1.5毫米，边缘作啮蚀状，被极细的短纤毛，其毛长0.5毫米；箨片直立，易脱落，基部抱竿，呈不对称的卵状披针形，其长度常超过箨鞘，背面无毛，幼时薄被白蜡粉，腹面稍粗糙，先端渐尖，基部有偏向一侧的肿大，作近圆形收窄，其基底显然窄于箨鞘先端，边缘于中部以下被极短纤毛。叶鞘常无毛；叶耳倒卵状椭圆形至镰刀形，边缘具放射状繸毛多条；叶舌高0.5毫米，边缘微齿裂；叶片线状披针形，长10-16厘米，宽14-20毫米，上表面疏生长硬毛，以后变为无毛，下表面粉绿色，密生短柔毛，先端渐尖具钻状尖头，基部近圆形或宽楔形。假小穗单生或2或3枚簇生花枝各节，线形或线状披针形，长2-3厘米，宽5-7毫米；先出叶具2脊；苞片腋内具芽；小穗含4或5朵小花，只有中间2或3朵为两性；小穗轴节间体扁，长3-4毫米，顶端膨大呈漏斗状，边缘被微毛；颖1片，卵状长圆形，长6.5-7毫米，无毛，具11-13脉，先端急尖；外稃长圆状披针形，长12-15毫米，无毛，背面具极小的紫色斑点，具17-19脉，近顶端的脉间还具小横脉，先端急尖具短尖头；内稃较窄，长10-12毫米，具2脊，脊近顶端被以短纤毛，脊间4脉，其脉间也有小横脉，脊外每边3脉，顶端具画笔状毛；鳞被3，边缘被长纤毛，前方2片较窄而偏斜，长14毫米，后方1片近长圆形，长3毫米，顶端具3齿，花药黄色，长4.5毫米，顶端微凹；子房宽卵球状，具柄（长约1毫米，具3棱），顶端增厚而被短硬毛，花柱长0.8毫米，被短硬毛，柱头3，长2毫米，羽毛状。颖果幼时倒圆锥状，长约7毫米，顶部被短硬毛，并有残留柱头。
+
+产海南。多生于水溪边、山地林下或村落附近。模式标本采自海南陵水。
+
+经过详细观察妈竹B. boniopsis McClure和B. fecunda McClure的活模式标本(Living type，前者为中山大学竹园号BG 2454,后者为BG 1989)，并对照F. A. McClure的原始描述加以分析研究，很难以找出这两种的区分特征，因此将它们作为同物异名处理。

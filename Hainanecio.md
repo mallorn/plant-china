@@ -1,0 +1,8 @@
+海南菊属",
+114.**Hainanecio** Y. Liu & Q. E. Yang Bot. Stud. 52: 117. 2011.",
+
+> ● One species: China.
+
+## Description
+Herbs, perennial. Rhizomes thickened. Leaves rosulate, long petiolate; blade ovate to obovate, pinnately veined. Capitula solitary, terminal. Involucres hemispheric, ecalyculate; phyllaries ca. 13, lanceolate, apex acuminate. Ray florets ca. 13; lamina white, elliptic-oblong, apex acuminate, often 2-denticulate. Disk florets many; corolla white. Anthers rounded at base; apical appendage ovoid with abaxial cells obviously enlarged; endothecial cell wall thickenings polar and radial. Antheropodia cylindric. Pollen grains triporate, helianthoid. Style branches truncate. Achenes obovoid. Pappus absent. *x* = 29*.
+  "Reference": "The genus has polar and radial endothecial cell wall thickenings, cylindric antheropodia, and a basic chromosome number of *x* = 29, all of which are characteristic of subtribe Tussilagininae. Nevertheless, recent molecular data suggest a position within subtribe Senecioninae and a relationship to the Macaronesian genus *Pericallis*, which shares some unusual characters with *Hainanecio* such as the non-yellow florets and the helianthoid pollen.The genus has polar and radial endothecial cell wall thickenings, cylindric antheropodia, and a basic chromosome number of *x* = 29, all of which are characteristic of subtribe Tussilagininae. Nevertheless, recent molecular data suggest a position within subtribe Senecioninae and a relationship to the Macaronesian genus *Pericallis*, which shares some unusual characters with *Hainanecio* such as the non-yellow florets and the helianthoid pollen.

@@ -1,0 +1,9 @@
+栗豆藤",
+1.**Agelaea trinervis** (Llanos) Merrill",
+
+## Description
+Lianas or climbing shrubs. Stems ca. 5 cm thick; branchlets hairy when young, glabrous when mature. Leaves 3-foliolate; petiole 2.5–7 cm; petiolules glabrous, lateral ones ca. 1 cm; terminal leaflet blade ovate or elliptic, 6–10 × 3–4.5 cm, base subrounded, apex acuminate; lateral leaflet blades ovate, 5–7 × 2–4 cm, base rounded and slightly asymmetric; all leaflet blades leathery, initially minutely tomentose abaxially, later glabrescent, glabrous adaxially, lateral veins 4–6-paired, usually with 1 pair at base (so base appearing 3-veined), all veins slightly prominent abaxially. Panicles axillary, dense, 2–3(–6) cm; rachis and pedicels grayish tomentose. Flowers 4–6 mm in diam., fragrant. Sepals ovate-lanceolate, 1.3–2 mm, softly gray hairy abaxially. Petals white, oblong-oblanceolate, 4–5 mm, glabrous. Stamens ca. 10, glabrous. Carpels 4 or 5; ovary hirsute. Style glabrous. Follicles few, obliquely obovoid, 1–2.5 × 0.5–1.2 cm, densely minutely tomentose, base slightly narrowed, apex obtuse and shortly beaked; pericarp rugulose or warty. Seed black, oblong or oblong-ovoid; aril yellow, covering 1/3–3/4 or more of seed surface.
+
+> Sparse forests.  Hainan [Cambodia, Indonesia, Laos, Malaysia, Philippines, Thailand, Vietnam].
+  "Synonym": "*Castanola trinervis* Llanos, Mem. Real Acad. Ci. Exact. Madrid, 2: 503. 1859; *Agelaea cambodiana* Pierre; *A. wallichii* J. D. Hooker; *Castanola glabrifolia* Schellenberg; *C. obliqua* Schellenberg.
+藤本或攀援灌木，茎粗至5厘米，无毛，嫩枝部分被草黄色短绒毛。叶具3小叶，革质，叶柄长2.5-7厘米，无毛；顶生小叶较侧生小叶大，卵形或椭圆形，长6-10厘米，宽3-4.5厘米，先端渐尖，基部略圆；侧生叶卵形，民5-7厘米，宽2-4厘米，基部圆形，不对称，全缘，上面无毛，下面中脉及侧脉突出，幼时背面稍被绒毛，成长时无毛，基部三出脉，侧脉每边4-6条，网脉不明显，小叶柄长0.5-1厘米。圆锥花序，腋生成簇，长2-6厘米，总梗和花梗被淡灰色绒毛；花直径4-6毫米，芳香；萼片卵状披针形，长1.3-2毫米，外面被灰色柔毛；花瓣白色，长圆状倒披针形，长５毫米，无毛；雄蕊10，比花瓣短；心皮4-5，子房具长硬毛，花柱无毛。果稍偏斜，倒卵形，有喙，长1-2.5厘米，宽0.5-1.2毫米，顶端圆钝，基部稍狭，果皮具皱纹或瘤状物，被密短绒毛。种子黑色长圆形，基部被黄色假种皮所包围。

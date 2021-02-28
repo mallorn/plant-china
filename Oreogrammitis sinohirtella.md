@@ -1,0 +1,6 @@
+隐脉滨禾蕨",
+7.**Oreogrammitis sinohirtella** Parris, sp. nov. sp. nov. <br><small>[**sp. nov.**]</small>",
+
+> Type: China. Guangdong: Tsung-hwa District, Cheung Uk village, Sam Kok Shan, 1-16 Mar 1935, *W. T. Tsang 24913* (holotype, E! [barcode 00194227]; isotype, LU).*Oreogrammitis sinohirtella* resembles *O. reinwardtii* in having the acroscopic vein branch very short and not extending beyond the sorus, but it differs in having the veins invisible. It differs from *O. hainanensis* in having a shorter stipe and lamina and mostly longer stipe hairs.Stipe 0.3-1.1 cm, with dense simple solitary pale to dark reddish brown hairs 0.2-1.8 mm; phyllopodia absent. Lamina narrowly elliptic to narrowly oblanceolate, 1.4-5.4 × 0.2-0.7 cm, gradually attenuate or cuneate to stipe, margin entire, apex obtuse to acute; midrib brown to dark brown, slightly prominent abaxially, sometimes slightly prominent adaxially; lateral veins hidden, 1-forked, acroscopic branch shorter than basiscopic branch, not extending beyond sorus, endings with hydathodes; hairs sparse to dense on all parts of lamina, simple, solitary, medium to dark reddish brown, 0.1-3.1 mm. Sori orbicular or elliptic, superficial, close to midrib. Sporangia setose.
+
+> Rupestral in mountain forests; 700-1400 m. ?Fujian, Guangdong, Guangxi, Guizhou, Hunan, ?Jiangxi, ?Zhejiang [Thailand, Vietnam].

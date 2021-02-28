@@ -1,0 +1,13 @@
+二柱薹草",
+497.**Carex lithophila** Turczaninow Bull. Soc. Imp. Naturalistes Moscou. 28: 328. 1855.",
+
+## Description
+Rhizome long creeping, subcylindric. Culms 10-60 cm tall, acutely trigonous, scabrous above, clothed with bladeless sheaths at base. Leaves shorter than culm, blades linear, 2-4 mm wide, flat, margins scabrous, apex acuminate. Involucral bracts glumelike. Spicate inflorescence cylindric or subconic, 2-5.5 × 0.7-1.5 cm, usually interrupted below; spikes 10-20, terminal and lower spikes female, middle and upper ones male or androgynous (or entirely female), ovate, 5-9 × 2-3 mm; female spikes broadly ovate, 7-10 × 5-7 mm. Female glumes pale ferruginous-brown, ovate-lanceolate or oblong-ovate, ca. 3.5 mm, margins white hyaline, apex acute. Utricles stramineous, longer than glume, broadly ovate, plano-convex, 3.5-4 × 1.8-2 mm, thinly membranous, spongy, slender, several veined on both faces, base rounded, upper margins serrulate winged, apex abruptly contracted into a beak, orifice 2-toothed. Nutlets yellow-brown, loosely enveloped, elliptic or oblong, plano-convex, 1.5-1.8 mm, base shortly stipitate; style base slightly thickened; stigmas 2. Fl. and fr. May-Jun.
+  "Statistics": "Swamps, riverbanks, meadows; 100-700(-1700) m. Gansu, Hebei, Heilongjiang, Jilin, Liaoning, Nei Mongol, Shaanxi, Shandong, Shanxi, Xinjiang [Japan, Korea, Mongolia, Russia (Far East, E Siberia)].
+**459. 二柱薹草（东北草本植物志） 卵囊薹草（中国高等植物图鉴）**
+
+Carex lithophila Turcz. in Bull. Soc. Nat. Moscou 28 (1): 328, 1855; V. Krecz. in Kom., Fl. URSS 3: 130, 1935; Ohwi, Cyper. Japon. 1: 241, 1936; Kitag., Lineam. Fl. Mansh. 105, 1939; Akiyama, Caric. Far East. Reg. Asia 49, Pl. 13, 1955; Egorora, Caric. URSS Subgen. Vignea Sp. 94, fig. 9 (8), 1966; 东北草本植物志11: 186, 图版84, 图7-11, 1976; 内蒙古植物志8: 56, 图版22, 图6-9, 1985; 中国高等植物图鉴5: 271, 图7371, 1976; 秦岭植物志1 (1): 236, 图197, 1976.——C. intermedia, auct. non Good.: Kom. Fl. Mansh. 1: 136, 1901; Kukenth. in Engl., Pflanzenr. Heft 38 (IV. 20): 135, 1909 ex parte——C. mongolica Bar. et Skv. ex Liou et al., Clar. Pl. Chin. Bor. -orient. 510, t. 186, fig. 7, 1959 (nom. seminud. pl. morbida).
+
+根状茎长而匍匐，近圆柱形，被黑褐色鳞片状鞘。秆高10-60厘米，宽1-2毫米，直立，上部粗糙，下部平滑，基部具无叶片的叶鞘。叶短于秆，宽2-4毫米，平张，稍内卷，边缘粗糙，先端渐尖。苞片鳞片状。小穗10-20个，雄小穗披针形，长5-9毫米，宽2-3毫米；雌小穗宽卵形，长7-10毫米，宽5-7毫米；穗状花序圆柱形或近圆锥形，长2-5.5厘米，宽7-15毫米，下部常间断，上部及下部小穗雌性，中部和中上部为雄性，有时小穗为雄雌顺序。雄花鳞片长圆形，先端渐尖，长3.5毫米，淡锈色；雌花鳞片卵状披针形或长圆状卵形，顶端锐尖，长约3.5毫米，淡锈褐色，边缘白色膜质。果囊长于鳞片，宽卵形，平凸状，长3.5-4毫米，宽1.8-2毫米，近膜质，淡黄褐色，平喙，背面有9-11条脉，腹面有4-7条脉，边缘有窄翅，中部以上边缘具细齿，里面周围具海绵质，基部圆形，具短柄，先端明显收缩为喙，喙直立，扁平，喙口2齿裂。小坚果稍松地包于果囊中，椭圆形或长圆状卵形，平凸状，长1.5-1.8毫米，淡黄褐色，基部具短柄，顶端近圆形，具小尖头；花柱基部稍膨大，柱头2个。花果期5-6月。
+
+产黑龙江、吉林、辽宁、内蒙古、河北、山西、陕西、甘肃、山东；生于沼泽、河岸湿地或草甸上，海拔100-700米。分布俄罗斯（东西伯利亚、远东地区）、蒙古、朝鲜、日本。模式标本采自俄罗斯贝加尔湖沿岸。

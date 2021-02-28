@@ -1,0 +1,17 @@
+日本落叶松",
+11.**Larix kaempferi** (Lambert) Carrière",
+
+> Cultivated. Hebei, Heilongjiang, Henan, Jiangxi, Jilin, Liaoning, Shandong [Japan].
+
+## Description
+Trees to 35(-40) m tall; trunk to 1.5 m d.b.h.; crown broadly pyramidal, dense; long branchlets light yellow or light reddish brown, glaucous, initially pale brownish pub-escent, turning\nglabrous and grayish brown or blackish brown in 2nd year; short branchlets bearing rings of scale remnants; leaf cushions sparsely pilose. Leaves linear-oblanceolate, 1-2.5 cm × 0.7-1.1\nmm, inconspicuously keeled abaxially, apex obtuse. Seed cones terminal, violet, maturing orange-brown tinged with purple, finally gray-brown, ovoid-globose, 1.5-3.5 × 1.5-2.5 cm. Seed\nscales 30-40, suborbicular, 1-1.3 × 1-1.3 cm, glabrous, margin sometimes undulate, apex entire or emar- &lt;p&gt;ginate, usually strongly recurved. Bracts included, ligulate, ca. 1/2 as long as seed scales. Seeds brownish white mottled with red, ovoid-cuneate, slightly flattened, ca. 4 × 3 mm; wing\nreddish yellow tinged with brown, ovate-oblong, ca. 8 × 4 mm.
+
+> Cultivated. Hebei, Heilongjiang, Henan, Jiangxi, Jilin, Liaoning, Shandong [Japan].
+  "Synonym": "&lt;I&gt;Pinus kaempferi&lt;/I&gt; Lambert, Descr. Pinus 2: [Pref.] v. 1824; &lt;I&gt;Larix leptolepis&lt;/I&gt; (Siebold &amp; Zuccarini) Gordon; &lt;I&gt;L. leptolepis&lt;/I&gt; var. &lt;I&gt;louchanensis&lt;/I&gt; Ferre &amp; Augere.
+**12. 日本落叶松（经济植物手册）　图版44: 9-15**
+
+Larix kaempferi (Lamb.) Carr. in Fl. des. Serr. 11: 97. 1856; Sarg. Silva N. Am. 12: 2. 1898; Rehd. Man. Cult. Trees and Shrubs 51. 1927; Dstenf. and Syrach. L. in Biol. Meddel. Dansk Vidensk. Salsk. 9(2): 32. f. 10-11. 1930; 竹内亮, 中国东北裸子植物研究资料 56. 图版10. 图1-5. 1958; Moore in Baileya 13(3): 134. 1956; Dallimore and Jackson, rev. Harrison, Handb. Conif. and Ginkgo. ed. 4. 304. f. 62 h-i. 1966. ——Pinus kaempferi Lamb. Descr. Gen. Pinus 2: 5. 1824. ——Abies. kaempferi Lindl. Penny Cycl. 1: 34. 1833. ——Abies leptolepis Sieb. et Zucc. Fl. Jap. 2: 12. t. 105. 1842. ——Larix japonica Hort. ex Endl. Syn. Conif. 130. 1847, pro syn.; Carr. Traite Conif. 272. 1855. ——Larix leptolepis (Sieb. et Zucc.) Gord. Pinet. 128. 1858, ed. 2. 173. 1875; Mast. in Journ. Linn. Soc. Bot. 18: 522. 1881, et in Gard. Chron. n. ser. 19: 88. f. 13. 1883; Kent, Veitch's Man. Conif. ed. 2. 397. f. 102. 1900; Beissn. Handb. Nadelh. ed. 2. 307. f. 72. 1909, Beissn. u. Fitsch. ibidem ed. 3. 294. f. 49. 1930; Clinton-Baker, Illustr. Conif. 2: 58. cum tab. 1909; Rehd. Man. Cult. Trees and Shrubs ed. 2. 32. 1940, et Bibliogr. 29. 1949; Dallimore and Jackson, Handb. Conif. ed. 3. 362. f. 66 h-i. 1948; 郑万钧等, 中国树木学 1: 176. 图76 (1-6). 1961; Ohwi, Fl. Japan 114. 1965; Gaussen, Gymnosp. 509. 519. 523. 1966; Bobr. in Novit. Syst. Pl. Vascul. 9: 7. 1972.
+
+乔木，高达30米，胸径1米；树皮暗褐色，纵裂粗糙，成鳞片状脱落；枝平展，树冠塔形；幼枝有淡褐色柔毛，后渐脱落，一年生长枝淡黄色或淡红褐色，有白粉，直径约1.5毫米，二、三年生枝灰褐色或黑褐色；短枝上历年叶枕形成的环痕特别明显，直径2-5毫米，顶端叶枕之间有疏生柔毛；冬芽紫褐色，顶芽近球形，基部芽鳞三角形，先端具长尖头，边缘有睫毛。叶倒披针状条形，长1.5-3.5厘米，宽1-2毫米，先端微尖或钝，上面稍平，下面中脉隆起，两面均有气孔线，尤以下面多而明显，通常5-8条。雄球花淡褐黄色，卵圆形，长6-8毫米，径约5毫采；雌球花紫红色，苞鳞反曲，有白粉，先端三裂，中裂急尖。球果卵圆形或圆柱状卵形，熟时黄褐色，长2-3.5厘米，径1.8-2.8厘米，种鳞46-65枚，上部边缘波状，显著地向外反曲，背面具褐色瘤状突起和短粗毛；中部种鳞卵状矩圆形或卵方形，长1.2-1.5厘米，宽约1厘米，基部较宽，先端平截微凹；苞鳞紫红色，窄矩圆形，长7-10毫米，基部稍宽，上部微窄，先端三裂，中肋延长成尾状长尖，不露出；种子倒卵圆形，长3-4毫米，径约2.5毫米，种翅上部三角状，中部较宽，种子连翅长1.1-1.4厘米。花期4-5月，球果10月成熟。
+
+原产日本。我国黑龙江（牡丹江地区的青山）、吉林（安国、春化、土们岭、威虎岭）、辽宁（丹东、本溪、风诚、桓仁、抚顺、旅顺）、河北（北戴河）、山东（劳山、塔山）、河南（鸡公山）、江西（庐山）等地引种栽培。最近沈阳、北京、天津、西安正在试栽。在黑龙江、吉林、辽宁、山东崂山等地用之造林，生长良好。

@@ -1,0 +1,21 @@
+细风轮踩",
+9.**Clinopodium gracile** (Bentham) Matsumura",
+
+> Used medicinally.&#x0D;\n&lt;p&gt;&#x0D;\nClose to Clinopodium multicaule (Maximowicz) Kuntze from Japan, but the latter has calyx glabrous inside, as long as bracts, 1/2 as long as corolla, and 3 × as long as pedicel.
+
+## Description
+Herbs slender, stoloniferous. Stems numerous, ascend-ing, 8-30 cm, retrorse pubescent. Petiole 0.3-1.8 cm; blade of basal leaves circular-ovate, ca. 10 &amp;#215; 8-9 mm, base rounded, margin remotely crenate, apex obtuse; blade of lower and mid stem leaves ovate, 1.2-3.4 &amp;#215; 1-2.4 cm, papery, subglabrous, abaxially sparsely minutely hispid on veins, base rounded to cuneate, margin remotely dentate or crenate-serrate, apex obtuse; blade of upper stem leaves ovate-lanceolate, margin serrate, apex acute. Verticillasters few flowered, lax or crowded in short terminal raceme; floral leaves ovate-lanceolate, margin serrate, apex acute; bracts needlelike, much shorter than pedicels. Pedicel 1-3 mm. Calyx tubular, base rounded, ca. 3 mm in flower, ca. 5 mm and declinate in fruit, puberulent or subglabrous, minutely hispid on veins, throat sparsely fine pilose; teeth ciliate, lower 2 subulate, upper 3 triangular, reflexed in fruit. Corolla white to purple-red, ca. 4.5 mm, puberulent. Nutlets ovoid, smooth. Fl. Jun-Aug, fr. Aug-Oct.
+
+> Streamsides, open grasslands, forest margins, thickets; 0-2400 m. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Hubei, Hunan, Jiangsu, Jiangxi, Shaanxi, Sichuan, Taiwan, Yunnan, Zhejiang [India, Indonesia, Japan, Laos, Malaysia, Myanmar, Thailand, Vietnam]
+  "Synonym": "&lt;I&gt;Calamintha gracilis&lt;/I&gt; Bentham, Prodr. 12: 232. 1848; &lt;I&gt;Calamintha radicans &lt;/I&gt;Vaniot; &lt;I&gt;Satureja gracilis&lt;/I&gt; (Bentham) Briquet; &lt;I&gt;Satureja ussuriensis &lt;/I&gt;Kudo.
+**9. 细风轮菜　细密草（广东龙头山），野凉粉草（广东从化），假韩酸草（广东南海），臭草（广东增城），花花王根草（广西隆林），假仙菜（福建汀源），剪刀草、箭头草、玉如意（江苏），野薄荷（江西南昌、吉水），野仙人草（江西赣州），苦草（江西婺源），小叶仙人草（江西），瘦风轮（通称）　图版54: 1-6**
+
+Clinopodium gracile (Benth.) Matsum. Ind. Pl. Jap. 2(2): 538. 1904; H. W. Li in Act. Phytotax. Sin. 12(2): 204. 1974 ——Calamintha gracilis Benth. in DC. Prodr. 12: 232. 1848; Hance in Ann. Sci. Mat. V. Bot. 5: 236. 1866 (var. densiflora）; Franch. et Sav. Enum. Pl. Jap. 1: 369. 1875; Hemsl. in Journ. Linn. Soc. Bot. 26: 283. 1890; Matsum. et Hayata in Journ. Coll. Sci. Univ. Tokyo 30: 311. 1911; Dunn in Notes Bot. Gard. Edinburgh 6: 158. 1915; 孙雄才, 科学社生物所论文集 7: 41, 230. 1932; Belval in Mus. Heude Notes Bot. Chin. 2: 101. 1933; Hand.-Mazz. in Act. Hort. Gothob. 9: 87. 1934; Symb. Sin. 7: 932. 1936; et in Beih. Bot. Centralbl. 56B(3): 458. 1937; Doan in Lecte. Fl. Gen. Indo-Chine 4: 989, f. 103, 6-10. 1936; H. Keng in Gard. Bull. Singapore 24: 42. 1969 ——Satureia gracilis (Benth.) Briq. in Engl. u. Prantl, Nat. Pflanzenfam. 4, 3a: 302. 1897, p. p.; Benth. ex Gilg. et Loesen. in Engler, Bot. Jahrb. 34: Beibl. 75: 63. 1904; (Benth.) Nakai in Fl. Kor. 2: 149. 1911; Matsum. et Kudo in Bot. Mag. Tokyo 26: 299. 1912; Diels in Fedde, Repert. Sp. Nov. Beih. 12: 479. 1922; Back. et Bakh. f. Fl. Java 2: 630. 1965 ——Calamintha radicans Vaniot in Bull. Acad. Internat. Geogr. 14: 182. 1904 ——Satureia ussurensis Kudo in Journ. Coll. Sci. Tokyo 43: 36. 1921, p. p.; et in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 101. 1929, p. p. ——Melissa cretica auct. non Linn.: Thunb. Fl. Jap. 247. 1784.
+
+纤细草本。茎多数，自匍匐茎生出，柔弱，上升，不分枝或基部具分枝，高8-30厘米，径约1.5毫米，四稜形，具槽，被倒向的短柔毛。最下部的叶圆卵形，细小，长约1厘米，宽0.8-0.9厘米，先端钝，基部圆形，边缘具疏圆齿，较下部或全部叶均为卵形，较大，长1.2-3.4厘米，宽1-2.4厘米，先端钝，基部圆形或楔形，边缘具疏牙齿或圆齿状锯齿，薄纸质，上面榄绿色，近无毛，下面较淡，脉上被疏短硬毛，侧脉2-3对，与中肋两面微隆起但下面明显呈白绿色，叶柄长0.3-1.8厘米，腹凹背凸，基部常染紫红色，密被短柔毛；上部叶及苞叶卵状披针形，先端锐尖，边缘具锯齿。轮伞花序分离，或密集于茎端成短总状花序，疏花；苞片针状，远较花梗为短；花梗长约1-3毫米，被微柔毛。花萼管状，基部圆形，花时长约3毫米，果时下倾，基部一边膨胀，长约5毫米，13脉，外面沿脉上被短硬毛，其余部分被微柔毛或几无毛，内面喉部被稀疏小疏柔毛，上唇3齿，短，三角形，果时外反，下唇2齿，略长，先端钻状，平伸，齿均被睫毛。花冠白至紫红色，超过花萼长约1/2倍，外面被微柔毛，内面在喉部被微柔毛，冠筒向上渐扩大，冠檐二唇形，上唇直伸，先端微缺，下唇3裂，中裂片较大。雄蕊4，前对能育，与上唇等齐，花药2室，室略叉开。花柱先端略增粗，2浅裂，前裂片扁平，披针形，后裂片消失。花盘平顶。子房无毛。小坚果卵球形，褐色，光滑。花期6-8月，果期8-10月。
+
+产江苏，浙江，福建，台湾，安徽，江西，湖南，广东，广西，贵州，云南，四川，湖北及陕西南部；生于路旁，沟边，空旷草地，林缘，灌丛中，海拔可达2400米。印度，缅甸，老挝，泰国，越南，马来西亚至印度尼西亚及日本（南部）也有。模式标本采自印度尼西亚的爪哇。
+
+全草入药，治感冒头痛、中暑腹痛、痢疾、乳腺炎、痈疽肿毒、荨麻疹、过敏性皮炎、跌打损伤等症。
+
+本种与日本产的Clinopodium multicaule（Maxim.）O. Ktze.极为近似，但后一种苞片与花梗等长，花梗长为花萼1/3，花萼内面无毛，花冠伸长，为花萼长的2倍，模式标本采自日本九州中部。

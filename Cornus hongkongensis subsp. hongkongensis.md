@@ -1,0 +1,9 @@
+香港四照花(原亚种)",
+22a.**Cornus hongkongensis subsp. hongkongensis**",
+
+> The wood is used for construction; the fruit is edible and used for making wine.&#x0D;\n&#x0D;\n&lt;p&gt;*Dendrobenthamia* *xanthocarpa* was based on a specimen from Yunnan with yellow infructescences. Other features are indistinguishable from *Cornus* *hongkongensis*. Red-fruited and yellow-fruited plants of *C*. *hongkongensis* grow side-by-side in Huping, Guangxi, with the red-fruited plants in more open areas and the yellow-fruited ones in shaded places. *Dendrobenthamia* *xanthocarpa* is likely another example of such variation in *C*. *hongkongensis* in Yunnan. The yellow-fruited plants are probably rare because the species often grows in open places in forests or at forest margins where there is abundant light.
+
+## Description
+Trees or shrubs, evergreen, 5–15(–25) m tall. Bark deep gray or deep brown; old branches gray or brown, glabrous, with conspicuous lenticels. Leaf blade elliptic to narrowly elliptic, rarely obovate-elliptic, 6–13 × 2.8–6.3 cm, leathery, pubescent on both surfaces when young with white and brown soft appressed trichomes, gradually glabrous and with scattered brown spots (hair scars) in age, veins 2 or 3(or 4). Inflorescences ca. 1 cm in diam., 50–70-flowered; bracts white, broadly elliptic to broadly elliptic-obovate, 2.8–4.1 × 1.7–3.5 cm, both surfaces nearly glabrous; peduncle 3.5–10 cm, pubescent with brown appressed trichomes. Flowers fragrant. Calyx tubular, 0.7–0.9 mm, with brown trichomes at base, pubescent. Petals light yellow, oblong-elliptic, 2.2–2.4 × 1–1.2 mm. Filaments 1.9–2.1 mm, slightly pubescent; anthers dark brown, ellipsoid. Style ca. 1 mm, pubescent with white trichomes. Compound fruit yellow or red at maturity, ca. 2.5 cm in diam., with thin white trichomes, peduncle 3.5–10 cm. Fl. May–Jun, fr. Nov–Dec.
+
+> Evergreen broad-leaved forests; 600–1800 m. Guangdong, Guangxi, Guizhou, Hunan [Laos, Vietnam].

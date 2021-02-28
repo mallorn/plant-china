@@ -1,0 +1,17 @@
+小圆叶冬青",
+94.**Ilex nothofagifolia** Kingdon Ward",
+
+## Description
+Trees evergreen, small, 3-5 m tall, glabrous throughout. Branchlets brown or gray, terete; young ones longitudinally ridged and sulcate, ridges densely corky verruculose; old branchlets smooth, nearly not verruculose; terminal buds narrowly ovoid; bud scales glabrous or puberulent. Leaves on first to third year’s branchlets; petiole 4-5 mm, slender, narrowly sulcate; leaf blade broadly elliptic, rarely broadly obovate or broadly ovate, 0.5-1.7 × 0.5-1.2 cm, papery, both surfaces glabrous, midvein impressed adaxially, lateral veins 3 or 4 pairs, and reticulate veins slightly raised abaxially, impressed adaxially, base obtuse or cuneate, margin slightly reflexed, with 4-9 pairs of teeth, apex obtuse-rounded, acumen. Inflorescences: 1-flowered cymes, solitary or few fascicled, fascicles 2- or 3-flowered, axillary on second year’s branchlets. Male inflorescences: pedicels ca. 4 mm; bracteoles 2, subbasal; calyx patelliform, ca. 2 mm in diam., deeply 4-lobed, lobes suborbicular, glabrous, not ciliate; corolla greenish, rotate, ca. 4 mm in diam., petals 4, ovate, ca. 2 mm, glabrous, not ciliate, basally slightly connate; stamens 4, shorter than petals, anthers ovoid; rudimentary ovary globose, apex rounded. Female flowers not known. Infructescences: 1- or 2-fruited; fruiting pedicels 2.5-3 mm; bracteoles 2, basal, narrowly ovate, not ciliate. Fruit red, subglobose, 3-3.5 mm in diam.; persistent calyx explanate, subquadrangular, 4-lobed, lobes subrounded, glabrous; persistent style evident, stigma discoid, 4-lobed; pyrenes 4, ellipsoidal, ca. 3 mm, ca. 1.5 mm in diam., both ends obtuse, abaxially convex, longitudinally 3- or 4-striate, nearly smooth, laterally smooth, endocarp leathery. Fl. May-Aug, fr. Oct-Nov.
+
+> Broad-leaved forests, *Tsuga* forests, slopes, hills; 2000-3000 m. SE Xizang (Mêdog), W Yunnan (Fugong, Gongshan, Tengchong) [N India, N Myanmar].
+  "Synonym": "*Ilex intricata* J. D. Hooker var. *oblata* W. E. Evans; *I. oblata* (W. E. Evans) H. F. Comber.
+**94.小圆叶冬青（中国高等植物图鉴补编）图版24：5-8**
+
+Ilex nothofagifolia Ward in Gard. Chron. Ser. III. 81: 194. 1927, et 92: 232. 1932, et in Plant Hunt. Edge World 72, 101, 215, 223. 1930; S. Y. Hu in Journ. Arn. Arb. 31: 48. 1950; 中国高等植物图鉴补编2: 210. 1983, in clavi; 云南种子植物名录, 上册746. 1984;云南植物志4: 249. 1986;西藏植物志3: 116. 1986;横断山区维管植物, 上册1090. 1993.——Ilex intricata Hook. f. var. oblata W. E. Evans in Notes Bot. Gard. Edinb. 13: 163. 1921.——I. oblata (Evans) Comber in Notes Bot. Gard. Edinb. 18: 55. 1933. ——I. intricata auct. non Hook. f.: Merr. in Brittonia 4: 99. 1941. in part.
+
+常绿小乔木，高3-5米，全株无毛；小枝圆柱形，褐色或灰色，幼时具纵棱槽，密具凸起的乳头状木栓质瘤，老枝较平滑，几无瘤；顶芽狭卵形，芽鳞无毛或被微柔毛。叶生于1-3年生枝上，叶片纸质，阔椭圆形，稀阔倒卵形或阔卵形，长7-14毫米，宽6-11毫米，先端钝圆，具短尖头，基部钝或楔形，边缘微反卷，具4-9齿，叶面绿色，背面淡绿色，两面无毛，主脉在叶面凹陷，在背面隆起，侧脉每边3-4条，与网状脉在叶面凹陷，背面稍凸起，网状脉明显；叶柄长4-5毫米，纤细，上面具狭槽。聚伞花序或单花簇生于二年生枝的叶腋内，每聚伞花序具1-3花。雄花：花梗长约4毫米，近基部具2枚小苞片；花萼盘状，直径约2毫米，4深裂，裂片近圆形，无毛，亦无缘毛；花冠直径约4毫米，淡绿色，花瓣4，卵形，长约2毫米，无毛及缘毛，基部略合生；雄蕊4，略短于花瓣，花药卵球形；退化子房球形，顶端圆形。雌花未见。果单生或双生于二年生枝叶腋内，果梗长2.5-3毫米，基部具2狭卵形小苞片，无缘毛；果近球形，直径约3-3.5毫米，成熟时红色；宿存花柱明显，柱头盘状，4裂；宿存花萼平展，近四角形，4裂片近圆形，无毛。分核4，椭圆体形，长约3毫米，背部宽1.5-2毫米，两端钝，背部凸起，具3-4条纵条纹，近平滑，侧面平滑，内果皮革质。花期7-8月，果期10-11月。
+
+产于云南酉北部（贡山）和西藏东南部（墨脱）；生于海拔2000-3000米的山坡阔叶林或铁杉林中。分布于印度北部（阿萨姆）和缅甸北部。模式标本采自缅甸。
+
+本种与错枝冬青Ilex intricata Hook. f.相近，但后者为矮小匍匐灌木，叶片革质或近革质，常为倒卵状椭圆形，叶柄短，长1-2毫米；果较大，分核背部具掌状纵棱槽，侧面具条纹及微皱，内果皮木质；而本种为直立小乔木，叶片纸质，通常阔椭圆形，叶柄长4-5毫米；果较小，分核背部具3-4条纵条纹，几平滑，侧面平滑，内果皮革质而不同，易于区别。

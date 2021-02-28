@@ -1,0 +1,14 @@
+多花黄耆",
+22.**Astragalus floridulus** Podlech Sendtnera. 1: 270. 1993.",
+
+## Description
+Plants 50-90 cm tall, with hairs 0.2-0.8(-1) mm. Stems at base up to 6 mm thick, with slender, non-flowering lateral branches out of most of leaf axils, loosely covered with as-cending, mostly black hairs. Leaves on main stem 5-9 cm; stip-ules on main stem linear-acute, 1-1.4 cm, white ciliate, those on lateral branches 4-5 mm; rachis slender, with ascending white hairs; leaflets in 10-15 pairs, very narrowly elliptic to narrowly elliptic, 10-17(-20) × 2-6 mm, abaxially rather densely ap-pressed white hairy, adaxially glabrous, apex acute; leaves and leaflets on lateral branches mostly distinctly smaller. Racemes densely many flowered, ovoid to capitate, later strongly elon-gated and in fruit up to more than 15 cm; peduncle 2-7 cm, loosely covered with ascending to spreading white and pre-dominantly black hairs; bracts whitish membranous, linear-acute, 3.5-6 mm, black ciliate. Calyx shortly tubular, 5-6 mm, strongly obliquely cut at mouth, in lower part loosely, toward teeth rather densely, covered with longer appressed black or white hairs, young inflorescences therefore white or sometimes black sericeous; teeth slightly unequal, 2 adaxial 1-2 mm, 3 abaxial 1.5-3 mm, sometimes all teeth nearly equal, subulate, 3-4 mm. Petals pale yellow or whitish, often purplish suffused; standard 12-13 × 4-5.5 mm, narrowly oblong-elliptic; wings 11-12 mm; keel 11-12 mm. Legumes with a stipe 4-5 mm, ellipsoid, 1-1.5 cm, 4-5 mm high and 2-3 mm wide, keeled ventrally and dorsally; valves covered with subappressed to ascending black and white hairs up to 1 mm.
+  "Statistics": "Subalpine to alpine zones; 2700-5200 m. Gansu, Qinghai, Si-chuan, Xizang [Bhutan, India (Sikkim)].
+  "Synonym": "*Astragalus floridus* Bentham ex Bunge (1869), not Scopoli (1787).
+**52. 多花黄耆（中国主要植物图说·豆科）图版34：9-16**
+
+Astragalus floridus Benth. ex Bunge in Mem. Acad. Sci. St. Petersb. VII. 15 (1): 28. 1869; Baker, in Hook. f. Fl. Brit. Ind. 2: 127. 1867; Dunn in Journ. Linn. Soc. Bot. 39: 421. 1911; Simps. in Not. Roy. Bot. Card. Edinb. 12: 45. 1937-1938; 中国主要植物图说·豆科413. 图409. 1955; 西藏植物志2: 830. 1985. ——A. przewalskii? Hand. -Mazz. Symb. Sin. 7: 556. 1933, pro parte, non Bunge 1877.
+
+多年生草本，被黑色或白色长柔毛。根粗壮，直伸，暗褐色。茎直立，高30-60厘米，有时可达100厘米，下部常无枝叶。羽状复叶有13-14片小叶，长4-12厘米；叶柄长0.5-1厘米；托叶离生，披针形或狭三角形，长8-10毫米，下面散生白色和黑色柔毛；小叶线状披针形或长圆形，长8-22毫米，宽2.5-5毫米，上面绿色，近无毛，下面被灰白色、多少伏贴的白色柔毛。总状花序腋生，生13-40花，偏向一边；花序轴和总花梗均被黑色伏贴柔毛，花后伸长；总花梗比叶长；苞片膜质，披针形至钻形，长约5毫米；花梗细，长约5毫米，被黑色伏贴柔毛；花萼钟状，长5-7毫米，外面及萼齿里面均被黑色伏贴柔毛，萼齿钻形，较萼筒略短或近等长；花冠白色或淡黄色，旗瓣匙形，长11-13毫米，先端微凹，基部具短瓣柄，翼瓣比旗瓣略短，瓣片线形，宽1-1.5毫米，具短耳，瓣柄与瓣片近等长，龙骨瓣与旗瓣近等长，瓣片半卵形，最宽处达3-3.5毫米，具短耳，瓣柄与瓣片近等长；子房线形，密被黑色或混生白色柔毛，具柄。荚果纺缍形，长12-15毫米，宽约6毫米，两端尖，表面被棕色或黑色半开展或倒伏柔毛；果颈与萼筒近等长，1室；种子3-5颗。花期7-8月，果期8-9月。
+
+产甘肃、青海、四川及西藏。生于海拔2600-4300米的高山草坡或灌丛下。锡金有分布。

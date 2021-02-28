@@ -1,0 +1,7 @@
+梅峰对叶兰",
+16.**Neottia meifongensis** (H. J. Su & C. Y. Hu) T. C. Hsu & S. W. Chung Taiwania. 54: 83. 2009.",
+
+## Description
+Plants autotrophic, 12-25 cm tall. Rhizome with a few clustered, filiform roots. Stem slender, ridged. Leaves 2, opposite, borne at or above middle of plant, sessile, broadly ovate to ovate-deltoid, 1.5-2.5 × 1.8-3.2 cm, base truncate-subcordate, apex acute. Peduncle 3-6 cm, pubescent, with 1-3 ovate-lanceolate sterile bracts 3-5 mm; rachis 3-6 cm, pubescent, laxly 2-7-flowered; floral bracts ovate-lanceolate, 3-4.5 × ca. 2 mm, apex acute. Flowers resupinate, light green, lip tinged pale yellowish green along margin; pedicel and ovary arcuate, 6-8 mm, glabrous or sometimes sparsely pubescent at base; sepals and petals spreading. Dorsal sepal lanceolate, 3-4.5 × ca. 1.3 mm, apex acute; lateral sepals lanceolate, falcate, 3.5-5.5 × 1.5-2 mm, apex acute. Petals linear-lanceolate, 3-5 × 0.7-1 mm, apex acuminate; lip spreading forward, cuneate-rectangular or broadly oblong, 6-10 × 3-7.5 mm, apex obtuse-rounded and shallowly 2-lobed; lobes ovate-oblong, 1.5-2 × 1.5-2.5 mm; disk with a longitudinal groove at base that extends into a thickened keel running almost to apical sinus, margins ciliate. Column distinctly arcuate above middle, 4-5 mm; anther inclined toward rostellum, ca. 1 mm; rostellum large, ca. 0.8 mm. Fl. Jun-Jul.
+  "Statistics": "&amp;#9679; *Abies* and *Tsuga* forests; 2200-3300 m. C Taiwan.
+  "Synonym": "*Listera meifongensis* H. J. Su &amp; C. Y. Hu, Taiwania 45: 240. 2000.

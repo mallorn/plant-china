@@ -1,0 +1,9 @@
+西藏蝇子草",
+78.**Silene tibetica** Lidén & Oxelman",
+
+> This species is not similar to any other Chinese species of &lt;I&gt; Silene&lt;/I&gt;. A peculiar feature of the type specimen is that only the alar (apical or first) flower is bisexual, whereas the other (later) flowers appear to be functionally male. Although gynomonoecy is a widespread phenomenon in &lt;I&gt; Silene,&lt;/I&gt; andromonoecy is not. &lt;I&gt; Silene tibetica &lt;/I&gt; is possibly related to the &lt;I&gt; S. indica &lt;/I&gt; group, which is in urgent need of revision. The regular nature of the inflorescence is deviating.
+
+## Description
+Herbs perennial, probably with a densely branched rootstock crowned by dense remnants of dead leaves and cataphylls. Sterile rosette leaves with petiole 5--6 cm; leaf blade obovate, gradually narrowed into petiole, 3(--4) × 1.5--2 cm, apex subobtuse to acuminate. Stems erect or ascending, 10--15 cm. Cauline leaves in 2 pairs, sessile, broadly ovate, ca. 3.5 × 2.5 cm, apex acute. Inflorescence a dense thyrse consisting of a terminal dichasium and stalked (stalk ca. 2 cm) lateral dichasia, each dichasium 3--5-flowered; bracts gradually narrowed toward apex, 6--12 × 2--3 mm, herbaceous. Pedicel 3--4 mm, that of basal (first) flower to 1 cm. Lateral (later) flowers in dichasium apparently functionally male (an extremely rare condition in Silene). Calyx 1--1.2 cm × ca. 5 mm, expanding to 1--1.3 cm wide at late anthesis, divided to ca. 1/3 into triangular teeth acute at apex. Androgynophore ca. 3 mm, densely woolly. Petal claws exserted beyond calyx by 1--2 mm, with orbicular auricles; limb oblong, ca. 3 mm, deeply bifid, usually with 2 pairs of lateral teeth; coronal scales short, dentate. Stamens exserted. Styles 5, included or exserted. Seeds (immature) with long, spiny papillae abaxially.
+
+> * About 3000 m. SW Xizang (Zanda Xian).

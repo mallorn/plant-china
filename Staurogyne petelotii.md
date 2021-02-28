@@ -1,0 +1,6 @@
+中越叉柱花",
+15.**Staurogyne petelotii** Benoist Arch. Bot. Bull. Mens. 4: 75. 1930.",
+
+## Description
+Herbs 10-30 cm tall, ascending from a decumbent base. Stems erect, densely pubescent, unbranched or rarely branched in apical part, base with 1.5-3 cm internodes. Leaves cauline; petiole 2-4 cm, pubescent; leaf blade ovate to oblong, 3-6 × 2-3.5 cm, membranous, abaxially glabrous, adaxially darker and sparsely pubescent, secondary veins 4-6 on each side of midvein, base broadly cuneate to rounded, margin entire, apex obtuse. Raceme terminal, ca. 5 cm; bracts obovate, ca. 8 × 4 mm, abaxially sparsely pubescent, base attenuate, margin distally ciliate, apex rounded; bracteoles oblong, ca. 6 × 1 mm, abaxially pubescent especially apically, base gradually attenuate, apex rounded. Calyx ca. 6 mm; lobes spatulate with apex slightly enlarged and rounded, unequal, anterior one ca. 5 × 0.5 mm and others ca. 3 × 0.2 mm. Corolla 1.5-1.7 cm, slightly curved; lobes orbicular, ca. 5 × 5 mm. Staminal filaments glabrous. Ovary glabrous; style 1.8-2 mm, glabrous; stigma 2-cleft. Capsule ellipsoid, ca. 7 mm, glabrous. Fl. Jan-Apr.
+  "Statistics": "Forests along ravines or on slopes; 1400-1700 m. Yunnan [Vietnam].

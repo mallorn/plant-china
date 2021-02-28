@@ -1,0 +1,8 @@
+大兴安岭乌头",
+146.**Aconitum daxinganlinense** Y. Z. Zhao",
+
+## Description
+Caudex obconical, ca. 2 cm, ca. 5 mm in diam. Stem erect, 20--100 cm tall, simple or branched at apex, appressed and retrorse pubescent at base, sometimes subglabrous, apically appressed and retrorse pubescent or spreading villous, sometimes sparsely pubescent. Proximal cauline leaves long petiolate, withered at anthesis, distal ones shortly petiolate; petiole villous; leaf blade suborbicular, 2--7 × 3--9 cm, abaxially spreading villous, adaxially appressed and retrorse pubescent or intermixed spreading villous, palmately 3-sect; central segment rhombic, apex acuminate, ultimate lobes lanceolate or linear, 1--3 mm wide; lateral segments obliquely flabellate, unequally 2-parted. Inflorescence terminal or axillary, 1--5-flowered; rachis appressed and retrorse pubescent, sometimes sparsely pubescent; proximal bracts leaflike, distal ones 3-fid. Pedicels 1--3 cm, densely spreading pubescent, sometimes sparsely pubescent, with 2 bracteoles at or above middle; bracteoles linear, 2--3 mm. Sepals purple-blue, sometimes becoming white, abaxially pubescent; lower sepals elliptic or elliptic-lanceolate, 1--1.2 cm × 3--7 mm; lateral sepals broadly obovate, ca. 1.5 cm; upper sepal high galeate, 1.5--2 cm, lower margin ca. 1.8 cm. Petals glabrous, 1.3--1.8 mm; limb 3--4 mm wide; lip ca. 3.5 mm, apex 2-lobed; spur decurved, ca. 2 mm, dentate. Stamens glabrous; filaments 2-denticulate. Carpels 3--5, glabrous or sparsely pubescent. Follicles ca. 7 mm. Seeds ca. 1.5 mm. Fl. Jul--Aug, fr. Aug.
+
+> * Forests, by streams. Nei Mongol.
+  "Synonym": "&lt;I&gt;Aconitum villosum&lt;/I&gt; Reichenbach var. &lt;I&gt;daxinganlinense &lt;/I&gt; (Y. Z. Zhao) S. X. Li.

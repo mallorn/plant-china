@@ -1,0 +1,17 @@
+西伯利亚早熟禾",
+16.**Poa sibirica** Roshevitz",
+
+## Description
+Perennials, rhizomatous; shoots extravaginal and a few intravaginal. Culms erect, decumbent at base, (20–)40–120 cm tall, 1–4 mm in diam., loosely tufted, shiny, smooth or sparsely short scabrid below panicle, nodes 3 or 4, 1 or 2 exserted, with a few persistent whitish sheaths. Leaf sheaths green, compressed, with keel up to 0.4 mm deep, smooth or finely scabrid, glabrous, 8–20 cm, 1–2 or more × as long as blade, uppermost closed for 1/2–2/3 of length; blade flat or folded, thin, 4–25 cm × (1.5–)2–6(–8) mm, abaxially smooth, adaxially smooth to scabrid, margins scabrid, apex prow-tipped, of tillers often folded, abaxially smooth; ligule (0.5–)1–2.7 mm, abaxially smooth or scabrid, glabrous or puberulent, apex truncate to obtuse, irregularly dentate, collar margins smooth or coarsely scabrid, glabrous. Panicle loosely contracted to wide open, exserted, (4–)6–15(–18) cm, longest internodes 1–4 cm; branches ascending to spreading, 2–5 per node, slender, round to weakly angled, proximally smooth or scabrid along angles throughout, longest 3–9 cm with 3–17 moderately crowded spikelets in distal 1/2. Spikelets pale green to dark purple, (3.5–)4–5.5(–6.5) mm, florets 2–5; vivipary absent; rachilla internodes 0.5–1 mm, smooth or scabrid; glumes lanceolate, acute, upper keel and veins scabrid, lower glume (1.2–)2–2.5(–3.5) mm, 1(or 3)-veined, upper glume 2.5–3(–4.5) mm, 3-veined; lemmas pale green or sometimes violet to dark purple above, 2.5–4(–5.5) mm, proximally minutely bumpy to scabrid, distally scabrid, glabrous throughout (sometimes obscurely strigulose on keel base), keel scabrid, intermediate veins prominent, apex and margins narrowly membranous, apex acute; callus glabrous; palea minutely bumpy and with slender hooks between keels, keels finely and densely scabrid to subciliate for (1/2–)2/3–3/4 of length, 40–60 hooks per keel. Anthers 1.5–2.5 mm. Fl. and fr. Jun–Jul.
+
+> Forest margins, meadows among thickets, grassy places on slopes in river valleys, subalpine meadows; 1700–2800 m. Hebei, Heilongjiang, Jilin, Liaoning, Nei Mongol, Shanxi, Sichuan, NW Xinjiang, Yunnan [Kazakhstan, Korea, Kyrgyzstan, Mongolia, Russia (Far East, Siberia); Europe (Russia to W of Ural Mountains)].
+  "keylist": "
+1 Lower lemmas within spikelets 2.8–3.8 mm; panicle branches spreading; leaf blade 1.5–4 mm wide; culm 1–2 mm in diam. at lower nodes.——<a href='/info/Poa sibirica subsp. sibirica?t=foc'>subsp. *sibirica* 西伯利亚早熟禾(原亚种)
+1 Lower lemmas within spikelets (3.5–)3.8–5.2 mm; panicle branches erect to ascending; blade 2–8 mm wide; culm 2–4 mm in diam. at lower nodes.——<a href='/info/Poa sibirica subsp. uralensis?t=foc'>subsp. *uralensis* 显稃早熟禾",
+**22．西伯利亚早熟禾（大兴安岭植物群落）图版15：4**
+
+Poa sibirica Trin. in Bull. Jard. Bot. St. Petersb. 7: 121. 1912. et in Kom. Fl. URSS 2: 380, Pl. 33, f. 11. 1934; 中国主要植物图说·禾本科159, 图110, 1959;内蒙古植物志7: 81, 图33, 图11-14. 1983; 中国草地饲用植物资源306, 1994; 横断山区维管植物2: 2188. 1994; 新疆植物志6: 84, 图版30: 5-8. 1996.
+
+多年生。秆直立或倾斜，疏丛型，高50-100厘米，具3-4节，质软，光滑。叶鞘短于其节间，多少具脊，无毛，顶生者长12-18厘米；叶舌长0.5-2毫米；叶片扁平，平滑，茎生者长5-10厘米，宽2-5毫米，分蘖叶细长。圆锥花序金字塔形，疏松开展，长10-15厘米，主轴每节具2-5分枝，下部节间长2-4厘米；分枝微粗糙或下部平滑，毛细管状，基部主枝长达7厘米，中部以下裸露；小穗长4-5毫米，含2-5小花，绿色或带紫黑色；颖披针形，锐尖，脊上部和脉微粗糙，第一颖长2-2.5毫米，具1脉，第二颖长2.5-3毫米，具3脉；外稃具明显的5脉，全部无毛，基盘无绵毛，先端急尖，具狭膜质，上部稍粗糙，第一外稃长3-3.5 (-3.8)毫米；内稃等长或稍长于外稃，先端微凹，脊具细锯齿，脊间散生微毛；花药长1.5-2毫米。花期6-7月。染色体2n＝14（Krogulevich 1976）。
+
+产黑龙江、吉林、辽宁、内蒙古、山西、河北、新疆（阿勒泰、布尔津、托里、昭苏）。生于林缘、灌丛间草甸、山坡草地河谷及亚高山草甸，海拔1700-2800米。分布于俄罗斯西伯利亚、蒙古、中亚及欧洲。模式标本采自俄罗斯西伯利亚。

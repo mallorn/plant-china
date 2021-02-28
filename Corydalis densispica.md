@@ -1,0 +1,17 @@
+密穗黄堇",
+228.**Corydalis densispica** C. Y. Wu Acta Bot. Yunnan. 5: 247. 1983.",
+
+## Description
+Herbs, perennial, 15-65 cm tall, glabrous or papillose-scabrid on margins and veins abaxially; stems and petioles of radical leaves attenuate to filiform underground base. Storage roots oblong, 10-50 mm including indistinct stalk, 1.5-3(-5) mm in diam., rarely branched. Stems 1-4, suberect, ascending or straggling in bushes, slender, branched, with 2-4 leaves in upper 2/3. Radical leaves 1-5; petiole 5-10(-30) cm, slender, weak; blade glaucous abaxially, green adaxially, broadly ovate-triangular, 3-10(-20) × 2-10(-17) cm, bi- to triternate to bi-(tri-)pinnate; ultimate segments elliptic to lanceolate, 1-2 × (0.2-)0.4-1 cm, acute or obtuse, often mucronate. Cauline leaves: lower petiole to 3 cm, upper leaves shortly stalked or sessile; blade broadly ovate to deltoid, 3-10 × 3-7 cm, like radical leaves but more robust. Racemes 3-5 cm, elongating in fruit to 5-10 cm, densely 12-25(-35)-flowered, simple or with a basal branch; bracts 5-9 mm, deeply pectinately to flabellately cut into narrow acuminate lobes or teeth; lower bracts often again divided, upper ones sometimes entire, often tinged purplish. Pedicel 3-5(-10) mm, recurved in fruit. Sepals white, 0.4-1(-2) × 1-1.5 mm, fimbriate-dentate. Corolla yellow, veins distinct, tip of inner petals orange-yellow; upper petal rhombic-acute, 17-21 mm, crest 1-1.5 mm, not or shortly decurrent on spur; spur cylindric or slightly attenuate, 8-13 mm, narrow, apex slightly bent downward; nectary ca. 1/2 as long as spur; lower petal broadly obovate (broadest in distal 1/2), 7-9 mm, acute to obtuse, conspicuously undulate, ± dentate; crest short; inner petals 6-8 mm. Stigma with marginal papillae: median 2 distinct, lateral broad, diffuse; geminate papillae sublateral (clearly submarginal) and on well-developed rounded basal lobes. Capsule obovoid, 5-9 × 2-2.5 mm, glabrous, 3-6-seeded; style 2.5-3 mm. Seeds faintly colliculate, 1.2-1.4 mm. Fl. and fr. Jun-Sep.
+  "Statistics": "● Shrubs in alpine meadows, sometimes in scree, common; 3200-4400 m. SW Sichuan (N to Litang and Yajiang), E Xizang, NW Yunnan.
+**74.密穗黄堇（西藏植物名录）图版44: 5-6**
+
+Corydalis densispica C. Y. Wu in Act. Bot. Yunn. 5 (3)：247, f. 3：5-6. 1983; 西藏植物志2：262, 图87: 1-11. 1985; 横断山区维管植物, 上册：612. 1993.——Corydalis wardii W. W. Smith in Not. Bot. Gard. Fdinb. 9：100. 1916, p. p. typo excl.
+
+无毛草本，高20-40厘米。须根多数成簇，棒状增粗或纺锤状增粗，具长柄，长2-7厘米，粗0.2-0.5厘米，干时褐色，里面白色。茎1-4条，上部具叶，不分枝或具1-4分枝，下部裸露，基部线形。基生叶1-5枚，叶柄细弱，长6-8（-20）厘米，叶片轮廓宽卵形至近圆形，二至三回羽状分裂，末回裂片狭椭圆形至狭披针形，长1-1.5厘米，先端钝，表面绿色，背面具白粉；茎生叶1-5枚，互生于茎上部或稍下，下部叶具长达3厘米的柄，上部叶具极短柄或近无柄，叶片轮廓宽卵形或三角形，其他同基生叶，但下部叶比基生叶大，向上渐小。总状花序1-5，生于茎及分枝顶端，长3-8厘米，有15-50花，排列密集；苞片下部者同上部茎生叶，中部者羽状分裂，裂片条形，最上部者狭披针形，全缘或缺刻；花梗与苞片近等长。萼片小，白色，膜质，近圆形，边缘流苏状；花瓣黄色，上花瓣长1.8-2厘米，花瓣片卵形，背部鸡冠状突起高约1.5毫米，自瓣片先端开始至其末端消失，距圆筒形，长1.2-1.3厘米，约占上花瓣长的2/3，末端略下弯，下花瓣倒卵形，长0.8-0.9厘米，背部鸡冠状突起高约1.5毫米，内花瓣提琴形，长0.6-0.7厘米，花瓣片先端圆，具1侧生囊，爪长约2.5毫米，向下渐狭；雄蕊束长约0.6厘米，花丝披针形，花药极小，长圆形，蜜腺体贯穿距的2/5；子房椭圆形，长0.2-0.3厘米，胚珠数枚，排成2列，花柱细，长0.3-0.4厘米，柱头双卵形，上部具2乳突。蒴果椭圆形，长约1厘米，粗约0.3厘米，成熟时自果梗基部反折。种子近圆形，直径约1.5毫米，黑色，略具光泽。花果期6-8月。
+
+产四川西部（木里、九龙、乡城、稻城、巴塘、理塘、雅江、康定、德格）、云南西北部（维西、中甸、德钦）和西藏东部（察隅、八宿、贡觉、昌都、索县），生于海拔3200-4200（-4600）米的灌丛草甸或林下。模式标本采自中甸。
+
+全草用于解毒、杀虫、退热。
+
+这也是一个好种，自然分布区颇广。瑞典学者Liden欲扩大其概念，包括Corydalis nemoralis C. Y. Wu et H. Chuang, C. porphyrantha C. Y. Wu, C. temolana C. Y. We et H. Chuang, C. tsayulensis C. Y. Wu et H. Chuang自也不无理由。但这些 “种”（或居群）在所见到的标本中还具如前述检索表中所列特征是可以互相区别的，何况它们彼此间还有水平（纬度）和垂直（海拔高度）上的差别，故暂仍保留如下，候有更深入的细胞学或种子形态学的研究，再行归并。

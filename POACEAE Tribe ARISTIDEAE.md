@@ -1,0 +1,11 @@
+三芒草族",
+20.**POACEAE Tribe ARISTIDEAE**",
+
+> This tribe is usually instantly recognizable on account of the 3-branched awn. *Stipagrostis* has sometimes been included in *Aristida*, but besides the obvious awn difference, separation of the two genera is supported by differences in leaf anatomy. In *Stipagrostis* the cells of the outer bundle sheath are larger than the inner, and only the inner contain chloroplasts, whereas in *Aristida* the cells of the outer bundle sheath are smaller, and both sheaths contain chloroplasts. There is also usually a difference in chromosome number: 2*n* = 22 in *Aristida* and 2*n* = 44 in *Stipagrostis*.&lt;p&gt;&lt;p&gt;Species of *Aristideae* are mainly found on the poor, stony soils of dry plains and deserts.
+
+## Description
+Perennials, or occasionally annuals. Leaf blades narrow, often convolute; ligule a line of hairs. Inflorescence a contracted or open panicle. Spikelets all alike, with 1 floret, bisexual without rachilla extension, laterally compressed or terete, disarticulating above glumes; glumes usually longer than floret, persistent, membranous to scarious, 1–5-veined, apex acute to acuminate or mucronate; floret callus pungent to obtuse, bearded; lemma usually terete, cartilaginous becoming indurated at maturity, margins tightly convolute and enclosing the palea, 1–3-veined, veins converging at apex, extending directly into 3 awns, or more often combining into a single 3-branched awn raised upon a twisted column, laterals sometimes reduced or rarely suppressed, awn branches scabrid or all or only the central branch plumose; palea less than 1/2 length of lemma, often obscure, hyaline or membranous. Stamens 3, rarely 1. Caryopsis terete or fusiform, tightly enclosed within toughened lemma, embryo 1/3 its length; hilum linear. Leaf anatomy: either Kranz PS (*Stipagrostis*) or a form of Kranz unique to *Aristida*; microhairs absent or 1-celled, rarely 2-celled. *x* = 11, 12.
+  "Statistics": "Three genera and ca. 350 species: tropical and subtropical regions of the world; two genera and 12 species (six endemic) in China.
+  "keylist": "
+1 Branches of the awn scabrid.[*Aristida* 三芒草属](Aristida.md)
+1 Branches of the awn (or at least the central branch) plumose.[*Stipagrostis* 针禾属",](Stipagrostis.md)

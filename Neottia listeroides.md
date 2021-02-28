@@ -1,0 +1,14 @@
+高山鸟巢兰",
+1.**Neottia listeroides** Lindley in Royle Ill. Bot. Himal. Mts. 368. 1839.",
+
+## Description
+Plants leafless, holomycotrophic, 15-35 cm tall. Rhizome with many fleshy roots. Peduncle green, 8-20 cm, slender to robust, pubescent, with 3-5 sheaths; sheaths tubular, 1.5-3 cm, membranous; rachis 6-15 cm, pubescent, subdensely 10- to more than 20-flowered; floral bracts suboblong-lanceolate, lower ones 12-15 mm, to ca. 4 mm above, abaxially pubescent, apex acuminate or acute. Flowers resupinate, pale green or green; pedicel 6-8 mm, slender, pubescent; ovary broadly ellipsoid-fusiform, 3-8 mm, densely pubescent; sepals and petals spreading. Sepals oblong-ovate, 4-5 × 1-1.8 mm, outer surfaces sparsely pubescent, with prominent midvein, apex obtuse; lateral sepals falcate. Petals sublinear to narrowly oblong, 3.8-4.5 × ca. 0.5 mm, glabrous, with prominent midvein; lip pendulous or spreading forward, narrowly obovate-oblong, 6-9 × 3-4 mm, narrowing to 1.5-2 mm wide at base, apex deeply 2-lobed; lobes subparallel to one another, subovate or ovate-lanceolate, 1.5-2.5 × 0.8-1.2 mm, margins minutely ciliate, apices acute or obtuse; sinus with a short tooth between lobes. Column slightly arcuate, 2.5-3 mm; anther inclined toward rostellum, ovoid-ligulate, ca. 0.7 mm; stigma concave, suborbicular; rostellum spreading horizontally, broadly ovate-ligulate, nearly as long as anther. Fl. Jul-Sep. 2*n* = 40, 46.
+  "Statistics": "Forests, grassy slopes; (1500-)2500-3900 m. C Gansu, N Shanxi, W Sichuan, S and SE Xizang, NW Yunnan [Bhutan, India, Kashmir, Nepal, Pakistan].
+  "Synonym": "*Listera lindleyana* (Decaisne) King &amp; Pantling; *Neottia dongrergoensis* Schlechter; *N. lindleyana* Decaisne; *Nidus listeroides* (Lindley) Kuntze.
+**1．高山鸟巢兰（中国高等植物图鉴）图版12：9-10**
+
+Neottia listeroides Lindl. in Royle, Ill. Bot. Himal. 368. 1839, nom. nud. , et Gen. Sp. Orch. pl. 458. 1840; Hand.-Mazz. , Symb. Sin. 7: 1338. 1936; 中国高等植物图鉴5: 646. 图8121. 1976; S. C. Chen in Acta Phytotax. Sin. 17(2): 16. fig. 1(9-10). 1979: 西藏植物志5: 665.1987; 横断山区维管植物2: 2550. 1994. ——Neottia lindleyana Decne. in Jacquem, Voy. Ind. (Bot. )4: 163. t. 163. 1843. ——Listera lindleyana(Decne. )King et Pantl. in Ann. Bot. Gard. Calcutta 8: 258. pl. 343. 1898. ——Neottia dongrergoensis Schltr. in Acta Hort. Gothob. 1: 142. 1924.
+
+植株高15-35厘米。茎直立，上部具乳突状短柔毛，中部以下具3-5枚鞘，无绿叶；鞘膜质，长1.5-3厘米，下半部抱茎。总状花序顶生，长6-15厘米，具10-20朵或更多的花；花序轴具乳突状短柔毛；花苞片近长圆状披针形，在花序基部的1枚长1.2-1.5厘米，向上渐短，但均明显长于花梗；花梗长6-8毫米，被短柔毛；子房棒状，长7-8毫米，密被短柔毛；花小，淡绿色；萼片长圆状卵形，长4.5-5毫米，宽约1.5毫米，先端钝，具1脉，背面疏被短柔毛；侧萼片斜歪；花瓣近线形或狭长圆形，长4-4.5毫米，宽约0.5毫米，无毛，亦具1脉；唇瓣狭倒卵状长圆形，长6-8 (-9）毫米，上部宽3-4毫米，基部宽1.5-2毫米，先端2深裂；裂片近卵形或卵状披针形，长1.5-2.5毫米，向前伸展，彼此近平行，边缘具细缘毛，两裂片间的凹缺具细尖；蕊柱长2.5-3毫米，稍向前倾斜；花药俯倾，紧靠蕊喙，长约0.7毫米；柱头凹陷，近半圆形，有狭窄的边缘；蕊喙近宽卵状舌形，水平伸展，几与花药等长。花期7-8月。
+
+产山西北部（宁武）、甘肃中部（山丹、肃南）、四川西部（松潘、泸定、小金、木里）、云南西北部（漾濞、维西、中甸）和西藏东南部至南部（错那、米林、亚东）。生于海拔（1500-）2500-3900米的林下或荫蔽草坡上。尼泊尔、不丹、锡金、印度和巴基斯坦也有分布。模式标本采自印度。

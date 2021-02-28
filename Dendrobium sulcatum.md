@@ -1,0 +1,14 @@
+具槽石斛",
+9.**Dendrobium sulcatum** Lindley Edwards’s Bot. Reg. 24: ad t. 65. 1838.",
+
+## Description
+Stem pseudobulbous, erect, clavate, compressed, narrowed toward base, 24-38 cm, 3-4 mm in diam. below, 1-2.5 cm in diam. at widest point, grooved, unbranched, nodes several, with longitudinal stripes, internodes 2-5 cm, with a membranous sheath, yellowish brown and glossy when dry. Leaves 3 or 4, subterminal, sessile, distichous, broadly elliptic to elliptic-ovate, 18-21 × ca. 4.5 cm, papery, apex acute. Inflorescence axillary, adjacent to leaf, subdensely 5-10-flowered; peduncle 2.5-3 cm, rachis short; basal sheaths 3 or 4, overlapping at base, distant above, ovate, 3.5-5 × 2-3 mm, membranous, 3-veined, subacute; floral bracts ovate, 3-4 × 2-3 mm, membranous, 3-veined, apex acute. Pedicel and ovary ca. 2.5 cm, slender. Flowers thin, uniformly golden yellow, lip with red-purple markings or stripes at base. Dorsal sepal oblong, ca. 25 × 9 mm, 5- or 6-veined, apex subacute; lateral sepals nearly equal to dorsal sepal; mentum conic, ca. 5 mm, broad and obtuse. Petals subobovate, ca. 24 × 11 mm, 5-veined, base contracted into a short claw, margin entire, apex acute; lip suborbicular to wedge-shaped, incurved, 18-20 × ca. 20 mm, adaxial surface densely pubescent near margin, base shortly clawed, margin minutely erose to ciliate-hairy, apex emarginate. Column ca. 5 mm; anther cap backward and forward compressed, subglobose or conic, glabrous, front margin ± irregular, apex emarginate.
+  "Statistics": "Epiphytic on tree trunks in dense forests; 700-800 m. S Yunnan (Mengla) [NE India, N Laos, Myanmar, N Thailand].
+  "Synonym": "*Callista sulcata* (Lindley) Kuntze.
+**7．具槽石斛（云南植物研究）**
+
+Dendrobium sulcatum Lindl. in Bot. Reg. 24: t. 65. 1838; Rchb. f. in Walp. Ann. Bot. Syst. 6: 293. 1861, et Gard. Chron. n. s., 1: 590. 1877; Hook. f. in Bot. Mag. 113: t. 6962. 1887, et Fl. Brit. Ind. 5: 749. 1890; King et Pantl in Ann. Bot. Gard. Calcutta 8: 55, pl. 78. 1898; Kraenzl. in Engler, Pflanzenr. 45 (IV. 50, II. B. 21): 66. 1910; S. J. Cheng et C. Z. Tang in Acta Bot. Yunnan. 6 (3): 283. 1984; Seidenf. in Opera Bot. 83: 19. 1985; Z. H. Tsi et S. C. Chen in Acta Phytotax. Sin. 33 (3): 292. 1995; Z. H. Tsi, S. C. Chen et K. Mori, Wild Orch. China: 86, pl. 107. 1997; 中国兰花全书: 170. 图6-13 (3). 1998.
+
+茎通常直立，肉质，扁棒状，长24-38厘米，从基部向上逐渐增粗，上部最粗处约1.5厘米，下部收狭为细圆柱形，粗3-4毫米，不分枝，具纵条纹和数个节，节间长2-5厘米，被膜质鞘，干后黄褐色带光泽。叶纸质，数枚，互生于茎的近顶端，常斜举，长圆形，长18-21厘米，宽4.5厘米，先端急尖或有时等侧2尖裂，基部稍收狭，但不下延为抱茎的鞘。总状花序从当年生具叶的茎上端发出，长8-15厘米，下垂，密生少数至多数花；花序柄基部有3-4枚覆瓦状的鞘；花苞片很小，狭卵状披针形，长约5毫米；花梗和子房长约2.5厘米；花质地薄，白天张开，晚间闭合，奶黄色；中萼片长圆形，长约2.5厘米，宽9毫米，先端近锐尖，具5-6条脉，侧萼片与中萼片近等大；萼囊圆锥形，宽而钝，长约5毫米；花瓣近倒卵形，长2.4厘米，宽1.1厘米，先端锐尖，基部收狭为短爪，具5条脉；唇瓣的颜色较深，呈橘黄色，近基部两侧各具1个褐色斑块，近圆形，长、宽约2厘米，两侧围抱蕊柱而使整个唇瓣呈兜状，先端微凹，基部具短爪，唇盘上面的前半部密被短柔毛，边缘具睫状毛；蕊柱长约5毫米；药帽前后压扁的半球形或圆锥形，顶端稍凹，光滑，前端边缘多少不整齐。花期6月。
+
+产云南南部（勐腊）。生于海拔700-800米的密林中树干上。锡金、印度东北部、缅甸、泰国、老挝也有。模式标本采自印度东北部。

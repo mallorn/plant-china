@@ -1,0 +1,14 @@
+喜马拉雅垂头菊",
+7.**Cremanthodium decaisnei** C. B. Clarke Compos. Ind. 168. 1876.",
+
+## Description
+Stem solitary, erect, 6-25 cm tall, 1.5-3 mm in diam. at base, proximally glabrous, distally densely brown pilose. Basal leaves long petiolate; petiole 3-14 cm, glabrous, base narrowly sheathed; leaf blade reniform or orbicular-reniform, 0.5-4.5 × 0.9-5 cm, abaxially densely brown pilose, rarely glabrescent, adaxially glabrous, palmately veined, margin irregularly shallowly crenate, rarely lobed, apex rounded. Middle to distal stem leaves 1 or 2, petiolate or sessile, smaller, with leaf blade or not. Capitulum solitary, nodding. Involucre hemispheric or rarely campanulate, 0.7-1.5 × 1-2 cm, outside densely brown pilose or sometimes glabrescent; phyllaries 8-12, in 2 rows, apex acuminate, mucronate; outer phyllaries narrowly lanceolate; inner phyllaries oblong-lanceolate, margin broadly membranous. Ray florets yellow; lamina narrowly elliptic or oblong, 1-2 cm × 3-6 mm, apex acute, rarely acuminate, 3-denticulate. Tubular florets numerous, dark yellow, 5-7 mm; tube 1-2 mm. Achenes brown, oblong, 3-7 mm. Pappus white, as long as tubular corolla. Fl. and fr. Jul-Sep.
+  "Statistics": "Grassy slopes, gravelly areas on mountains, alpine meadows; 3500-5400 m. SW Gansu, SW Qinghai, SW Sichuan, Xizang, NW Yunnan [Bhutan, India (Sikkim), Kashmir, Nepal].
+  "Synonym": "*Cremanthodium decaisnei* f. *clarkei* R. D. Good; *C.* *decaisnei* f. *sinense* R. D. Good; *Senecio renatus* Franchet.
+**14.喜马拉雅垂头菊（中国高等植物图鉴）我嘎（西藏名）图版31：4-5**
+
+Cremanthodium decaisnei C. B. Clarke, Comp. Ind. 168. 1876; Hook. f. Fl. Brit. Ind. 3: 331. 1881; Levl. Cat. Pl. Yunnan 51. 1916; Limpr. in Fedde, Rep. Sp. Nov. Beih. 12: 510. 1922; Marq. in Journ. Linn. Soc. Bot. 48: 191. 1929; Good, l. c. 48: 275. 1929; Hand.-Mazz. in Acta. Hort. Gothob. 12: 304. 1938; Kitanl. in Fauna Fl. Nepal. Himal. 1: 251. 1955; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 207. 1966; H. Koyama in Mem. Fac. Sci. Kyoto Univ. Ser. Biol. 2: 54. 1968; 中国高等植物图鉴4: 593.图6600. 1975; Kitam. in Hara et al. Enum. Fl. Pl. Nepai 3: 22. 1982. ——Senecio renatus Franch. in Bull. Soc. Bot. France 39: 285. 1892. ——Cremanthodium decaisnei f. clarkei Good, l. c. 48: 275. 1929. ——C. decaisnei f. sinense Good, l. c. 48: 275. 1929; Hand.-Mazz. Symb. Sin. 7: 1142. 1936. ——C. thomsonii auct. non C. B. Clarke: Good, l. c. 48: 273. 1929, p. p. quoad pl. sineses omnes.
+
+多年生草本。根肉质，多数。茎单生，直立，高6-25厘米，上部密被褐色有节柔毛，下部光滑，基部直径1.5-3.5毫米，无枯叶柄纤维。丛生叶与茎基部叶具长柄，柄长3-14厘米，光滑，基部有窄鞘，叶片肾形或圆肾形，长5-45毫米，宽9-50毫米，先端圆形，边缘具浅的，不整齐的圆钝齿，齿端具骨质小尖头，稀浅裂，上面光滑，下面有密的褐色有节柔毛，叶脉掌状；茎中上部叶常1-2，有柄或无柄，叶片小或减退而无叶片。头状花序单生，下垂，辐射状，总苞半球形，稀钟形，被密的褐色有节柔毛，或有时略退毛，长7-15毫米3宽1-2厘米，总苞片8-12，2层，外层狭披针形，内层长圆状披针形，具宽膜质的边缘，全部总苞片先端渐尖，有小尖头。舌状花黄色，舌片狭椭圆形或长圆形，长1-2厘米，宽3-6毫米，先端急尖，具3齿；管状花多数，长5-7毫米，管部长1-2毫米，冠毛白色，与花冠等长。瘦果长圆形，长3-5毫米，光滑。花果期7-9月。
+
+产西藏、云南西北部、四川西南部至西北部、青海西南部、甘肃西南部。生于海拔3500-5400米的草地、高山草甸、高山流石滩。在尼泊尔、锡金（模式标本产地）、不丹也有分布。

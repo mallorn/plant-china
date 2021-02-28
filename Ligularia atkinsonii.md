@@ -1,0 +1,14 @@
+亚东橐吾",
+99.**Ligularia atkinsonii** (C. B. Clarke) S. W. Liu Acta Biol. Plateau Sin. 7: 31. 1988.",
+
+## Description
+Stem erect, 60-83 cm tall, 5-9 mm in diam. at base, proximally glabrous, distally and synflorescence shortly brown pilose and white puberulent. Basal leaves petiolate; petiole 38-45 cm, slender, glabrous, base narrowly sheathed; leaf blade abaxially pale green, adaxially dark green, reniform or cordate-ovate, 7-11 × 8-16 cm, abaxially shortly pilose along veins, adaxially glabrous, palmately veined, base broadly cordate or sagittate, margin irregularly triangularly dentate and ciliate, apex rounded; sinus ca. 1/3 as long as leaf blade. Middle to distal stem leaves similar but smaller, petiolate; petiole to 12 cm; sheath ca. 7 × 1 cm. Synflorescence racemose, 9-30 cm; leaflike bracts linear, shorter than peduncle or proximal ones linear-lanceolate, longer; peduncles 5-11 mm, equal or proximal peduncles longer. Capitula numerous; supplementary bracts linear, as long as involucre. Involucre campanulate, 7-11 × ca. 5(-7) mm, outside glabrous; phyllaries 8 or 9, in 2 rows, oblong or lanceolate, 1.5-2.5 mm wide, apex acute; inner phyllaries broadly membranous at margin. Ray florets yellow; lamina narrowly oblong, 8-10 × ca. 2 mm, apex rounded or subtruncate. Tubular florets 10-13, 6-7 mm; tube 2-3 mm; limb to 2 mm wide. Pappus white, slightly shorter than tubular corolla. Fl. Jun-Jul.
+  "Statistics": "Stream banks, forest understories; 3000-3500 m. S Xizang [Bhutan, India (Sikkim)].
+  "Synonym": "*Senecio atkinsonii* C. B. Clarke, Compos. Ind. 207. 1876; *S. cacaliifolius* Schultz Bipontinus var. *atkinsonii* (C. B. Clarke) Franchet; *S. ligularia* J. D. Hooker var. *atkinsonii* (C. B. Clarke) J. D. Hooker.
+**49．亚东橐吾**
+
+Ligularia atkinsonii (C. B. Clarke) S. W. Liu, 高原生物学集刊 7: 31. 1987. ——Senecio atkinsonii C. B. Clarke Comp. Ind. 207. 1876; Good in Journ. Linn. Soc. Bot. 48: 279. 1929, pro syn. sub Cremanthodium hookeri C. B. Clarke——S. ligularia Hook. f. var. atkinsonii (C. B. Clarke) Hook. f. Fl. Brit. Ind. 3: 349. 1881; Kitam. in Hara et al. Enum. Fl. Fl. Nepal 3: 34. 1982, pro syn. sub Ligularia fischeri (Ledeb.) Turcz. ——S. cacaliaefolius var. atkinsoni (C. B. Clarke) Franch. in Bull. Soc. Bot. France 39: 297. 1892.
+
+多年生草本。根肉质，簇生。茎直立，高60-83厘米，最上部及花序被褐色有节短柔毛和白色柔毛，下部光滑，基部直径5-9毫米。丛生叶与茎下部叶具柄，柄细瘦，长38-45厘米，无翅，光滑，基部具窄鞘，叶片肾形或心状卵形，长7-11厘米，宽8-16厘米，先端钝圆，边缘具不整齐的三角状齿，齿间有睫毛，基部宽心形或箭形，弯缺长为叶片的1/3，上面深绿色，下面淡绿色，脉上有短毛，叶脉掌状；茎中上部叶与下部叶同形，具柄，柄连鞘长达19厘米，鞘长约7厘米，宽约1厘米，不抱茎。总状花序长9-30厘米；苞片线形，短于花序梗或下部者线状披针形，较长；花序梗等长或下部者稍长，长5-11毫米；头状花序多数，辐射状；小苞片线形，与总苞近等长；总苞钟形，长7-11毫米，宽约5（7）毫米，总苞片8-9，2层，长圆形或披针形，宽1.5-2.5毫米，先端急尖，背部光滑，内层边缘宽膜质。舌状花黄色，舌片狭长圆形，长8-10毫米，宽约2毫米，先端圆形，或近平截，具3齿，管部长约3毫米；管状花10-13，长6-7毫米，管部长2-3毫米，檐部宽达2毫米，冠毛白色比花冠稍短。瘦果（未熟）光滑。花期6-7月。
+
+产我国西藏南部。生于海拔3000-3500米的水边及林下草地。在尼泊尔、锡金（模式标本产地）也有分布。

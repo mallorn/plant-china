@@ -1,0 +1,8 @@
+南亚穴子蕨",
+2.**Prosaptia celebica** (Blume) Tagawa & K. Iwatsuki Acta Phytotax. Geobot. 24: 61. 1969.",
+
+## Description
+Stipe 1-3 cm, densely covered with simple solitary dark reddish brown hairs up to 1.7 mm. Lamina narrowly elliptic, 12-32 × 4-6.5 cm, acuminate, pinnate or deeply pinnately divided to narrow wing less than 0.5 mm wide along rachis; pinnae spreading, approximate, linear to linear-lanceolate from a dilated base, entire or slightly undulate, acute or obtuse at apex; middle pinnae largest, 25-32 × 3-4 mm, gradually shortened to basal ones, several basal pairs abbreviated; rachis medium brown or darker, terete at base, distinctly prominent on both sides; costa of pinna obscure, only slightly prominent on abaxial surface; veins simple, hidden, visible with transmitted light; hairs dark brown, simple, solitary or rarely tufted, or forked, up to 1.5 mm, mainly on both sides of rachis (dense and shorter adaxially, scattered to frequent abaxially) and margin (sparse to scattered), occasional to scattered abaxially and occasional adaxially on costae, absent on lamina or occasional to scattered abaxially and occasional adaxially. Sori sunken in obliquely elliptic cavities, in a medial row on each side of costa, slightly prominent on adaxial surface, up to 20 pairs on 1 pinna, rim of cavity not prominent, with a ring of hairs around it.
+
+> Epiphytic on moss-covered tree trunks in evergreen forests; 1400-1500 m. Taiwan (Pingdong) [Borneo, Indonesia, Malaysia, Philippines, Thailand].
+  "Synonym": "*Polypodium celebicum* Blume, Enum. Pl. Javae 2: 127. 1828; *Ctenopteris celebica* (Blume) Copeland.

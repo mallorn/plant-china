@@ -1,0 +1,7 @@
+湖北马蓝",
+112.**Strobilanthes hupehensis** W. W. Smith Notes Roy. Bot. Gard. Edinburgh. 10: 193. 1918.",
+
+## Description
+Herbs 40-60 cm tall, isophyllous. Stems erect, glabrous. Petiole ca. 1 cm, glabrous; leaf blade lanceolate to ovate-lanceolate, 9-14 × 2.5-4 cm, glabrous, secondary veins 5-8 on each side of midvein, base cuneate, margin serrate, apex acuminate. Inflorescences axillary, headlike spikes, compact, simple; peduncle 1-11 cm, very slender; bracts ovate, ca. 5 × 3 mm, caducous, apex acute; bracteoles absent. Calyx 5-8 mm, outside gland-tipped pilose, 5-lobed almost to base; lobes linear-oblong with one much longer than others, apex acute. Corolla purplish blue, 2.5-3.5 cm, straight, outside pilose, inside glabrous except for trichomes retaining style; tube basally cylindric and ca. 2 mm wide for ca. 1 cm then gradually widened to ca. 1 cm at mouth; lobes oblong, ca. 4 × 4 mm, apex obtuse. Stamens 4, included; filaments glabrous; shorter filament pair ca. 3 mm, equal, incurved; longer filament pair 6-7 mm, unequal, erect; anther thecae spherical, ca. 1.2 mm in diam., nodding; pollen type 3. Ovary sparsely pilose; style ca. 2.6 cm. Capsule oblong, ca. 1 cm, 4-seeded. Seeds ovate in outline, ca. 3 × 3 mm, pubescent. Fl. Jul-Oct.
+  "Reference": "The very slender peduncles combined with the isophyllous habit make *Strobilanthes hupehensis* very distinctive.The very slender peduncles combined with the isophyllous habit make *Strobilanthes hupehensis* very distinctive.
+  "Statistics": "● Forests; 200-1800 m. Hubei, Hunan.

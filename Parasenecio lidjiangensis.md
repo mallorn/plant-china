@@ -1,0 +1,14 @@
+丽江蟹甲草",
+24.**Parasenecio lidjiangensis** (Handel-Mazzetti) Y. L. Chen Fl. Reipubl. Popularis Sin. 77(1): 53. 1999.",
+
+## Description
+Rhizomes shortly robust, 1.5-2 cm in diam., with many fibrous roots. Stem solitary, erect, usually red-purple below, distinctly striate, (30-)45-65 cm tall, often long naked except for few brown ovate scales, sparsely arachnoid at middle part. Leaves usually at middle to upper part; petiole as long as or shorter than blade, slender or expanded to 4-15 mm in diam. rounded auricle; blade adaxially green, thin, triangular or hastate-triangular, (5-)6-10 × 5-11 cm, abaxially densely white arachnoid-tomentose except on veins, adaxially densely hispidulous, veins furcate at base, lateral veins connected reticulately, abaxially prominent, base truncate or subcordate, cuneate-decurrent into narrow or broad petiole, subamplexicaul, margin equally deeply undulate-toothed, teeth mucronate, apex acute or acuminate, mucronulate. Upper leaves smaller, lanceolate or linear-lanceolate, shortly petiolate. Capitula 12-18, terminal or in upper leaf axils, arranged in racemes or compound racemes; bracts linear-lanceolate, ca. 1 cm; peduncles 2-5(-10) mm, pendulous, white arachnoid. Involucres cylindric or narrowly campanulate, 8-10 × 2-5 mm; phyllaries 6-8, linear-lanceolate, ca. 10 × 1.5-2 mm, glabrous, few veined, margin narrowly scarious, apically obtuse, barbate; bractlets ca. 1/3 as long as phyllaries. Florets 9-12(-14); corolla yellow, or rarely orange-yellow, 8-9 mm, with slender 3-4 mm tube and narrowly campanulate limb; lobes lanceolate, ca. 2 mm, apically obtuse. Anthers exserted from corolla, basally long caudate. Style branches excurved, truncate, papillose. Achenes cylindric, 3-4 mm, glabrous, ribbed. Pappus white, 6-7 mm. Fl. Jul-Aug, fr. Sep-Oct.
+  "Statistics": "● Understories of *Pinus* or *Picea* forests on slopes; 3400-3500 m. Yunnan (Lijiang).
+  "Synonym": "*Cacalia lidjiangensis* Handel-Mazzetti, Symb. Sin. 7: 1130. 1936.
+**24.丽江蟹甲草（云南种子植物名录）图版11：1-5**
+
+Parasenecio lidjiangensis (Hand. -Mazz.) Y. L. Chen comb. nov. ——Cacalia lidjiangensis Hand. -Mazz. Symb. Sin. 7: 1130. 1936; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 6. 1966; Koyama in Acta Phytotax. Geobot. 29: 171. 1978.
+
+多年生草本，根状茎短粗，直径达15-20毫米，具多数被细绒毛的须根。茎单生，劲直，高（30）45-65厘米，下部通常紫红色，除具数枚卵状披针形褐色鳞片外，常长裸露，具明显的条棱，中部或中下部被疏蛛丝状毛。叶通常生于茎中部至上部，叶片较薄，三角形或戟状三角形，长（5）6-10厘米，宽5-11厘米，顶端急尖或渐尖，具小尖头，基部截形或徽心形，楔状下延成窄或宽翅的叶柄，边缘具大小不等的深波状宽或细齿，齿端具小尖；叶脉在基部以上分叉，侧脉连结成疏网状，在下面宽突起，上面亮绿色，被密或较密具节的糙伏毛，下面除叶脉外被密白色蛛丝状绒毛；叶柄约与叶片等长或短于叶片，基部细或扩大成径4-15毫米的圆耳，半抱茎，上部叶渐小，披针形或线状披针形，具短叶柄。头状花序12-18，在茎端或上部叶腋排列成总状或复总状花序，苞片线状披针形，长达10毫米；花序梗长2-5（10）毫米，下垂，被白色蛛丝状毛，总苞圆柱形或狭钟状，长8-10毫米，宽3-5毫米，总苞片6-8，线状披针形，长约10毫米，宽1.5-2毫米，顶端钝，被细髯毛，边缘狭干膜质，外面无毛，有数条细脉；小苞片短于总苞片的三分之一。小花9-12（14），花冠黄色，或稀橙黄色，长8-9毫米，管部细，长3-4毫米，檐部窄钟状，裂片披针形，长达2毫米，顶端钝，几不伸出总苞，花药伸出花冠，基部具长尾；花柱分枝外弯，顶端截形，被乳头状微毛。瘦果圆柱形，长3-4毫米，无毛，具肋；冠毛白色，长6-7毫米。花期7-8月，果期9-10月。
+
+产云南（丽江）。生于山坡松林或冷杉林下，海拔3000-3500米。

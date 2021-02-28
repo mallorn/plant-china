@@ -1,0 +1,15 @@
+粉背蕨",
+20.**Aleuritopteris anceps** (Blanford) Panigrahi Bull. Bot. Surv. India. 2: 321. 1961.",
+
+## Description
+Rhizomes erect, short; scales bicolorous, black with pale brown margins, lanceolate. Fronds clustered. Stipe dark brown, lustrous, 8-30 cm × 1-2 mm, scaly toward base; scales sometimes extending up stipe to rachis, those at stipe base bicolorous, dark brown to black with lighter margins, some of distal scales concolorous or darker tipped. Lamina ovate-deltoid, oblong, or ovate-lanceolate, 10-25 × 5-10 cm, pinnate-bipinnatifid, papery or thinly leathery when dry, abaxially with white farina, adaxially glabrous; rachis sometimes with a few scales similar to those of stipe; pinnae 5-10 pairs, distinct along rachis, basal pair inequilateral, triangular, bipinnatifid; pinnules 5-8 pairs, basal basiscopic pinnules largest, much longer than adjacent acroscopic ones, lanceolate, pinnatifid; second and upper pairs of pinnae lanceolate. Veins obscure. Sori consisting of several sporangia, confluent at maturity. False indusia interrupted, membranous, with laciniate margins. 2*n* = 58, 60, 116.
+
+> Rock crevices on slopes; 300-2600 m. Fujian, Guangdong, Guangxi, Guizhou, Hunan, Jiangxi, Sichuan, Yunnan, Zhejiang [Bhutan, India, Kashmir, Nepal, Pakistan].
+  "Synonym": "*Cheilanthes anceps* Blanford, J. Simla Naturalists Soc. 1(2): 21. 1886; *Aleuritopteris farinosa* (Forsskål) Fée var. *anceps* (Blanford) Ching; *A. pseudofarinosa* Ching &amp; S. K. Wu; *A. pseudofarinosa* var. *glandulosa* H. G. Zhou; *A. wuyishanensis* Ching; *C. farinosa* (Forsskål) Kaulfuss var. *anceps* (Blanford) Blanford; *C. pseudofarinosa* (Ching &amp; S. K. Wu) K. Iwatsuki.
+**21.多鳞粉背蕨（植物分类学报）图版39：1-3**
+
+Aleuritopteris anceps (Blanford) Panigrahi in Bull. Bot. Surv. India 2: 321. 1961: Pic. Ser. Ind. Fil. Suppl. 4: 7. 1965; S. K. Wu in Acta Phytatax. Sinica 19 (1) : 70. f. 2, 1-3. 1981; Ching et al. in C. Y. Wu, Fl. Xizang. 1: 82. 1983.——Cheilanthes farinosa Fee var. anceps Blanford in Journ. Asiat. Soc. 25: 411. 1889. ——Cheilanthes anceps Blanford in Simla Nat. Soc. 6: 25. 1886; Hope in Journ. Bombay Nat. Hist. Soc. 13: 249. 1900.——Aleuritopteris farinosa Fee var. anceps Ching in Hongk. Nat. 10: 201. 1941.——Cheilanthes farinosa Bedd. Handb. Ferns Brit. Ind. Suppl. 21. 1893, non. Fee 1852.——Aleuritopteris calicicola Ching in Y. L. Chang et al. Sporae Pterid. Sin. 157. t. 33. f. 20-21. 1976, nom. nud. ——Aleuritopteris gresia sensu Ching 1. c. 158. t. 33. f. 16. 17. 1976, non Blanford. 1886.
+
+植株高15-40厘米。根状茎短而直立，密被鳞片；鳞片披针形，先端长渐尖，质厚，中间黑色，具淡棕色狭边。柄长5-23厘米，粗2毫米，直达叶轴具鳞片；鳞片披针形，棕色、先端长钻状；叶片长4-17厘米，宽2-7厘米，长圆状披针形，基部三回羽状深裂，中部二回羽状深裂，顶端羽裂渐尖；羽片4-6对，彼此以无翅叶轴远分开，下部1-2对相距2-4厘米；基部一对羽片最大，斜三角形，先端钝尖，基部与叶轴合生，无柄，二回羽状深裂，羽轴下侧的小羽片较上侧的长；基部下侧一片小羽片最长，长1.5-2.5厘米，宽0.5-1厘米，披针形，一回羽裂，有裂片4-6对，长圆形或镰刀形；第二对羽片长圆状披针形，较基部一对羽片短而狭；第三对以上羽片披针形，钝尖头。叶干后纸质，上面褐绿色，光滑，叶脉不显，下面被白色粉末，羽轴、小羽轴与叶轴同色，羽轴上偶具鳞片。孢子囊群密接，由多个孢子囊组成；囊群盖膜质，棕色，宽几达羽轴，边缘撕裂状；孢子极面观为三角形或钝三角形，周壁具拟网状纹饰，褶皱短而粗，常连接，分布极不均匀。
+
+产云南、四川、贵州、西藏、广东、广西，生岩石上，海拔1 600-2 300米；印度西北部、尼泊尔、锡金亦有分布。模式标本采自喜马拉雅西北部。

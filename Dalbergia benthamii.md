@@ -1,0 +1,6 @@
+两粤黄檀",
+13.**Dalbergia benthamii** Prain J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 67: 289. 1898.",
+
+## Description
+Climbing shrubs, large, occasionally erect. Branches black, long, glabrous. Leaves 12-17 cm; rachis and petioles appressed puberulent; leaflets 5-7, ovate or elliptic, 3.6-6 × 1.5-3 cm, subleathery, abaxially glaucous and minutely appressed puberu-lent, adaxially glabrous, base cuneate, apex obtuse, emarginate. Panicles axillary, ca. 4 × 2.5 cm; short peduncle and slender pedicels ca. 2.5 mm, rusty tomentose. Flowers ca. 8 mm, fra-grant; bracts deciduous, oblong; bracteoles persistent, lan-ceolate. Calyx campanulate, outside rusty tomentose; teeth subequal, ovate-triangular, obtuse. Corolla white; petals long clawed; standard reflexed, elliptic, base shortly auriculate, emarginate; wings obovate-oblong, incurved auriculate on upper side below as keel; keel half-moon-shaped, with claws ca. as long as calyx. Stamens 9, monadelphous. Ovary long stipitate, glabrous, 2- or 3-ovuled; style subulate. Legume lig-ulate-oblong, 5-7.5 × ca. 1.5 cm, thinly leathery, 1- or 2-seeded. Seeds reniform, compressed, ca. 11 × 5 mm. Fl. Mar-Jun, fr. Jul-Oct.
+  "Statistics": "Sparse forests, among bushes, climbing on trees; 100-700 m. Guangdong, Guangxi, Guizhou, Hainan, Taiwan [Vietnam].

@@ -1,0 +1,19 @@
+密花山矾",
+38.**Symplocos congesta** Bentham",
+
+## Description
+Trees or shrubs. Young branchlets tomentellous or at least with some patches of tomentum especially towards apex and at beginning of growth flushes, glabrescent; terminal buds tomentellous, with several scales. Petiole 0.5--1.5 cm; leaf blade elliptic to obovate, 8--10(--17) X 2--6 cm, papery, glabrous, base cuneate to broadly cuneate, margin entire or rarely dentate, apex acuminate to acute, lateral veins 5--10 pairs. Inflorescences a glomerule; bracts and bractlets persistent, brown tomentose, margin with 4 or 5 oblong glands. Ovary 0.5--1.5 mm, glabrous or appressed pubescent. Calyx glabrous; tube 0.5 mm; lobes 1.5--3.5 mm. Corolla 4--5 mm. Stamens ca. 50. Disc flat to annular, glabrous. Drupes purplish blue, cylindrical, 8--13 X 3--4 mm, apex with persistent erect calyx lobes. Fl. Aug-Nov, fr. Jan-Feb.
+
+> * Mixed forests; 200--1500 m. Fujian, Guangdong, Guangxi, Hainan, Hunan, Jiangxi, Taiwan, Yunnan, Zhejiang.
+  "Synonym": "&lt;I&gt;Bobua adinandrifolia&lt;/I&gt; (Hayata) Kanehira &amp; Sasaki; &lt;I&gt;B&lt;/I&gt;. &lt;I&gt;congesta&lt;/I&gt; (Bentham) Migo; &lt;I&gt;B&lt;/I&gt;. &lt;I&gt;nakaii&lt;/I&gt; (Hayata) Kanehira &amp; Sasaki; &lt;I&gt;B&lt;/I&gt;. &lt;I&gt;phaeophylla&lt;/I&gt; (Hayata) Kanehira &amp; Sasaki; &lt;I&gt;B&lt;/I&gt;. &lt;I&gt;taiwaniana&lt;/I&gt; Hatusima; &lt;I&gt;B&lt;/I&gt;. &lt;I&gt;theifolia&lt;/I&gt; Kanehira &amp; Sasaki; &lt;I&gt;Dicalix congestus&lt;/I&gt; (Bentham) Migo; &lt;I&gt;Symplocos adinandrifolia&lt;/I&gt; Hayata; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;cuspidata&lt;/I&gt; Brand; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;hayatae&lt;/I&gt; Mori; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;kudoi&lt;/I&gt; Mori; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;nakaii&lt;/I&gt; Hayata; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;phaeophylla&lt;/I&gt; Hayata.
+**72.密花山矾（中国高等植物图鉴）图版25：1-5**
+
+Symplocos congesta Benth. Fl. Hongk. 211. 1861; Forb. et Hemsl. in Journ. Linn. Soc. Bot. 26: 72. 1889; Brand in Engler, Pflanzenr. 6 (IV. 242）: 69. 1901; Dunn et Tutcher in Kew Bull. Misc. Inform. add. ser. 10, 163. 1912; Merr. in Journ. Arn. Arb. 20: 353. 1939; Hand. -Mazz. et Peter-Stibal in Beih. Bot. Centralbl. 62 (B): 99. 1943; Li in Journ. Wash. Acad. Sci. 43: 107. 1953, et Woody Fl. Taiwan 747. 1963; 中国高等植物图鉴3. 321. 图4596. 1974;海南植物志3: 192. 1974.——S. cuspidata Brand in Engler, Pflanzenr. 6(IV. 242): 69. 1901. ——S. adinandrifolia Hayata, Icon. Pl. Formos 5: 93. 1915.——S. nakaii Hayata, op. cit. 110. f. 25e. 1915.——S. phaeophylla Hayata, op. cit. lll. f. 34. 1915.——S. hayatae Mori in Trans. Nat. Hist. Soc. Formos. 24: 193. 1934, et in Sylvia 6: 21. f. 12. 1935.——S. kudoi Mori in Trans. Nat. Hist. Soc. Formos. 24: 193. 1934, et in Sylvia 6: 24. f. 18. 1935; Kanehira, Formos. Trees rev. ed. 594. 1936. ——Bobua adinandrifolia (Hayata) Kanehira et Sasaki in Sasaki, list Pl. Formos. 330. 1928. ——B. nakaii (Hayata) Kanehira et Sasaki op. cit. 331. ——B. phaeaphylla (Hayata) Kanehira et Sasaki op. cit. 332.——B. theifolia Kanehira et Sasaki op. cit. 332.——B. taiwaniana Hatusima in Journ. Jap. Bot. 13: 680. 1937.——B. congesta (Benth. ) Migo in Bot. Mag. Tokyo 56: 268. 1942. ——Dicalix congestus (Benth.) Migo in Journ. Shanghai Sci. Inst. 13: 199. 1943.——S. glomerata King ex Clarke ssp. congesta (Benth. ) Noot. var. congests Noot. Rev. Symplocac. 202. 1975. excl. syn. S. nubium Guill.
+
+常绿乔木或灌木；幼枝、芽、均被褐色皱曲的柔毛。叶片纸质，两面均无毛，椭圆形或倒卵形，长8-10（17）厘米，宽2-6厘米，先端渐尖或急尖，基部楔形或阔楔形，通常全缘或很少疏生细尖锯齿；中脉和侧脉在叶面均凹下，侧脉每边5-10条，与中脉交成40°-45°角，在近叶缘处向上弯拱近环结；叶柄长1-1.5厘米。团伞花序腋生于近枝端的叶腋；苞片和小苞片均被褐色柔毛，边缘有4-5枚长圆形、透明的腺点；花萼有时红褐色，长3-4毫米，无毛，有纵条纹，裂片卵形或阔卵形，覆瓦状排列；花冠白色，长5-6毫米，5深裂几达基部，裂片椭圆形；雄蕊约50枚，花丝基部稍联合；子房3室；花盘无毛。核果熟时紫蓝色，多汁，圆柱形，长8-13毫米，顶端宿萼裂片直立；核约有10条纵棱。花期8-11月，果期翌年1-2月。
+
+产云南、广西、广东（海南及香港）、湖南、江西、福建、台湾。生于海拔200-1500米的密林中。模式标本采自广东香港。
+
+根药用，治跌打。
+
+本种幼枝、芽被褐色皱曲柔毛；叶柄及叶缘无腺齿；萼筒及花盘无腺点；雄蕊约50枚；核果熟时蓝色。分布于我国南部及东南部，海拔200-1500米。其形态特征与地理分布与团花山矾均明显不同，应作为独立的种，不同意H. P. Nooteboom 作为团花山矾 S. glomerata King的变种。

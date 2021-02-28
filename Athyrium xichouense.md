@@ -1,0 +1,14 @@
+西畴蹄盖蕨",
+115.**Athyrium xichouense** Y. T. Hsieh & Z. R. Wang Acta Phytotax. Sin. 27: 155. 1989.",
+
+## Description
+Rhizomes short, erect, densely clothed with brown, lanceolate scales at apices and stipe bases. Fronds caespitose, up to 75 cm; stipe blackish brown, upward stramineous, shiny, 40-48 cm, ca. 3 mm in diam. at base, upward glabrate; lamina 2-pinnate, ovate, 27-30 × 18-20 cm, base rounded, apex slightly abruptly narrowed; pinnae 5 or 6 pairs, alternate or basal pinnae subopposite, stalked (stalk 3-10 mm) ascending; basal pinnae not shortened, broadly lanceolate, up to 12 × ca. 4 cm; middle pinnae lanceolate, up to 10 × 2.5-3 cm, base subequilateral, rounded-cuneate, parallel to rachis on acroscopic side, narrowly cuneate on basiscopic side, pinnate, apex long acuminate and somewhat caudate; pinnules 14-17 pairs, alternate, basal pinnules with stalk ca. 1 mm, upper pinnules sessile, ascending; basal pinnules slightly larger, oblong-lanceolate, somewhat falcate, 1.4-1.6 cm × 6-7 mm, base inequilateral, subtruncate, auriculate, somewhat parallel to rachis on acroscopic side, narrowly cuneate on basiscopic side, pinnatilobate, apex obtuse-acute, with 3-5 small teeth; pinnule segments ca. 6 pairs, suboblong, with 2 or 3 short teeth at apex; upper pinnules equal to basal pinnules but gradually smaller, decurrent at base; veins visible abaxially, somewhat visible adaxially, pinnate in segments, lateral veins 2 or 3 pairs, oblique, simple. Lamina herbaceous when dried, pale green, glabrate on both surfaces; rachis and costae stramineous, occasionally with few brownish, linear small scales abaxially, with pale needlelike spines on upper part of rachis and midrib adaxially. Sori oblong, lateral on basal acroscopic veins, 1 per segment (2-4 in basal acroscopic segments), biseriate on both sides of costules, inframedial; indusia brown, oblong, membranous, entire, persistent or partly fugacious. Perispore surface without folds.
+
+> ● Damp areas in evergreen broad-leaved forests; 1400-2600 m. NW and SE Yunnan.
+**114. 西畴蹄盖蕨（植物分类学报）图版57: 6-9**
+
+Athyrium xichouense Y. T. Hsieh et Z. R. Wang in Acta Phytotax. Sin. 27 (2): 155, t. 1, pl. 1. 1989; Z. R. Wang in W. T. Wang, Vasc. Pl. Hengduan Mount. 1: 86. 1993.
+
+根状茎短而直立，先端连同叶柄基部密被深褐色、披针形的鳞片；叶簇生。叶长达75厘米；叶柄长40-48厘米，基部直径约3毫米，黑褐色，向上禾秆色，光滑并略有光泽；叶片卵形，长27-30厘米，宽18-20厘米，先端略急狭缩，基部圆形，二回羽状；羽片5-6对，互生或基部的近对生，有柄（长3-10毫米）斜展，基部1对不缩短，阔披针形，长达12厘米，宽约4厘米；中部的羽片披针形，长达10厘米，宽2.5-3厘米，先端长渐尖并略成尾状，基部近对称，圆楔形，上侧与叶轴并行，下侧斜切，一回羽状；小羽片14-17对，互生，基部的有柄（长约1毫米），向上的无柄，斜展，基部一对略较大，长圆状披针形，略呈镰刀状，长1.4-1.6厘米，宽6-7毫米，钝尖头，并有3-5个小尖齿，基部不对称，上侧近截形，有耳状凸起，略与叶轴并行，下侧狭楔形，边缘浅羽裂；裂片6对左右，近长方形，先端有2-3个短尖齿；向上的各对小羽片与基部一对同形而逐渐缩小，其基部下延。叶脉下面明显，上面略可见，在裂片上为羽状，侧脉2-3对，斜向上，单一。叶干后草质，灰绿色，两面光滑；叶轴和羽轴下面禾秆色，偶有少数浅褐色、线形小鳞片，上面近顶部和主脉上有灰白色针状软刺贴生。孢子囊群长圆形，生于裂片基部上侧小脉上，每裂片1枚（基部上侧的裂片2-4枚），在主脉两侧各排成1行，并紧靠主脉；囊群盖同形，褐色，膜质，全缘，宿存或部分脱落。孢子周壁表面无褶皱。
+
+分布于云南东南部和西北部（西畴法斗、元阳、贡山）。生于常绿阔叶林下阴湿处，海拔1400-2600米。模式标本采自云南（西畴法斗）。

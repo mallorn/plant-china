@@ -1,0 +1,46 @@
+青藏垫柳组",
+11.**Salix Sect. Lindleyanae** C. K. Schneider",
+
+## Description
+Shrubs procumbent, creeping, or cushion-shaped. Stems rooting. Leaves small, elliptic to lanceolate, margin entire or dentate. Catkins terminal or lateral, capitate, few flowered. Male flower: adaxial and abaxial glands present; stamens 2, distinct. Female flower: only adaxial gland present, rarely with adaxial and abaxial glands; ovary glabrous or pilose, sessile or stipitate.
+  "Synonym": "Sect. &lt;I&gt;Serpylla&lt;/I&gt; C. K. Schneider.
+  "keylist": "
+1 Flowering precocious[Salix clathrata 栅枝垫柳](Salix clathrata.md)
+1 Flowering coetaneous.——(2)
+2(1) Filaments pilose proximally.——(3)
+2 Filaments glabrous or pilose at base.——(6)
+3(2) Juvenile branchlets densely yellowish brown hirsute[Salix hirticaulis 毛枝垫柳](Salix hirticaulis.md)
+3 Juvenile branchlets not yellowish brown hirsute.——(4)
+4(3) Bracts glabrous on both surfaces, or sparsely pilose only at base[Salix ludingensis 泸定垫柳](Salix ludingensis.md)
+4 Bracts abaxially villous, adaxially glabrous.——(5)
+5(4) Juvenile branchlets villous; leaf blade ovate-oblong or obovate-oblong, abaxially glaucous and sericeous[Salix pilosomicrophylla 毛小叶垫柳](Salix pilosomicrophylla.md)
+5 Juvenile branchlets coarsely hispid; leaf blade obovate or elliptic, abaxially greenish, with long hairs along veins, pubescent when young[Salix kamanica 卡马垫柳](Salix kamanica.md)
+6(2) Filaments pilose at base.——(7)
+6 Filaments glabrous.——(12)
+7(6) Leaf blade elliptic, obovate-elliptic, or ovate.——(8)
+7 Leaf blade oblong, obovate-oblong, or obovate-lanceolate.——(10)
+8(7) Leaf blade ca. 8 × 3.5(-5.5) mm[Salix crenata 锯齿叶垫柳](Salix crenata.md)
+8 Leaf blade (5-)10(-20) mm.——(9)
+9(8) Juvenile branchlets with sparse, long hairs or glabrous; catkin ovate-orbicular; bracts glabrous[Salix brachista 小垫柳](Salix brachista.md)
+9 Juvenile branchlets densely white villous; catkin cylindric; bracts pilose adaxially and at margin[Salix kangdingensis 康定垫柳](Salix kangdingensis.md)
+10(7) Leaf blade 12-16 × 4-6 mm[Salix lindleyana 青藏垫柳](Salix lindleyana.md)
+10 Leaf blade 4-10 × 1-4 mm.——(11)
+11(10) Catkin few flowered; leaf blade oblong, cuneate at both ends, margin entire[Salix gyirongensis 吉隆垫柳](Salix gyirongensis.md)
+11 Catkin many flowered; leaf blade obovate-oblong, base cuneate, margin dentate distally[Salix serpyllum 多花小垫柳](Salix serpyllum.md)
+12(6) Leaves very small, usually less than 4 mm[Salix ovatomicrophylla 卵小叶垫柳](Salix ovatomicrophylla.md)
+12 Leaves more than 4 mm.——(13)
+13(12) Leaf margin entire, or dentate on distal part of branchlets (dentate in <I>S. piptotricha</I> and <I>S. paraflabellaris</I>).——(14)
+13 Leaf margin dentate (sometimes subentire in <I>S. calyculata</I> <I>var. gongshanica</I>).——(17)
+14(13) Leaf blade elliptic, ovate-elliptic or ovate-oblong, margin entire.——(15)
+14 Leaf blade obovate, obovate-orbicular, or elliptic, margin entire or dentate.——(16)
+15(14) Petiole 4-7 mm[Salix souliei 黄花垫柳](Salix souliei.md)
+15 Petiole 1-2 mm[Salix scopulicola 岩壁垫柳](Salix scopulicola.md)
+16(14) Bracts obovate[Salix piptotricha 毛果垫柳](Salix piptotricha.md)
+16 Bracts ovate-oblong[Salix paraflabellaris 类扇叶垫柳](Salix paraflabellaris.md)
+17(13) Leaf margin in distal 1/2 of leaves with 3-5 deeply indented teeth, entire proximally[Salix oreophila 尖齿叶垫柳](Salix oreophila.md)
+17 Leaf margin crenate or subentire.——(18)
+18(17) Bracts sparsely ciliate[Salix anticecrenata 圆齿垫柳](Salix anticecrenata.md)
+18 Bracts glabrous.——(19)
+19(18) Catkin ca. 1.5 cm, many flowered; leaf blade abaxially greenish, margin dentate[Salix flabellaris 扇叶垫柳](Salix flabellaris.md)
+19 Catkin ca. 5 mm, few flowered; leaf blade abaxially pale, margin indistinctly dentate or subentire[Salix calyculata 长柄垫柳",](Salix calyculata.md)
+  "keymorelist": "<div class='keymorediv'><div>List of Keys</div><div><a href='/info/Salix Sect. Lindleyanae?t=foc'>Key based on male plants</a></div><div><a href='/info/Salix Sect. Lindleyanae?t=foc&key_no=2'>Key based on female plants</a></div><div><a href='/info/Salix Sect. Lindleyanae?t=foc&key_no=3'>Key based on vegetative characters</a></div></div>",

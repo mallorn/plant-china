@@ -1,0 +1,6 @@
+雅鲁黄耆",
+159.**Astragalus cobresiiphilus** Podlech & L. R. Xu Sendtnera. 7: 196. 2001.",
+
+## Description
+Plants up to 12 cm tall, with appressed to subappressed hairs. Stems prostrate to ascending, up to 5 cm, loosely fur-nished with somewhat flattened white hairs 0.1-0.2 mm, partly glabrescent. Leaves 1-3.5 cm; stipules 2-3.5 mm, all distinctly connate behind stem, sparsely hairy to sometimes glabrous; peti-ole short, with rachis sparsely to loosely hairy like stem; leaflets in 5-8 pairs, elliptic, 1-4 × 0.6-2 mm, abaxially sparsely to loosely covered with appressed hairs up to 0.3 mm, adaxially glabrous, apex rounded to emarginate. Racemes 3-10-flowered; peduncle 1.5-5 cm, sparsely to loosely hairy like stem but hairs increasingly black toward raceme; bracts 1-1.5 mm, white and black hairy. Calyx (2.5-)3-4 mm, loosely covered with appressed black hairs 0.1-0.3 mm and more rarely also with some white hairs; teeth unequal, 0.3-1.5 mm. Petals blue to pur-ple; standard widely elliptic to orbicular, 6-7 × ca. 5 mm; wings ca. 5.5 mm; keel ca. 5 mm. Legumes subsessile or with a stipe ca. 1 mm, pendulous, narrowly ellipsoid, curved, ca. 6 mm, ca. 2 mm high and wide, acute with hooked persistent style, 1-loc-ular; valves loosely covered with appressed black hairs 0.1-0.2 mm, soon glabrescent.
+  "Statistics": "● 3300-5100 m. Qinghai, Xinjiang, Xizang.

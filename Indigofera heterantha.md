@@ -1,0 +1,14 @@
+异花木蓝",
+70.**Indigofera heterantha** Wallich ex Brandis in Brandis & Stewart Forest Fl. N.W. India. 135. 1874.",
+
+## Description
+Shrubs, 1-2(-3) m tall. Stems grayish brown, terete, with rounded lenticels, covered with appressed medifixed trichomes; young branches angular, with slightly spreading white medi-fixed symmetrically 2-branched trichomes. Stipules linear, ca. 3 mm, caducous, with appressed brown trichomes. Leaves 6-7 cm, (9-)13-25-foliolate; petiole and rachis adaxially grooved, with appressed medifixed trichomes; petiole 1-9 mm; stipels subulate, ca. 1 mm; petiolules ca. 1 mm; leaflet blades opposite, elliptic, obovate, or oblanceolate, 5-15(-25) × 2-10(-15) mm, papery, both surfaces with appressed white medifixed tri-chomes, midvein abaxially prominent and adaxially flat, sec-ondary veins not visible, base broadly cuneate to rounded, apex obtuse to truncate and mucronate. Racemes 3-8 cm; peduncle (0.5-)1.4-2(-3) cm; young inflorescences in bud grayish green with few brownish hairs, rachis with dense appressed medifixed trichomes; bracts minute, caducous. Pedicel 1.5-3 mm, hairy, deflexed in fruit. Calyx 2.5-3.5(-4) mm, with appressed medi-fixed trichomes; tube ca. 1.5 mm; teeth triangular-lanceolate, 1.5-2.5 mm. Corolla purple to light purple; standard elliptic, 7.5-9(-13) × 4-5 mm, outside hairy; wings 7.5-10 mm, margin ciliate; keel 0.7-1.3 cm, outside apically hairy, margin ciliate, spur ca. 1 mm. Stamens (6-)7-11.5 mm; anthers ovoid-globose, base hairy. Ovary hairy, with 10 ovules. Legume brown, linear, cylindric, 1-1.5(-2) cm, glabrescent; endocarp purple blotched. Seeds 6-10 per legume, oblong, ca. 2.5 mm. Fl. May-Jun, fr. Jul-Oct. 2*n* = 16, 32, 48.
+  "Statistics": "Forested slopes; ca. 2300 m. S Xizang [Afghanistan, Bhutan, India, Nepal, Pakistan, Sri Lanka; Africa].
+  "Synonym": "*Indigofera gerardiana* Wallich ex Baker; *I. gerardiana* var. *heterantha* (Wallich ex Brandis) Baker; *I. heterantha* var. *gerardiana* (Wallich ex Baker) Ali.
+**46.异花木蓝（云南种子植物名录）**
+
+Indigofera heterantha Wall. ex Brand. For. Fl. N.-W. Centr. Ind. 135. 1874; Ali. in Bot. Not. 3: 566. 1958; Ohashi in Fl. E. Himal. 3: 65. 1975, et Enum. Fl. Pl. Nepal 2: 123. 1979;云南种子植物名录1: 607. 1984;西藏植物志2: 771. 1985.——I. geradiana Wall. ex Baker var. heterantha (Wall. ex Brand.) Baker. in Hook. f. Fl. Brit. Ind. 2: 100. 1876.
+
+灌木，高0.3-1米。茎栗褐色，圆柱形，具明显圆形皮孔，疏被平贴毛，幼枝具棱，被灰白色半开展丁字毛。羽状复叶长达7厘米；叶柄长约5毫米，叶轴有槽，被平贴或近平贴丁字毛；托叶线形，长约3毫米，先端常反曲，有褐色毛，早落；小叶6-12 (-15)对，对生，椭圆形、倒卵形或倒披针形，长5-8毫米，宽4-4.5毫米，先端圆钝或截平，有小尖头，基部阔楔形或近圆形，上面绿色，下面粉绿色，两面有白色平贴丁字毛，中脉上面平，下面隆起，侧脉不明显；小叶柄长约1毫米；小托叶刚毛状，与小叶柄等长或稍长。总状花序长2.5-3厘米；几无总花梗，花序轴密被毛；苞片微小，早落；花梗长1.5-2毫米，有毛；花萼钟状，长2.5-3毫米，外面有粗丁字毛，萼筒长约1.5毫米，萼齿披针形，下萼齿与萼筒等长；花冠紫色或淡紫色，旗瓣椭圆形，长7.5-8（-9.5）毫米，宽4-4.5毫米，外面有柔毛，翼瓣长约7.5毫米，有缘毛，龙骨瓣与旗瓣近等长，先端和边缘有毛，距长约1毫米；花药卵球形，顶端有小凸尖，基部有少量髯毛；子房被毛，有胚珠10余粒。荚果栗褐色，圆柱形，长1-1.5 (-2)厘米，早期疏生短丁字毛，后脱落无毛，有种子6-10粒，内果皮有紫红色斑点；果梗长约2毫米，有毛，下弯。种子长圆形，长约2.5毫米。花期4-7月，果期7-10月。
+
+产西藏（聂拉木、樟木）。生于山麓、山坡林下，海拔2300米。巴基斯坦、印度、尼泊尔、不丹、斯里兰卡、阿富汗也有分布。

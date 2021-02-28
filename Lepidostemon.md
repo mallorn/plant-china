@@ -1,0 +1,12 @@
+鳞蕊芥属",
+62.**Lepidostemon** J. D. Hooker & Thomson",
+
+## Description
+Herbs annual or cespitose perennial. Trichomes dendritic, forked, submalpighiaceous, or simple, often more than 1 kind present. Stems erect, simple from rosettes, leafy or leafless. Basal leaves petiolate, rosulate, simple, entire or dentate. Cauline leaves similar to basal, sometimes pinnatifid, rarely absent. Racemes few to many flowered, ebracteate or rarely bracteate throughout, elongated or not elongated in fruit, sometimes flowers solitary on long pedicels originating from axils of rosette leaves. Fruiting pedicels slender, divaricate or recurved. Sepals oblong, persistent or rarely caducous, base of lateral pair not saccate, margin membranous. Petals yellow, white, lavender, or purple; blade broadly obovate or rarely spatulate, apex rounded or emarginate; claw subequaling sepals. Stamens 6, tetradynamous; filaments winged or rarely wingless, toothed or rarely toothless; anthers reniform or rarely oblong, obtuse at apex. Nectar glands 4, lateral; median glands absent. Ovules 8-28 per ovary. Fruit dehiscent siliques, linear-oblong to linear, terete or latiseptate, sessile; valves papery, obscurely veined, rarely marginal veins prominent, pubescent, torulose or rarely smooth; replum rounded; septum complete or rarely perforated, membranous; style distinct, to 2 mm; stigma capitate, entire or rarely slightly 2-lobed. Seeds uniseriate, wingless, oblong or ovate, plump; seed coat minutely reticulate, not mucilaginous when wetted; cotyledons accumbent or rarely incumbent.
+  "Statistics": "Five species: Bhutan, China, Nepal, Sikkim; three species (two endemic) in China.
+  "Synonym": "&lt;I&gt;Chrysobraya&lt;/I&gt; H. Hara.
+  "keylist": "
+1 Perennials; racemes bracteate throughout; trichomes almost exclusively simple; anthers oblong, 0.7-0.9 mm[L. everestianus 珠峰鳞蕊芥](Lepidostemon everestianus.md)
+1 Annuals; racemes ebracteate, rarely lowermost few flowers bracteate; trichomes dendritic, submalpighiaceous, or simple; anthers reniform, 0.3-0.5(-0.6) mm.——(2)
+2(1) Fruit strongly flattened, not torulose, 2.5-3 mm wide; valve margin thickened, with prominent marginal veins; median filaments toothless; flowers white; seeds ovate[L. rosularis 莲座鳞蕊芥](Lepidostemon rosularis.md)
+2 Fruit terete, torulose, ca. 1 mm wide; valve margin not thickened, with obscure marginal veins; median filaments toothed; flowers yellow; seeds oblong[L. pedunculosus 鳞蕊芥",](Lepidostemon pedunculosus.md)

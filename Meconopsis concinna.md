@@ -1,0 +1,14 @@
+优雅绿绒蒿",
+31.**Meconopsis concinna** Prain Bull. Misc. Inform. Kew. 1915: 163. 1915.",
+
+## Description
+Herbs, monocarpic, to 20 cm tall in flower (to 30 cm in fruit). Taproot napiform, 1.5-4 cm × 5-7 mm. Leaves all basal, deciduous, rarely from flowering stem near base; petiole narrowly strap-shaped, 2-5 cm × 1-2 mm; blade variously shaped, oblanceolate, oblong-oblanceolate, elliptic-oblanceolate, or spatulate, small, 2-5.2 × 0.4-1.2 cm, almost fleshy, both surfaces glabrous, with slender veins not obvious, pinnatisect or bipinnatisect, sometimes several entire on same plant; terminal lobes rhombic, oblong, obovate, or linear; lateral lobes 2-4 pairs normally, obovate, oblong, spatulate, or linear, apex rounded. Scape basal or from axils, 4-20 cm tall, glabrous or very sparsely compressed- or curved fulvous hairy. Flowers solitary on scape, rarely several scapes agglomerated, 2.4-4.8 cm in diam. Flower buds globose, ca. 8 mm in diam. Petals 4(or 5), purple-blue to violet-blue, broadly obovate, oval, or suborbicular, 1.1-2.2 × 0.7-1.5 cm, apex rounded or acute. Filaments of same color as petals, filiform, ca. 4 mm; anthers cream to gray-yellow, oval, ca. 0.5 mm. Ovary elliptic or elliptic-oblong, ca. 5 mm, very sparsely fulvous hirsute; styles purplish, ca. 1-4 mm; stigmas capitate. Capsule elliptic-oblong or elliptic, 1.7-3.3(-4) cm × 3-5(-7) mm, glabrous or very sparsely hirsute, (3 or)4-valvate for a short distance from top. Fl. May-Aug.
+  "Statistics": "● Grassy slopes, among *Rhododendron* shrubs, mountain moorlands and heaths, forest margins; 3300-4500 m. SW Sichuan, SE Xizang, NW Yunnan.
+  "Synonym": "*Meconopsis lancifolia* (Franchet) Franchet ex Prain var. *concinna* (Prain) G. Taylor.
+**26. 优雅绿绒蒿（云南植物志）图版8:3**
+
+Meconopsis concinna Prain in Hook. Ic. Pl. 31. t. 3035.1915; in Bull. Misc. Inf. Kew 1915; l63. 1915; Kingdon-Ward in Gard. Chron. Ser. 3, 79: 340. 1926; Hand.-Mazz. Symb. Sin. 7: 336. 1931; Fedde in Engl. et Prantl Nat. Pflanzenfam. ed. 2/17b: 103.1936; 云南植物志2: 33，图版11: 1-2. 1979; C. Y. W. et H. Chuang in Act. Bot. Yunn. 2 (4): 376. 1980; 中国高等植物图鉴补编1: 658, 图 8710. 1982; Criers. et D. G. Fl. Bhutan 1 (2): 408. 1984; 云南种子植物名录，上册: 167.1984:横断山区维管植物，上册: 593. 1993.——Meconopsis lancifolia var. concinna (Prain) Tayl. Monogr. 90. 1934.
+
+一年生草本。主根萝卜状，长1.5-4厘米，粗5-7毫米。叶全部基生，稀生于花茎的近基部，叶片小而近肉质，形状多变，倒披针形、长圆状倒披针形、椭圆状倒披针形或匙形，长2-3.5厘米，宽5-8毫米，羽状全裂或二回羽状全裂，有时有少数全缘叶，顶生裂片菱形、长圆形、倒卵形或线形，侧生裂片倒卵形、长圆形、匙形或线形，先端圆，两面无毛，具极细而不明显的叶脉；叶柄狭条形，长2-5厘米，宽1-2毫米。花葶基生或从叶腋间生出，高4.5-10厘米，果时延长达20厘米，无毛或被极稀疏、平伸或卷曲、黄褐色的柔毛。花单生子花葶上；花芽近球形，直径约8毫米；花瓣4，宽倒卵形、卵圆形或近圆形，长1-1.5厘米，宽0.7-1厘米，先端圆或急尖，紫色；花丝丝状，长约4毫米，与花瓣同色，花药卵圆形，长约0.5毫米；子房椭圆形或椭圆状长圆形，长约5毫米，被极稀疏、伸展、黄褐色的硬毛，花柱长约1毫米，带紫色，柱头头状。蒴果椭圆状长圆形或椭圆形，长约1.5厘米．无毛或被极稀疏的硬毛，3-4瓣自顶端微裂。花果期5-8月。
+
+产云南西北部和四川西南部，生于海拔3300-4500米的草坡或杜鹃灌丛中。模式标本采自云南丽江东北金沙江大弯。间断分布于不丹 (据Grierson et Long) 。

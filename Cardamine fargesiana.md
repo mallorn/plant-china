@@ -1,0 +1,9 @@
+法氏碎米荠",
+12.**Cardamine fargesiana** Al-Shehbaz",
+
+> Known only from the type collection, R. P. Farges 1341 bis (P), said to have been collected in \"Tchen-kéou-tin\" (Chengkou) but no date or exact locality were given.
+
+## Description
+Herbs perennial, 8-23 cm tall. Rhizomes ovoid or oblong, 2-5 × 1.5-2 mm. Stolons slender, densely pilose with crisped trichomes. Stems simple, erect, densely crisped pilose at base, gradually sparser upward, completely glabrous at raceme. Basal leaves 1-4 per plant, simple or rarely with a pair of leafletlike lobes; petiole 0.5-4.5 cm, densely crisped pilose; leaf blade orbicular, 5-12 mm in diam., palmately 5-veined, abaxially glabrous or sparsely pilose along proximal portion of veins, adaxially pilose with simple, straight trichomes to 0.5 mm, base cordate, margin entire or obscurely 5-angled, mucronate at vein tips. Cauline leaves 3-5, 0.9-2.2 × 0.7-1.5 cm, broadly ovate or oblong in outline, pinnatisect, abaxially glabrous, adaxially pilose; petiole absent and leaf base appearing auriculate; rachis 2-15 mm; terminal lobe of lowermost leaf obovate, 4-14 × 2-6 mm, apically 3-toothed, sometimes with a minute tooth subbasally on each side, base cuneate into a petiolule to 3 mm, margin entire, apex mucronate; lateral lobes 4-6, linear to lanceolate-linear, margin entire, apex acute, proximal 2-4 attached at one point on each side of rachis. Racemes 3-7-flowered. Flowering pedicels ascending, 5-12 mm, straight, glabrous. Sepals ovate, 2.5-3 × 1.2-1.6 mm, glabrous, margin and apex membranous, lateral pair saccate. Petals white, broadly obovate, 5-6 × 2.5-3 mm, apex rounded. Median filament pairs 3-3.5 mm, slender, lateral pair 2-2.5 mm; anthers oblong, 0.8-1.1 mm, base sagittate. Pistil glabrous; style 1-1.5 mm; stigma entire. Fruit and seeds not seen.
+
+> * NE Sichuan (Chengkou Xian).

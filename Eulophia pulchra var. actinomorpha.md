@@ -1,0 +1,8 @@
+辐花美冠兰",
+8b.**Eulophia pulchra var. actinomorpha** W. M. Lin Kuo Huang & T. P. Lin, Taiwania. 51: 163. 2006.",
+
+## Description
+Flowers not opening widely, lip coloration similar to that of petals. Sepals and petals elliptic, 13-14 × 3.4-4 mm; lip similar to petals, ovate-elliptic, ca. 14 × 4.5 mm, not spurred, simple, ecallose. Column ca. 4.5 mm; rostellum reduced. Fl. Oct-Dec.
+  "Reference": "This entity was independently described from both Taiwan (Lin et al., loc. cit.) and Australia (Jones &amp; Clements, Orchadian 14(8: Sci. Suppl.): ix. 2004). In both cases, the authors acknowledged its similarity to typical *Eulophia pulchra* in vegetative characters, citing the peloric perianth as the only distinguishing feature. Given the broad geographic range of the typical variety, Hsu and Chung (Taiwania 54: 82. 2009) noted that the peloric variety is likely to be more widespread than currently known, with the requirement of flowers limiting its positive identification.This entity was independently described from both Taiwan (Lin et al., loc. cit.) and Australia (Jones &amp; Clements, Orchadian 14(8: Sci. Suppl.): ix. 2004). In both cases, the authors acknowledged its similarity to typical *Eulophia pulchra* in vegetative characters, citing the peloric perianth as the only distinguishing feature. Given the broad geographic range of the typical variety, Hsu and Chung (Taiwania 54: 82. 2009) noted that the peloric variety is likely to be more widespread than currently known, with the requirement of flowers limiting its positive identification.
+  "Statistics": "Broad-leaved forests; ca. 200 m. S Taiwan [Australia (Queensland)].
+  "Synonym": "*Eulophia pelorica* D. L. Jones &amp; M. A. Clements.

@@ -1,0 +1,6 @@
+秦岭党参",
+33.**Codonopsis tsinlingensis** Pax & K. Hoffmann Repert. Spec. Nov. Regni Veg. Beih. 12: 500. 1922.",
+
+## Description
+Roots carrot-shaped, 10-20 × 0.6-3.5 cm. Stems several from one caudex, erect or ascending, 26-35 cm tall; branches slender, with leaves aggregated at top, white hirsute. Leaves on main stems alternate, those on branches subopposite; petiole less than 1 cm, white hirsute; blade ovate or broadly ovate, 1-2.6 × 0.6-1.8 cm, hispidulous, base rounded or cordate, margin crenulate to subentire, slightly revolute, apex acuminate, acute, or obtuse. Flowers solitary, terminal; pedicels 3-15 cm, densely hispid. Calyx tube adnate to ovary up to middle, hemispherical, 10-ribbed, hispid entirely or along ribs, rarely glabrous; lobes narrowly triangular, 8-10 × 4-6 mm, abaxially hispidulous, margin entire, revolute toward middle rib, apex acute. Corolla pale purple, with purple spots inside, campanulate, 20-30 × 20-30 mm, 5-fid almost to middle, inside villous. Stamens glabrous; filaments slightly dilated at base, ca. 5 mm; anthers ca. 4 mm. Capsule hemispherical at base, conical toward apex. Seeds brown-yellow, ellipsoid. Fl. and fr. Jul-Oct.
+  "Statistics": "● Alpine scrub, grassy slopes; 2700-3600 m. Shaanxi (Taibai Shan).

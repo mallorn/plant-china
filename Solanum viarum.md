@@ -1,0 +1,8 @@
+毛果茄",
+31.**Solanum viarum** Dunal",
+
+## Description
+Herbs or subshrubs, erect, 0.5-1(-2) m tall, armed, minutely tomentose with many-celled, simple, mostly glandular hairs. Stems and branches terete, densely and evenly pubescent with many-celled, simple hairs to 1 mm, armed with recurved prickles 2-5 &amp;#215; 1-5(-8) mm and sometimes with needlelike prickles 1-4 mm. Leaves unequal paired; petiole stout 3-7 cm, armed with erect, flat straight prickles 0.3-1.8 cm; leaf blade broadly ovate, 6-13 &amp;#215; 6-12 cm, with prickles and coarse, many-celled, glandular simple hairs on both surfaces, these mixed with sparse, sessile, stellate hairs abaxially, base truncate to short hastate, margin 3-5-lobed or -parted; lobes blunt at apex. Inflorescences extra-axillary, subfasciculate, 1-5-flowered racemes; peduncle obsolete or short. Flowers andromonoecious, only basal ones fertile. Pedicel 4-6 mm. Calyx campanulate, ca. 10 &amp;#215; 7 mm, lobes oblong-lanceolate, 0.6-1.2 mm, hairy and sometimes prickly abaxially. Corolla white or green; lobes lanceolate, ca. 2.5 &amp;#215; 10 mm, pubescent as on calyx. Filaments 1-1.5 mm; anthers lanceolate, acuminate, 6-7 mm. Ovary puberulent. Style ca. 8 mm, glabrous. Berry pale yellow, globose, 2-3 cm in diam. Seeds brown, lenticular, 2-2.8 mm in diam. Fl. Jun-Aug, fr. Jun-Oct.
+
+> Wastelands, grasslands, thickets, open forests, along ditches, roadsides; 1400-2200 m. E Xizang (Zaya Xian), Yunnan [widespread in tropical Asia and Africa].
+  "Synonym": "&lt;I&gt;Solanum khasianum&lt;/I&gt; C. B. Clarke var. &lt;I&gt;chatterjeeanum&lt;/I&gt; Sen Gupta.

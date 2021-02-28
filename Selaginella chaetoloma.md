@@ -1,0 +1,16 @@
+毛边卷柏",
+70.**Selaginella chaetoloma** Alston J. Bot. 70: 67. 1932.",
+
+> *Selaginella chaetoloma* is a poorly known tiny species only known from the limestone areas of SE Guizhou and N Guangxi, and it differs from other small species by the broadly ovate dorsal leaves.
+
+## Description
+Plants terrestrial or epilithic, evergreen, prostrate, up to 15 cm. Rhizophores at intervals throughout length of main stem, borne on ventral side in axils of branches. Main stems branched throughout, stramineous, ca. 0.2 mm in diam. in lower part, flattened, sulcate; primary leafy branches 3 or 4 pairs, forked or once pinnately branched, branchlets sparse, adjacent primary branches on main stem 1-3.5 cm apart; leafy portion of main stem including leaves 4-4.8 mm wide at middle, ultimate branches 3.5-4 mm wide including leaves. Axillary leaves on branches symmetrical or asymmetrical, elliptic, 1.2-1.4 × 0.6-0.8 mm, base exauriculate, margin sparsely ciliolate. Dorsal leaves ± symmetrical or asymmetrical, those on main stems not obviously larger than those on branches; dorsal leaves on branches not approximate or contiguous, broadly ovate or suborbicular, 0.8-1.2 × 0.5-0.7 mm, slightly carinate, base obtuse or obliquely cordate, margin sparsely long ciliolate, apex aristate. Ventral leaves asymmetrical, those on main stem not obviously larger than those on branches; ventral leaves on branches spreading or deflexed, oblong-ovate or oblong, 2-2.3 × 1-1.3 mm, apex acute or apiculate; basiscopic base rounded, margin entire; acroscopic base enlarged, broader, overlapping stem and branches, margin long ciliolate in basal half, cilia 2-3 mm. Strobili solitary, terminal, compact, dorsiventrally complanate, 2-5 × 2-2.6 mm; sporophylls dimorphic, resupinate, not obviously white-margined; dorsal sporophylls ovate-lanceolate, carinate, margin ciliolate, apex acuminate, with sporophyll-pteryx incomplete and ciliolate; ventral sporophylls ovate, carinate, margin ciliolate; megasporophylls in basal portion on lower side of strobilus; microsporangia elliptic, relatively thick, cells uniform; microspores yellowish orange or pale yellow, verrucate, megaspores orange.
+
+> ● Limestone caves, dense forests, on wet moss-covered limestone rocks; 900-1100 m. Guangxi, Guizhou.
+**58.毛边卷柏（贵州蕨类植物志）图版61：1-8**
+
+Selaginella chaetoloma Alston in J. Bot. (London) 70: 67. 1932, et in Bull. FanMem. Inst. Biol. 5: 292. 1934; Reed, Index Selaginellarum, in Mem. Soc. Brot. 18: 81. 1966; P. S. Wang in J. Arnold Arbor. 71: 267, 269. 1990; P. S. Wang et X. Y. Wang, Pterid. Fl. Guizhou 627, Pl. 151, f. 11-13. 2001.
+
+土生或石生，匍匐，长15厘米，无匍匐根状茎或游走茎。根托在主茎上断续着生，自主茎分叉处下方生出，长1-3厘米，纤细，直径0.1毫米，根少分叉，密被毛。主茎通体分枝，不呈“之”字形，无关节，禾秆色，主茎下部直径0.2毫米，茎扁平，具沟槽，无毛，维管束1条；侧枝3-4对，分叉或1回羽状分枝，分枝稀疏，主茎上相邻分枝相距1-3.5厘米，分枝无毛，背腹压扁，主茎在分枝部分中部连叶宽4-4.8毫米，末回分枝连叶宽3.5-4毫米。叶全部交互排列，二形，草质，表面光滑，边缘不为全缘，不具或略具白边。分枝上的腋叶对称或不对称，椭圆形，1.2-1.4毫米×0.6-0.8毫米，边缘疏具睫毛。中叶多少对称或不对称，侧枝上的宽卵形到近心形，0.8-1.2毫米×0.5-0.7毫米，排列近或疏，背部略呈龙骨状，先端具芒，基部平截或斜心形，边缘疏具长睫毛。侧叶不对称，侧枝上的侧叶长圆状卵形或长圆形，外展或反折，2.0-2.3毫米×1.0-1.3毫米，先端急尖或近尖，上侧基部扩大，加宽，覆盖小枝，上侧基部边缘具长睫毛，睫毛长2-3毫米，下侧基部圆形，下侧边缘全缘。孢子叶穗紧密，背腹压扁，单生于小枝末端，2.0-5.0毫米×2.0-2.6毫米；孢子叶二形，倒置，白边不明显，上侧的孢子叶卵状披针形，边缘具睫毛，龙骨状，先端渐尖，上侧的孢子叶具翼，孢子叶翼不达叶尖，边缘具睫毛，下侧的孢子叶卵圆形，边缘具睫毛，龙骨状；大孢子叶分布于孢子叶穗下部的下侧。大孢子橘黄色；小孢子橘黄色或淡黄色。
+
+产广西北部、贵州（贵定、荔波）。生于石灰岩溶洞、密林下或苔藓石上，海拔900-1100米。模式标本采自贵州。

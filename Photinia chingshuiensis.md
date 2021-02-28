@@ -1,0 +1,8 @@
+清水石楠",
+41.**Photinia chingshuiensis** (T. Shimizu) T. S. Liu & H. J. Su",
+
+## Description
+Shrubs deciduous, decumbent, much branched. Branches brown or purplish brown to grayish brown, sparsely lenticellate; buds ovoid, small, 2–3 mm, apex ± obtuse or ± acute; scales several, brown, glabrous. Petiole blackish purple, 1–2 mm, villous; leaves usually 3–5-fascicled on short shoots, alternate on flowering branches; leaf blade pale green abaxially, dark green adaxially, elliptic to obovate-lanceolate, 1–4 × 0.5–1.5 cm, papery, lateral veins 6–8 pairs, somewhat raised abaxially, both surfaces glabrous or abaxially slightly villous along midvein when young, base cuneate, margin minutely sharply serrate, apex acute to shortly acuminate. Umbels terminal, 3–5-flowered, without peduncle, sometimes flowers solitary; bracts caducous, subulate, 1–2 mm, glabrous, apex acute. Pedicel 0.5–1.8 cm, slender, glabrous or sparsely villous when young, lenticellate. Flowers 5–7 mm in diam. Hypanthium cupular, 2–3 × 3–4 mm, abaxially glabrous. Sepals triangular or ovate-triangular, 1.5–2 × 2–2.5 mm, margin irregularly minutely serrate, apex acute. Petals white, suborbicular, 5–6 × 6–7 mm, glabrous, base shortly clawed, apex obtuse. Stamens ca. 20. Ovary densely villous apically; styles not exceeding stamens, connate basally. Infructescences and fruit not seen.
+
+> Sunny gravel ridges of Chingshui Shan; 600--2100 m. Taiwan.
+  "Synonym": "*Pourthiaea chingshuiensis* T. Shimizu, J. Fac. Text. Sci. &amp; Technol., Shinshu Univ., no. 36, ser. A (Biol.): 36. 1963; *Photinia parvifolia* C. K. Schneider var. *chingshiensis* (T. Shimizu) S. S. Ying.

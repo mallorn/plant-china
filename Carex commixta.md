@@ -1,0 +1,17 @@
+细长喙薹草
+9.**Carex commixta** Steudel Syn. Pl. Glumac. 2: 207. 1855.
+
+## Description
+Rhizome thick. Culms tufted, erect and robust, 30-100 × 0.3-0.5 cm, trigonous, smooth. Leaves basal and cauline, linear, 2-2.5 cm wide, glabrous or slightly scabrid; persistent sheaths brown, fibriform. Involucral bracts leafy, longer than inflorescence, long sheathed. Panicle simple or compound, 25-30 cm, 1-5-branched; inflorescence branches single, ovate-triangular, 4-10 × 2-6 cm, sometimes binate; peduncles of inflorescence branches rigid, upper part hairy, trigonous, lowest one 10-20 cm, upper ones gradually shorter; inflorescence axes trigonous, hairy on edges; bractlets glumelike, 1-1.5 mm, hairy abaxially, with awns 2-5 mm. Spikes numerous, bisexual, androgynous, arising from abaxially hairy cladoprophylls, 7-18 mm; male part of spike suboblong, 6-7 × 2-3 mm, usually longer than or sometimes as long as female part; female part elliptic, many flowered; male glumes pale yellow or pale brown, narrowly lanceolate, 6-7 mm, membranous, hairy abaxially, apex shortly awned; female glumes pale yellowish white, pale greenish white, or pale brown, lanceolate, 4.5-5.5 mm, membranous, hairy abaxially, midrib extending into scabrid awn, apex acuminate or emarginate. Utricles pale brown or pale green, shorter than glumes, subrhomboid, bluntly trigonous, 5.5-10 mm, hairy, many veined, base stipitate, apex elongate into beak, beak to 2/3 length of utricle, orifice obliquely truncate. Nutlets brown at maturity, elliptic, trigonous, 3-3.5 mm; style base slightly thickened; stigmas 3.
+
+  "Statistics": "Forests, forest margins; 600-1300 m. Hainan [Indonesia, Malaysia, Myanmar, Thailand, Vietnam].
+
+  "Synonym": "*Carex chuniana* F. T. Wang &amp; Tang; *C. hainanensis* Merrill ex Chun &amp; F. C. How; *C. humbertii* F. T. Wang &amp; Tang (1949), not Chermezon (1926); *C. hypolytrifolia* T. Koyama; *C. spatiosa* Boott.
+
+**8. 细长喙薹草 图版13: 10-13**
+
+Carex commixta Steud., Syn. 2: 207, 1855; Kern in Blumea 15: 429, 1967; 海南植物志4: 338, 1977; Kern et Noot. in Steenis, Fl. Males. 1. 9 (1): 118, fig. 118, 1979.——Carex spatiosa Boott, Illustr. Carex 2: 86, t. 246, 1860; C. B. Clarke in Journ. Linn. Soc. Bot. 37: 12, 1904; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 265, 1909; E. G. Camus in Lecomte, Fl. Gen. Indo-Chine 7: 188, 1912; Merr. in Lingn. Sci. Journ. 5: 41, 1927; Nelmes in Mem. Mus. National Hist. Nat. Nlle Ser. B. Bot. 4 (2): 111, 1955; Raymond in Mem. Jard. Bot. Montreal no. 53: 40, 1959; ——Carex hainanensis Merr. in Tanaka et Odashina, Journ. Soc. Trop. 10: 387, 1938, nom. und. ——Carex chuniana Wang et Tang in Contrib. Inst. Bot. Nat. Acad, Peiping 6: 56, 1949.——Carex humbertii Wang et Tang l. c. 57, 1949, non Chermezon 1926.——Carex hypolytrifolia T. Koyama in Bot. Mag. Tokyo 19: 209, fig. 1956.
+
+根状茎较粗。秆丛生，直立而粗壮，高30-100厘米，粗3-5毫米，三棱形，光滑，中部以下生叶。叶基生和秆生，带形，宽2-2.5厘米，两面光滑或微粗糙，有3条隆起的脉，基生叶的基部下延至叶柄，秆生叶基部具长鞘，宿存叶鞘褐色，分裂呈纤维状。苞片叶状，长于花序，具长鞘。圆锥花序简单或复出，长25-30厘米，具1-5个支圆锥花序；支圆锥花序的轮廓为卵状三角形，长4-10厘米，宽2-6厘米，单生，有时双生；支花序柄坚挺，三棱形，最下部的1枚长10-20厘米，向上部者渐短，上部疏被短粗毛；花序轴三棱形，棱上密被短粗毛；小苞片鳞片状，长1-1.5毫米，背面疏被短粗毛，顶端具2-5毫米长之芒；枝先出叶囊状，内无花，背面疏被短粗毛；小穗多数，全部从枝先出叶中生出，两性，雄雌顺序，长7-18毫米；雄花部分的轮廓几呈长圆形，长6-7毫米，宽2-3毫米，通常长于雌花部分，有时两者近等长；雌花部分轮廓为椭圆形，具多数花。雄花鳞片狭长圆状披针形，长6-7毫米，顶端具短芒，膜质，淡黄白色或淡褐色，背面疏被短粗毛；雌花鳞片披针形，长4.5-5.5毫米，顶端渐尖或微凹，膜质，淡黄白色、淡绿白色或淡褐色，背面疏被短粗毛，中脉延伸成粗糙的芒。果囊短于鳞片，近菱形，钝三棱形，长5.5-10毫米，淡褐色或淡绿色，具多数脉，疏被短柔毛，基部具短柄，顶端延伸成长喙，喙长几为果囊的2/3，喙口斜截形。小坚果椭圆形，三棱形，长3-3.5毫米，成熟时褐色；花柱基部略增粗，柱头3个。花果期3-7月。
+
+产于海南；生于林下或林缘，海拔600-1300米。缅甸、泰国、越南、马来西亚、印度尼西亚也有分布。模式标本采自越南南部。

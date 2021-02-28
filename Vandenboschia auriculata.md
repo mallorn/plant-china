@@ -1,0 +1,15 @@
+瓶蕨",
+1.**Vandenboschia auriculata** (Blume) Copeland Philipp. J. Sci. 67: 55. 1938.",
+
+## Description
+Plants 12-30 cm tall. Rhizome smoke-colored, 2-3 mm in diam., stiff, densely covered with dark brown multicellular hairs, hairs caducous. Stipes remote, 3-5 cm apart, smoke-colored, 4-8 × ca. 1 mm, with multicellular hairs at base, wingless or narrowly winged. Rachis smoke-colored, very narrowly winged or nearly wingless, subglabrous. Lamina 1-pinnate, lanceolate, 15-30 × 3-5 cm; pinnae 18-25 pairs, closely spaced, alternate, sessile, ovate-oblong, 2-3 × 1-1.5 cm, apex rounded to obtuse. Lamina and rachis glabrous to densely hairy. Sori apical on short acroscopic segments, 10-14 per pinna; involucres narrowly tubular, 2-2.5 mm, truncate at mouth; receptacles projecting, ca. 4 mm. 2*n* = 72.
+
+> Usually on tree trunks; 500-2700 m. Guangdong, Guangxi, Guizhou, Hainan, Jiangxi, Sichuan, Taiwan, Xizang, Yunnan, Zhejiang [Bhutan, Cambodia, NE India, Japan, Laos, Malesia, Myanmar, Nepal, Thailand; Pacific islands (Micronesia)].
+  "Synonym": "*Trichomanes auriculatum* Blume, Enum. Pl. Javae 2: 225. 1828; *Cephalomanes auriculatum* (Blume) Bosch; *Crepidomanes auriculatum* (Blume) K. Iwatsuki; *Lacostea auriculata* (Blume) Prantl; *Vandenboschia hainanensis* Ching &amp; P. S. Chiu.
+**3. 瓶蕨 耳叶瓶蕨（中国主要植物图说，蕨类植物门）图版XIII，1-2**
+
+Vandenboschia auriculata (Bl.) Cop. in Philip. Journ. Sci. LXVII (1938)55; H. Ito, Fil. Jap. Illustr. (1944) t. 471;傅书遐, 中国主要植物图说(蕨类植物门)(1957)37页, 44图——Trichomanes auriculatum Bl. Enum. (1828) 225; v. d. B. Hymen. Jav. (1861) t. 25; Bedd. Ferns Brit. Ind. (1865) t. 182; Hook. et Bak. Syn. Fil. (1874) 82; Makino, Phan. et Pter. Jap. Ic. I (1899)22; C. Chr. Ind. Fil. (1905) 635; v. A. v. R. Handb. Mal. Ferns (1908) 96; Dunn & Tutch. Fl. Kwangt. & Hongk. in Kew Bull. Add. Ser. X (1912) 336; Ogata, Ic. Fil. Jap. IV (1931) t. 198; Cop. Philip. Journ. Sci. LI (1933) 223; Tard. -Blot et C. Chr. in Fl. Indo-Chine VII, ii (1939) 69; DeVol, Ferns East Centr. China in Notes Bot. Chin. Mus. Heude No. 7 (1945) 47——T. belangeri Bory in Bel. Voy. Bot. (1833) 79, t. 8, f. 1——T. dissectum J. Sm. in Journ. Bot. III (1841) 417——T. dimidlatum Presl, Hymen. (1843)15——Cephalomanes auriculatum v. d. B. in Ned. Kr. Arch. IV (1859) 352; Hymen. Jav. (1861) 34, t. 25——Lacostea auriculata Prantl, Hymen. (1875) 50.
+
+植株高15-30厘米。根状茎长而横走，粗2-3毫米，灰褐色，坚硬，被黑褐色有光泽的多细胞的节状毛，后渐脱落，叶柄腋间有1个密被节状毛的茅。叶远生，相距3-5厘米，沿根状茎在同一平面上排成两行，互生，平展或稍斜出；叶柄短，长4-8毫米，粗约1毫米，灰褐色，基部被节状毛，无翅或有狭翅；叶片披针形，长15-30厘米，宽3-5厘米，略为二型，能育叶与不育叶相似，仅较狭及分裂较细，一回羽状；羽片18-25对，互生，无柄，上部的斜出，中部的平展，基部的反折并复盖根状茎，卵状长圆形，长2-3厘米，宽1-1.5厘米，密接，圆钝头，基部上侧有阔耳片并常复盖叶轴，边缘为不整齐的羽裂达1/2；不育裂片狭长圆形，长4-5毫米，宽3-4毫米，先端有钝圆齿，每齿有小脉1条；能育裂片通常缩狭或仅有一单脉。叶脉多回两歧分枝，暗褐色，隆起，无毛。叶为厚膜质，干后深褐色，常沿叶脉多少形成褶皱，无毛，叶轴灰褐色，有狭翅或几无翅，几无毛，上面有浅沟。孢子囊羣顶生于向轴的短裂片上，每个羽片约有10-14个；囊苞狭管状，长2-2.5毫米，口部截形，不膨大并有浅钝齿，其基部以下裂片不变狭或略变狭；囊羣托突出，长约4毫米。
+
+产于浙江、台湾、江西（庐山）、广东（乐昌、从化）、海南岛（五指山）、广西（傜山）、四川（重庆，缙云山）、贵州（独山）、云南（西畴、河口、文山、屏边、蒙自、金平、景东、镇康、龙陵、俅江）。本种为我国南部及西南部山地常见的中形附生蕨类，攀援在溪边树干上或阴湿岩石上，尤以小树树干的基部较常见，根状茎分枝繁多，有时满布所着生的树干表面，叶常向四面伸展；在华南地区一般分布在海拔500-1000米，在云南则见于海拔1000-2700米的山地。也分布于印度东北部、阿薩姆，经我国西南部及东南部，北达琉球、日本，向东南经印度支那、马来半岛、印度尼西亚（爪哇、苏门答腊）、菲律宾、婆罗洲至几内亚。

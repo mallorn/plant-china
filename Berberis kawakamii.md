@@ -1,0 +1,14 @@
+台湾小檗",
+93.**Berberis kawakamii** Hayata J. Coll. Sci. Imp. Univ. Tokyo. 30(1): 24. 1911.",
+
+## Description
+Shrubs, evergreen, 1-2 m tall. Branches dark gray, terete; shoots pale yellow, sulcate, verruculose; spines 3-fid, concolorous, 1.5-2 cm, not sulcate. Leaves subsessile; leaf blade abaxially pale green, adaxially dark green, elliptic, ovate-oblong, or oblong-lanceolate to obovate-oblong or oblanceolate, 2.5-4.5 × 1-1.5 cm, leathery, both surfaces not pruinose, abaxially with obviously raised midvein, lateral veins impressed, adaxially with obviously impressed midvein, lateral veins visible, both surfaces with conspicuous reticulate veins, base cuneate, margin 3-8-spinose-serrate on each side, sometimes coarsely 1- or 2-aristate-dentate on each side, apex acute, aristate. Flowers 7-15-fascicled. Pedicels 7-15 mm; bractlets lanceolate, ca. 2.5 × 1 mm, apex acuminate. Sepals in 2 whorls; outer sepals lanceolate or ovate, ca. 3.5 × 2 mm, apex acuminate; inner sepals lanceolate or oblong-elliptic, 8-9 × ca. 3.5 mm, apex acuminate or obtuse. Petals oblong or oblong-obovate, 4-5 × ca. 3.2 mm, base cuneate, with separate glands, apex entire or slightly incised. Anther connective slightly prolonged, truncate. Ovules 2 or 3, shortly funiculate. Berry ovoid, ca. 9 × 5 mm, slightly pruinose, style persistent. Fl. Mar-May, fr. Aug-Oct.
+  "Statistics": "● Thickets, forests; 2500-3500 m. Taiwan.
+  "Synonym": "*Berberis brevisepala* Hayata; *B. chingshuiensis* T. Shimizu; *B. densifolia* Bijhouwer (1928), not Rusby (1920); *B. formosana* Ahrendt (1941), not H. L. Li (1952); *B. kawakamii* var. *formosana* Ahrendt; *B. nantoensis* C. K. Schneider.
+**93．台湾小檗（中国高等植物图鉴）**
+
+Berberis kawakamii Hayata in Journ. Imp. Coll. Sci. Tokyo 30. art. 1: 24, 1911; Schneid. in osterr. Bot. Zeitschr. 67: 140, 1918; Ahrendt in Journ. Linn. Soc. Bot. 57: 65, 1961; Chamberlaim et C. M. Hu in Notes Bot. Gard. Edinb. 42 (3): 539, 1985; 中国高等植物图鉴 1: 765, 图 1530, 1972; 台湾植物志 2: 516, 1976. ——B. brevisepala Hayata in Icon. Pl. Formoaon. 3: 14, 1913. ——B. nantoensis Schneid. in Repent. Sp. Nov. 46: 252, 1939. ——B. formosana Ahrendt. in Journ. Bot 79 Suppl: 24, 1941. ——B. kawakamii var. formosana (Ahrendt.) Ahrendt. in Journ. Linn. Soc. Bot. 57: 65, 1961. ——B. chingshuiensis Shimizu in Journ. Fac. Text. Sci. Techn. 12: 129, 1961.
+
+常绿灌木，高1-2米。老枝圆柱形，暗灰色，幼枝淡黄色，具棱槽及疣点；茎刺三分叉，无槽，长1.5-2厘米，与枝同色。叶革质，椭圆形、卵状长圆形、长圆状披针形至倒卵状长圆形或倒披针形，长2.5-4.5厘米，宽1-1.5厘米，先端急尖，具1刺尖头，基部楔形，上面暗绿色，中脉明显凹陷，侧脉清晰可见，背面淡绿色，中脉明显隆起，侧脉不显，两面网脉显著，不被白粉；叶缘通常平展，每边具3-8刺齿，有时具1-2刺锯齿；近无柄。花7-15朵簇生；花梗长5-12毫米；花黄色；小苞片披针形，先端渐尖，长约2.5毫米，宽约1毫米；萼片2轮，外萼片披针形或卵形，先端渐尖，长约3.5毫米，宽约2毫米，内萼片披针形或长圆状椭圆形，先端渐尖或纯，长8-9毫米，宽约3.5毫米；花瓣长圆形或长圆状倒卵形，长约4-5毫米，宽约3.2毫米，先端全缘或浅锐裂，基部楔形，具2枚分离腺体；雄蕊药隔先端微延伸，截形；胚珠2-3枚，具短柄。浆果卵状，长约9毫米，直径约5毫米，顶端具短宿存花柱，微被白粉。花期3-5月，果期8-10月。
+
+产于台湾。生于山坡灌丛中或林中。海拔2500-3500米。模式标本采自玉山。

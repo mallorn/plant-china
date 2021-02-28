@@ -1,0 +1,7 @@
+矮秆薹草",
+136.**Carex minuticulmis** S. W. Su & S. M. Xu Bull. Bot. Res., Harbin. 8(3): 79. 1988.",
+
+## Description
+Rhizome short, oblique. Culms densely tufted, 1-4(-5) cm tall, roundly trigonous, hair-shaped, smooth, base with dark purple persistent sheaths. Leaves much longer than culm (up to 15 cm), flat, blades 3-4 mm wide, soft or slightly stiff, smooth. Involucral bracts reddish brown, leaflike, sheath 3-6 mm. Spikes 3 or 4, approximate; terminal spike male, linear-cylindric, 0.4-0.6 cm, ca. 2 mm thick, many flowered; lateral spikes 1 or 2, female, ovate or oblong, 5-7 mm, loosely 2-5-flowered; peduncles short, enclosed in sheath or lowermost one slightly exserted; rachis straight. Female glumes red-brown laterally, green at middle, obovate-lanceolate, ca. 2 mm, 3-veined, margins broadly white hyaline, base enclosing rachis, apex aristate. Utricles greenish, decidedly longer than glume, broadly ovate, obtusely trigonous, 3-3.5 mm, leathery, purple punctate, hirsute to glabrescent, 2-veined laterally, otherwise nerveless, base abruptly contracted into a stipe 1-1.3 mm, apex subrounded, beak distinct, erect, ± emarginate at orifice. Nutlets dark brown at maturity, ovate, trigonous, 2.5-3 mm, densely punctate, base attenuate into an elongated stipe, apex obtuse to truncate; style base distinctly thickened; stigmas 3. Fl. and fr. Apr-May.
+  "Reference": "No specimens have been seen by the present authors.No specimens have been seen by the present authors.
+  "Statistics": "● Roadsides on slopes. SW Anhui (Taihu).

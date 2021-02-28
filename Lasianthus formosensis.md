@@ -1,0 +1,14 @@
+台湾粗叶木",
+14.**Lasianthus formosensis** Matsumura Bot. Mag. (Tokyo). 15: 17. 1901.",
+
+## Description
+Shrubs, 1-2 m tall; branches and branchlets densely villous or villosulous. Petiole 5-8 mm, villous to villosulous; leaf blade papery or subleathery, oblong or ovate-elliptic, 7-12 × 2.5-5 cm, glabrous adaxially, villous or villosulous at least on veins abaxially, base acute or obtuse, apex acuminate or cuspidate-acuminate; lateral veins 6 or 7 pairs; nervules subparallel, slightly elevated abaxially; stipules generally persistent, triangular, ca. 2 mm, villous to villosulous. Inflorescences glomerulate to congested-cymose, sessile to shortly pedunculate; bracts absent. Flowers sessile. Calyx pilosulous to villosulous; hypanthium obconic to campanulate, ca. 1 mm; limb 3-4 mm, deeply lobed; lobes 5, linear-lanceolate. Corolla 6-8 mm, villous outside, tomentose inside; lobes 5, oblong-lanceolate. Fruit ovoid-globose, ca. 5 mm in diam., subglabrous; pyrenes 5. Fl. Oct-Dec, fr. Apr.
+  "Statistics": "Forests, shaded and wet places; 500-1000 m. Guangdong, Guangxi, Hainan, Taiwan, Yunnan [Japan (Kyushu, Ryukyu Islands, Yakushima), Thailand, Vietnam].
+  "Synonym": "*Lasianthus kwangsiensis* Merrill ex H. L. Li; *L. tashiroi* Matsumura var. *pubescens* Matsumura; *L. tenuicaudatus* Merrill.
+**23. 台湾粗叶木（植物分类学报）台湾鸡屎树（台湾），狭尖叶粗叶木（中国高等植物图鉴）图版24：1-6**
+
+Lasianthus formosensis Matsum. in Bot. Mag. Tokyo 15: 17. 1901; Matsum. et Hayata, Enum. Pl. Formos. 196. 1906; Hayata, Ic. Pl. Formos. 2: 99. 1912; Makino et Nemoto, Fl. Jap. ed. 2, 1117. 1932; Kanehira, Formos. Trees ed. 2: 670. 1936; pro parte; Simizu in Trans. Nat. Hist. Soc. Formosa 34: 300. 1944; Masam. List Vase. Pl. Taiwan 118. 1954; Liu, Ill. Nat. Intr. Lign. Pl. Taiwan 2: 1115, fig. 934. 1962; Li, Woody Fl. Taiwan 857. 1963, pro parte; Lin et Chao in Taiwania 10: 132, 8. 1964; 台湾植物志4: 292, 图1009. 1978. ——Mephitidia formosensis (Matsum.) Nakai, Trees ＆ Shrubs Jap. ed. 1: 394. 1922; Sasaki, List Pl. Formos. 382. 1928; Masam. Short Fl. Formos. 203. 1936, pro parte——Lasianthus tashiroi Matsum. var. pubescens Matsum. in Bot. Mag. Tokyo 15: 17. 1901. ——L. fordii Hance var. pubescens (Matsum.) Yamazaki in Journ. Jap. Bot. 39: 352. 1964.——L. formosensis Matsum. var. liukiuensis Matsum. ex Sakaguchi, Gen. Ind. Fl. Okinawa 11. 1924.——L. tenuicau-datus Merr. in Lingnan Sci. Journ. 7: 324. 1929; 中国高等植物图鉴4: 248. 1975.——L. kwangsiensis Merr. ex Li in Journ. Arn. Arb. 24: 458. 1943.
+
+直立灌木，高1-2米，很少达3米；小枝圆柱状，被硬毛，毛通常很密。叶具等叶性，纸质或薄革质，卵形、卵状椭圆形或有时近长圆形，长7-13厘米或稍过之，宽2.5-5厘米，顶端骤然渐尖或渐尖，基部楔尖或钝，边全缘，常多少被缘毛，干时绿灰色或浅灰色，上面无毛，下面密被柔毛或绒毛，有时仅中脉、侧脉和横行小脉上或多或少被柔毛或硬毛；侧脉每边6-7条，很少5条，在下面凸起，干时上面亦微凸起，小脉近平行，在下面凸起；叶柄长4-10毫米，密被硬毛；托叶近三角形，长1.5-2毫米，密被硬毛。花无梗，数朵至多朵簇生，无苞片；萼管近钟形，长1.5-2毫米，密被硬毛，萼齿5，钻状长三角形，与萼管近等长，亦被毛；花冠白色，管状漏斗形，外面被稍密的硬毛，冠管长约5-6毫米，里面中部以上被白色长柔毛，裂片5，长圆状披针形，长约2-2.5毫米，顶端内弯，盛开时反折或伸展；雄蕊5，生冠管喉部，花丝短，花药微伸出；花柱伸至冠管口部，与花药等高。核果近球形或卵球形，径约5毫米，成熟时蓝色或紫蓝色，有5颗分核。花期夏初至秋初，果期秋冬。
+
+产台湾、广东、广西东部和南部及云南（富宁、勐腊）。散生于密林。分布于日本（琉球）。模式标本采于台湾。

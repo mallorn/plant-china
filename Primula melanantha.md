@@ -1,0 +1,10 @@
+深紫报春",
+160.**Primula melanantha** (Franchet) C. M. Hu",
+
+> Although originally described as a variety of &lt;I&gt;Primula nivalis&lt;/I&gt; Pallas and later associated with &lt;I&gt;P.&lt;/I&gt; &lt;I&gt;limbata&lt;/I&gt; I. B. Balfour &amp;amp; Forrest and &lt;I&gt;P.&lt;/I&gt; &lt;I&gt;russeola&lt;/I&gt; I. B. Balfour &amp;amp; Forrest, &lt;I&gt;P.&lt;/I&gt; &lt;I&gt;melanantha&lt;/I&gt; is much closer to &lt;I&gt;P.&lt;/I&gt; &lt;I&gt;purdomii&lt;/I&gt; Craib on account of its habit. It differs from all of the above mentioned species by its pubescent leaves and much smaller flowers.
+
+## Description
+Herbs perennial. Rhizomes short, thick, densely covered with persistent overlapping ovate-lanceolate scales, scales 2--6 cm. Leaves forming a rosette; petiole broadly winged, much longer than basal scales at anthesis; leaf blade oblanceolate, 5.5--12 X 1.5--3 cm, gradually narrowed to base, margin crenate-denticulate, sparsely or scarcely pubescent abaxially, densely pubescent adaxially; midvein broad, prominent abaxially; lateral veins slender, inconspicuous. Scapes 25--40 cm, puberulent, &amp;#177; mealy near apex; umbels simple, many flowered; bracts 7--10 mm, basal bracts triangular, subulate-acuminate. Pedicel 1--3 cm. Flowers heterostylous. Calyx campanulate, 8--9 mm, parted to middle or above; lobes lanceolate, ciliolate, apex acute. Corolla dark purple; limb 1--1.3 cm in diam.; lobes oblong to oblong-elliptic, 6--9 X 2--4.5 mm, puberulent on both sides, apex obtuse to subacute. Pin flowers: corolla tube 8--9 mm; stamens inserted at basal 3 mm of corolla tube; style slightly exserted from corolla tube. Thrum flowers: corolla tube 1.1--1.2 cm; stamens inserted near apex of corolla tube; style reaching middle of corolla tube. Ovary globose. Capsule unknown. Fl. Jun.
+
+> * Grassy mountain slopes; ca. 3500 m. W Sichuan (Kangding Xian, Zheduo Shan)
+  "Synonym": "&lt;I&gt;Primula nivalis&lt;/I&gt; Pallas var. &lt;I&gt;melanantha&lt;/I&gt; Franchet, J. Bot. (Morot) 9: 449. 1895.

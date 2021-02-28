@@ -1,0 +1,14 @@
+毛枝攀援卷柏",
+33.**Selaginella pseudopaleifera** Handel-Mazzetti Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl., Abt. 1. 61: 82. 1924.",
+
+## Description
+Plants terrestrial, evergreen, ascending from decumbent base, 50-100 cm, with creeping subterranean rhizome and stolons. Rhizophores restricted to creeping rhizomes and stolons. Main stems branched at and above lower part, pinnately branched or anisotomously branched, stramineous, unbranched main stem (5-)15-20 cm tall, main stem 2-2.7 mm in diam. at lower part, subquadrangular or angulate, sulcate, glabrous, apex of main stem not blackish or blackish; primary leafy branches 3-5 pairs, 3 times pinnately branched, secondary branches once or twice pinnately branched, leafy branches pubescent on ventral side, dorsiventrally flattened, ultimate branches 3-7 mm wide including leaves. Axillary leaves on branches symmetrical, oblong-elliptic, 1.4-2.2 × 0.5-0.9 mm, margin entire, base biauriculate, auricles narrowly triangular. Dorsal leaves on branches contiguous, parallel to axis or overlapping at leaf apex, obliquely ovate, 1-2 × 0.4-0.8 mm, not carinate, base obliquely attenuate, margin entire, apex acuminate. Ventral leaves on branches contiguous, slightly ascending, oblong-falcate or falcate, 3-3.6 × 1-1.5 mm, margin entire, apex acute or acuminate; basiscopic base slightly dilated; acroscopic base with triangular auricle, not overlapping stem and branches. Strobili solitary, terminal, compact, tetragonal, 5-10 × 1.5-3 mm; sporophylls uniform, not white-margined, ovate-lanceolate, margin entire, apex acuminate; megasporophylls in upper portion on lower side of strobilus; microsporangia orbicular, rather thin, cells regular; microspores pale yellow, megaspores whitish.
+
+> Evergreen forests; 200-400 m. Yunnan [Vietnam].
+**10.毛枝攀援卷柏（新拟）图版24：1-7**
+
+Selaginella pseudopaleifera Hand. -Mazz. in Sitzb. Acad. Wiss. Wien, Math. -Nat. 61: 82. 1924, ‘pseudopaleifera’, et Symb. Sin. 66: 12, t. 2, f. 1. 1929; Alston inBull. Fan Mem. Inst. Biol. 5: 276. 1934; Alston in Lecomte, Fl. Gen. Indo-Chine 7 (2): 576, f. 67: 8-14. 1951; Reed, Index Selaginellarum, in Mem. Soc. Brot. 18: 186. 1966: p. H. Ho, Ill. Fl. Vietnam 1: 40, cum fig. 1991.
+
+土生，基部横卧，上部直立或略呈攀援状，高50-100厘米，具一横走的地下根状茎和游走茎。根托只生于匍匐的根状茎和游走茎1.2-7.4厘米，直径0.7-1.6毫米，根多分叉，被毛。主茎自基部羽状分枝或呈不等二叉分枝，不呈“之”字形或多少呈“之”字形，禾秆色，不分枝的主茎高 (5-) 15-20厘米，主茎下部直径2-2.7毫米，茎近四棱柱形，或具沟槽，维管束三条，主茎先端黑褐色或不为黑褐色，侧枝3-5对，3回羽状分枝，小枝较密排列规则，主茎上相邻分枝相距5-10厘米，带叶的小枝背腹压扁，远轴面被毛，末回分枝连叶宽3-7毫米。叶 (除不分枝主茎上的外) 交互排列，二形，纸质，表面光滑，边缘全缘，不具或略具白边，不分枝主茎上的叶排列稀疏，大于分枝上的，一形，绿色，斜升，背部不呈龙骨状，边缘全缘。分枝上的腋叶对称，长圆状椭圆形，1.4-2.2毫米x 0.5-0.9，边缘全缘，基部具一对长三角形的耳。中叶不对称，主茎上的明显大于侧枝上的，侧枝上的斜卵形，1.0-2.0毫米x0.4-0.8毫米，排列紧密，背部不呈龙骨状，先端与轴平行或交叉，先端渐尖，基部斜，渐变窄，边缘全缘。侧叶不对称，主茎上的较侧枝上的大，分枝上的侧叶长圆状镰形或镰形，略向上，排列紧密，3.0-3.6毫米 x 1.0-1.5毫米，先端急尖或渐尖，边缘全缘，上侧基部具三角形的耳，不覆盖小枝，下侧基部略膨大。孢子叶穗紧密，四棱柱形，单生于小枝末端，5.0-10毫米x1.5-3.0毫米；孢子叶一形，卵状披针形，边缘全缘，不具白边，先端渐尖；大孢子叶分布于孢子叶穗上部的下侧。大孢子白色；小孢子浅黄色。
+
+产广西 (灌阳) 、云南 (金平) 。生于常绿阔叶林或竹林下，海拔200-350米。模式标本采自云南芒耗。

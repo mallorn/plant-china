@@ -1,0 +1,17 @@
+丽江虎耳草",
+207.**Saxifraga likiangensis** Franchet",
+
+> A very broad view of &lt;I&gt;Saxifraga likiangensis&lt;/I&gt; has been adopted in the present account.
+
+## Description
+Plants many branched, 1.5-4.5 cm tall, with shoots forming cushions. Flowering stem initially embedded among rosette leaves and rarely visible, elongated after anthesis and in fruit and then ca. 1.1 cm taller than rosette leaves, glandular hairy. Shoot leaves subimbricate, aggregated into a rosette; leaf blade subobpandurate-oblong to narrowly ovate or narrowly obovate, abaxially convex, adaxially concave, 3-5.6 × 1-2.1 mm, leathery, both surfaces glabrous, chalk glands 3, margin ± setose-ciliate, apex ± recurved, acute or mucronate. Cauline leaves 4-8, spatulate- or oblanceolate-oblong to oblong, abaxially convex, adaxially subconcave, 3.3-5.3 × 1-1.5 mm, leathery, abaxially ± glandular hairy, adaxially glabrous, chalk glands 1(-3), margin glandular ciliate, apex ± recurved, obtuse or acute. Flower solitary; pedicel initially nearly absent, then elongated, to 2 mm, glandular hairy; bracts oblong to spatulate-oblong, 3.3-4 × ca. 1 mm, leathery, glandular hairy abaxially proximally and at margin, glabrous adaxially, chalk gland 1, apex acute, glabrous. Sepals erect, ovate to broadly so, 2.1-4 × 1.5-2.8 mm, leathery, abaxially and marginally glandular hairy, adaxially glabrous, chalk glands (1 or)3, veins 3-7, not, partly, or fully confluent at apex, apex usually obtuse, rarely mucronate, glabrous. Petals usually white, rarely yellowish, obovate or broadly so or elliptic to orbicular, 3.3-9 × 2.3-5 mm, 5-9-veined, base gradually narrowed into a claw 0.9-2 mm, apex obtuse. Stamens 1.1-6.2 mm. Carpels 2-6.3 mm; ovary semi-inferior, with an annular nectary disc; styles 1-2 mm. Fl. and fr. May-Sep.
+
+> Forests, scrub, alpine rock crevices; 3000-5600 m. S Qinghai (Nangqên Xian), C Sichuan (Baoxing Xian), E and S Xizang, NW Yunnan [Bhutan, Myanmar].
+  "Synonym": "&lt;I&gt;Chondrosea likiangensis&lt;/I&gt; (Franchet) Losinskaja; &lt;I&gt;Saxifraga calcicola&lt;/I&gt; J. Anthony; &lt;I&gt;S. mundula&lt;/I&gt; H. Smith.
+**179. 丽江虎耳草（植物分类学报）图版56：24-29**
+
+Saxifraga likiangensis Franch. in Journ. de Bot. 10: 266. 1890; Engl. et Irmsch in Not. Bot. Gard. Edinb. 5(24): 147. 1912 et in Engl. Pflanzenr. 69 (IV. 117): 572. f. 117. 1919; H. Smith in Bull. Brit. Mus. Bot. 2(4): 91. 1958; J. T. Pan in Acta Phytotax. Sin. 16(2): 16. 1978; 中国高等植物图鉴补编 2: 35. 1983; 云南种子植物名录上册: 240. 1984; 西藏植物志 2: 511. 图168: 26-31. 1985.——S. calcicola Anth. in Not. Bot. Gard. Edinb. 18 (86): 32. 1933; H. Smith op. cit. 118. f. 9d-f.——S. mundula H. Smith op. cit. 116. f. 9g-j.
+
+多年生草本，高1.5-4.5厘米；小主轴反复分枝，叠结呈座垫状。花茎在花初期，埋藏于莲座叶丛内，极少外露，但在花后期和果期，则增长，露出莲座叶丛达1.1厘米，被腺毛。小主轴之叶密集，近覆瓦状排列，呈莲座状，肉质肥厚，近倒提琴状长圆形、狭卵形、狭倒卵形至近长圆形，长3-5.6毫米，宽1-2.1毫米，先端稍外弯，急尖或具短尖头，具3分泌钙质之窝孔，两面无毛，腹面凹陷，背面弓凸，边缘或多或少具刚毛状睫毛（稀具腺头）；茎生叶4-8枚，肉质，匙状长圆形、倒披针状长圆形至长圆形，长3.3-5.3毫米，宽1-1.5毫米，先端急尖或钝且稍外弯，具1（稀3）分泌钙质之窝孔，腹面稍凹陷且无毛，背面弓凸且与边缘多少具腺毛。花单生于茎顶；花梗起初几无，后伸长至2毫米，被腺毛；苞片肉质，长圆形至匙状长圆形，长3.3-4毫米，宽约1毫米，先端急尖且无毛，具I分泌钙质之窝孔，腹面无毛，背面中下部与边缘（先端除外）具腺毛；萼片在花期直立，肉质，卵形至阔卵形，长2.1-4毫米，宽1.5-2.8毫米，先端通常钝，稀具短尖头，通常无毛，通常具3（稀1）分泌钙质之窝孔，腹面无毛，背面和边缘（先端除外）具腺毛，3-7脉于先端不汇合、半汇合至汇合（同时交错存在）；花瓣通常白色，稀淡黄色，倒卵形、倒阔卵形、椭圆形至近圆形，长3.3-9毫米，宽2.3-5毫米，先端钝圆，基部渐狭成长0.9-2毫米之爪，5-9脉，无痂体；雄蕊长1.1-6.2毫米；花盘环状；雌蕊长2-6.3毫米，子房半下位，花柱长1-2毫米。蒴果长约4毫米，2果瓣先端近水平状叉开。花果期5-9月。
+
+产青海（囊谦）、四川（宝兴）、云南（中甸、丽江、洱源、维西）和西藏（八宿、错那、定结、吉隆）。生于海拔3 000-5 600米的林下、灌丛下和高山碎石隙。不丹也有。模式标本采自云南丽江。

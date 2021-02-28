@@ -1,0 +1,17 @@
+柳叶剑蕨",
+11.**Loxogramme salicifolia** (Makino) Makino Bot. Mag. (Tokyo). 19: 138. 1905.",
+
+> *Loxogramme salicifolia* is almost sympatric with the following species, *L. duclouxii*, but it is not found in Yunnan and differs by the greenish yellow or paler stipe (not glossy purplish dark brown or black) and the sori medial between costa and margin (not close to the costa). *Loxogramme salicifolia* is a low-elevation species not found on the high plateau of Yunnan and Xizang. The report by Christensen (Contr. U.S. Natl. Herb. 26: 324. 1931) from Yunnan should be *L. cuspidata*; and the recent report by Chen (Fl. Yunnan. 21: 428. 2005) from Yunnan might be confused with *L. duclouxii* or *L. cuspidata*.
+
+## Description
+Rhizome long creeping, ca. 2 mm in diam., rather densely scaly; scales brown or reddish brown, ovate-lanceolate, margin entire, apex acuminate. Fronds distant, subdimorphic or obviously dimorphic, 15-35 cm; stipe greenish yellow to paler, 2-5(-10) cm, or frond subsessile; lamina narrowly oblanceolate to linear, 15-20(-32) × 1-1.5(-3) cm, relatively thinly textured, fleshy, base decurrent to form wings along upper part of stipe, apex acuminate; costa raised abaxially, flat adaxially; veins hidden, areoles without or with few included veinlets. Sori on upper portion of fronds, up to 10 or more pairs, 1-3 cm, very oblique to subparallel to costa, medial between costa and frond margin, slightly sunken into lamina, paraphyses absent. Spores ellipsoid-monolete.
+
+> Epilithic on moss-covered rocks or epiphytic on tree trunks in forests; 200-1800 m. Anhui, Chongqing, Gansu, Guangdong, Guangxi, Guizhou, Henan, Hubei, Hunan, Jiangxi, Sichuan, Taiwan, Zhejiang [Japan, Korea, ?Vietnam].
+  "Synonym": "*Gymnogramma salicifolia* Makino, Phan. Pter. Jap. Icon. t. 34. 1899; *Loxogramme biformis* Tagawa; *L. fauriei* Copeland.
+**10.柳叶剑蕨 (中国主要植物图说) 图版81: 1-4**
+
+Loxogramme salicifolia (Makino) Makino in Bot. Mag. Tokyo 19: 138. 1905: C.Chr. In Contr. U. S. Nat. Herb. 26: 324. 1931: Ind. Fil. Suppl. 3: 125. 1934; Ching in Bull. Dept. Biol. Coil. Sci. Sun Yatsen Univ. 6: 31. 1933; Ic. Fil. Sin. 4: pl. 190. 1937. pro parte; Ogata, Ic. Fil. Jap. 7: pl. 321. 1936;傅书遐, 中国主要植物图说·蕨类植物门246, 图. 331. 1957; Tagawa, Col. Ill. Jap. Pterid. 166, 227, pl. 71, f.387. 1959; in Hara, Fl. East. Himal. 495. 1966; Ic. Corm. Sin. 1: 276, f. 551. 1972; Nakaike, Enum. Pterid. Jap. 81. 1975; Edie, Ferns Hong Kong 119. 1978; B. Z. Dinget al., Fl. Henan 1: 120, f. 147. 1981; Fl. Tsinling. 2: 198. 1974; Fl. Fujian. 1: 253, f. 240, 1982. ——Gymnogramme salicifolia Makino, Phan. et Pterid. Jap. Icon.III. Pl. 34. 1899. ——Polypodium makinoi C. Chr., Ind. Fil. 543. 1906. ——Loxo-gramme makinoi (C. Chr.) C. Chr., Ind. Fil. Suppl. 2: 22. 1917. ——Loxogrammefauriei Copel. in Philipp. J. Sci. 11: 45, Pl. 3, f. 12. 1916. ——Polypodium fauriei (Copel.) Makino et Nemoto, Fl. Jap. ed. 2: 87. 1931, p. p. non Christ 1896. ——Lox-ogramme biformis Tagawa in Acta Phytotax. Geobot. 3: 93. 1934; De Vol et C. M. Kuoin Fl. Taiwan 1: 191. 1975. ——Polypodium scolopendrium auct. non (Bory) C. Chr.: Y. C. Wu et al. in Bull. Dept. Biol. Coil, Sci. Sun Yatsen Univ. 3: Pl. 155. 1932.
+
+植株高15-35厘米。根状茎横走，粗约2毫米，被棕褐色、卵状披针形鳞片。叶远生，相距1-2厘米；叶柄长2-5厘米或近无柄，与叶片同色，基部有卵状披针形鳞片，向上光滑；叶片披针形，长12-32厘米，中部宽1-1.5 (-3) 厘米，顶端长渐尖，基部渐缩狭并下延至叶柄下部或基部，全缘，干后稍反折；中肋上面明显，平坦，下面隆起，不达顶端，小脉网状，网眼斜向上，无内藏小脉；叶稍肉质，干后革质，表面皱缩。孢子囊群线形，通常在10对以上，与中肋斜交，稍密接，多少下陷于叶肉中，分布于叶片中部以上，下部不育，无隔丝。孢子较短，椭圆形，单裂缝。
+
+产浙江、安徽、河南、湖北、湖南、江西、福建、台湾、广东、广西、贵州、四川、甘肃。附生树干或岩石上，海拔200-1200米。韩国、日本也有。模式标本采自日本。

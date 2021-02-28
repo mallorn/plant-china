@@ -1,0 +1,15 @@
+垂头虎耳草",
+64.**Saxifraga nigroglandulifera** N. P. Balakrishnan",
+
+## Description
+Herbs perennial, 5-36 cm tall. Stem simple, proximally dark brown villous only at leaf axils, distally shortly dark brown glandular hairy. Basal leaves with petiole 1.8-6 cm, margin crisped glandular villous; leaf blade broadly elliptic to ovate or suboblong, 1.5-4 × 1-1.7 cm, abaxially glabrous, adaxially glabrous or sometimes sparsely glandular hairy, margin sparsely brown crisped glandular villous, apex obtuse or acute. Cauline leaves with petiole 2-17 mm, gradually shorter to absent distally on stem, margin brown glandular villous; leaf blade lanceolate to oblong, 1.3-7.5 × 0.3-2.2 cm, both surfaces subglabrous, margin brown glandular villous, apex obtuse or acute. Cyme racemiform, 2-12.5 cm, 2-14-flowered; flowers usually nodding and secund; pedicel 5-6 mm, densely dark brown glandular hairy. Sepals erect, triangular-ovate or ovate to lanceolate, 3.5-5.4 × 1.4-3 mm, abaxially and marginally dark brown glandular hairy, veins 3-6, not confluent at apex, apex obtuse or acute. Petals yellow, subspatulate to narrowly obovate, 7.4-9.6 × 2.5-3 mm, not callose, 3-5-veined. Stamens 4-7 mm. Ovary semi-inferior, 2-4.8 mm; styles 1.2-1.4 mm. Fl. and fr. Jul-Oct.
+
+> Forests, forest margins, scrub, alpine meadows, stony hillsides, alpine lakesides; 2700-5000(-5400) m. W Sichuan, S Xizang, NW Yunnan [Bhutan, Nepal, Sikkim].
+  "Synonym": "&lt;I&gt;Saxifraga nutans&lt;/I&gt; J. D. Hooker &amp; Thomson, J. Proc. Linn. Soc., Bot. 2: 69. 1858, not D. Don (1822), nor Adams (1834); &lt;I&gt;Hirculus nutans&lt;/I&gt; Losinskaja; &lt;I&gt;S. nutans&lt;/I&gt; f. swertioides Engler.
+**160. 垂头虎耳草（中国高等植物图鉴）图版53：16-21**
+
+Saxifraga nigroglandulifera Balakr. in Journ. Bomb. Nat. Hist. Soc. 67: 59. 1970; 中国高等植物图鉴补编 2: 30. 1983; 云南种子植物名录上册: 242. 1984; 西藏植物志2:491. 图161: 20-25. 1985.——S. nutans Hook. f. et Thoms. in Journ. Linn. Soc. Bot. 2: 69. 1857, non D. Don 1821; Clarke in Hook. f. Fl. Brit. Ind. 2: 393. 1878: Franch. Pl. Delav. 240. 1890; Engl. et Irmsch. in Engl. Pflanzenr. 67(IV. 117), 134. 1916; Hand. -Mazz. Symb. Sin. 7(2): 422. 1931; 中国高等植物图鉴 2: 131. 图1991. 1972; J. T. Pan in Acta Phytotax. Sin. 16(2): 14. 1978; Hara et Williams, Enum. Flow. Pl. Nepal 2: 154. 1979.——S. nutans Hook. f. et Thoms. f. swertioides Engl. in Bot. Jahrb. 48:590. 1912, #$#fa.#$#; Engl. et Irmsch. op. cit. 135. 1916.——S. xiaojinensis Ku in Bull. Bot. Res. 9(4): 5. 1989.
+
+多年生草本，高5-36厘米。茎不分枝，中下部仅于叶腋具黑褐色长柔毛，上部被黑褐色短腺毛。基生叶具柄，叶片阔椭圆形、椭圆形、卵形至近长圆形，长1.5-4厘米，宽1-1.65厘米，先端钝或急尖，腹面通常无毛，有时疏生腺毛，背面无毛，边缘疏生褐色卷曲长腺毛（有的腺头掉落），叶柄长1.8-6厘米，边缘具卷曲长腺毛，基部扩大；茎生叶，下部者具长柄，向上渐变无柄，叶片披针形至长圆形，长1.3-7.5厘米，宽0.3-2.2厘米，先端钝或急尖，两面近无毛，边缘具褐色长腺毛，叶柄长0.2-1.7厘米，边缘具褐色长腺毛。聚伞花序总状，长2-12.5厘米，具2-14花；花通常垂头，多偏向一侧；花梗长5-6毫米，密被黑褐色腺毛；萼片在花期直立，三角状卵形、卵形至披针形，长3.5-5.4毫米，宽1.4-3毫米，先端急尖或钝，腹面无毛，背面和边缘具黑褐色腺毛，3-6脉，主脉于先端不汇合；花瓣黄色，近匙形至狭倒卵形，长7.4-9.6毫米，宽2.5-3毫米，3-5脉，无痂体；雄蕊长4-7毫米，花丝钻形；子房半下位，长2-4.8毫米，花柱长1.2-1.4毫米。花果期7-10月。
+
+产四川西部、云南西北部和西藏南部。生于海拔2 700-5350米的林下、林缘、高山灌丛、高山灌丛草甸、高山草甸和高山湖畔。不丹至尼泊尔也有。模式标本采自锡金。

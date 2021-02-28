@@ -1,0 +1,7 @@
+钝萼卷瓣兰",
+88.**Bulbophyllum fimbriperianthium** W. M. Lin Kuo Huang & T. P. Lin, Taiwania. 51: 162. 2006.",
+
+## Description
+Rhizome long creeping, 1.8-3 mm in diam. Pseudobulbs 0.5-1.5 cm apart on rhizome, often ± ascending, ovoid-conic, 1-1.6 cm, 6-10 mm in diam., with a terminal leaf. Leaf shortly petiolate; blade oblong to oblong-oblanceolate, 4-8.5 × 1.2-2 cm, apex slightly retuse. Scape from base of pseudobulb, 6-8 cm; umbel 4-8-flowered; peduncle slender, with 2 scalelike sheaths; floral bracts narrowly triangular, 3-4 mm. Pedicel and ovary 5-8 mm. Flowers with dorsal sepal and petals white with red veins, tip red, lateral sepals apple-green toward base, yellow elsewhere, lip whitish yellow tinged with orange red toward base. Dorsal sepal oblong, 6-9 × 4-6 mm, margin white ciliate, apex rounded to obtuse; lateral sepals lanceolate, 23-33 × 4-5 mm, twisted near base, with their upper edges loosely touching, margins sparsely ciliolate, apex obtuse. Petals obliquely elliptic, 4-5 × 2.5-3 mm, margins long white ciliate, apex rounded to obtuse; lip recurved, ovate, 2.5-3 mm, adaxially shallowly grooved, deeper so abaxially. Column subterete, ca. 2 mm, with a distinct foot, conspicuously winged; stelidia slender; anther cap subglobose. Fl. Sep-Oct.
+  "Reference": "This species mainly differs from *Bulbophyllum hirundinis* in having a rounded to obtuse dorsal sepal.This species mainly differs from *Bulbophyllum hirundinis* in having a rounded to obtuse dorsal sepal.
+  "Statistics": "&amp;#9679; Trunks and branches of conifers; 1300-1400 m. S Taiwan.

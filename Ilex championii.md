@@ -1,0 +1,17 @@
+凹叶冬青",
+190.**Ilex championii** Loesener",
+
+## Description
+Shrubs or trees, evergreen, 8-13(-15) m tall; bark gray-white or gray-brown. Young branchlets purple-brown, longitudinally ridged and sulcate, puberulent; older branchlets brown, subterete, slightly puberulent or glabrescent, longitudinally fissured; lenticels absent; terminal buds conical, puberulent, apically acute. Stipules persistent, deltoid, ca. 1 mm; petiole 4-5 mm, sulcate, sparsely minutely puberulent; leaf blade abaxially greenish, adaxially green, shiny, ovate or obovate, rarely obovate-elliptic, 2-4 × 1.5-2.5 cm, leathery, abaxially deeply colored punctate, both surfaces glabrous, midvein slightly raised or flat on both surfaces, lateral veins 8-10 pairs, evident abaxially, obscure adaxially, reticulate veins sometimes evident abaxially, base obtuse, margin entire, apex retuse or emarginate, or shortly and abruptly acuminate. Inflorescences: cymes, fasciculate, axillary on first to second year’s branchlets. Male inflorescences: cymes of order 1 or 2, 1-3-flowered, puberulent; bracts deltoid, puberulent; peduncles 1-1.5 mm; pedicels 0.5-1 mm; bracteoles 1, basal, or absent; flowers white, 4-merous; calyx patelliform, ca. 1.8 mm in diam., puberulent, deeply 4-lobed, lobes orbicular, ciliate; corolla rotate, ca. 4 mm in diam., petals oblong-ovate, basally slightly connate; stamens shorter than petals, anthers oblong; rudimentary ovary pulvinate, rostellate. Female flowers not known. Infructescences: 1-fruited cymes, few fascicled; fruiting pedicels 1.5-2 mm, puberulent, bracteoles 2, basal or median. Fruit red, compressed globose, 3-4 mm in diam.; persistent calyx explanate, subquadrangular, puberulent, 4-lobed, lobes ovate, ciliate; persistent stigma discoid, convex; pyrenes 4, ellipsoidal-obovoid, ca. 3.5 mm, ca. 1.5 mm in diam., abaxially slightly raised 3-striate, not sulcate, smooth, endocarp leathery. Fl. Jun-Jul, fr. Aug-Nov.
+
+> ● Dense forests, valleys; 600-1900 m. Fujian (Liancheng), Guangdong, Guangxi, Guizhou, S Hunan (Yizhang), Jiangxi.
+  "Synonym": "*Ilex memecylifolia* Champion ex Bentham var. *nummularia* Champion ex Bentham.
+**190.凹叶冬青（中国高等植物图鉴）图版47：5-8**
+
+Ilex championii Loes. in Nov. Act. Acad. Caes. Leop.-Carol. Nat. Cur. 78: 349 (Monog. Aquif. 1: 349). 1901; Merr. in Lingnan. Sci. Journ. 13: 36. 1936; S. Y. Hu in Journ. Arn. Arb. 31: 258. 1950;中国高等植物图鉴2: 656, 图3041. 1972, et补编2: 209. 1983, in clavi; 贵州植物志2: 368. 1985; 福建植物志3: 266. 1987; 湖南植物名录218. 1987. ——Ilex memecylifalia Champ. ex Benth. var. nummularifolia Champ. ex Benth. in Hook. Journ. Bot. Kew Gard. Misc. 4: 329. 1852; Forbes et Hemsl. in Journ. Linn. Soc. Bot. 23: 117. 1886.
+
+常绿灌木或乔木，高达13 (-15)米；树皮灰白色或灰褐色。当年生幼枝具纵棱槽，被微柔毛，紫褐色，二年生枝变无毛，具隆起的叶痕，而无皮孔；顶芽圆锥形，被微柔毛，急尖。叶生于1-2年生枝上，叶片厚革质，卵形或倒卵形，稀倒卵状椭圆形，长2-4厘米，宽1.5-2.5厘米，先端圆而微凹或微缺，或具短的突然渐尖，基部钝，全缘，叶面绿色，具光泽，背面淡绿色，具深色腺点，两面无毛，主脉在两面隆起或平坦，侧脉8-10对，在叶面不明显，背面明显，网状脉在背面偶尔明显；叶柄长4-5毫米，上面具宽而浅的纵槽，疏被微小柔毛，上半段具叶片下延而成的狭翅；托叶三角形，长约1毫米，宿存。雄花序由具1-3花的聚伞花序分枝簇生于二年生枝的叶腋内，被微柔毛，苞片三角形，被微柔毛；总花梗长1-1.5毫米，花梗长0.5-1毫米，具基生小苞片1枚或无；花4基数，白色；花萼盘状，直径约1.8毫米，被短柔毛，4深裂，裂片圆形，具缘毛；花冠辐状，直径约4毫米，花瓣长圆状卵形，基部稍合生；雄蕊长不及花瓣，花药长圆形；退化子房垫状，具短喙。雌花未见。果序簇生于当年生枝的叶腋内，单个分枝具1-3果，果梗长1.5-2毫米，被微柔毛，小苞片2枚，着生于果梗的近基部或中部；果扁球形，直径3-4毫米，成熟后红色，宿存花萼平展，近四角形，被微柔毛，4裂，裂片卵圆形，具缘毛，宿存柱头盘状，凸起；分核4，椭圆状倒卵形，长约3.5毫米，宽1.5毫米，背部具3条稍凸起的条纹，无沟，平滑，内果皮革质。花期6月，果期8-11月。
+
+产于江西（遂川、安远、武功山）、福建（连城）、湖南（宜章）、广东（惠阳、罗浮山）、香港、广西（灌阳、融水、临桂、阳朔、龙胜、象州）和贵州（梵净山、荔波）等省区；生于海拔600-1600米的山谷密林中。模式标本采自香港（Champion s．n.）。
+
+本种与矮冬青Ilex lohfauensis Merr.相似，但后者的小枝被长柔毛，叶片薄革质，较小，长1-2.5厘米，宽5-12毫米，背面无腺点而易区别。

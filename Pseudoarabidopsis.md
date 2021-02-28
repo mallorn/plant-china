@@ -1,0 +1,6 @@
+假鼠耳芥属",
+53.**Pseudoarabidopsis** Al-Shehbaz et al.",
+
+## Description
+Herbs biennial or perennial. Trichomes sessile, stellate, 4- or 5-rayed, with at least some rays branched. Stems erect or ascending, sometimes decumbent. Basal leaves petiolate, rosulate, simple, entire or dentate. Cauline leaves sessile, deeply sagittate-amplexicaul or rarely auriculate, entire or dentate. Racemes several flowered, ebracteate. Fruiting pedicels ascending or divaricate. Sepals oblong, erect, glabrous or pubescent, base of lateral pair subsaccate. Petals white or pink, erect, slightly longer than sepals; blade spatulate, apex obtuse; claw absent. Stamens 6, strongly tetradynamous; filaments not dilated at base; anthers oblong, sagittate at base, obtuse at apex. Nectar glands confluent, subtending bases of all stamens, surrounding those of lateral ones. Ovules 60-100 per ovary. Fruit dehiscent siliques, linear, terete, stipitate; valves papery, with obscure midvein, glabrous, smooth; gynophore distinct; replum rounded; septum complete, without a midvein; style distinct and to 1 mm; stigma capitate, subentire or slightly 2-lobed. Seeds 60-100 per ovary, biseriate, wingless, oblong or ovoid, plump; seed coat minutely reticulate, slightly mucilaginous when wetted; cotyledons incumbent.
+  "Statistics": "One species: Afghanistan, W China, Kazakhstan, Russia.

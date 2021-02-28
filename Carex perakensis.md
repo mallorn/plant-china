@@ -1,0 +1,16 @@
+霹雳薹草",
+185.**Carex perakensis** C. B. Clarke in J. D. Hooker Fl. Brit. India. 6: 720. 1894.",
+
+## Description
+Rhizome stout, woody. Culms central, 30-120 cm tall, ca. 2 mm thick near base, trigonous, with several nodes, clothed at base with shortly bladed or bladeless dark purple-red sheaths disintegrating into fibers. Leaves basal or cauline, some overtopping culm, blades broadly linear, 4-12 mm wide, stiff, flattish, leathery; cauline leaves rather long, sheathing, dark brown, membranous, pale greenish and black-brown veined abaxially. Lower involucral bracts leaflike, longer than inflorescence, long sheathing, upper involucral bracts glumelike. Inflorescence an interrupted panicle, 30-40 cm, with 3-6 partial panicles, partial panicles 2-5 cm, lower ones single or binate, upper ones binate or occasionally ternate, each bearing 3-7 sessile spikes, lower ones with long peduncles; spikes bisexual, androgynous, lanceolate or oblong-lanceolate, 1.5-3 cm, male part 1/3-1/2 length of spike. Female glumes pale or slightly brown, broadly ovate to oblong, 2.2-4.5 mm, membranous, 1-veined costa excurrent into a short awn 1-1.5 mm, apex acute to subobtuse. Utricles longer than glume, obovate-elliptic or ovate-fusiform, trigonous, 4.5-6 mm, herbaceous, hispidulous above, many veined, gradually tapering at both ends, beak conic, 1-2 mm, hispidulous or glabrescent, obliquely truncate at hardly 2-toothed orifice. Nutlets dark brown, tightly enveloped, obovate-elliptic, trigonous, 2.5-3 mm, faces concave; style erect, sparsely hispidulous, base slightly thickened; stigmas 3. Fl. and fr. Jul-Oct.
+  "Statistics": "Shady and moist places in forests; 700-1800 m. Fujian, Guangdong, Guangxi, Guizhou, Hainan, Sichuan, Taiwan, Yunnan [Indonesia, Malaysia, Thailand, Vietnam].
+  "Synonym": "*Carex dunnii* Hayata; *C. prainii* C. B. Clarke (1904), not Kükenthal (1903); *C. setulifolia* Nelmes; *C. tatewakiana* Ohwi; *C. tonkinensis* Franchet.
+**163. 霹雳薹草（海南植物志）黄穗薹（台湾植物志）**
+
+Carex perakensis C. B. Clarke in Hook. f. Fl. Brit. Ind. 6: 720, 1894; T. Koyama in Journ. Fac Sci. Univ. Tokyo Sect. III. 8 (4): 156, 1962; 海南植物志4: 339, 1977; 台湾植物志5: 314, 1978; 福建植物志6: 353, 1995; ——C. tonkinensis Franch. in Nouv. Arch. Mus Paris III 8: 251, 1896; T. Koyama in Acta Phytotax. Geobot. 16: 6, 1955.——C. prainii C. B. Clarke in Journ. Linn. Soc. Bot. 36: 305, 1904.——C. dunnii Hayata in Journ. Coll. Sci. Univ. Tokyo 30: 282, 1911; Ohwi, Cyper. Japon 1: 460, 1936; Akiyama, Caric. Fac East. Reg. Asia 137, 1955. ——C. tatewakiana Ohwi in Acta Phytotax. Geobot. 1: 299, 1932. ——C. setulifolia Nelmes in Mem. Mus. Hist. Nat. Paris, Ser. B. Bot. 4: 116, 1955.
+
+根状茎粗壮，木质。秆中生，高30-100厘米，稍粗，三棱形，基部具短叶或具无叶片的暗紫红色的叶鞘，有时分裂成纤维状。叶基生或秆生，线形，宽8-12毫米，革质，秆生叶具长鞘。苞片叶状，下部的长于花序，向上渐短，具长鞘。圆锥花序复出，长30-40厘米，支花序单生或孪生，具多数小穗，上部小穗互相靠近，具短柄，下部的稍疏远，具较长的柄；小穗两性，雄雌顺序，披针形或长圆状披针形，长1.5-3厘米，雄花部分约占小穗长的1/2-1/3。雌花鳞片宽卵形，长2.2-4.5毫米，黄褐色，中间色较淡，边缘具白色膜质，顶端具短尖头。果囊长于鳞片，倒卵状椭圆形或卵状菱形，三棱状，长4.5-6毫米，脉明显，黄绿色，密被白色短糙毛或后来无毛，顶端渐狭成喙，喙长1.5毫米，被毛，喙口具2齿。小坚果椭圆状倒卵形，三棱形，长2.5-3毫米，暗褐色，棱面下凹；花柱直立，基部稍增粗，疏被小刺毛，柱头3个。花果期7-10月。
+
+产福建、台湾、广东、海南、广西、四川、贵州、云南；生于林下阴湿处，海拔700-1800米。分布于中南半岛、马来西亚和印度尼西亚。
+
+本种是一个多型性类群，它们彼此之间均有相似之处，应置于同一分类群为妥。而且该种的系统位置也有争议，Kukenthal将它置于subgen. Indocarex中，而Raymond则置于Subgen. Carex，它的花序虽然似圆锥花序，但支先出叶不为囊状，我们同意Raymond的意见，将它置于Subgen. Carex中。

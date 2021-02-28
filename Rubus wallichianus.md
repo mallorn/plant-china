@@ -1,0 +1,19 @@
+红毛悬钩子",
+48.**Rubus wallichianus** Wight & Arnott",
+
+## Description
+Shrubs climbing, 1–2 m tall. Branchlets reddish brown, grayish brown in age, robust, angled, pubescent, with sparse, curved prickles, with dense, spreading reddish brown bristles to 7 mm. Leaves imparipinnate, usually 3-foliolate; petiole 2–4.5 cm, petiolule of terminal leaflet 1.5–3 cm, lateral leaflets subsessile, reddish brown bristly, pubescent, with sparse prickles; stipules linear, 0.7–1.4 cm, pubescent, intermixed sparsely setose; blade of leaflets elliptic or ovate, rarely obovate, 4–9(–12) × 3–7(–10) cm, terminal leaflet larger than lateral leaflets, midvein and veins raised abaxially, impressed adaxially, often sparsely setose, with minute prickles, abaxially dark green, glabrous or slightly pubescent along midvein, adaxially slightly pale, pilose only along veins, base rounded or broadly cuneate, margin irregularly sharply serrate, apex acuminate to caudate, rarely nearly acute. Inflorescences clusters of 4–8 flowers in leaf axils, rarely flowers solitary; bracts linear or linear-lanceolate, 6–10 mm, pubescent. Pedicel 4–7 mm, pubescent, intermixed setose, with minute prickles. Flowers 1–1.3 cm in diam. Calyx abaxially densely tomentose; sepals erect in fruit, broadly ovate or triangular-ovate, 5–7 × 4–5 mm, apex subacute, abruptly long pointed. Petals white, spatulate to elliptic-obovate, 6–10 × 4–6 mm, both surfaces tomentose, base clawed, apex rounded to acute. Stamens many, shorter than petals; filaments linear, but somewhat broadened and flattened. Pistils slightly shorter than or nearly as long as stamens; apex of ovary and base of style soft hairy. Aggregate fruit golden or reddish yellow at maturity, globose, 5–8 mm in diam., glabrous; pyrenes deeply rugose. Fl. Mar–Apr, fr. May–Jun. 2n = 14*.
+
+> Thickets on slopes, mixed forests, montane valleys, ravines, stream sides, cliffs; 300--2200 m. Guangxi, Guizhou, Hubei, Hunan, Sichuan, Taiwan, Yunnan [Bhutan, India, Nepal, Sikkim, Vietnam].
+  "Synonym": "*Rubus ellipticus* Smith subsp. *fasciculatus* (Duthie) Focke; *R. ellipticus* var. *fasciculatus* (Duthie) Masamune; *R. erythrolasius* Focke; *R. fasciculatus* Duthie; *R. pinfaensis* H. Léveillé &amp; Vaniot.
+**44.红毛悬钩子（中国高等植物图鉴）黄刺泡（贵州），鬼悬钩子（台湾木本植物志）**
+
+Rubus pinfaensis Levl. et Vant. in Bull. Soc. Agr. Sci. Arts Sarthe 39: 320. 1904 et in Fedde, Repert. Sp. Nov. 6: 374. 1909: Levl. in Bull. Acad. Geog. Bot. 20 (Mem.): 106. 1909; Focke, Bibl. Bot. 72(2): 199. f. 81. 1911 et in Sarg. Pl. Wils. 1:55. 1911; Hand.-Mazz. Symb. Sin. 7: 50. 1933: Rehd. in Journ. Arn. Arb. 18:50. 1937; Li in Woody Fl. Taiwan 312. 1963; 中国高等植物图鉴2:283.图2295. 1972; Liu et Su in Fl. Taiwan 3:121. 1977.——R. fasciculatus Duthie in Ann. Bot. Gard. Calcutta 9:39. pl. 48. 1901; Card. in Bull. Mus. Hist. Nat. Paris 23: 306. 1917, non P. J. Mueller 1858. ——R.ellipticus Smith subsp. fasciculatus (Duthie) Focke, l. c. 72(2): 199. 1911. ——R. ellipticus Smith var. fasciculatus Masamume et Kudo ＆ Masamume in Ann. Rep. Taihoku Bot. Gard. 2:129. 1932.
+
+攀援灌木，高1-2米；小枝粗壮，红褐色，有棱，密被红褐色刺毛，并具柔毛和稀疏皮刺。小叶3枚，椭圆形、卵形、稀倒卵形，长（3)4-9厘米，宽2-7厘米，顶端尾尖或急尖，稀圆钝，基部圆形或宽楔形，上面紫红色，无毛，叶脉下陷，下面仅沿叶脉疏生柔毛、刺毛和皮刺，边缘有不整齐细锐锯齿；叶柄长2-4.5厘米，顶生小叶柄长1.5-3厘米，侧生小叶近无柄，与叶轴均被红褐色刺毛、柔毛和稀疏皮刺；托叶线形，有柔毛和稀疏刺毛。花数朵在叶腋团聚成束，稀单生；花梗短，长4-7毫米，密被短柔毛；苞片线形或线状披针形，有柔毛；花直径1-1.3厘米；花萼外面密被绒毛状柔毛；萼片卵形，顶端急尖，在果期直立；花瓣长倒卵形，白色，基部具爪，长于萼片；雄蕊花丝稍宽扁，几与雌蕊等长；花柱基部和子房顶端具柔毛。果实球形，直径5-8毫米，熟时金黄色或红黄色，无毛；核有深刻皱纹。花期3-4月，果期5-6月。
+
+产湖北、湖南、台湾、广西、四川、云南、贵州。生山坡灌丛、杂木林内或林缘，也见于山谷或山沟边，海拔500-2200米。
+
+根和叶供药用，有祛风除湿、散瘰伤之效。
+
+此种和椭圆悬钩子R. ellipticus Smith很近似，世界各国植物分类学家对此两种处理方法各不相同，有些学者将它们分开，作为独立种，另一些则加以合并，Thuan in Fl. Camb.Laos et Vietn. 7:33; 1968中首次把椭圆悬钩子归并入红毛悬钩子中，随后Lauener和Ferguson in Not. Roy. Bot. Gard. Edinb. 30(2) 271. 1970一书中同意这种处理。我们整理和检查了本国产的标本，认为两者可以区别，红毛悬钩子叶片下面仅沿叶脉疏生柔毛，无绒毛，顶端尾尖或急尖，稀圆钝，而椭圆悬钩子叶片下面密被绒毛，顶端急尖或突尖，仅其变种顶端浅心形或近截形。

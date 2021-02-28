@@ -1,0 +1,15 @@
+关山猪殃殃",
+17.**Galium formosense** Ohwi Repert. Spec. Nov. Regni Veg. 36: 55. 1934.",
+
+## Description
+Herbs, perennial, procumbent to erect, (5-)8-20(-30) cm tall. Stems 4-angled, sparsely to rather densely pilose, angles thickened. Leaves in whorls of 4, sessile; blade drying submembranous, blackish green, broadly elliptic to obovate, 4-20 × 3-10 mm, length/breadth index 2 or less, both surfaces sparsely to densely pilose at least along veins, base cuneate to obtuse, apex obtuse to rounded and mucronate; principal veins 3, palmate. Inflorescences with terminal and axillary, few- to many-flowered, 1-3 cm long cymes; peduncles sparsely pilose to glabrous and smooth; bracts spatulate to ovate, 1.5-3 mm; pedicels 1-4 mm. Flowers ?hermaphroditic. Ovary obovoid, ca. 0.5 mm, densely pubescent with uncinate trichomes. Corolla yellowish white, rotate, 1-2 mm in diam., glabrous; lobes 4, ovate, 0.4-0.8 mm, acute. Mericarps ovoid, ca. 1 mm, with dense white to yellowish uncinate trichomes 0.4-0.5 mm. Fl. Jun-Sep, fr. Jun-Nov.
+  "Reference": "Ohwi described the relatively tall (\"20-30 cm\") *Galium formosense* from lower elevations and the condensed *G. kwanzanense* (\"5-10 cm\") from an exposed higher peak of Taiwan. The technical differences indicated mainly relate to flower diameter (1 mm in the former, 2 mm in the latter). In their study of Taiwanese *Galium* Yang and Li (Bull. Natl. Mus. Nat. Sci., Taichung 11: 101-117. 1998; Fl. Taiwan, ed. 2, 4: 254-259. 1998) formally synonymized the taxa and demonstrate a considerable ecological amplitude of *G. formosense* s.l. Furthermore, the specific separation of *G. formosense* from two other Taiwan mountain endemics, with glabrous stems, *G. morii* and *G. tarokoense*, needs better documentation.Ohwi described the relatively tall (\"20-30 cm\") *Galium formosense* from lower elevations and the condensed *G. kwanzanense* (\"5-10 cm\") from an exposed higher peak of Taiwan. The technical differences indicated mainly relate to flower diameter (1 mm in the former, 2 mm in the latter). In their study of Taiwanese *Galium* Yang and Li (Bull. Natl. Mus. Nat. Sci., Taichung 11: 101-117. 1998; Fl. Taiwan, ed. 2, 4: 254-259. 1998) formally synonymized the taxa and demonstrate a considerable ecological amplitude of *G. formosense* s.l. Furthermore, the specific separation of *G. formosense* from two other Taiwan mountain endemics, with glabrous stems, *G. morii* and *G. tarokoense*, needs better documentation.
+  "Statistics": "● Mountains, along trails and roads, fields, open ditches; 600-3000 m. Taiwan (Gaoxiong).
+  "Synonym": "*Galium kwanzanense* Ohwi.
+**52．关山猪殃殃（台湾植物志）**
+
+Galium kwanzanense Ohwi in Fedde, Repert. Sp. Nov. 36: 56. 1934; 台湾植物志6: 115. 1979.
+
+多年生草本，高5-10厘米；茎低矮，纤细，具4角棱，少分枝，被开展稍长的白色疏柔毛，多叶。叶每轮4片，近膜质，较密生，黑绿色，阔倒卵形，长近1厘米，顶端钝圆而具短尖，基部短尖，上面和在下面脉上被开展的疏柔毛，3脉，在下面稍凸起，无柄。聚伞花序顶生，少至多花，长和宽1-3厘米；苞片和小苞片长2-3毫米；花直径2毫米；花梗长1-3毫米，无毛；花冠白色，裂片4，阔卵形，无毛，长近1毫米，不明显地具3脉，顶端急尖；雄蕊4，花丝钻状，花药球形；花柱2，极短，柱头头状。果爿双生，不等大，球形，长约1毫米，具小疣状凸起和被白色短钩毛。
+
+产台湾（高雄）。生于山地。

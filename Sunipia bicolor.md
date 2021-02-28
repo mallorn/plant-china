@@ -1,0 +1,14 @@
+二色大苞兰",
+10.**Sunipia bicolor** Lindley Gen. Sp. Orchid. Pl. 179. 1833.",
+
+## Description
+Rhizome creeping, elongate, usually branched, ca. 2 mm in diam. Pseudobulbs 2-3 cm apart on rhizome, nearly pyriform, 1-2 cm, ca. 1 cm in diam., 1-leaved at apex. Petiole 3-5 mm; leaf blade oblong, 3-9 × 0.6-1.6 cm, leathery, base contracted into petiole, apex obtuse and retuse. Scapes 1-3, suberect, 4.5-8 cm; peduncle 1.5-4 cm, slender, with 3 or 4 membranous sheaths to 0.6-1 cm; raceme 3-4 cm, usually 3-10-flowered; floral bracts ovate-lanceolate, 7-9 × ca. 2.5 mm, membranous, apex acute. Pedicel and ovary 2-3 mm. Flowers thinly textured; sepals and petals whitish with purplish red stripes; lip purple-red. Dorsal sepal ovate-lanceolate, 8-10 × ca. 2.5 mm, 3-veined, apex acute-acuminate; lateral sepals similar to dorsal sepal, base adnate to column foot, lower edges connate to each other with free apices. Petals ovate or ovate-oblong, ca. 3 × 2 mm, 1-veined, margins denticulate, apex obtuse-rounded; lip pandurate, ca. 6 × 3.5 mm, adaxially with 1 thickened ridge from base to apex and swollen at both ends, base subrounded-auriculate on both sides, margin erose-lacerate, apex obtuse. Column stout, ca. 1 mm long and wide; foot ca. 0.5 mm; each pair of pollinia with a stipe and a viscidium. Capsule ovoid, ca. 5 mm, ca. 3 mm in diam. Fl. and fr. Jul-Nov. 2*n* = 40.
+  "Statistics": "Tree trunks in forests, rocks along valleys; 1900-2800 m. SE Xizang, SE to W Yunnan [Bangladesh, Bhutan, India, Myanmar, Nepal, N Thailand].
+  "Synonym": "*Bulbophyllum bicolor* (Lindley) J. D. Hooker (1890), not Lindley (1830); *Ione bicolor* (Lindley) Lindley.
+**2．二色大苞兰（植物分类学报） 图版40：1-2**
+
+Sunipia bicolor Lindl., Gen. Sp. Orch. Pl.: 179. 1833; Seidenf. in Opera Bot. 89: 176, fig. 116. 1986; Z. H. Tsi et S. C. Chen in Acta Phytotax. Sin. 33 (3): 296. 1995. ——Ione bicolor (Lindl.) Lindl., Fol. Orch., Ione: 3. 1853; King et Pantl. in Ann. Bot. Gard. Calcutta 8: 159, Pl. 216. 1898; Tuyama in H. Hara, Fl. East. Himal. 1: 440. 1966. et l. c. 2: 190. 1971; H. Hara et al., Enum. Flow. Pl. Nepal 1: 57. 1978. ——Bulbophyllum bicolor (Lindl.) Hook. f., Fl. Brit. Ind. 5: 770. 1890.
+
+根状茎匍匐，伸长，通常具分枝，粗约2毫米，在每相距2-3厘米处生1个假鳞茎。假鳞茎近梨形，长1-2厘米，基部粗达1厘米，幼时被膜质鞘，顶生1枚叶。叶革质，长圆形，长3-9厘米，中部宽6-16毫米，先端钝并且稍凹入，基部收狭为长3-5毫米的柄。花葶侧生于假鳞茎基部，1-3个，常直立，与叶近等长或有时比叶短；花序柄纤细，长1.5-4厘米，被3-4枚鞘；鞘膜质，筒状，最上部的长达1厘米；总状花序长3-4厘米，通常具3-10朵花；花苞片膜质，卵状披针形，长7-9毫米，宽约2.5毫米，先端短急尖；花梗和子房长2-3毫米；花质地薄，萼片和花瓣苍白色带紫红色条纹；中萼片卵状披针形，长8-10毫米，中部宽2.5毫米，先端急渐尖，具3条脉；侧萼片与中萼片相似，近等大，基部贴生在蕊柱足上，近唇瓣一侧的边缘彼此粘合，仅先端分开；花瓣卵形或卵状长圆形，长约3毫米，中部宽2毫米，先端圆钝，具1条脉，边缘稍具细齿；唇瓣紫红色，小提琴形，长6毫米，中部最宽，达3.5毫米，基部两侧具耳，先端圆钝，边缘撕裂状；唇盘从唇瓣基部至先端具1条宽厚的脊，脊在近唇瓣先端处明显增厚；蕊柱粗短，长宽近相等，约1毫米，蕊柱足长约0.5毫米。蒴果卵形，长约5毫米，粗3毫米。花期 (3) 7-11月。
+
+产云南南部至西北部（屏边、景东、勐海、临沧、镇康、凤庆、高黎贡山一带）。生于海拔1900-2700米的山地林中树干上或沟谷岩石上。从喜马拉雅西北部经尼泊尔、锡金、不丹、印度东北部、孟加拉国、缅甸、泰国都有分布。模式标本采自尼泊尔。

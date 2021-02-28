@@ -1,0 +1,15 @@
+北附地菜",
+24.**Trigonotis radicans** (Maximowicz) Riedl",
+
+## Description
+Herbs perennial, sparsely short strigose, glabrescent, or more densely sericeous-strigose. Stems several, cespitose, erect becoming creeping, to 50 cm tall, rooting from apex or producing rooting branches from axils of upper leaves. Petiole of basal leaves to 18 cm; leaf blade oblong-ovate to ovate, 1-4 cm, rarely longer, abaxially finely short strigose, base cordate to rounded, apex acute; midvein prominent, lateral veins obscure; stem leaves short petiolate. Pedicel to 2 cm in fruit, densely short strigose. Flowers solitary, above stem leaf axils. Calyx 5-parted; lobes lanceolate to broadly ovate, ca. 3 mm, to 5 mm in fruit, apex acute. Corolla light blue or white; tube ca. 1.2-2 mm; throat appendages ca. 0.5 mm, pubescent; limb 6-8(-12) mm wide; lobes divaricate, oblong. Anthers elliptic, ca. 0.5 mm, apex obtuse. Mature nutlets brown, oblique subulate, trigonous-tetrahedral, pubescent, adaxial bottom surface slightly smaller than 2 lateral surfaces; abaxial surfaces flat, rhomboid to rhomboid-ovate, ca. 2 mm, margin narrowly ribbed, apex acute; stipe ca. 0.8 mm, curved. Fl. Jun-Aug, fr. Jul-Sep.
+
+> Forest margins, thickets, brookside meadows. NE Hebei, Heilongjiang, Jilin, Liaoning [Japan, Korea, Russia].
+  "Synonym": "&lt;I&gt;Omphalodes sericea&lt;/I&gt; Maximowicz, Bull. Acad. Imp. Sci. Saint-Petersbourg 17: 453. 1872; &lt;I&gt;O. aquatica &lt;/I&gt;Brand; &lt;I&gt;O. aquatica&lt;/I&gt; var. &lt;I&gt;sinica&lt;/I&gt; Brand; &lt;I&gt;O. sericea&lt;/I&gt; var. &lt;I&gt;koreana&lt;/I&gt; Brand; &lt;I&gt;Trigonotis coreana&lt;/I&gt; Nakai; &lt;I&gt;T. nakaii&lt;/I&gt; H. Hara; &lt;I&gt;T. radicans&lt;/I&gt; var. &lt;I&gt;sericea&lt;/I&gt; (Maximowicz) H. Hara; &lt;I&gt;T. sericea&lt;/I&gt; (Maximowicz) I. M. Johnston; &lt;I&gt;T. sericea&lt;/I&gt; Ohwi.
+**22. 北附地菜（东北植物检索表）图版11：7-8：16：1-4**
+
+Trigonotis radicans (Turcz.) Stev. in Bull. Soc. Nat. Mosc. 24, 1: 603. 1851; Kitag. Lineam. Fl. Mansh. 373. 1939; M. Pop. in Fl. URSS 19: 262. 1953; Ohwi, Fl. Japan 986. 1956;东北植物检索表308. 1959;中国高等植物图鉴3: 559. 1947.——Myosotis radicans Turcz. in Bull. Soc. Nat. Mosc. 14: 258. 1840.——Omphalodes sericea Maxim. in Bull. Acad. Sci. St. Petersb. 17: 453. 1872.——O. aquatica Brand in Repert. Sp. Nov. 13:545. 1915. ——Eritrichium radicans (Turcz.) DC. Prodr. 10: 128. 1846; Ledeb. Fl. Ross. 3:154. 1847-49. ——T. sericea (Maxim.) Ohwi in Journ. Jap. Bot. 12: 328. 1936. ——T. sericea (Maxim.) Johnst. in Journ. Arn. Arb. 18: 25. 1937. ——T. radicans (Turcz.) Stev. var. sericea (Maxim.) Hara in Journ. Jap. Bot. 17: 634. 1941, syn. nov.
+
+多年生草本，全株疏生短伏毛或近无毛。茎多条丛生，开始直立，以后呈匍匐状，顶端着地生根，长达50厘米。基生叶卵形或椭圆状卵形，长3-7厘米，宽1.2-4厘米，先端急尖，基部心形或圆形，两面被细短伏毛，下面中肋显著隆起，侧脉细不明显；叶柄细长，长达18厘米；茎生叶与基生叶相似，但叶片较小，具短柄。花单生于茎生叶叶腋的上方，花梗果期长达2厘米，具贴伏短伏毛；花萼深裂，裂片宽卵形，长约3毫米，先端尖，被短伏毛，果期增大，长约5毫米；花冠淡蓝色，筒部短，长约1.2毫米，檐部直径约6毫米，裂片平展，长圆形，长约3毫米，喉部附属物5，高约0.5毫米，有短柔毛；花药椭圆形，长约0.5毫米，先端钝。小坚果4，斜三棱锥状四面体形，成熟时褐色，有短毛，背面平坦成菱形或菱状卵形，长约2毫米，先端尖，边缘具狭棱，腹面的基底面略小，有柄，柄较粗壮，长约0.8毫米，向一侧弯曲。花期6-8月；果期7-9月。
+
+产河北东北部、辽宁、吉林、黑龙江。生山地阔叶林林缘、灌丛及溪边草地。苏联远东地区及朝鲜也有。

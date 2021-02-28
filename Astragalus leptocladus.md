@@ -1,0 +1,6 @@
+细枝黄耆",
+91.**Astragalus leptocladus** Podlech & L. R. Xu Novon. 17: 237. 2007.",
+
+## Description
+Plants up to 65 cm tall. Stems up to 55 cm, very sparsely covered with ± appressed black hairs 0.2-0.4 mm. Leaves 8-12 cm; stipules 3-5 mm, lower ones vaginate-connate behind stem to middle, upper ones free, all sparsely covered with white and black hairs up to 1 mm; petiole 1-2 cm, rachis sparsely hairy like stem; leaflets in 10-12 pairs, narrowly elliptic, 9-20 × 2-6 mm, abaxially loosely and adaxially sparsely covered with subappressed white hairs ca. 1 mm, apex rounded to sub-acute, mostly very minutely mucronulate. Racemes at anthesis capitate, densely 12-15-flowered; peduncle 10-12 cm, sparsely to rather loosely only black hairy; bracts ca. 2 mm, black hairy. Calyx ca. 5 mm, loosely to rather densely covered with subap-pressed black hairs 0.1-0.4 mm; teeth 2-3 mm. Petals whitish with violet tip; standard ovate, ca. 12 × 6 mm, deeply emar-ginate; wings ca. 10 mm; keel ca. 11 mm. Legumes spreading to nodding, with a stipe ca. 3 mm, oblong, distinctly curved, ca. 12 mm, ca. 3 mm high and ca. 2 mm wide, keeled ventrally, grooved dorsally, with a slender beak ca. 2 mm, 2-locular; valves loosely to rather densely covered with appressed to ascending or partly spreading black hairs 0.3-0.5 mm.
+  "Statistics": "● Xinjiang.

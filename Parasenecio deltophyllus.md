@@ -1,0 +1,14 @@
+三角叶蟹甲草",
+5.**Parasenecio deltophyllus** (Maximowicz) Y. L. Chen Fl. Reipubl. Popularis Sin. 77(1): 30. 1999.",
+
+## Description
+Rhizomes robust, elongate with numerous fibrous roots. Stem solitary, erect, 50-80 cm tall, distinctly sulcate, sparsely pubescent or subglabrous. Leaves petiolate; lower leaves withered and fallen; petiole 3-6 cm, not winged, white crisped- and glandular hairy. Median leaves triangular, 4-10 × 5-7 cm, abaxially sparsely puberulent, adaxially glabrous, basally 3-5-veined, lateral veins upward divaricate, base truncate or cuneate, margin irregularly undulate-toothed, teeth obtuse and mucronulate, apex acute. Upper leaves shortly petiolate, lanceolate. Capitula few to 10, pendulous, terminal or in upper leaf axils, corymbose; peduncles 1-3 cm, sparsely crisped- and glandular hairy; bracteoles 3-8, linear. Involucres campanulate, 6-8 × 5-10 mm; phyllaries 8-10, oblong, ca. 8 × 2-3 mm, outside sparsely white pubescent and glandular hairy, barbate, with broad scabrous margins, apex acuminate. Florets numerous (ca. 38); corolla yellow or yellow-brown, 5-7 mm, with ca. 3 mm tube and campanulate limb; lobes lanceolate, apex puberulent. Anthers caudate at base. Style branches finely long excurved, apex truncate, long papillose. Achenes cylindric, 3-4 mm, glabrous, ribbed. Pappus white, 6-7 mm. Fl. Jul-Aug, fr. Sep.
+  "Statistics": "● Forest understories, slopes, thickets in valleys, shaded places; 3100-4000 m. Gansu, Qinghai, N Sichuan.
+  "Synonym": "*Senecio deltophyllus* Maximowicz, Bull. Acad. Imp. Sci. Saint-Pétersbourg 27: 487. 1882; *Cacalia deltophylla* (Maximowicz) Mattfeld ex Rehder &amp; Kobuski; *Koyamacalia deltophylla* (Maximowicz) H. Robinson &amp; Brettell.
+**5.三角叶蟹甲草（中国高等植物图鉴）图版4: 1-3**
+
+Parasenecio deltophyllus (Maxim.) Y. L. Chen. comb. nov. ——Senecio deltophyllus Maxim. in Bull. Acad. St-Petersb. 27: 487. 1881. ——Cacalia deltophylla (Maxim.) Mattf. ex Rehd. et Koboski in Journ. Am Arb. 14: 39. 1933; Hand. -Mazz. in Acta Hort. Gothob. 12: 296. 1938; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 3. 1966; Koyama in Mem. Fac. Sci. Kyoto Univ. ser. Biol. 2: 179. 1969;中国高等植物图鉴4: 552,图6517. 1975; Koyama in Acta Phytotax. Geobot. 13: 73. 1978;黄土高原植物志5: 339. 1989;青海植物志3: 417.图版91: 4-5. 1996. ——Koyamacalia deltophylla (Maxim.) H. Robins. et Brettel in Phytologia 27: 272. 1973.
+
+多年生草本，根状茎粗壮，直伸，具多数纤维状须根。茎单生，高50-80厘米，直立，具明显的沟棱，被疏生柔毛或近无毛，叶具柄，下部叶在花期枯萎凋落，中部叶三角形，长4-10厘米，宽5-7厘米，顶端急尖，基部截形或楔形，边缘具不规则的浅波状齿，齿端钝，具小尖头，上面无毛，下面被疏短柔毛，基生3-5脉，侧脉向上分叉，叶柄长3-6厘米，无翅，被白色卷毛或疏腺毛；上部叶渐小，最上部叶披针形，具短叶柄，头状花序数个至10个，下垂，在茎端或上部叶腋排列成伞房状花序；花序梗长10-30毫米，被疏卷毛和腺毛，具3-8线形小苞片。总苞钟状，长6-8毫米，宽5-10毫米；总苞片8-10，长圆形，长8毫米，宽2-3毫米，顶端渐尖，有髯毛，边缘宽膜质，外面被疏白色柔毛和腺毛。小花多数（约38），花冠黄色或黄褐色，长5-7毫米，管部细，长约3毫米，檐部钟状，裂片披针形，顶端被微毛；花药伸出花冠，基部长尾状；花柱分枝细长，外弯，顶端截形，被较长的乳头状微毛。瘦果圆柱形，长3-4毫米，无毛，具肋。冠毛白色，长6-7毫米。花期7-8月，果期9月。
+
+产甘肃（拉卜楞、卓尼、临洮、临潭）、青海（西宁、玛沁、泽库、湟中、循化、乐都、互助）、四川北部（松潘）。生于山坡林下或山谷灌丛中阴湿处，海拔3 100-4000米。模式采自青海。

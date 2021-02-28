@@ -1,0 +1,13 @@
+吉隆绿绒蒿",
+40.**Meconopsis pinnatifolia** C. Y. Wu & H. Chuang ex L. H. Zhou Acta Phytotax. Sin. 17(4): 114. 1979.",
+
+## Description
+Herbs, monocarpic, 58-100 cm tall in flower. Taproot plump, ca. 18 cm, ca. 1.5 cm in diam. at top, attenuate toward base. Stems stout, to 2.5 cm in diam. at base, longitudinally striate, sparsely fulvous, shortly branched setose, basally with persistent leaf bases, leaf bases rubiginous, shortly branched setose. Basal leaves: petiole 2.5-15 cm, ca. 5 mm in diam., basally ampliate, sparsely fulvous, shortly branched setose, near base with sparse short spines; blade elliptic to elliptic-oblong or lanceolate, 1.5-7.5 × 1.6-6 cm, both surfaces and margin sparsely fulvous, setose, midvein broad, lateral veins slender, pinnatipartite, apex obtuse; lobes 3-6 pairs, asymmetrically elliptic to lanceolate-oblong, to 50 × 16 mm, distant, subapically pinnatilobate. Lower cauline leaves like basal leaves; upper cauline leaves elliptic to ovate, both surfaces pilose; leaves sessile. Flowers several in upper axils of stem, uppermost ebracteate. Pedicel 0.6-2.5 cm, setose. Petals 4, mauve-blue, purple, or deep purplish blue, broadly obovate, 3-7.2 × 2.8-6.8 cm, apex truncate, irregularly serrulate. Filaments of same color as petals, linear, 1-1.5 cm; anthers yellow or golden, oblong, 1.5-2 mm. Ovary globose, 1-1.8 cm, densely fulvous, shortly branched setose; styles terete, 5-11 mm, terminating in clavate stigmas 4-5 mm, basally ampliate to disk and covering ovary; disk 6-9 mm in diam., margin deeply divided, lobes thinly deltoid. Capsule (immature) oblong, 1.6-2 cm × 7-10 mm, both ends truncate, densely pilose; persistent styles to 12 mm, stylar disks 10-12 mm in diam. Fl. Jun-Sep.
+  "Statistics": "Rock crevices on slopes, stony and grassy places, rocky streamsides; 3500-4900 m. S Xizang (Gyirong, Nyalam) [NC Nepal].
+**36.吉隆绿绒蒿（植物分类学报）图版11：1**
+
+Meconopsis pinnatifolia C. Y. Wu et H. Chuang ex L. H. Zhou in Act. Phytotax. Sinica 17 (4): 114, fig. 3. 1979; C. Y. Wu et H. Chuang in Act. Bot. Yunn. 2 (4): 377. 1980; 西藏植物志2: 240, 图81: 1. 1985.
+
+一年生草本，高60-100厘米。主根肥厚，长约18厘米，上部粗约1.5厘米，向下渐狭。茎粗壮，基部粗约2厘米，具纵条纹，疏被黄褐色、具多短分枝的刚毛，基部盖以宿存叶基，其上密被锈色、具多短分枝的刚毛。基生叶披针形，长约15厘米，宽约6厘米，先端钝，近基部羽状深裂，裂片披针状长圆形，疏离，近顶端羽状浅裂，两面及边缘疏被黄褐色、具多短分枝的刚毛，中脉宽，侧脉细, 叶柄长约15厘米，宽约5毫米，基部扩大，疏被黄褐色、具多短分枝的刚毛，近基部疏被短刺；下部茎生叶同基生叶，上部茎生叶椭圆形至卵形，两面被毛，无柄。花数朵，生于茎上部叶腋内，最上部花无苞片；花梗长0.6-2.5厘米，被刚毛；花瓣4，宽倒卵形，长3-5厘米，宽2-3厘米，先端平截，具不规则的细齿，紫红色；花丝丝状，长1-1.5厘米, 花药长圆形，长1.5-2毫米；子房近球形，长1-1.8厘米，密被黄褐色、具多短分枝的刚毛，花柱圆柱形，长5-7毫米，基部扩大成盘并盖于子房之上，盘边缘深裂，裂片浅三角形，柱头长5-8毫米。幼果长圆形，长1-2厘米，粗0.7-1厘米，两端平截，密被毛。花果期6-9月。
+
+产西藏南部（吉隆、聂拉木），生于海拔3500-4200米的山坡岩石隙。模式标本采自吉隆。

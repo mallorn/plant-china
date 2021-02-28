@@ -1,0 +1,7 @@
+薛氏兰",
+18.**Cymbidium schroederi** Rolfe Gard. Chron., ser. 3,. 37: 243. 1905.",
+
+## Description
+Plants epiphytic, autotrophic. Pseudobulbs subellipsoid, bilaterally flattened, 13-16 × 4-5 cm. Leaves 6-8, lorate, 55-70 × 2.5-3 cm, articulate 8-9 cm from base, apex acute. Inflorescence arising from base of pseudobulb, suberect or arching, 45-70 cm; rachis 14-25-flowered; floral bracts triangular, 1-3 mm. Flowers not scented, 7-9.5 cm in diam.; pedicel and ovary 25-48 mm; sepals and petals greenish or pale yellow-green with irregular brown striations and spots; lip yellowish to whitish with red-brown striations on lateral lobes and a red-brown, V-shaped patch and a longitudinal line of same color on mid-lobe; column longitudinally striped red-brown on ventral surface. Dorsal sepal narrowly obovate, 45-50 × 13-16 mm, apex acuminate; lateral sepals falcate, oblong, slightly narrower than dorsal sepal. Petals narrowly obovate, 42-46 × 9-12 mm, apex acuminate; lip subovate, 25-28 mm, base fused to basal margins of column for 2-3 mm, 3-lobed; lateral lobes triangular, ciliate; mid-lobe ovate-cordate or broadly ovate, 13-17 × 13-16 mm, apex obtuse or mucronate; disk puberulent on lateral lobes and at center of mid-lobe, V-shaped patch at apex of mid-lobe composed of dense, short hairs, with 2 lamellae near base of lip; lamellae pubescent, tapering to base of lip. Column 25-30 mm, winged, minutely hairy at base. Fl. Mar-Jun.
+  "Statistics": "Trees in forests; 1000-1600 m. SE Yunnan [N Vietnam].
+  "Synonym": "*Cyperorchis schroederi* (Rolfe) Schlechter.

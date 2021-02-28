@@ -1,0 +1,7 @@
+南蓟",
+41.**Cirsium argyracanthum** Candolle Prodr. 6: 640. 1838.",
+
+## Description
+Herbs 30-100 cm tall, perennial. Stems erect, branched above, unwinged, with sparse long multicellular hairs, also cobwebby above. Leaves concolorous, green, surface smooth, with long multicellular hairs along veins. Middle cauline leaves sessile, elliptic-lanceolate to elliptic, 8-14 × 2-4 cm, pinnately divided, auriculate semiamplexicaul; segments 4-9 pairs, each with 3-5 unequal teeth with 1-2 mm lateral spinules and a 4-7 mm apical spine. Upper cauline leaves with sparse teeth tipped with a 0.7-1.4 cm spine. Capitula few to many, spicate, racemose, or racemose-paniculate, erect, surrounded by pectinately spiny bracts with pungent spines to 1.5 cm. Involucre ovoid, 1.5-2 cm in diam., glabrous. Phyllaries imbricate, in ca. 6 rows; outer phyllaries triangular, 7-8 × 1.5-2 mm, narrowed into a 3-4 mm spine; middle phyllaries lanceolate to ovate-lanceolate, ca. 10 × 2 mm, lacking membranous wings, narrowed into a 2-3 mm apical spinule; inner phyllaries linear-elliptic to broadly linear, ca. 13 × 2-3 mm, apically expanded into a scarious appendage. Florets bisexual. Corolla purple or white, ca. 1.6 cm, tube ca. 8 mm. Achene yellowish, ca. 3 mm. Pappus bristles brownish, ca. 1.4 cm. Fl. and fr. Jun-Oct. 2*n* = 34.
+  "Statistics": "Forests, forest margins, grasslands, thickets by rivers, by farmlands; 2100-3700 m. Xizang, NW Yunnan [Bhutan, India, Nepal, Pakistan].
+  "Synonym": "*Cirsium tibeticum* Kitamura; *Cnicus argyracanthus* (Candolle) C. B. Clarke.

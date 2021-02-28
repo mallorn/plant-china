@@ -1,0 +1,48 @@
+枝状花柱组",
+4.**Potentilla sect. Leptostylae** (Th. Wolf) T. T. Yü & C. L. Li",
+
+## Description
+Herbs perennial. Basal leaves pinnate; leaflets serrate at margin. Ovary glabrous, rarely sparsely hairy; style sub-basal, lateral, or subterminal, not swollen at middle but nearly evenly thickened throughout its length, sometimes distally slightly thickened.
+  "Statistics": "About 40 species: mainly Sino-Himalayan region and Malesian archipelago; 21 species (eight endemic) in China.
+  "Synonym": "*Potentilla* subsect. *Leptostylae* Th. Wolf, Biblioth. Bot. 16(Heft 71): 52. 1908.
+  "keylist": "
+1 Plants with stolons.——(2)
+1 Plants without stolons.——(5)
+2(1) Radical leaves more than 10 at flowering.——(3)
+2 Radical leaves absent or fewer than 4 at flowering.——(4)
+3(2) Pedicels with scalelike bracts.[P. gombalana 川边委陵菜](Potentilla gombalana.md)
+3 Pedicels without scalelike bracts.[P. anserina 蕨麻](Potentilla anserina.md)
+4(2) Leaves adaxially sericeous, teminal leaflet elliptic.[P. taronensis 大果委陵菜](Potentilla taronensis.md)
+4 Leaves adaxially subglabrous, terminal leaflet rhombic-elliptic.[P. smithiana 齿萼委陵菜](Potentilla smithiana.md)
+5(1) Cauline leaves more than 4.——(6)
+5 Cauline leaves 1–3.——(10)
+6(5) Auricles of stipules of radical leaves connate from base to middle.[P. festiva 合耳委陵菜](Potentilla festiva.md)
+6 Auricles of stipules of radical leaves free.——(7)
+7(6) Peduncle and hypanthium without gland-tipped, multicellular hairs.[P. polyphylla 多叶委陵菜](Potentilla polyphylla.md)
+7 Peduncle and hypanthium with gland-tipped, multicellular hairs.——(8)
+8(7) Stigma not inflated; leaflets abaxially densely silvery sericeous, distal lateral ones cuneate at  base.[P. lineata 西南委陵菜](Potentilla lineata.md)
+8 Stigma inflated; leaflets abaxially sparsely strigose, distal lateral ones rounded at base.——(9)
+9(8) Epicalyx segments shorter than sepals, margin subentire; style nearly 2 × as long as ovary.[P. fallens 川滇委陵菜](Potentilla fallens.md)
+9 Epicalyx segments longer than sepals, margin with 3–7 teeth; style ca. 1.5 × as long as  ovary.[P. polyphylloides 似多叶委陵菜](Potentilla polyphylloides.md)
+10(5) Apical pair of leaflets sessile, but not decurrent at base.——(11)
+10 Apical pair of leaflets decurrent at base.——(15)
+11(10) Smaller leaflets usually present between leaflets.[P. turfosa 簇生委陵菜](Potentilla turfosa.md)
+11 Smaller leaflets usually not present between leaflets.——(12)
+12(11) Rhizome with a few slender, elongate roots.[P. aristata 多对小叶委陵菜](Potentilla aristata.md)
+12 Rhizome without slender, elongate roots.——(13)
+13(12) Stamens 5–8(–10).[P. glabriuscula 光叶委陵菜](Potentilla glabriuscula.md)
+13 Stamens ca. 20.——(14)
+14(13) Leaflets 2–4 mm.[P. microphylla 小叶委陵菜](Potentilla microphylla.md)
+14 Leaflets 5–15 mm.[P. stenophylla 狭叶委陵菜](Potentilla stenophylla.md)
+15(10) Inflorescence pseudoumbellate.——(16)
+15 Inflorescence cymose.——(17)
+16(15) Auricles of stipules of radical leaves 2.[P. leuconota 银叶委陵菜](Potentilla leuconota.md)
+16 Auricle of stipules of radical leaves 1.[P. wenchuensis 汶川委陵菜](Potentilla wenchuensis.md)
+17(15) Rhizome erect.——(18)
+17 Rhizome creeping.——(19)
+18(17) Auricles of stipules of radical leaves 2.[P. cardotiana 聚伞委陵菜](Potentilla cardotiana.md)
+18 Auricle of stipules of radical leaves 1.[P. commutata 多蕊委陵菜](Potentilla commutata var. polyandra.md)
+19(17) Auricles of stipules of radical leaves 2, apex acute.[P. contigua 高山委陵菜](Potentilla contigua.md)
+19 Auricle of stipules of radical leaves 1, apex rounded.——(20)
+20(19) Flowering stems and petioles sericeous and appressed villous.[P. peduncularis 总梗委陵菜](Potentilla peduncularis.md)
+20 Flowering stems and petioles densely canescent tomentose, tomentose- villous, or sericeous-villous.[P. tugitakensis 台湾委陵菜",](Potentilla tugitakensis.md)

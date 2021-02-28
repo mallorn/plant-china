@@ -1,0 +1,7 @@
+绿春柃",
+19.**Eurya luchunensis** J. H. Wang & H. Wang",
+
+## Description
+Shrubs or small trees, 2-5 m tall. Young branches brown; current year branchlets terete, glabrous or sparsely pubescent; terminal buds pubescent. Petiole 1-1.3 cm, abaxially pubescent, adaxially grooved; leaf blade narrowly oblong-lanceolate to lanceolate, (9-)11-18 × 2-4 cm, leathery, abaxially pale green and villous along midvein, adaxially dark green, midvein abaxially raised and adaxially impressed, secondary veins 11-13 on each side of midvein, secondary and reticulate veins raised on both surfaces, base broadly cuneate, margin entire or sparsely serrate near apex, apex falcately acuminate to caudate-acuminate. Flowers axillary, solitary or to 4 in clusters at leafless nodes. Pedicel 4-6 mm, sparsely pubescent. Male flowers: bracteoles 2 or 3, broadly ovate to orbicular, outside glabrous, margin ciliolate; sepals orbicular, ca. 4 mm, membranous, outside glabrous, inside sparsely pubescent, margin ciliolate; petals not seen open; stamens ca. 16; anthers 20-24-locellate. Female flowers; bracteoles and sepals similar to those of male flowers but slightly smaller; petals not seen open; ovary globose, ca. 2 mm in diam., glabrous; style apically 3-lobed. Fruit globose, 5-6 mm in diam., globose; persistent style ca. 4 mm, apically 3-lobed. Fl. Oct-Dec, fr. Aug.
+
+> ●  Tropical broad-leaved secondary forests, montane rain forests; 800-1900 m. Yunnan (Lüchun).

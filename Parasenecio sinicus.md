@@ -1,0 +1,17 @@
+中华蟹甲草",
+49.**Parasenecio sinicus** (Y. Ling) Y. L. Chen Fl. Reipubl. Popularis Sin. 77(1): 81. 1999.",
+
+## Description
+Plants erect, to 1 m tall. Rhizomes short, stout, with numerous fibrous roots. Stem solitary, striate, glabrous, naked in lower part, with withered scales or fibrous, with many leaves in lower 1/2. Leaves large; petiole 10-12 cm, narrowly winged; leaf blade abaxially pale, adaxially green, reniform or broadly ovate-triangular, 10-20 × 12-24 cm, thinly papery, usually palmately deeply 5-7-lobed; lobes lanceolate or elliptic-lanceolate, abaxially glabrous, adaxially brown strigose on veins, basally 3-5-veined, lateral veins furcate near base, veins raised abaxially, impressed adaxially, base cordate or subcordate, margin stiffly ciliate and sparsely cartilaginous mucronulately or undulately finely toothed, apex acuminate; central lobe larger, lateral lobes often 1-lobulate, lobule obliquely triangular. Upper leaves smaller, hastately 3-lobed. Uppermost leaves shortly petiolate, very small. Capitula many, terminal or in upper leaf axils, arranged in large, broad panicles to 15-20 cm; peduncles 8-15 mm, stout; rachis shortly brown hairy, base with 2 or 3 subulate bractlets. Involucres cylindric; phyllaries 7 or 8, linear-lanceolate or linear, 8-10 × ca. 1 mm, outside glabrous, apex acute, puberulent. Florets 10-14; corolla yellow or purple, ca. 8 mm; tube slender, ca. 3 mm; limb broadly tubular, lobes triangular-lanceolate, ca. 1.5 mm. Anthers exserted from corolla, basally shortly caudate. Style branches excurved, apically truncate, penicillate, papillose. Achenes brown, oblong-cylindric, 5-6 mm, glabrous, ribbed. Pappus red-brown, 7-8 mm. Fl. Jul-Aug, fr. Sep.
+  "Reference": "*Parasenecio sinicus* is similar to *P. pilgerianus* but differs in having leaves palmately shallowly to deeply 5-7-divided, lobes pinnately shallowly lobed; peduncles very short; and phyllaries and florets 3 or 4.*Parasenecio sinicus* is similar to *P. pilgerianus* but differs in having leaves palmately shallowly to deeply 5-7-divided, lobes pinnately shallowly lobed; peduncles very short; and phyllaries and florets 3 or 4.
+  "Statistics": "● Shaded wet places of forest understories on slopes, forest margins by canal sides; 1000-2000 m. Henan, Shaanxi.
+  "Synonym": "*Cacalia sinica* Y. Ling, Contr. Inst. Bot. Natl. Acad. Peiping 5: 7. 1937; *Koyamacalia sinica* (Y. Ling) H. Robinson &amp; Brettell.
+**49.中华蟹甲草（秦岭植物志）图版12：1-4**
+
+Parasenecio sinicus (Ling) Y. L. Chen comb. nov.——Cacalia sinica Ling in Contr. Inst, Bot. Nat. Acad. Peiping 5: 7. fig. 1, 1937; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 8. 1966; 秦岭植物志1(5): 301. 图216. 1985; 黄土高原植物志5: 346. 图版61: 14-17. 1989. ——Kownzacalia sinica (Ling) H. Robinson et Brettel in Phytologia 27: 247. 1973.
+
+多年生草本，根状茎短粗，有多数纤维状须根。茎单生，粗壮，直立，高达1米，具纵条纹，无毛，下部常裸露，具枯鳞片或纤维，下半部的1/3具多数叶，叶大型，薄纸质，全形肾形或宽卵状三角形，长10-20厘米，宽12-24厘米，通常5-7掌状深裂，裂片披针形或椭圆状披针形，顶端渐尖，基部心形或近心形，边缘有硬缘毛，和有疏软骨质小尖或波状细齿，中部裂片较大，侧生裂片常具1小裂片，小裂片斜三角形，基出3-5脉，侧脉近基部叉状，羽状分枝连结成较密的网状，叶脉在上面凹入，下面凸起，上面绿色，沿脉被褐色糙短毛，下面苍白色，无毛，中部叶柄长10-12厘米，具窄翅，具细条纹，上部叶渐小，戟状3裂；最上部叶极小具短柄。头状花序多数，在茎端或上部叶腋排成大型疏散的宽圆锥花序，长达15-20厘米；花序梗粗壮，长8-15毫米；花序轴被褐色短毛，基部有2-3钻形小苞片。总苞圆柱形；总苞片7-8，线状披针形或线形，长约8-10毫米，宽约1毫米，顶端急尖，被乳头状微毛，外面无毛。小花10-14，花冠黄色或淡紫色，长约8毫米，管部细，长约3毫米，檐部宽管状，裂片三角状披针形几，长1.5毫米；花药伸出花冠，长5毫米，基部有短尾；花柱分枝外弯，顶端截形，被笔状微毛。瘦果长圆状圆柱形，长5-6毫米，宽0.5毫米，无毛，具肋，褐色；冠毛红褐色，上部较淡，长7-8毫米。花期7-8月。果期9月。
+
+产河南（卢氏、栾川、嵩山、灵宝、伊川、宝丰）、陕西（华山、户县）。生于山坡林下阴湿处或沟边林缘，海拔970-2000米。模式采自河南卢氏。
+
+本种与太白山蟹甲草P. pilgerianus (Diets) Y. L. Chen近似，但后者叶5-7掌状浅裂至深裂，裂片再羽状浅裂；花序梗近无或极短；总苞片及小花3-4，与本种显然有别。

@@ -1,0 +1,6 @@
+黑药黄耆",
+130.**Astragalus athranthus** Podlech & L. R. Xu Novon. 17: 228. 2007.",
+
+## Description
+Plants ca. 15 cm tall. Caudex with ± elongated, slender, branched stolons. Stems 3-10 cm, loosely to densely covered with appressed hairs 0.3-0.5 mm, basal parts and stolons gla-brous. Leaves 3.5-5.5 cm; stipules adnate to petiole for 1-2 mm, those of lower leaves membranous, triangular, 3-4 mm, shortly vaginate-connate behind stem, glabrous or sparsely hairy, those of upper leaves greenish, narrowly triangular, 5-7 mm, free from each other, loosely white and black hairy; petiole 1-1.5 cm, like rachis loosely covered with appressed to slightly ascending, tangled hairs 0.3-0.5 mm; leaflets in 5-8 pairs, nar-rowly elliptic, 6-18 × 2-3.5 mm, abaxially loosely to densely appressed hairy, adaxially glabrous, apex obtuse to acute. Ra-cemes ovoid, ca. 3 cm, densely many flowered; peduncle 4-7 cm, rather densely hairy; bracts whitish membranous, 4(-5) mm, black hairy. Calyx 5-6 mm, ± densely covered with slightly ascending black hairs 0.5-1 mm; teeth 2-3 mm. Petals yellowish when dry; standard oblong-obovate, ca. 9 × 4 mm, apex emarginate; wings ca. 7 mm, limbs obovate-spatulate, truncate; keel ca. 6 mm. Ovary sessile, widely ovoid, glabrous. Legumes unknown.
+  "Statistics": "● Qinghai.

@@ -1,0 +1,48 @@
+楔叶律",
+3.**Galium asperifolium** Wallich in Roxburgh Fl. Ind. 1: 381. 1820.",
+
+## Description
+Herbs, perennial, weak to climbing or trailing, usually much branched. Stems 20-70 cm, 4-angled to 4-winged, villosulous to hirtellous and/or sparsely aculeolate to smooth. Leaves on main stems in whorls of up to 6(-8), sessile or with very short (ca. 1 mm) petiole; blade drying papery to leathery, adaxially dark green and shiny, abaxially paler, oblanceolate-oblong, oblanceolate, or obovate, (5-)10-20(-25) × (1-)1.5-4(-6) mm, adaxially scaberulous, hirtellous to glabrous, abaxially densely villosulous, hirsute, pilose to glabrous, base acute to cuneate, margins retrorsely aculeolate and ± hairy, flat to thinly revolute, apex obtuse, rounded, truncate, or emarginate and shortly mucronate; vein 1. Inflorescences ± paniculate, up to 18 cm, expanding through growing season, with terminal and axillary, several- to many-flowered cymes; peduncles glabrous to rarely villosulous, regularly spreading to divaricate, with a dichasial branching pattern, at most nodes with leaflike bracts (1-4 mm); pedicels 0.2-2.5 mm. Ovary obovoid, 0.2-0.3 mm, mostly glabrous or smooth, but sometimes also verrucose, hirtellous, or with undeveloped uncinate trichomes. Corolla greenish white or yellow, rotate, 1.5-2 mm in diam., glabrous, lobed for 2/3 or more; lobes 4, triangular-ovate, filamentous-aristate (rarely only acute). Mericarps ellipsoid, 1-2 mm, glabrous and smooth or rarely granular-tuberculate, hirtellous, or with appressed to spreading hooked trichomes, on pedicels often slightly elongating to 4 mm. Fl. and fr. (May-)Jun-Sep(-Oct).
+  "Reference": "*Galium asperifolium* is an exceedingly variable and widespread species and was the first described from a larger assembly of taxa, here called *G. asperifolium* group and provisionally placed into *G.* sect. *Trachygalium* (but certainly not into *G.* sect. *Leptogalium* as in Yamazaki, Fl. Japan 3a: 238-239. 1993, or into *G.* sect. *Leiogalium* as in W. C. Chen, FRPS 71(2): 271. 1999). According to Cufodontis (Oesterr. Bot. Z. 211-251. 1940), Nazimuddin and Ehrendorfer (Pl. Syst. Evol. 155: 71-75. 1987), Mill (Edinburgh J. Bot. 53: 193-213. 1996; Fl. Bhutan 2(2): 825-834. 1999), Ehrendorfer et al. (Fl. Iranica 176: 194. 2005), and the present treatment, the center of diversity of the *G. asperifolium* group lies in the E Himalaya and SW China. Within this area, two subgroups of taxa can be recognized, one with larger plants, longer than 10 mm middle stem leaves, and many-flowered cymes from lower eleva- tions (1), the other with more condensed growth, shorter middle stem leaves, and 1- to few-flowered cymes from higher elevations (2). Both subgroups include taxa with whitish, yellowish to greenish, and others with reddish, purplish, or brownish flower color. The (sub)alpine subgroup (2) is briefly surveyed under *G. acutum*. Subgroup (1), discussed here, is represented by taxa with ± whitish flowers: *G. subfalcatum* Nazimuddin &amp; Ehrendorfer and *G. campylotrichum* Nazimuddin &amp; Ehrendorfer in the W Himalaya of Pakistan and the widespread *G. asperifolium* with its var. *sikkimense* (= *G. sikkimense*) in the C and E Himalaya (including Bhutan). In addition, subgroup (1) includes taxa with a more easterly distribution, extending from China into the remaining parts of E Asia (including Japan): *G. dahuricum* (including *G. comarii*, *G. manshuricum*, *G. niewerthii*, and *G. pseudoasprellum*), *G. prattii*, *G. taiwanense*, and *G. tokyoense*. Subgroup (1) taxa with reddish flowers are *G. blinii* in SW China and the newly described Bhutan endemic *G. craticulatum* R. R. Mill (see also Mill, loc. cit. 1996; loc. cit. 1999).*Galium asperifolium* is an exceedingly variable and widespread species and was the first described from a larger assembly of taxa, here called *G. asperifolium* group and provisionally placed into *G.* sect. *Trachygalium* (but certainly not into *G.* sect. *Leptogalium* as in Yamazaki, Fl. Japan 3a: 238-239. 1993, or into *G.* sect. *Leiogalium* as in W. C. Chen, FRPS 71(2): 271. 1999). According to Cufodontis (Oesterr. Bot. Z. 211-251. 1940), Nazimuddin and Ehrendorfer (Pl. Syst. Evol. 155: 71-75. 1987), Mill (Edinburgh J. Bot. 53: 193-213. 1996; Fl. Bhutan 2(2): 825-834. 1999), Ehrendorfer et al. (Fl. Iranica 176: 194. 2005), and the present treatment, the center of diversity of the *G. asperifolium* group lies in the E Himalaya and SW China. Within this area, two subgroups of taxa can be recognized, one with larger plants, longer than 10 mm middle stem leaves, and many-flowered cymes from lower eleva- tions (1), the other with more condensed growth, shorter middle stem leaves, and 1- to few-flowered cymes from higher elevations (2). Both subgroups include taxa with whitish, yellowish to greenish, and others with reddish, purplish, or brownish flower color. The (sub)alpine subgroup (2) is briefly surveyed under *G. acutum*. Subgroup (1), discussed here, is represented by taxa with ± whitish flowers: *G. subfalcatum* Nazimuddin &amp; Ehrendorfer and *G. campylotrichum* Nazimuddin &amp; Ehrendorfer in the W Himalaya of Pakistan and the widespread *G. asperifolium* with its var. *sikkimense* (= *G. sikkimense*) in the C and E Himalaya (including Bhutan). In addition, subgroup (1) includes taxa with a more easterly distribution, extending from China into the remaining parts of E Asia (including Japan): *G. dahuricum* (including *G. comarii*, *G. manshuricum*, *G. niewerthii*, and *G. pseudoasprellum*), *G. prattii*, *G. taiwanense*, and *G. tokyoense*. Subgroup (1) taxa with reddish flowers are *G. blinii* in SW China and the newly described Bhutan endemic *G. craticulatum* R. R. Mill (see also Mill, loc. cit. 1996; loc. cit. 1999).
+  "Statistics": "Mountain slopes, farmland sides, riversides and beaches, grasslands, forests, thickets, ditch sides, open fields, meadows; 400-3500 m. Guangxi, Guizhou, Hubei, Hunan, Sichuan, Xizang, Yunnan [Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka, Thailand].
+  "Synonym": "?*Galium cavaleriei* H. Léveillé; ?*G. esquirolii* H. Léveillé.
+**38．楔叶葎（新拟）**
+
+Galium asperifolium Wall. ex Roxb. Fl. Ind. ed. Carey 1: 381. 1820; Levl. Cat. Pl. Yunnan 245. 1917; Cuf. in Oesterr. Bot. Zeitschr. 89: 239. 1940; Hara in Hara et al. Enum. Flow. Pl. Nepal 2: 201. 1979.——G. pseudohirtiflorum H. Li in Acta Phytotax. Sinica 18 (1): 117, fig. 2. 1980; 西藏植物志4: 467, 图197: 1-5. 1985, syn. nov.
+**38a. 楔叶葎 （原变种）**
+
+Galium asperifolium Wall. var. asperifolium
+
+多年生、蔓生或攀缘草本，高约20-70厘米，分枝多，扩展；茎较粗壮，具4棱，节稍膨大，多少被长柔毛或短硬毛，枝披散。叶纸质或革质，每轮4-8片，但通常为6片，楔状长圆形或倒披针形，在茎下部的叶通常较大，长1.5-2.5厘米，宽3-6毫米，在茎上部的叶通常较小，长0.5-1厘米，宽1-2毫米，顶端微凹或钝而具小凸尖，基部渐狭成很短的柄或无柄，上面暗绿色，光亮，粗糙，无毛或被短的小硬毛，下面苍白色，密被硬毛，边缘亦常被硬毛，1脉。聚伞花序顶生和腋生，花序多而较稠密，通常2次二歧分叉，常成圆锥花序式排列，长达12厘米，少至多花；总花梗纤细或稍粗；花小，直径约2毫米，4数，花梗长约1.5毫米；花萼无毛；花冠绿白色或黄色，辐状，无毛，裂片披针形或三角状卵形，长约1-1.5毫米，顶端芒尖；雄蕊生于花冠管基部与裂片互生，长为裂片之半；花柱2裂至中部，长约0.7毫米，柱头球形，子房无毛。果小，果爿近球状，单生或双生，直径约1-2毫米，无毛，果柄长1-3毫米。花果期6-9月。
+
+产四川、贵州、云南、西藏。生于海拔1250-3000米的山坡、沟边、田边、草地、灌丛、林中。阿富汗、印度、巴基斯坦、尼泊尔、锡金、孟加拉国、泰国等地区亦有分布。经检查 G. pseudohirtiflorum H. Li 实为本种，故予归并。
+
+本种有4变种。
+**38b. 小叶葎（变种）（中国高等植物图鉴）图版59: 6-8**
+
+Galium asperifolium Wall. var. sikkimense (Gand.) Cuf. in Oesterr. Bot. Zeitschr. 89: 241. 1940; Ferguson in Not. Roy. Bot. Gard. Edinb. 32 (1): 106. 1972; 中国高等植物图鉴4: 282, 图5978. 1975; Hara in Hara et al. Enum. Flow. Pl. Nepal 2: 201. 1979; 云南种子植物名录, 下册: 1251. 1984. ——G. sikkimense Gand. in Bull. Soc. Bot. France 66: 307. 1920. ——?G. cavaleriei Levl. in Fedde, Repert. Sp. Nov. 10: 438. 1912; Levl. Fl. Kouy-Tcheou 366. 1915; Cuf. in Oesterr. Bot. Zeitschr. 89: 248. 1940. ——G. blinii Levl. in Bull. Acad. Geog. Bot. 25: 48. 1915; Levl. Cat. Pl. Yunnan 245. 1917; Cuf. in Oesterr. Bot. Zeitschr. 89: 248. 1940. ——G. bodinieri Levl. Fl. Kouy-Tcheou 366. 1915; Cuf. in Oesterr. Bot. Zeitschr. 89: 248. 1940.——G. esquirolii Levl. in Bull. Acad. Geog. Bot. 25: 48. 1915; Levl. Cat. Pl. Yunnan 245. 1917; Cuf. in Oesterr. Bot. Zeitschr. 89: 248. 1940. ——G. cuneatum Levl. Cat. Pl. Yunnan 245. 1917, nomen.——G. mollugo auct. non Linn.: Forb. et Hemsl. in Journ. Linn. Soc. Bot. 23: 395. 1888.——G. asprellum auct. non Michx.: E. Pritz. in Bot. Jahrb. 29: 583. 1901, quoad specimen Henry 5662. ——G. asperifolium auct. non Wall. ex Roxb.: Hand. -Mazz. Symb. Sin. 7 (4): 1027. 1936, excl. specimen Hand. -Mazz. 9697; 西藏植物志4: 469. 1985, pro parte. ——G. aparine auct. non Linn.: 西藏植物志4: 465. 1985, pro parte.
+
+本变种与楔叶葎不同的是：植株细弱，常直立；茎无刺或在棱上有倒向的小皮刺，茎无毛或稀被疏柔毛或刚毛；叶较小，不为楔状长圆形，在下面被疏毛或沿中脉和边缘有倒向的小刺毛。花期6-9月，果期7-10月。
+
+产湖北、湖南、广西、四川、贵州、云南、西藏。生于海拔400-3900米的山坡、河滩、沟边、旷野、草地、灌丛或林下。印度、斯里兰卡、巴基斯坦、锡金、不丹、尼泊尔、缅甸等地均有分布。
+**38c. 刚毛小叶葎（变种）（新拟）**
+
+Galium asperifolium Wall. var. setosum Cuf. in Oesterr. Bot. Zeitschr. 89: 240. 1940.——G. acutum auct. non Edgew.: Hand. -Mazz. Symb. Sin. 7 (4): 1030. 1936.——G. baldensiforme auct. non Hand. -Mazz.: 西藏植物志4: 465, 图196: 3-4. 1985.
+
+本变种与楔叶葎不同的是：植株极矮小；茎无毛或被疏柔毛或刚毛；叶较小，不为楔状长圆形，在下面中脉疏被开展的刚毛，其余无毛；聚伞花序1-3花，花序较短而少，有时花单生于叶腋。花期6-9月，果期7-10月。
+
+产四川（道孚、炉霍）、云南（西北部）、西藏（察隅、贡觉、波密、墨脱）。生于海拔3000-3900米的山坡、草地或灌丛。模式标本采自云南西北部。
+**38d. 滇小叶葎（变种）（中国高等植物图鉴）**
+
+Galium asperifolium Wall. var. verrucifructum Cuf. in Oesterr. Bot. Zeitschr. 89: 241. 1940; 中国高等植物图鉴4: 282. 1975.——G. asperifolium auct. non Wall. ex Roxb.: Hand. -Mazz. Symb. Sin. 7 (4): 1027. 1936, quoad specimen Hand. -Mazz. 9697.
+
+本变种与楔叶葎不同的是：植株细弱，常直立，茎无刺或在棱上有倒向的小皮刺，茎无毛或稀被疏柔毛或刚毛；叶较小，不为楔状长圆形，在下面无毛或沿中脉和边缘有倒向的小刺毛；果灰白色，被紧贴的颗粒状小疣凸起。花果期8-10月。
+
+产四川（九龙）、云南（西北部）、西藏（察隅、聂拉木）。生于海拔2350-3700米的山坡、草地或灌丛。模式标本采自云南西北部。
+**38e. 毛果楔叶葎（变种）（植物分类学报）**
+
+Galium asperifolium Wall. var. lasiocarpum W. C. Chen in Acta Phytotax. Sinica 28 (4): 303. 1990.
+
+本变种与楔叶葎不同的是：萼管和果均被小硬毛。花果期5-10月。
+
+产广西、贵州、云南。生于山坡、田边、河边、林中，海拔1400-3200米。模式标本采自云南屏边。

@@ -1,0 +1,13 @@
+翼果薹草",
+482.**Carex neurocarpa** Maximowicz Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans. 9 [Prim. Fl. Amur.]: 306. 1859.",
+
+## Description
+Rhizome short, indurate. Plant wholly ferruginous puncticulate. Culms tufted, flattened, smooth, clothed with pinkish ferruginous bladeless sheaths at base. Leaves shorter or longer than culm, blades linear, 2-3 mm wide, flat, margins ± involute, scabrous, apex acuminate; membranous side of leaf sheath ferruginous. Lower involucral bracts leaflike, much surpassing inflorescence, sheathless, upper involucral bracts setaceous. Spicate inflorescence dense, pyramidal-cylindric, 2.5-8 × 1-1.8 mm; spikes numerous, androgynous, ovate, 5-8 mm. Female glumes ferruginous-yellow, ferruginous spotted, ovate to oblong-elliptic, 2-4 × ca. 1.5 mm, apex acute, shortly awned. Utricles ferruginous spotted, longer than glume, suberect, ovate or broadly ovate, plano-convex, 2.5-4 mm, membranous, many veined on both faces, densely ferruginous puncticulate above, margins from middle to apex with broad serrulate wings, apex gradually contracted into a beak, orifice 2-toothed. Nutlets pale brown, loosely enveloped, ovate or elliptic, plano-convex, ca. 1 mm, smooth, lustrous; stigmas 2. Fl. and fr. Jun-Aug. 2*n* = 108.
+  "Statistics": "Wet places along ponds and riversides, grasslands; (below 100-)100-1700 m. Anhui, Gansu, Hebei, Heilongjiang, Henan, Jiangsu, Jilin, Liaoning, Nei Mongol, Shaanxi, Shandong, Shanxi [Japan, Korea, Russia (Far East)].
+**444. 翼果薹草（中国高等植物图鉴）图版96: 13-14**
+
+Carex neurocarpa Maxim. Prim. Pl. Amur. 306, 1859; Kukenth. in Engl., Pflanzenr. Heft 38 (IV. 20): 143, 1909; Nakai, Fl. Kor. 2: 304, 1911; V. Krecz. in Kom., Fl. URSS 3: 144, t. 11, fig. 2, 1935; Ohwi, Cyper. Japon. 1: 242, 1936; Kitag., Lineam. Fl. Mansh. 107, 1939; Akiyama, Caric. Far East. Reg. Asia 50, pl. 14, 1955; Egorova, Caric URSS Subgen. Vignea Sp. 67, fig. 3 (5), 4, 1966; 秦岭植物志1 (1): 237, 图198. 1976; 东北草本植物志11: 180, 图版82, 图1-6, 1976; 中国高等植物图鉴5: 269, 图7368, 1976; 江苏植物志上册: 297, 图522, 1977; 内蒙古植物志8: 48, 图版19, 图6-9, 1985; 安徽植物志5: 448, 图2959, 1992; 浙江植物志7: 294，图7-399, 1993.
+
+根状茎短，木质。秆丛生，全株密生锈色点线，高15-100厘米，宽约2毫米，粗壮，扁钝三棱形，平滑，基部叶鞘无叶片，淡黄锈色。叶短于或长于秆，宽2-3毫米，平张，边缘粗糙，先端渐尖，基部具鞘，鞘腹面膜质，锈色。苞片下部的叶状，显著长于花序，无鞘，上部的刚毛状。小穗多数，雄雌顺序，卵形，长5-8毫米；穗状花序紧密，呈尖塔状圆柱形，长2.5-8厘米，宽1-1.8厘米。雄花鳞片长圆形，长2.8-3毫米，锈黄色，密生锈色点线；雌花鳞片卵形至长圆状椭圆形，顶端急尖，具芒尖，基部近圆形，长2-4毫米，宽约1.5毫米，锈黄色，密生锈色点线。果囊长于鳞片，卵形或宽卵形，长2.5-4毫米，稍扁，膜质，密生锈色点线，两面具多条细脉，无毛，中部以上边缘具宽而微波状不整齐的翅，锈黄色，上部通常具锈色点线，基部近圆形，里面具海绵状组织，有短柄，顶端急缩成喙，喙口2齿裂。小坚果疏松地包于果囊中，卵形或椭圆形，平凸状，长约1毫米，淡棕色，平滑，有光泽，具短柄，顶端具小尖头；花柱基部不膨大，柱头2个。花果期6-8月。
+
+产黑龙江、吉林、辽宁、内蒙古、河北、山西、陕西、甘肃、山东、江苏、安徽、河南；生于水边湿地或草丛中，海拔100-1700米。分布于俄罗斯（远东地区）、朝鲜、日本。模式标本采自黑龙江流域。

@@ -1,0 +1,17 @@
+耳翼蟹甲草",
+13.**Parasenecio otopteryx** (Handel-Mazzetti) Y. L. Chen Fl. Reipubl. Popularis Sin. 77(1): 40. 1999.",
+
+## Description
+Rhizomes not dilated, with numerous fibrous roots. Stem solitary, erect, striate, often purple in lower part, 70-100 cm tall, glabrous. Lower leaves withered by anthesis; stem leaves 4-6, long petiolate; petiole with 5-10 mm wide wings, expanded into an amplexicaul large auricle; blade abaxially gray-green, adaxially green, broadly ovate-cordate or broadly cordate, 10-16 × 11-19 cm, papery, abaxially sparsely arachnoid or subglabrous, adaxially sparsely brown glandular, basally 3-veined, lateral veins 3 or 4 pairs, upward divaricate, base cordate, margin irregularly undulate-serrate, teeth mucronulate, apex acute or shortly acute. Capitula numerous, terminal, compound racemose; rachis and peduncles glandular puberulent, with 1 or 2 lanceolate-subulate bractlets at base of peduncles; bractlets 1-8 mm, spreading or pendulous. Involucres cylindric or narrowly campanulate, 5-7 × 2-2.5 mm; phyllaries (3-)5, oblong-lanceolate, 6-7 × 1-1.5 mm, outside with paleaceous short hairs, margin scabrous, apically obtuse. Florets 3(-5); corolla yellow-white, 7-8 mm, with ca. 3 mm tube and narrowly campanulate limb; lobes lanceolate, ca. 1.5 mm. Anthers exserted from corolla, basally long caudate. Style branches excurved, truncate, papillose. Achenes brown, cylindric, 4-5 mm, glabrous, ribbed. Pappus white, 6-7 mm. Fl. and fr. Jul-Sep.
+  "Reference": "*Parasenecio otopteryx* is similar to *P. profundorum* but differs by the shape of leaves and in having petioles broadly winged and expanded at the base into an amplexicaul auricle.*Parasenecio otopteryx* is similar to *P. profundorum* but differs by the shape of leaves and in having petioles broadly winged and expanded at the base into an amplexicaul auricle.
+  "Statistics": "● Forest understories on slopes, forest margins, shaded places in thickets; 1400-2800 m. Henan, Hubei, Shaanxi, Sichuan.
+  "Synonym": "*Cacalia otopteryx* Handel-Mazzetti, Symb. Sin. 7: 1132. 1936; *Koyamacalia otopteryx* (Handel-Mazzetti) H. Robinson &amp; Brettell.
+**13.耳翼蟹甲草（中国高等植物图鉴）图版9：4-6**
+
+Parasenecio otopteryx (Hand. -Mazz.) Y. L. Chen comb. nov. ——Cacalia otopteryx Hand. -Mazz. Symb. Sin. 7: 1132. 1936; Ling in Contr. Inst. Bot. Nat. Acad. Peiping 5: 14. 1937; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 7. 1966; 中国高等植物图鉴4: 554.图6526. 1975; Koyama in Acta Phytotax. Geobot. 29: 174. 1978; Z. Y. Zhang et Y. H. Gou in Bull. Bot. Res. 3 (1): 134. 1983; 秦岭植物志1 (5): 298,图214. 1985;黄土高原植物志. 5: 343. 1989. ——Koyamacalia otopteryx (Hand. -Mazz.) H. Robins. et Brettel in Phytologia 27: 273. 1973. ——Senecio dahuricus auct. non Sch. -Bip. Forbes et Hemsl. in Journ. Linn. Soc. Bot. 23: 451. 1888.
+
+多年生草本，根状茎不增粗，有多数须根。茎单生，直立，高70-100厘米，具条纹，下部常紫色，无毛。下部叶在花期枯萎，茎叶4-6，具长叶柄，叶片纸质，宽卵状心形，或宽心形，长10-16厘米，宽11-19厘米，顶端急尖或短尖，基部心形，边缘有不规则波状锯齿，齿端具小尖，基出3脉，侧脉3-4对，向上分叉，上面绿色，被疏褐色短腺毛，下面灰绿色，被疏蛛丝状毛或近无毛；叶柄具宽5-10毫米的宽翅，基部扩大成抱茎的大叶耳。头状花序多数，在茎端排列成复总状花序；花序轴和花序梗被腺状短毛；花序梗基部有1-2披针状钻形小苞片，长1-8毫米，开展或下垂。总苞圆柱形或窄钟状，长5-7毫米，宽2-2.5毫米；总苞片(3) 5,长圆状披针形，长6-7毫米，宽1-1.5毫米，顶端钝，边缘膜质，外面被糠状短毛。小花3-4，稀5，花冠黄白色，长7-8毫米，管部细，长3毫米，檐部窄钟状，裂片披针形，长1.5毫米；花药伸出花冠，基部具长尾；花柱分枝外弯，顶端截形，被乳头状长微毛。瘦果圆柱形，长4-5毫米，褐色，无毛，具肋。冠毛白色，长6-7毫米。花果期7-9月。
+
+产河南（卢氏、老君山、栾川）、陕西（山阳天竺山）、湖北（巴东、宣恩、咸丰、鹤峰、五峰、神农架、竹溪、当阳、长阳）、湖南（雪峰山、武冈）、四川（巫山、南川）。生于山坡林下、林缘或灌丛中阴湿处，海拔1400-2800米。模式采自湖北长阳。
+
+本种与 P. profundorum (Dunn) Y. L. Chen 近似，但叶形和叶柄有宽翅，基部扩大，具抱茎的叶耳与后者全然不同。

@@ -1,0 +1,7 @@
+大根唇柱苣苔",
+78.**Chirita macrorhiza** D. Fang & D. H. Qin",
+
+## Description
+Perennials, stemless. Rhizome internodes inconspicuous. Leaves basal; petiole 2.5-7.5 cm X 1-3 mm; leaf blade ovate, seldom elliptic to broadly ovate, 2.5-9.5 X 1.5-6.5 cm, papery, sparsely strigose, eglandular, base broadly cuneate to rounded, margin crenate, seldom repand, apex acute; lateral veins 3-5 on each side of midrib, inconspicuous. Cymes 1-6-flowered; peduncle 8-31.5 cm, pubescent; bracts 2(or 3), free, nearly oblong to lanceolate-triangular, 0.5-1.6 cm X 1-2 mm, pubescent, margin entire, apex acute to obtuse. Pedicel 0.7-2.6 cm, puberulent. Calyx 5-sect from base; segments equal, lanceolate, 6-11 X ca. 1.5 mm, pubescent, margin entire, apex acute. Corolla white, limb purplish, inside with 2 purple spots on adaxial lip and 2 yellow spots on abaxial lip, 4.5-6 cm, outside sparsely pubescent, inside sparsely pubescent, densely glandular pubescent on spots of adaxial lip, glandular puberulent on spots of abaxial lip; tube funnelform, 2.5-3 X 1.5-2 cm; adaxial lip 1-1.5 cm; abaxial lip 2-3 cm. Filaments ca. 1.5 cm, glandular puberulent at base and apex; anthers fused by entire adaxial surfaces, ca. 4 mm, abaxially densely bearded; staminodes 3, 1-12 mm. Pistil ca. 3.3 cm; ovary ca. 2.2 cm, densely glandular puberulent. Stigma obtrapeziform, ca. 3.5 mm, 2-lobed. Fruit and seeds unknown. Fl. Apr.
+
+> * Forests on limestone hills; ca. 200 m. S Guangxi (Wuming Xian).

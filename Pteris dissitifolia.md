@@ -1,0 +1,17 @@
+疏羽半边旗",
+38.**Pteris dissitifolia** Baker J. Bot. 28: 263. 1890.",
+
+> Lu and Yang (Taiwania 50: 137-165. 2005) reported *Pteris dissitifolia* as a new species for Taiwan, but Knapp (Ferns Fern Allies Taiwan, 478. 2011) noted that there is no apparent delimitation between this and *P. semipinnata* in Taiwan.
+
+## Description
+Plants 1-1.5 m tall. Rhizome ascending or erect, 1-1.5 cm in diam., apex and stipes basally densely clothed with scales; scales median brownish black, light brown to gray at margins, without luster, linear-lanceolate, ca. 2 mm in diam., subentire, apex long acuminate. Fronds clustered; stipe castaneous-brown, adaxially sorrel-red, sometimes nearly brownish, shiny, 40-80 cm × 4-5 mm, glabrous, adaxially grooved; rachises castaneous-brown; lamina 2-pinnatipartite on both sides or either side, ovate-oblong in outline, 35-50 × 25-30 cm; lateral pinnae 5-8 pairs, opposite or subopposite, basal pairs 6-8 cm apart, stalked (1-3 mm), upper sessile, decumbent, pinnae oblong-lanceolate, 15-25 × 4-6 cm, base oblique, apex tapering; basal 1 or 2 pairs of pinnae often pinnatipartite on both sides; basal pair of pinnae often with a pinnule near base on basiscopic side; median pinnae often pinnatipartite on basiscopic side, entire on acroscopic side or only pinnatipartite on upper parts; upper pinnae pinnatipartite on basiscopic side, entire on acroscopic side; segments lanceolate, 4-12 × 1-1.3 cm, gradually shorter upward, acuminate; basal segments on basiscopic side longest, basally decrescent to a broad wing, sterile margins slightly serrate; terminal pinna pinnatipartite, divided nearly to costa, triangular-ovate in outline, ca. 15 × 10-12 cm, base broadly cuneate, somewhat decurrent, apex acuminate; segments 8-10 pairs, alternate or subopposite, ca. 1 cm apart, decumbent, falcate-lanceolate, 6-8 × 0.6-0.8 cm, gradually shorter upward, base conspicuously decrescent, with interrupted broad wing along costules, apex mucronate; costae prominent abaxially, straw-colored at apex, castaneous-brown downward, adaxially grooved, grooves with thin raised pale gray edges (minutely and irregularly toothed); veins conspicuous on both sides, sparse, decumbent, often 1- or 2-forked; lamina pale green, firmly herbaceous when dried, glabrous.
+
+> Sparse shaded forests; 100-300 m. Guangdong, Hainan (Baoting), S Yunnan (Hekou, Xishuangbanna) [Laos, N Vietnam].
+  "Synonym": "*Pteris semipinnata* Linnaeus var. *dissitifolia* (Baker) C. Christensen &amp; Tardieu.
+**30.疏羽半边旗（蕨类名词及名称）大半边旗（海南植物志）图版13，7-10**
+
+Pteris dissitifolia Bak. in Journ. Bot. 28:263. 1890; Ching et al. in W. Y. Chun et al., Fl. Hainan. 1:74. 1964; Ic. Corm. Sin. 1:152. 1972.——Pteris semipinnata Linn. var. dissitifolia (Bak.) C. Chr. et Tard.-Blot in Lecomte, Not. Syst. 6:143. 1937; Tard.-Blot et C. Chr. in Fl. Indo-Chine 7(2):152. 1940.
+
+植株高1-1.5米。根状茎斜升或直立，粗1-1.5厘米，先端及叶柄基部密被鳞片线状披针形，长约2毫米，先端长渐尖，近全缘，中央黑褐色，边缘浅褐色至灰色，无泽。叶簇生；柄长40-80厘米，基部粗4-5毫米，栗褐色，向上栗红色，有时近褐色，有泽，无毛，上面有阔纵沟；叶片卵状长圆形，长35-50厘米，宽25-30厘米，二回羽状彩或二回半边羽状深裂；侧生羽片5-8对，对生或近对生，下部的相距6-8厘米，有短上部的无柄，斜向上，长圆状阔披针形，长15-25厘米，宽4-6厘米，先端尾头，基部偏斜，下部1-2对羽片通常两侧均为深羽裂，下侧基部的裂片有时在其下侧再一次篦齿羽裂，中部的羽片往往仅下侧为深羽裂，上侧全缘或仅上部深羽裂，上部羽片仅下侧深羽裂，上侧全缘：裂片披针形，渐尖头，长4-12厘米，宽1-1.3厘米，下侧的比上侧的为长，下侧基部的最长，向上渐短，基部以阔翅下延，不育边缘有浅锯齿；叶片顶部为羽状深裂，三角状卵形，长约15厘米，宽10-12厘米，渐尖头，基部阔楔形，略下延，深羽裂几达叶轴，裂片8-10对、互生或近对生，间隔宽约1厘米，斜向上，镰刀状披针形，长6-8厘米，宽6-8毫米，向上的渐缩短，先端短尖，基部下侧明显下延，在叶轴两侧形成不连续的阔翅。叶轴栗褐色，羽轴下面隆起，顶部禾秆色，向下为栗褐色，上面有浅纵沟，纵沟两旁有啮蚀状的浅灰色狭翅状的边。侧脉两面均明显，稀疏，斜上，通常一回或少有二回分叉。叶干后坚草质，暗绿色，无毛。
+
+产云南南部（河口、西双版纳）、广东、海南（保亭）。生林缘疏阴处，海拔150-250米。越南北部及老挝也有分布。模式标本采自越南北部。

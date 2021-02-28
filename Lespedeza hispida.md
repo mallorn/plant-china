@@ -1,0 +1,7 @@
+粗硬毛胡枝子",
+25.**Lespedeza hispida** (Franchet) T. Nemoto & H. Ohashi J. Jap. Bot. 84: 156. 2009.",
+
+## Description
+Subshrubs or perennial herbs, to 80 cm tall. Stem erect or ascending, densely spreading or ascending pubescent. Leaves 3-foliolate; petiole 0.5-2.5 mm, densely spreading or ascending pubescent (or sericeous); leaflets narrowly obtriangular or nar-rowly obovate, terminal one 0.7-2.2 cm × 2.2-6.5 mm, abax-ially densely appressed or ascending pubescent, adaxially gla-brous, base narrowly cuneate, apex truncate, emarginate, or ob-tuse, mucronate. Racemes axillary, peduncle short, ca. 1 mm, 2-4-flowered. Pedicel 0.7-0.8 mm, pubescent; bracteoles (1.5-)1.7-2.5 mm, longer than calyx tube. Calyx 3.5-5 mm, 5-lobed, densely appressed or ascending pubescent. Corolla white, 1.3-1.5 × as long as calyx; standard elliptic, 5-5.7 × ca. 2.6 mm, inflexed-auriculate at base; wings narrowly or linearly elliptic, ca. 4.7 × 0.8 mm, obviously shorter than other petals; keel obliquely obovate, ca. 6 × 1.8 mm, claw ca. 1.5 mm. Cleis-togamous flowers in leaf axils. Legumes ovoid, 3.6-4 × 2.3-2.5 mm, shorter than or almost equal to calyx, densely pubescent, base truncate, apex acuminate. Cleistogamous legumes 2.7-3 × ca. 2 mm, slightly longer than calyx. Fl. Jul-Sep, fr. Oct-Nov.
+  "Statistics": "Grassy slopes, sunny roadsides; 1500-2500 m. Xizang, Yunnan [India, Nepal, Pakistan].
+  "Synonym": "*Lespedeza juncea* (Linnaeus f.) Persoon var. *hispida* Fran-chet, Pl. Delavay. 170. 1890; *L. sericea* Miquel f. *hispida* (Fran-chet) Schindler.

@@ -1,0 +1,15 @@
+密花火筒树",
+7.**Leea compactiflora** Kurz",
+
+## Description
+Erect shrubs. Branchlets terete, longitudinal ridges obtuse, densely ferruginous pubescent when young. Leaves 2- or 3-pinnate; stipules narrowly winglike, 3.5-6.7 × 2-6 cm, densely ferruginous pubescent; petiole 8-15 cm, central petiolules 2-5 cm, lateral petiolules 0.3-1.5 cm, densely ferruginous pubescent; leaflets narrowly elliptic or elliptic-lanceolate, 12-23 × 3-9 cm, base rounded or broadly cuneate, margin with irregular teeth, apex acuminate or caudate, abaxial surface ferruginous pubescent, adaxial surface glabrous; lateral veins 5-14 pairs, adaxial veinlets inconspicuous, abaxial veinlets conspicuously protruding. Inflorescences leaf-opposed, umbelliform, glomerate; peduncle 1.5-4 cm, densely ferruginous pubescent. Involucre large, elliptic-lanceolate, 1-1.5 × 0.5-0.8 cm, apex acuminate and ferruginous pubescent; bracts conspicuous, elliptical, or oval-elliptical, 0.8-1.2 × 0.4-0.8 cm, apex acute, ferruginous pubescent. Pedicel 2-4 mm, densely pubescent; buds ovate, 2-4 mm, apex suborbicular. Calyx tube urceolate, 2-3 mm; sepals triangular, 0.8-1.2 mm, apex acuminate, densely pubescent. Petals elliptic, 3.2-3.5 mm, densely pubescent. Staminodial tube 2-2.5 mm, with lower part 1.5-2 mm, upper 0.7-1.2 mm, lobes 0.2-0.3 mm. Stamens 5; filaments 1.6-1.8 mm; anthers elliptic, 1.2-1.5 × 0.6-0.8 mm. Ovary globose, 0.5-0.7 mm; style 1.3-1.5 mm; stigma slightly capitate. Berry oblate, 0.8-1 cm, 4-6-seeded. Fl. May-Jun, fr. Aug-Jan.
+
+> Hillsides or shrublands in valleys; 600-2200 m. Xizang, Yunnan [Bangladesh, Bhutan, India, Laos, Myanmar, Vietnam].
+  "Synonym": "*Leea bracteata* C. B. Clarke; *L. trifoliata* M. A. Lawson.
+**7.密花火筒树（云南种子植物名录）图版2：2-8**
+
+Leea compactiflora Kurz in Journ. Asiat. Soc. Beng. 42 (2): 65. 1873; C. B. Clarke in Journ. Bot. 19: 138. 1881; Ridsdale in Blumea 22 (1): 88. f. 3: 13. 1974; Whitmore in Hara & Williams, Enum. Fl. Pl. Nep. 2: 95. 1979; 云南种子植物名录上册796. 1984.——L. trifoliata Laws. in Hook. f. Fl. Brit. Ind. 1: 666. 1875;中国高等植物图鉴补编2: 367. 1983 in clavi. ——L. bracteata C. B. Clarke in Journ. Bot. 19: 164. 1881; Gagnep. in Lecomte, Fl. Gen. Indo-Chine. 1: 942. 1912 et in Humbert, Suppl. Fl. Gen. Indo-Chine. 1: 851. 1950; 中国高等植物图鉴补编2: 367. 1883 in clavi.——L. robusta auct. non Roxb. (1824): Laws. in Hook. f. Fl. Brit. Ind. 1: 667. 1875 p. p.
+
+直立灌木。小枝圆柱形，纵棱纹钝，嫩时密被锈色柔毛，以后脱落。叶为1-2回羽状复叶，小叶长椭圆形或椭圆披针形，通常长12-23厘米，宽3-9.5厘米，顶端渐尖或尾尖，基部圆形或阔楔形，边缘有不整齐锯齿，上面绿色，无毛，下面浅绿色，被锈色柔毛，侧脉5-14对，网脉上面不明显，下面显著突出；叶柄长8-15厘米，中央小叶柄长2-5厘米，侧生小叶柄长0.3-1.5厘米，密被锈色柔毛；托叶呈狭翅状，长3.5-6.7厘米，宽2-6厘米，与叶柄合生，密被锈色柔毛。花序与叶对生，密集，常于基部分又，花序上部常3-5分枝集生成假伞状，总花梗长1.5-4厘米，密被锈色柔毛；小总苞片大，椭圆披针形，长1-1.5厘米，宽0.5-0.8厘米，顶端短渐尖，被锈色柔毛；苞片显著，椭圆形或卵状椭圆形，长0.8-1.2厘米，宽0.4-0.8厘米，顶端尖，被锈色柔毛；花梗长2-4毫米，密被短柔毛；花蕾卵圆形，高2-4毫米，顶端圆形；萼坛状，高2-3毫米，萼片三角形，长0.8-1.2毫米，顶端尖，外面密被柔毛；花冠裂片椭圆形，高3.2-3.5毫米，外面密被短柔毛；花冠雄蕊管长2-2.5毫米，管下部分长1.5-2毫米，上部分长0.7-1.2毫米，上部裂片长0.2-0.3毫米；雄蕊5，花丝长1.6-1.8毫米，花药长椭圆形，长1.2-1.5毫米，宽0.6-0.8毫米；子房近球形，高0.5-0.7毫米，花柱长1.3-1.5毫米，柱头扩大不明显。果扁球形，高0.8-1厘米，有种子4-6颗。花期5-6月，果期8月至翌年1月。
+
+产云南、西藏。生山坡林中、林缘或河谷灌丛，海拔600-2200米。越南、老挝、缅甸、孟加拉国、印度和不丹也有分布。

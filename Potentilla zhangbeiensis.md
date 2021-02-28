@@ -1,0 +1,7 @@
+",
+.**Potentilla zhangbeiensis** Yong Zhang & Z. T. Yin",
+
+> * Grassy slopes; ca. 1600 m. NW Hebei (Zhangbei Xian).&#x0D;\n&lt;p&gt;&#x0D;\nOne of us (Ohba) believes this species may be synonymous with *Potentilla betonicifolia*.
+
+## Description
+Herbs perennial. Roots black-brown, robust, terete. Flowering stems erect or ascending, 6--20 cm tall, densely white tomentose and sparsely villous when young, later glabrescent. Radical leaves 1.5--8 cm including petiole; stipules brown, membranous, abaxially villous; leaf blade palmately 3-foliolate, sometimes pinnately 5-foliolate; leaflets sessile, adaxially green, lanceolate or ovate-lanceolate, 0.5--3.5 X 0.2--1.5 cm (basal pair extremely small), abaxially densely white tomentose, adaxially sparsely pubescent or subglabrous, base cuneate, margin pinnately parted, apex acute; lobes triangular or linear-lanceolate; cauline leaves bractlike, small; stipules ovate, small, subleathery, abaxially densely white tomentose, margin entire. Inflorescence terminal, cymose. Flowers ca. 1 cm in diam.; pedicel 1--2.5 cm, densely tomentose and sparsely villous. Sepals ovate-lanceolate, ca. 4.5 X 3 mm, abaxially white tomentose and sparsely villous; epicalyx segments lanceolate, ca. 3 X 1 mm, abaxially white tomentose and sparsely villous. Petals yellow, obovate, ca. 5 mm, apex emarginate or obtuse. Receptacle densely villous. Style subterminal, base thickened; stigma slightly dilated. Achenes black-brown, ovoid, rugose. Fl. and fr. May-Aug.

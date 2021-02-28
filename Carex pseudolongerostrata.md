@@ -1,0 +1,6 @@
+假长嘴薹草",
+302.**Carex pseudolongerostrata** Y. L. Chang & Y. L. Yang Fl. Pl. Herb. Chin. Bor.-Orient. 11: 206. 1976.",
+
+## Description
+Rhizome obliquely ascending, woody. Culms densely tufted, 15-30 cm tall, slender, compressed trigonous, scabrous above, clothed at base with brown sheaths disintegrating into fibers. Leaves shorter than culm, ca. 1/2 as long as culm, 1.5-3.5 mm wide, flat, margins scabrous, apex acuminate. Involucral bracts shortly bladed, shortly sheathing. Spikes usually 2, rarely 3; terminal spike male, clavate, cylindric, ca. 1 cm; lateral spikes female, ovate, ca. 1 cm, 4- or 5-flowered, with short peduncles. Female glumes brown, ovate, green 3-veined costa forming a scabrous awn at apex. Utricles yellow-green, longer than glume, obliquely patent, ovate (excluding beak), ca. 6 mm (including beak), glabrous, finely faintly many veined, base contracted, apex abruptly contracted into a cylindric scabrous long beak, orifice deeply 2-lobed with long teeth. Nutlets dark castaneous, tightly enveloped, obovate, ca. 1 mm, trigonous with angles not constricted at middle; style erect, base slightly thickened; stigmas 3. Fl. and fr. Jul-Aug.
+  "Statistics": "Alpine frozen soil, grasslands, meadows in sparse forests; 1800-2300 m. Gansu, Jilin [Korea].

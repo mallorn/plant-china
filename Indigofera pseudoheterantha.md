@@ -1,0 +1,6 @@
+拟多花木蓝",
+76.**Indigofera pseudoheterantha** X. F. Gao & Schrire Novon. 19: 163. 2009.",
+
+## Description
+Shrubs, 0.2-3 m tall. Stems ribbed, strigose with equally 2-branched appressed minute white and scattered brown tri-chomes. Stipules triangular, ca. 1 mm. Leaves 1.5-3 cm, (5 or)7-11(or 13)-foliolate; petiole and rachis with appressed white trichomes; petiole 4-7 mm; stipels absent; leaflet blades elliptic to oblong, 4-9 × 2-4 mm, both surfaces with appressed equally 2-branched white trichomes but these adaxially sparser, secondary veins not visible, base cuneate to rounded, apex rounded to obtuse. Racemes 1-4 cm, laxly 1-25-flowered; pe-duncle ca. 1 cm; bracts 1-1.5 mm, subulate. Flowers 1.2-1.3 cm. Pedicel 2-4 mm. Calyx ca. 2 mm; teeth lanceolate to triangular, ± to 2 × as long as tube. Corolla greenish yellow and rose to purple; standard outside strigose with appressed white trichomes; wings ciliate at margin; keel with appressed tri-chomes at apex. Stamens 1.1-1.2 cm; anthers ovoid, glabrous, apex mucronate. Style 4-5 mm. Legume 2.5-3 cm when young, with minute appressed trichomes. Fl. Jul-Aug, fr. Aug-Sep.
+  "Statistics": "● Sunny and dry scrub, grasslands; 2700-2900 m. SW Sichuan, NW Yunnan.

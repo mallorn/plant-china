@@ -1,0 +1,14 @@
+显脉薹草",
+358.**Carex kirganica** Komarov Repert. Spec. Nov. Regni Veg. 13: 164. 1914.",
+
+## Description
+Rhizome stoloniferous. Culms laxly tufted, 40-70 cm tall, triquetrous, smooth, clothed with red-brown and bladeless sheaths at base. Involucral bracts leafy, slightly shorter than inflorescence, sheathed, upper ones shortly sheathed or nearly not sheathed, lowermost one shortly sheathed, usually 5-10 mm. Spikes 4-7; terminal 2 or 3 spikes male, approximate, cylindric, 3-4 cm, nearly sessile; remaining spikes female, remote, cylindric, 2-5.5 × ca. 1 cm, densely many flowered, shortly pedunculate. Female glumes ferruginous, green at middle, lanceolate, ca. 5 mm, membranous, 1-3-veined, apex acuminate, aristate. Utricles olivaceous or brownish green, obliquely patent, longer than glume, lanceolate or oblong-lanceolate, obtusely trigonous, 6-7 mm, corky, glabrous, several veined, base subrounded, apex gradually narrowed to a slightly broad and short beak, orifice shortly 2-toothed. Nutlets slightly tightly enveloped in utricle, elliptic, trigonous, 2-3 mm, base stipitate, apex mucronate; style base not thickened; stigmas 3. Fl. and fr. Jun-Jul.
+  "Statistics": "Swamps, meadows. Heilongjiang, Nei Mongol [Korea, Russia (Far East, E Siberia)].
+  "Synonym": "*Carex graciliculmis* Ohwi; *C. kirganica* var. *mukdensis* (Kitagawa) Kitagawa; *C. mukdensis* Kitagawa; *C. rugulosa* Kükenthal var. *graciliculmis* (Ohwi) Kitagawa.
+**322. 显脉薹草 图版76: 1-4**
+
+Carex kirganica Kom. in Fedde, Repert. Sp. Nov. 13: 164, 1914, et Fl. Penins. Kamtsch. 1: 268, 1927; Hulten, Fl. Kamtsch 1: 212, 1927; V. Krecz. in Kom., Fl. URSS 3: 411, pl. 22, fig. 7, 1935; Ohwi, Cyper. Japon. 1: 488, 1936; Kitag., Lineam. Fl. Mansh. 103, 1939; Akiyama, Caric. Far East. Reg.Asia 151, pl. 142, 1955; 东北植物检索表 533, 图版199. 图5, 1959; 东北草本植物志11: 90, 图版38, 图1-6, 1976; 内蒙古植物志8: 75, 图版31, 图6-10, 1985.——Carex graciliculmis Ohwi in Mem. Coll. Sci. Kyoto. Univ. ser. B, 4: 264, 1931. ——Carex rugulosa Kukenth. var. graciliculmis (Ohwi) Kitag. in Bot. Mag. Tokyo 48: 31, 1934; T. Koyama in Journ. Fac. Sct. Unlv. Tokyo Sect. III, 8 (4): 249, 1962. ——Carex mukdenensis Kitag. in Bot. Mag. Tokyo, 48: 29, fig. 5, 1934, (sphalm. ut mukdensis). ——Carex kirganica Kom. var. mukdenensis (Kitag.) Kitag. in Rep. Inst. Sci. Res. Manch. 2: 287, 1938.
+
+根状茎具地下匍匐茎。秆疏丛生，高40-70厘米，三棱形，平滑，基部包以红棕色无叶片的鞘，老叶鞘有时撕裂成网状。叶片几与秆等长，宽2-4毫米，质硬，稍内卷，具较长的叶鞘。苞片叶状，稍短于花序，具鞘，上面的鞘很短或近于无鞘，最下面的具短鞘，鞘长5-10毫米。小穗4-7个，上端的2-3个为雄小穗，间距较近，雄小穗长圆柱形，长3-4厘米，近于无柄；其余的为雌小穗，间距较长，雌小穗圆柱形，长2-5.5厘米，宽约1厘米，密生多数花，具短柄。雄花鳞片披针形，长约5-6毫米，顶端急尖，具小短尖，膜质，栗褐色或淡褐色，中部绿色，具1条脉；雌花鳞片披针形，长约5毫米，顶端渐尖而成短芒，膜质，锈褐色，中部绿色，具1-3条脉。果囊斜展，长于鳞片，披针形或长圆状披针形，钝三棱形，长6-7毫米，木栓质，橄榄绿色或淡褐绿色，无毛，具多条脉，基部钝圆形，顶端渐狭成稍宽而短的喙，喙口深凹形成两齿。小坚果稍紧密地包于果囊中，椭圆形，三棱形，长约2-3毫米，基部具短柄，顶端具尖头；花柱基部不增粗，柱头3个。花果期6-7月。
+
+产于黑龙江、内蒙古；生于沼泽地和多沼泽的草原。也分布于朝鲜、俄罗斯远东和东西伯利亚地区。模式标本采自俄罗斯Kirganik。

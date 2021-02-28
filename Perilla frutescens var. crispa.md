@@ -1,0 +1,19 @@
+回回苏",
+1c.**Perilla frutescens var. crispa** (Bentham) Deane ex Bailey",
+
+> Leaves and flower clusters used as a condiment or salted and eaten. Leaves give a purplish red tint to salted fruits of *Prunus mume*. Cotyledons of seedlings also used as a condiment. &lt;p&gt;The nomenclature of this taxon is complex and depends on the interpretation of Bailey (1924). The oldest epithet at the specific rank is *Ocimum crispum* Thunberg (1784). The oldest&#x0D;\nepithet at the varietal rank is *Perilla ocymoides* var. *crispa* Bentham (1848) which is based on different material. This epithet should have been taken up by Britton (1894) who cited&#x0D;\nBentham's taxon under his *Perilla frutescens* var. *nankinensis&lt;/I&gt; based on *Dentidia nankinensis* Loureiro (1790), thus making that name illegitimate. Bailey ascribes the name taken up to&#x0D;\nDeane who gives a description and cites \"var. *nankinensis* Bailey.\" It seems best to accept this as a reference to var. *nankinensis* Britton and thus indirectly to Bentham. If this is not&#x0D;\ndone, then Deane's name must be accepted as new and ascribed directly to him.
+
+## Description
+Leaves narrowly serrate, purple.
+
+> Widely cultivated in China [Japan]
+  "Synonym": "&lt;I&gt;Perilla ocymoides&lt;/I&gt; Linnaeus var. &lt;I&gt;crispa &lt;/I&gt;Bentham, Prodr. 12: 164. 1848; &lt;I&gt;Dentidia nankinensis &lt;/I&gt;Loureiro; &lt;I&gt;D&lt;/I&gt;. &lt;I&gt;purpurascens &lt;/I&gt;Persoon; &lt;I&gt;D&lt;/I&gt;. &lt;I&gt;purpurea &lt;/I&gt;Poiret; &lt;I&gt;Mentha reticulosa &lt;/I&gt;Hance; &lt;I&gt;Ocimum crispum&lt;/I&gt; Thunberg; &lt;I&gt;Perilla arguta&lt;/I&gt; Bentham; &lt;I&gt;Perilla frutescens&lt;/I&gt; var. &lt;I&gt;arguta&lt;/I&gt; (Bentham) Handel-Mazzetti; &lt;I&gt;Perilla frutescens&lt;/I&gt; var. &lt;I&gt;crispa &lt;/I&gt;(Thunberg) Handel-Mazzetti (1939); &lt;I&gt;Perilla frutescens &lt;/I&gt;var. &lt;I&gt;nankinensis &lt;/I&gt;(Loureiro) Britton; &lt;I&gt;Perilla frutescens&lt;/I&gt; var. &lt;I&gt;crispa&lt;/I&gt; Deane; &lt;I&gt;Perilla nankinensis&lt;/I&gt; (Loureiro) Decaisne;&lt;I&gt; Plectranthus nankinensis &lt;/I&gt;(Loureiro) Sprengel.
+**1d. 回回苏（植物名实图考）鸡冠紫苏（贵州、四川）**
+
+var. crispa (Thunb.) Hand.-Mazz. in Act. Hort. Gothob. 13: 352. 1939; H. W. Li in Act. Phytotax. Sin. 12(2): 210. 1974——Ocimum crispum Thunb. Fl. Jap. 248. 1784; Benth. in DC. Prodr. 12: 42. 184——Dentidia nankinensis Lour. Fl. Cochinch. 369. 1790——Dentidia purpurascens Pers. Syn. 2: 135. 1807——Dentidia purpurea Poir. , Encycl. Suppl. 2: 466. 1811——Plectranthus nankinensis Spreng. , Syst. Veg. 2: 691. 1825——Perilla ocymoides Linn. var. crispa Benth. in DC. Prodr. 12: 164. 1848; Makino in Bot. Mag. Tokyo 26: 77. 1912----Perilla arguta Benth. in DC. Prodr. 12: 164. 1848; Fl. Hongk. 276. 1861; Miq. in Ann. Mus. Bot. Lugd. Bat. 2: 104. 1865; Franch. et Sav., Enum. Pl. Jap. 1: 365. 1875; Briq. in Engl. u. Prantl, Nat. Pflanzenfam. 4, 3a: 306. 1897——Perilla nankinensis Decne. in Rev. Hortic., 4. ser. 1: 61, pl. 4. 1852; Hemsl. in Journ. Linn. Soc. Bot. 26: 279. 1890; Matsum. et Hayata, in Journ. Coll. Sci. Univ. Tokyo 39: 310. 1906; Dunn in Notes Bot. Gard. Edinburgh 6: 154. 1915——Mentha reticulosa Hance in Walp. Ann. 3: 247. 1952-53——Perilla frutescens(Linn. )Britt. var. nankinensis Britt. in Mem. Torr. Bot. Club. 5: 277. 1894; Bailey in Cycloped. 3: 2553. 1926——Perilla frutescens var. crispa Deane ex Bailey, Man. Cult. Plants 646. 1924; rev. ed. 864. 1949; Makino in Journ. Jap. Bot. 3: 7, 1926; Kudo in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 72. 1929; Ohwi, Fl. Jap. 1017. 1956——Perilla crispa Tanaka in Bult. Sci. Fak. Terk. Kjusu Univ. 1: 204, 209. 1925; Nakai in Bot. Mag. Tokyo 42: 474. 1928——Perilla frutescens var. β. crispa Deane f. crispa Makino in Journ. Jap. Bot. 3: 7. 1926.
+
+这一变种与原变种不同在于叶具狭而深的锯齿，常为紫色；果萼较小。
+
+我国各地栽培，供药用及香料用。模式标本采自日本。
+
+本植物变异很大；叶齿的变化在狭而深的锯齿至野生紫苏的尖锯齿之间，看来var. arguta（Benth.）Hand.-Mazz.没有另立一变种的必要。

@@ -1,0 +1,14 @@
+长波叶山蚂蝗",
+32.**Desmodium sequax** Wallich Pl. Asiat. Rar. 2: 46. 1831.",
+
+## Description
+Shrubs, erect, 1-2 m tall, much branched. Young branches rust-colored pubescent, sometimes intermixed with minute hooked hairs. Leaves 3-foliolate; petiole 2-3.5 cm, hairy as young branches; terminal leaflet blade ovate-elliptic or orbicu-lar-rhombic, 4-10 × 4-6 cm, abaxially adpressed pubescent and intermixed with minute hooked hairs, adaxially densely puberu-lent or glabrescent, base cuneate to obtuse, margin undulate above middle, apex acute. Racemes terminal and axillary or usually terminal panicles, to 12 cm; rachis densely spreading or upward hirsute or minutely tomentose, 2-flowered at each node. Pedicel 3-5 mm, slightly elongated at fruiting. Calyx ca. 3 mm; lobes ca. as long as tube. Corolla purple, ca. 8 mm; standard elliptic to broadly elliptic; wings narrowly elliptic, auriculate, clawed; keel long clawed. Stamens monadelphous. Legume moniliform, 3-4.5 × ca. 0.3 cm, with dense rust-colored or brown minute hooked hairs, both sutures constricted, 6-10-jointed; articles nearly quadrate. Fl. Jul-Sep, fr. Sep-Nov. 2*n* = 22.
+  "Statistics": "Grassy slopes, forest margins; 1000-2800 m. NW Guangdong, Guangxi, Guizhou, Hubei, Hunan, ?Jiangsu, Sichuan, Taiwan, Xizang, Yunnan [Bhutan, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, New Guinea, Philippines, Thailand, Vietnam].
+  "Synonym": "*Desmodium dasylobum* Miquel; *D. hamulatum* Franchet; *D. sequax* var. *sinuatum* (Miquel) Hosokawa; *D. sinuatum* (Miquel) Blume ex Baker; *D. strangulatum* Wight &amp; Arnott var. *sinuatum* Miquel; *Meibomia sinuata* (Miquel) Kuntze.
+**27. 长波叶山蚂蝗 波叶山蚂蝗（台湾植物志），瓦子草（四川峨眉）**
+
+Desmodium sequax Wall. Pl. As. Rar. 2:46. t. 157. 1831; Gagnep. in Lecomte, Fl. Gen. Indo-Chine 2: 594. 1920; Schindl. in Fedde, Repert. Sp. Nov. 22: 267. 1926; 中国主要植物图说·豆科485. 图475. 1955. Ohashi in Hara, Fl. E. Himal. 2: 315. 1971; 台湾植物志 3:286. pl. 577. 1977.——D. strangulatum var. sinuatum Miq. Fl. Ind. Bat. 1(1):255. 1855.——D. sinuatum (Miq.) Bl. ex Baker in Hook. f. Fl. Brit. Ind. 2: 166. 1876; 中国主要植物图说·豆科485. 图475. 1955.——D. hamulatum Franch. Pl. Delav. 175. 1890.——D. sequax var. sinuatum (Miq.) Hosokawa in Journ. Soc. Trop. Agric. 4:313. 1932.
+
+直立灌木，高1-2米，多分枝。幼枝和叶柄被锈色柔毛，有时混有小钩状毛。叶为羽状三出复叶，小叶3；托叶线形，长4-5毫米，宽约1毫米，外面密被柔毛，有缘毛；叶柄长2-3.5厘米；小叶纸质，卵状椭圆形或圆菱形，顶生小叶长4-10厘米，宽4-6厘米，侧生小叶略小，先端急尖，基部楔形至钝，边缘自中部以上呈波状，上面密被贴伏小柔毛或渐无毛，下面被贴伏柔毛并混有小钩状毛，侧脉通常每边4-7条，网脉隆起；小托叶丝状，长1-4毫米；小叶柄长约2毫米，被锈黄色柔毛和混有小钩状毛。总状花序顶生和腋生，顶生者通常分枝成圆锥花序，长达12厘米；总花梗密被开展或向上硬毛和小绒毛；花通常2朵生于每节上；苞片早落，狭卵形，长3-4毫米，宽约1毫米，被毛；花梗长3-5毫米，结果时稍增长，密被开展柔毛；花萼长约3毫米，萼裂片三角形，与萼筒等长；花冠紫色，长约8毫米，旗瓣椭圆形至宽椭圆形，先端微凹，翼瓣狭椭圆形，具瓣柄和耳，龙骨瓣具长瓣柄，微具耳；雄蕊单体，长7.5-8.5毫米；雌蕊长7-10毫米，子房线形，疏被短柔毛。荚果腹背缝线缢缩呈念珠状，长3-4.5厘米，宽3毫米，有荚节6-10，荚节近方形，密被开展褐色小钩状毛。花期7-9月，果期9-11月。
+
+产湖北、湖南、广东西北部、广西、四川、贵州、云南、西藏、台湾等省区。生于山地草坡或林缘，海拔1000-2800米。印度、尼泊尔、锡金、缅甸、印度尼西亚的爪哇、新几内亚也有分布。

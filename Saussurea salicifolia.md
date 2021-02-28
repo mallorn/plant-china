@@ -1,0 +1,7 @@
+**115.柳叶风毛菊**
+
+Saussurea salicifolia (L.) DC. in Ann. Mus. Hist. Nat. Paris 16: 200. 1810; Spreng., Syst. Veg. 3: 381. 1826; Ledeb., Ic. Pl. Fl. Ross. 1: 19. 1829 et Fl. Alt. 4: 29. 1833 et Fl. Ross. 2 (2): 670. 1845: DC., Prodr. 6: 533. p. p. 1838; Turez. in Bull. Soc. Nat. Mosc. 20 (3): 33. 1847; Nakai, Fl. Sylv. Koreana 14: 119. 1923; Kom. in Act. Hort. Petrop. 34 (2): 213, 267, 271. 1928; Kitag, , Linewn. Fl. Manshur. 466. 1939; 刘慎谔等，东北植物检索表418. 1962; S. Y. Hu in Quart. Journ. Taiwan Mus. 21 (1-2): 12. 1968; Lipsch., Gen. Saussurea 132. 1979 et Fl. URSS 27: 410. 1962;内蒙古植物志6: 244.1982.——Serratula salicifolia L. ,Sp. Pl. 2: 817. 1753; Willd., Sp. Pl. 3 (3): 1642. 1803. ——Saussurea multiflora (L.) DC. in Ann. Mus. Hist. Nat. Paris 6: 199. 1810. ——Serratula multiflora L., Sp. Pl. 2: 817. 1753; Willd., Sp. Pl. 3 (3): 1643. 1803. ——Heterotrichum leptophyllum Bieb. ex DC., Prodr. 6: 533. 1838, nomen——Saussurea leucota Hand. -Mazz. in Act. Hort. Gothob. 12: 313. 1838；S. Y. Hu in Quart. Journ. Taiwan Mus. 20 (3-4): 336. 1967.
+
+多年生草本，高15-40厘米。根粗壮，纤维状撕裂。茎直立，有棱，被蛛丝毛或短柔毛，上部伞房花序状分枝或分枝自基部。叶线形或线状披针形，长2-10厘米，宽3-5毫米，顶端渐尖，基部楔形渐狭，有短柄或无柄，边缘全缘，稀基部边缘有锯齿，常反卷，两面异色，上面绿色无毛或有稀疏短柔毛，下面白色，被白色稠密的绒毛。头状花序多数或少数，在茎枝顶端排成狭窄的帚状伞房花序，或伞房花序，有花序梗。总苞圆柱状，直径4-7毫米；总苞片4-5层，紫红色，外面被稀疏蛛丝毛，外层卵形，长1.5毫米，宽1毫米，顶端钝或急尖，中层卵形，长2毫米，宽1毫米，顶端急尖，内层线状披针形或宽线形，长6-8毫米，宽1-2毫米，顶端急尖。瘦果褐色，长3.5毫米，无毛。小花粉红色，长1.5厘米，细管部长8毫米，檐部长7毫米。冠毛2层，白色，外层短，糙毛状，长2毫米，内层长，羽毛状，长10毫米。花果期8-9月。
+
+分布河北（小五台山）、内蒙古（呼伦贝尔盟、锡林郭勒盟）、黑龙江、吉林、辽宁、甘肃、新疆（乌鲁木齐）、四川（阿坝）。生于高山灌丛、草甸、山沟阴湿处，海拔1 600-3800米。蒙古、俄罗斯西伯利亚有分布。模式标本采自俄罗斯西伯利亚。

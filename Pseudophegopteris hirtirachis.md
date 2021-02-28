@@ -1,0 +1,19 @@
+密毛紫柄蕨",
+8.**Pseudophegopteris hirtirachis** (C. Christensen) Holttum Blumea. 17: 22. 1969.",
+
+> *Pseudophegopteris hirtirachis* is similar to *P. pyrrhorhachis* in laminar outline but differs in its rhizomes shorter and ascending, rachises with short, spreading hairs abaxially, costules and costae with dense whitish short acicular hairs abaxially, and sporangia with 2 or more short hairs.
+
+## Description
+Plants to 1 m. Rhizome ascending, stipe base with brown lanceolate scales. Fronds somewhat clustered; stipe red-castaneous, shiny, 20-55 cm, base with scales and whitish hairs; lamina oblong, mostly 50-80 × 15-35 cm, slightly tapering at base, 2-pinnate-pinnatifid, acuminate and pinnatifid at apex; pinnae opposite to subopposite, sessile, lanceolate, middle pinnae largest, 9-20 cm or more, mostly 2-6 cm wide, slightly asymmetrical, acute at apices, proximal 1 or 2 pairs shortened, proximal pair 3-10 cm, pinnatifid or pinnatisect; pinnules 12-20 pairs per pinna, opposite, spreading, basiscopic ones on proximal pinnae slightly longer than acroscopic ones, 0.8-3.5 × 0.5-0.8 cm, bases broadened and adnate to costae, connected to each other by narrow wings, apices shortly acuminate to obtuse, basal pair of pinnules same size or slightly longer, toothed to pinnatifid to 1/2 distance to costules; segments triangular-oblong, entire to dentate, obtuse to acute at apices. Veins visible on both sides, lateral veins simple or forked, mostly 4-15 or more pairs per pinnule, basal pair arising above bases of costules. Laminae herbaceous, drying deep green or brownish green, abaxial surfaces with dense short whitish hairs along costae, costules, veins, and between veins, adaxially with appressed thick short hairs along rachises, costae, and costules, rachises castaneous or red-castaneous and with sparse to dense, short, spreading hairs abaxially. Sori suborbicular to oblong, near ends of ultimate veinlets. Sporangia each usually with 2 or more short hairs below annulus.
+
+> Forests beside streams; 1500-2000 m. N Guangdong, N Guangxi, S Guizhou, C Sichuan, Taiwan, W Yunnan [NE India, Nepal].
+  "Synonym": "*Dryopteris hirtirachis* C. Christensen in H. Léveillé, Fl. Kouy-Tchéou, 49. 1915; *Dryopteris christii* H. Léveillé (1915), not C. Christensen (1905); *Phegopteris pyrrhorhachis* (Kunze) Tagawa var. *hirtirachis* (C. Christensen) Tagawa; *Pseudophegopteris pyrrhorhachis* (Kunze) Ching var. *hirtirachis* (C. Christensen) Ching; *Thelypteris brunnea* (Handel-Mazzetti) Ching var. *hirtirachis* (C. Christensen) Ching; *T. pyrrhorhachis* (Kunze) B. K. Nayar &amp; S. Kaur subsp. *hirtirachis* (C. Christensen) Fraser-Jenkins.
+**8.密毛紫柄蕨（蕨类植物名词及名称）**
+
+Pseudophegopteris hirtirachis (C. Chr.) Holtt. in Blumea 17: 22. 1969; ——Dryopteris hirtirachis C. Chr. in Lev. Cat. Pl. Yunnan 104. 1916; Ind. Fil. Suppl.2: 15. 1917. ——Dryopteris christii C. Chr. in Leveile, Fl. Kouy-tscheou 49. 1915. ——Thelypteris brunnea var. hirtirachis Ching in Bull. Fan Mem. Inst. Biol Bot. 6: 271. 1936. ——Phegopteris pyrhorachis sensu Tagawa in Acta Phytotax. Geobot. 7: 75. 1938. ——Pseudophegopteris pyrrhorachis var. hirtirachis Ching in Ic.Corm. Sin. l: 207. 1972.
+
+植株高达1.3米。根状茎斜升，连同叶柄基部被棕色的披针形鳞片。叶近簇生；叶柄长达55厘米，粗3-4毫米，栗棕色，有光泽，基部被有鳞片和灰白色的毛，向上近光滑；叶片长达80厘米，中部宽30-35厘米，长圆形，先端渐尖并羽裂，向基部略变狭，三回羽状分裂；羽片多数，对生，略斜上，无柄，下部的彼此较远离，披针形，中部羽片最大，长20厘米或过之，宽达6厘米，急尖头，基部略变宽，圆截形，稍不对称，下部1-2对缩短，基部一对长约10厘米，二回羽状分裂；小羽片约20对，对生，平展，披针形，羽轴下侧的较上侧的稍长，约3.5厘米，宽约8毫米，短渐尖头，基部略变宽，与羽轴合生，彼此以狭翅相连，基部一对小羽片和其上的同大或稍长，羽状分裂达1/2；裂片三角状长圆形，斜上，先端短钝尖，全缘。叶脉纤细，不甚明显，侧脉单一，每裂片2-4对，不伸达叶边，基部一对出自主脉基部以上。叶草质，干后深绿色，下面连同小羽轴和叶脉密被灰白色的针状短毛，上面沿叶轴、羽轴和小羽轴被伏贴的粗短刚毛，叶轴栗棕色或栗红色，下面被密或疏的短硬而开展的刚毛，孢子囊群近圆形，背生于侧脉的近顶端较近叶边，无盖；孢子囊体通常具2至多根短刚毛。
+
+产广东北部（乐昌）、广西北部（三皇）、四川中部（雅安）、贵州南部（贵定）和云南西部（漾濞）。生沟边林下，海拔1 500-2000米。也分布于缅甸、印度东北部。模式标本采自贵州，贵定（旧平伐）。
+
+本种形体最近紫柄蕨Pseudophegopteris pyrrhorachis (Kunze) Ching,但根状茎较短，斜升；叶轴和羽轴下面被短硬而开展的刚毛，下面连同小羽轴和主脉密被灰白色的短针毛；孢子囊体具2至多根短刚毛。

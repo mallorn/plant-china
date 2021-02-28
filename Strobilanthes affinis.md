@@ -1,0 +1,15 @@
+肖笼鸡",
+33.**Strobilanthes affinis** (Griffith) Terao ex J. R. I. Wood & J. R. Bennett Kew Bull. 58: 134. 2003.",
+
+## Description
+Herbs to 60 cm tall, isophyllous. Stems 4-angled, sulcate, white pubescent with large-celled trichomes. Petiole 0.5-1.5 cm, pubescent; leaf blade ovate to ovate-elliptic, 3-8 × 2-4.5 cm, both surfaces sparsely strigose, abaxially yellowish green, adaxially dark green and densely covered with subulate cystoliths, secondary veins 5-7 on each side of midvein, base subrounded to cuneate and decurrent onto petiole, margin crenulate, apex acute. Inflorescences axillary or terminal, dense spikes, 2-6 cm; peduncle 0.5-2 cm, densely gland-tipped pubescent; sterile bracts sometimes present, sessile, suborbicular to ovate, 5-10 × 5-10 mm, strigose; floral bracts imbricate, broadly obovate, rhomboidal, or elliptic, 6-7 × 3-4 mm, gland-tipped pilose with large-celled trichomes, 5-veined, margin ciliate, apex sometimes reflexed; bracteoles oblong-linear, ca. 5 × 1.2 mm, slightly shorter than calyx, gland-tipped pubescent, margin ciliate. Calyx 5-7 mm, 5-lobed almost to base; lobes linear, one slightly longer than others, gland-tipped pubescent, 1-veined, margin ciliate, apex obtuse. Corolla purplish blue to violet, ca. 1.5 cm, curved, outside pilose, inside glabrous except for trichomes retaining style; tube basally cylindric and ca. 1 mm wide for ca. 7 mm then gradually widened to ca. 7 mm at mouth; limb somewhat 2-lipped, lower lip 3-lobed, upper lip 2-lobed; lobes orbicular, ca. 3 × 3 mm, unequal. Stamens 4; shorter filament pair ca. 4 mm, glabrous; longer filament pair ca. 6 cm, hirsute; anther thecae oblong, ca. 2 × 1.2 mm, strongly exserted; pollen type 14. Ovary pilose; style pilose, ca. 1.2 cm. Capsule oblong, 7-9 mm, pubescent, 4-seeded. Seeds brown, ovate to suborbicular in outline, ca. 1.5 × 1.5 mm, pubescent, glabrescent; areola small, glabrous. Fl. Sep-Nov.
+  "Reference": "*Strobilanthes affinis* is a very distinct species. Not only is the pollen unique but also the species is distinctive for having 4 exserted stamens and trichomes caducous on the seeds.*Strobilanthes affinis* is a very distinct species. Not only is the pollen unique but also the species is distinctive for having 4 exserted stamens and trichomes caducous on the seeds.
+  "Statistics": "Mountain slopes, thickets; 600-1300 m. Guangxi, Guizhou, Hunan, Yunnan [India, Myanmar, Vietnam].
+  "Synonym": "*Adenosma affinis* Griffith, Not. Pl. Asiat. 4: 133. 1854; *Strobilanthes acrocephala* T. Anderson; *S. darrisii* H. Léveillé; *S. thirionnii* H. Léveillé; *Tarphochlamys affinis* (Griffith) Bremekamp; *T. darrisii* (H. Léveillé) E. Hossain.
+**2.贵州肖笼鸡（新拟）兴义顶头马蓝（云南种子植物名录）**
+
+Tarphochlamys darrish (Levl.) E. Hossain in Not. Bot. Gard. Edinb. 32(2): 410. 1972; 云南种子植物名录(下册): 1687. 1984. ——Strobilanthes darrisii Levl. in Fedde, Repert. Sp. Nov. 12: 18. 1913 et Fl. Kouy-Tcheou: 22. 1944 p. p. ; Bremek. in Verh. Ned. Akad. Wetensch. Afd. Naturk. Sect. 2. 41(1): 273. 1944.
+
+植株匍匐，具多茎和被长柔毛，茎上升，通常高10-15厘米；花序紧穗状；叶具柄，卵形，几近圆形，极钝，长与宽均12-15毫米，被硬毛，下面具小圆齿，中部3脉，花蓝-堇色；雄蕊2。模式标本采自贵州兴义县。
+
+作者未见模式标本，而原描述过于简单。认为本种很可能与肖笼鸡为同一种。

@@ -1,0 +1,14 @@
+镜子薹草",
+438.**Carex phacota** Sprengel Syst. Veg. 3: 826. 1826.",
+
+## Description
+Rhizome short. Culms tufted, 20-75 cm tall, acutely trigonous, clothed at base with yellowish brown or dark yellow-brown sheaths disintegrating into reticulate fibers. Leaves subequaling culm, blades linear, 3-5 mm wide, flat, margins revolute. Lower involucral bracts leaflike, conspicuously surpassing inflorescence, sheathless, upper ones setaceous. Spikes 3-5, approximate; terminal spike male, rarely with a few female flowers at apex, narrowly cylindric, 45-65 × 1.5-2 mm, with peduncle; lateral spikes female, rarely a few male flowers at apex, long cylindric, 2.5-6.5 × 3-4 mm, densely many flowered, with slender, slightly scabrous peduncles, lowest one 2-3 cm, pendent. Female glumes pale, ferruginous flecked, oblong, ca. 2 mm (excluding awn), green 3-veined costa excurrent into a scabrous awn at truncate or emarginate apex. Utricles dark brown, longer than glume, broadly ovate or elliptic, biconvex, 2.5-3 × ca. 1.8 mm, densely papillose, nerveless except for 2 costas on edges, broadly convex, apex abruptly contracted into a short beak, orifice entire or emarginate. Nutlets brown, slightly loosely enveloped, suborbicular or broadly ovate, ca. 1.5 mm, densely papillose; style long, base not thickened; stigmas 2. Fl. and fr. Mar-May.
+  "Statistics": "Moist soil of grasslands, ditches, streambanks, roadsides. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hunan, Jiangsu, Jiangxi, Shandong, Sichuan, Taiwan, Yunnan, Zhejiang [India, Indonesia, Japan, Malaysia, Myanmar, Nepal, Sri Lanka, N Thailand, Vietnam].
+  "Synonym": "*Carex shichiseitensis* Hayata.
+**398. 镜子薹草（中国高等植物图鉴）七星斑囊果薹（台湾植物志）**
+
+Carex phacota Spreng. Syst. Veg. 3: 826, 1826; Kunth Enum. Pl. 2: 420, 1837; Boott Illustr. Carex 1: 63, t. 168, 1858; C. B. Clarke in Hook. f. Fl. Brit. India 6: 708, 1894; Kukenth. in Engl., Pflanzenr. Heft 38　(IV. 20): 350, fig. 56, A-C, 1909; Ohwi, Cyper. Japon. 1: 296, 1936; Akiyama, Caric. Far East. Reg. Asia. 87, pl. 56, 1955; 中国高等植物图鉴5: 图7409, 1976; 江苏植物志上册: 302, 图532, 1977; 海南植物志4: 341, 1977; 台湾植物志5: 365, 1978; T. Koyama in Hara et al. Enum. Flow. Pl. Nepal 1: 104, 1978, 安徽植物志5: 图2978, 1992; 浙江植物志7: 309, 图7-425, 1993; 福建植物志6: 346, 图307, 1995. ——C. shichiseitensis Hayata, Icon. Pl. Form. 10: 58, fig. 34, 1921.
+
+根状茎短。秆丛生，高20-75厘米，锐三棱形，基部具淡黄褐色或深黄褐色的叶鞘，细裂成网状。叶与秆近等长，宽3-5毫米，平张，边缘反卷。苞片下部的叶状，明显长于花序，无鞘，上部的刚毛状。小穗3-5个，接近，顶端1个雄性，稀少顶部有少数雌花，线状圆柱形，长4.5-6.5厘米，宽1.5-2毫米，具柄；侧生小穗雌性，稀少顶部有少数雄花，长圆柱形，长2.5-6.5厘米，宽3-4毫米，密花；小穗柄纤细，最下部的1枚长2-3厘米，向上渐短，略粗糙，下垂。雌花鳞片长圆形，长约2毫米（芒除外），顶端截形或凹，具粗糙芒尖，中间淡绿色，两侧苍白色，具锈色点线，有3条脉。果囊长于鳞片，宽卵形或椭圆形，长2.5-3毫米，宽约1.8毫米，双凸状，密生乳头状突起，暗棕色，无脉，基部宽楔形，顶端急尖成短喙，喙口全缘或微凹。小坚果稍松地包于果囊中，近圆形或宽卵形，长1.5毫米，褐色，密生小乳头状突起；花柱长，基部不膨大；柱头2个。花果期3-5月。
+
+产山东、江苏、安徽、浙江、江西、福建、台湾、湖南、广东、海南、广西、四川、贵州、云南；生于沟边草丛中，水边和路旁潮湿处。分布尼泊尔、印度、印度尼西亚、马来西亚、斯里兰卡和日本。

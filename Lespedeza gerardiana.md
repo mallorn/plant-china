@@ -1,0 +1,6 @@
+西藏胡枝子",
+23.**Lespedeza gerardiana** Wallich ex Maximowicz Trudy Imp. S.-Peterburgsk. Bot. Sada. 2: 373. 1873.",
+
+## Description
+Subshrubs or perennial herbs, 20-30 cm tall. Stem erect or ascending, densely appressed or ascending pubescent. Leaves 3-foliolate; stipules linear-triangular, 4.8-5.5 × 0.7-1.1 mm, 3- or 4-veined; petiole 1.6-2.2 mm; leaflets narrowly obovate, ter-minal one 1-1.4 cm × 2.5-4.4 mm, abaxially sericeous, adax-ially glabrous, base cuneate, apex mucronate. Racemes axil-lary, slightly longer than subtending leaves, almost sessile, 6-flowered. Pedicel 2.5-3.2 mm, densely appressed or ascending pubescent; bracteoles narrowly ovate, 4-4.8 × ca. 0.9 mm, dis-tinctly longer than calyx tube. Calyx 7.3-9 mm, 5-parted; lobes narrowly triangular, densely appressed or ascending pubescent. Corolla pale yellow, 1.4-1.5 × as long as calyx; standard ellip-tic, 10.5-12.5 × 5-6 mm, clawed and with 2 auriculate appen-dages at base; wings obliquely narrowly elliptic, 9.5-11 × 1.5-2 mm, obtuse, slightly auriculate at base, claw ca. 3 mm; keel obliquely elliptic, 10.5-12.5 × 2.8-3.3 mm, apex obtuse. Cleis-togamous flowers axillary, sessile, 6-flowered. Legumes and seeds unknown (in China). Fl. Sep.
+  "Statistics": "In grass on mountain slopes, at foot of mountains. Xizang [Bhu-tan, India, Nepal, Pakistan].

@@ -1,0 +1,17 @@
+峨眉耳蕨",
+135.**Polystichum caruifolium** (Baker) Diels Bot. Jahrb. Syst. 29: 194. 1900.",
+
+## Description
+Plants evergreen. Rhizome ascending, short, densely scaly; scales brown, ovate, small, subentire, acuminate. Fronds 20-60 cm; stipe stramineous, 5-15 cm, up to 1 mm in diam., young stipe densely scaly; scales brown, ovate, membranous, acuminate, opening acroscopically or appressed, upper part of some scales thickened and castaneous; scales on old stipe sparser, appressed. Lamina tri- to tetrapinnatilobate, yellowish green when fresh, grayish green when dry, narrowly elliptic or elliptic-oblanceolate, 15-45 × 3-10 cm at middle, shallowly cordate, shortly acuminate; rachis stramineous, without proliferous bulbils, sparsely scaly abaxially; scales narrowly lanceolate, appressed. Pinnae 25-40 pairs, approximate, mostly alternate, subsessile, attached at right angles to rachis or slightly ascendant, several basal pairs slightly contracted and reflexed, broadly lanceolate, apex acuminate or acute; lower pairs nearly ovate, bi- to tripinnatilobate; primary lobes 5-12 pairs per pinna on pinnae above middle of lamina, oblong-ovate, bases long cuneate and with narrow wings on both sides and decurrent connecting with wings of pinna rachis; secondary lobes 1-4 pairs, twice or once dichotomously branched, apical lobules simple; ultimate lobules linear, ca. 0.5 mm wide, margins entire, apices acute and spinulose; abaxially sparsely scaly; microscales brown, narrowly lanceolate; frond texture softly papery. Sori on upper part of ultimate lobules, terminal on veinlets; indusia present, membranous, entire, wider than ultimate lobules. Spores elliptic in polar view; perispore sculpturing granulate with few ridges but without perforations.
+
+> ● Wet limestone rocks by streams, limestone cliffs, karst caves; 700-1800 m. Chongqing, W Guangxi (Leye), S and SW Guizhou (Dushan, Panxian), S and W Sichuan, NE and SE Yunnan.
+  "Synonym": "*Aspidium caruifolium* Baker, J. Bot. 26: 228. 1888; *Polystichum faberi* Christ, nom. illeg. superfl.; *P. omeiense* C. Christensen (1906), nom. illeg. superfl., not Christ (1906).
+**157.峨眉耳蕨（中国蕨类植物图谱）图版47：3-4**
+
+Polystichum omeiense C. Chr. Ind. Fil. 585. 1906 et in Acta Hort. Gothob. 1: 72. 1924; Ching, Ic. Fil. Sin. 3: pl. 131. 1935;傅书遐, 中国主要植物图说·蕨类植物门184, 图248. 1957; Ic. Corm. Sin. 1234, f. 467. 1972; Y. L. Chang et al. Sporae Pterid. Sin. 333, Pl. 72, f. 8. 1976; S. F. Wu in W. T. Wang, Keys Vasc. Pl. Wuling Mts. 59. 1995. ——Aspidium carvifolium Bak. in Journ. Bot. 228. 1888, non Kunze 1851; Christ in Bull. Herb. Boiss. 6: 969. 1898. ——Polystichum carvifolium (Bak.) Diels in Engl. Bot. Jahrb. 29: 194. 1900. ——Polystichum carvifolium (Bak.) Christin Bull. Soc. Bot. Ital. 295. 1901 et in Bull. Acad. Geogr. Bot. Mans 1906: 114. 1906. ——Polystichum faberi Christ in Lecomte, Not. Syst. 1: 37. 1909.
+
+植株高20-60厘米。根状茎短而斜升，顶端密被鳞片；鳞片小，棕色，卵形，渐尖头，近全缘。叶簇生；叶柄禾秆色，长5-15厘米，直径达1毫米，上面有沟槽，新叶的叶柄初期通体密被向上开展或贴生的棕色、卵形渐尖头的膜质小鳞片，部分小鳞片的上部增厚，栗色，在老叶的柄上仅残存稀疏的贴生小鳞片；叶片长椭圆形或椭圆状倒阔披针形，长15-45厘米，中部宽3-10厘米，顶端短渐尖，基部浅心形，三至四回羽状细裂；羽片25-40对，密接，大多互生，几无柄，平展或略向上斜展，下部几对略短并略向下反折，阔披针形，顶端渐尖或急尖，下部的近卵形，二至三回羽状细裂；一回裂片矩圆状卵形，在中上部的羽片上有6-12对，基部呈细柄状，两侧有狭翅下延与羽轴的狭翅相连；二回裂片1-4对，羽状、两次二分叉或一次二分叉，顶部的单一；末回裂片线形，宽约0.5毫米，全缘，顶端锐尖，芒刺状；叶脉不明显，每个末回裂片上有小脉1条，不达顶端。叶草质，干后绿色；叶轴禾秆色，上面有沟槽，下面疏被狭长披针形的贴生小鳞片；羽片下面疏被狭披针形或近节毛状的细小棕色鳞片。孢子囊群位于末回裂片上部，生于小脉顶端；圆盾形的囊群盖棕色，膜质，全缘，宽于末回裂片。孢子极面观椭圆形，赤道面观超半圆形，周壁形成少数宽的褶皱，表面具细颗粒。
+
+产四川南部和东南部、贵州西部、云南东北部及东南部。生海拔750-1750米的石灰岩地区山谷溪沟边阴湿处石上及岩洞洞壁上。模式标本采自四川峨眉山。
+
+本种的细裂叶十分美丽，有很高的观赏价值。

@@ -1,0 +1,27 @@
+柄状薹草",
+159.**Carex pediformis** C. A. Meyer Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans. 1: 219. 1831.",
+
+## Description
+Rhizome short or elongate and obliquely ascending. Culms densely or loosely tufted, 25-40 cm, slender, ca. 1.5 mm thick, triquetrous, slightly scabrous, subrigid. Leaves shorter than or equaling culm, flat, blades 2-3 mm wide, slightly stiff, brown or dark brown and persistent sheathed at base, sheaths usually disintegrating into fibers. Involucral bracts spathelike, sheaths brown on lower part, green abaxially, white hyaline on margins, involucral bract leaf short or setaceous. Spikes 3 or 4, lowermost one slightly remote, others approximate or all spikes rather remote; terminal spike male, surpassing adjacent female spike, clavate-cylindric, 8-20 mm, ca. 3 mm thick, densely several or many flowered; lateral spikes 2 or 3, female, oblong or oblong-cylindric, 1-2 cm, 3-3.5 mm thick, loosely or densely many flowered; peduncles usually not exserted or slightly exserted from involucral bract sheath; rachis erect. Female glumes brown or brown-red laterally, green at middle, obovate, ovate, ovate-oblong, or oblong, 4-4.5 mm, papery, 1-3-veined, margins broadly white hyaline, apex obtuse or acute, mucronate or aristate. Utricles greenish, slightly shorter than glume, obovate or obovate-oblong, obtusely trigonous, 3.5-4.5 mm, densely white pubescent, nerveless or indistinctly shortly veined abaxially, 2-veined laterally and thinly several veined or shortly veined adaxially, rarely nerveless or convexly several veined on both surfaces, base gradually narrowed to a long stipe, apex rounded, abruptly contracted into a recurved and short beak, orifice emarginate. Nutlets yellow-brown at maturity, obovate, trigonous, 2.5-3 mm, base shortly stipitate, apex with very short and recurved beak; style base thickened; stigmas 3. Fl. and fr. May-Sep.
+  "Statistics": "Grasslands, mountain slopes, lax forests; 500-2000 m. Gansu, Hebei, Heilongjiang, Jilin, Nei Mongol, Shaanxi, Shanxi, Xinjiang [Korea, Mongolia, Russia (Far East, Siberia)].
+**142. 柄状薹草（秦岭植物志）脚薹（种子植物名称）图版41: 1-4**
+
+Carex pediformis C. A. Mey. in Mem. Acad. St. Petersb. Sav. Etr. 1: 219, t. 10, fig. 2, 1831; Kom., Fl. Mansh. 1: 400, 1901; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 490, 1909; V. Krecz. in Kom., Fl. URSS 3: 368, 1935; Ohwi, Cyper. Japon 1: 400, 1936; Akiyama, Caric. Far East. Reg. Asia 233, 1955: T. Koyama in Journ. Fac. Sci. Univ. Tokyo III, 8 (4): 174, 1962; 东北草本植物志11: 114, 图版52, 图1-6, 1976: 秦岭植物志1 (1): 253, 218, 1976; 内蒙古植物志8: 90, 图版39, 图1-5, 1985; 北京植物志下册: 1308, 图1575, 1987. ——Carex rhizina Blytt ex Lindom. in Bot. Not. 98, 1839. ——Carex kilinowii Turcz. in Bull. Soc. Nat. Moscou 28: 340, 1855; 东北植物检索表534, 1959. ——Carex pediformis C. A. Mey. a genuina Maxim., Prim. Fl. Amur. 309, 1859. ——Carex pediformis C. A. Mey. var. foribunda Korsh. in Acta. Hort. Petrop. 12: 409, 1892. ——Carex macroura Meinsh. in Acta. Hort. Petrop. 18: 404, 1901; V. Krecz. l. c. 367, 1935; 东北植物检索表534, 图版196, 图4.1959. ——Carex rhizodes Blytt var. abbreviata Meinsh. l. c.——Carex pediformisC. A. Mey. var. macroura (Meinsh.) Kukenth. l. c. 491, 1909. ——Carexsutschanensis Kom. in Bull. Jard. Bot. St. Petersb. 16: 155, 1916; Kitag., Lineam. Fl. Mansh. 111, 1939; 东北植物检索表534, 1959. ——Carex aneurocarpa V. Krecz. l. c. 369. 1935. ——Carex hankaensis Kitag, in Journ. Jap. Bot. 17: 236, 1941. ——Carex supermascula V. Krecz. in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS 9: 188, 1946. ——Carex ayouensis X. Y. Mao et Y. C. Yang in Fl. Intramongol. 8: 87, t. 33, 1985.
+**142a. 柄状薹草（原变种）**
+
+var. pediformis
+
+根状茎短或长而斜生。秆密或疏丛生，高25-40厘米，纤细，粗约1.5毫米，三棱形，稍粗糙，略坚挺。叶短于秆或与之等长，平张，宽2-3毫米，稍坚挺，基部具褐色或暗褐色分裂成纤维状的宿存叶鞘。苞片佛焰苞状，苞鞘下部褐色，背部绿色，上部边缘白色膜质，苞叶甚短，或呈刚毛状。小穗3-4个，下部的1个略疏远，其余的较接近，或全部均彼此较疏远；顶生的1个雄性，不超出、微超出或明显超出其下的雌小穗，棒状圆柱形，长8-20毫米，粗约3毫米，具少数或多数密生的花；侧生的2-3个小穗雌性，长圆形或长圆状圆柱形，长1-2厘米，粗3-3.5毫米，具多数稍密生或疏生的花；小穗柄通常不伸出或微伸出苞鞘外；小穗轴直。雄花鳞片长圆形，长4-4.5毫米，顶端渐尖，纸质，两侧褐色，有宽的白色膜质边缘，中间绿色，具1条中脉；雌花鳞片倒卵形、卵形、卵状长圆形或长圆形，长4-4.5毫米，顶端钝或急尖，具短尖或短芒，纸质，两侧褐色或褐红色，有宽的白色膜质边缘，中间绿色，有1-3条脉。果囊稍短于鳞片，倒卵形或倒卵状长圆形，钝三棱形，长3.5-4.5毫米，淡绿色，密被白色短柔毛，背面通常无脉或具不明显的短脉，腹面具2侧脉并具数细脉或短脉，少有无脉，基部渐狭成长柄，顶端圆，骤缩成外弯的短喙，喙口微凹。小坚果倒卵形，三棱形，长2.5-3毫米，成熟时黄褐色，基部具短柄，顶端具极短而外弯的喙；花柱基部增粗，柱头3个。
+
+产于黑龙江、吉林、内蒙古、山西、河北、陕西、甘肃、新疆；生于草原、山坡、疏林下或林间坡地，海拔500-2000米。俄罗斯（西伯利亚、远东地区）、蒙古也有分布。模式标本采自东西伯利亚。
+
+优良牧草，干草用作编织各种垫子。
+
+本种在形态上为多型性的种，从以上的形态描述可看出，无论是小穗、鳞片与果囊均有较多的变异性状。长期以来，一些作者只取其中的某些极端性状作为划分种的依据，从而发表了C. macroura Meinsh., C. hankaensis Kitag.和C. supermascula V.Krecz.…等若干名称。但是，通过研究和观察了我国的大量标本材料以后，发现了这些极端性状存在着变异的连续性。《东北草本植物志》 (1976) 将上述的名称均并入了本种。作者认为，这一分类处理是符合自然的。
+**142b. 柞薹草（变种）（东北植物检索表）**
+
+var. pedunculata Maxim., Prim. Fl. Amur. 310, 1859; T. Koyama in Journ. Fac. Sci. Univ. Tokyo III, 8 (4): 174, 1962; 东北草本植物志11: 116, 1976. ——Carex pediformis C. A. Mey var. rhizina Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 491, 1909, quoad pl. Asiat. tantum excl. basionym——Carexreventa V. Krecz. in Kom., Fl. URSS 3: 614 et 367, 1935, excl. syn. C. pediformis C. A, Mey. a genuina Maxim. et C. pediformis C. A. Mey. var. rhizina (Blytt ex Lindblom) Kukenth.; Kitag., Lineam. Fl. Mansh. 109, 1939; 中国高等植物图鉴5: 308, 图7446, 1976; 内蒙古植物志8: 92, 图版39, 图6-9, 1985.——Carex rhizina auct. non Blytt. ex Lindblom: Kom., Fl. Kamtsch. 1: 255, 1927. ——Carex pediformis C. A. Mey. a genuina auct. non Maxim.: Akiyama, Caric. Far. East. Reg. Asia 234, Pl. 239, fig. 3, 1955.
+
+本变种仅以果囊背腹两面均有多条突起的纵脉与原变种区别。
+
+产于黑龙江（伊春）、吉林（长白山和科尔沁右翼前旗）、内蒙古（兴安盟）；生于森林下，海拔500-600米；朝鲜、俄罗斯（远东地区）也有分布。模式标本采自俄罗斯远东地区。

@@ -1,0 +1,7 @@
+砂蓝刺头",
+16.**Echinops gmelinii** Turczaninow Bull. Soc. Imp. Naturalistes Moscou. 5: 195. 1832.",
+
+## Description
+Herbs 10-90 cm tall, annual. Stem solitary, yellowish, with patent branches in lower half, rarely unbranched, sparsely glandular hairy to glabrous. Leaves papery, green, concolorous, both surfaces sparsely cobwebby and glandular hairy. Lower cauline leaves sessile, linear to linear-lanceolate, 3-9 × ca. 0.5 cm, semiamplexicaul, margin with spiny teeth and spinulose. Middle and upper cauline leaves similar but gradually smaller upward. Pseudocephalia 1 to several, 2-3 cm in diam. Capitula 1.2-1.4 cm. Phyllaries 16-20; outermost phyllaries oblanceolate, to 1 cm, less than 1/2 as long as involucre, claw abaxially cobwebby at base, margin ciliate with cilia longest around middle, distal portion brown, broadly elliptic, abaxially densely strigose, and apex spinulose acuminate; middle phyllaries oblanceolate, ca. 1.3 cm, abaxially strigose and cobwebby at base, distal half of margin shortly ciliate, constricted from maximum width into a spiny tip; inner phyllaries narrowly elliptic, apex dentate. Corolla blue or white, tube not gland-dotted. Achene ca. 5 mm, hairs dark yellow. Pappus scales linear, ca. 1.2 mm, connate at base. Fl. and fr. Jun-Sep.
+  "Statistics": "Gravelly places on mountain slopes, desert steppes, loess hills, flooded places; 500-3200 m. Gansu, Hebei, Heilongjiang, Henan, Jilin, Liaoning, Nei Mongol, Ningxia, Qinghai, Shaanxi, Shanxi, Xinjiang [Mongolia, Russia (Tyva)].
+  "Synonym": "*Echinops turczaninowii* Trautvetter.

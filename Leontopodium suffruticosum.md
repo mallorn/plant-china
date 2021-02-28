@@ -1,0 +1,7 @@
+亚灌木火绒草",
+9.**Leontopodium suffruticosum** Y. L. Chen Acta Phytotax. Sin. 19: 90. 1981.",
+
+## Description
+Subshrubs. Bark yellowish brown, scaly. Stems light brown, woody, erect, 20-30 cm tall, several branched from base and middle, white arachnoid pubescent or sometimes glabrescent. Leaves linear-spatulate or linear, 3-10 × 0.5-1.5 mm, both surfaces white arachnoid tomentose and glandular, apex obtuse or acute. Capitula 3-5(-7), heterogamous or dioecious, densely congested; bracteal leaves few, linear, 5-8 mm, forming a star of ca. 1.5 cm in diam. Involucre hemispheric, ca. 3 mm, glandular or sparsely arachnoid tomentose; phyllaries 2- or 3-seriate, apex light brown or dark brown, acute or obtuse, glabrous. Corolla yellow, 2-3 mm. Achenes sparsely pubescent. Pappus white, slightly longer than corollas. Fl. Jun, fr. Aug.
+  "Reference": "This species is similar to *Leontopodium franchetii* but differs by its subshrubby habit; branchlets numerous, old branches woody, covered with white to grayish white tomentose pubescence and remains of withered leaves; leaves and bracteal leaves much shorter, 5-7 mm; and bracteal leaves and capitula fewer.This species is similar to *Leontopodium franchetii* but differs by its subshrubby habit; branchlets numerous, old branches woody, covered with white to grayish white tomentose pubescence and remains of withered leaves; leaves and bracteal leaves much shorter, 5-7 mm; and bracteal leaves and capitula fewer.
+  "Statistics": "● Dry riverbeds; ca. 3200 m. E Xizang.

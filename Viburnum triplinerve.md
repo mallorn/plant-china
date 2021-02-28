@@ -1,0 +1,14 @@
+三脉叶荚蒾",
+20.**Viburnum triplinerve** Handel-Mazzetti Sinensia. 5: 15. 1934.",
+
+## Description
+Shrubs, evergreen, to 2 m tall. Bark gray-brownish. Branchlets of current year brownish, slender, sometimes with dense lenticels, glabrous; branchlets of previous year gray-whitish, terete, glabrous, with dispersed, small, rounded lenticels. Winter buds ovoid-oblong, with 1 pair of separate scales; scales reddish brown, glabrous, apex acute. Leaves often clustered at apices of branchlets; stipules absent; petiole green, slender, 7-15 mm, glabrous; leaf blade purplish when young, elliptic, elliptic-ovate, or suborbicular, 2-6(-7.5) × 1-3 cm, leathery, both surfaces glabrous, midvein raised abaxially, triplinerved, veins reaching 3/4 length of leaves, pinnate, arched, rarely branched, anastomosing near margin, conspicuously raised abaxially, impressed adaxially, veinlets transverse, inconspicuous abaxially, slightly impressed adaxially, not lobed, base obtuse or rounded, without glands, margin entire, apex obtuse or rounded. Flowers appearing after leaves; inflorescence a compound umbel-like cyme, terminal, 1.5-10 cm in diam.; rays whorled; first node of inflorescence with 6-8 rays, lax, glabrous, without large sterile radiant flowers; peduncle ca. 1 cm, slender; bracts caducous, leaflike, green, linear to linear-lanceolate, glabrous; bracteoles scalelike. Flowers usually on rays of 2nd order, not fragrant; pedicels 1-2 mm, slender. Calyx greenish; tube broadly campanulate, less than 1 mm, glabrous; lobes broadly triangular or broadly ovate, very small, ca. 0.5 mm, nearly 1/2 as long as calyx tube, glabrous, apex obtuse. Corolla greenish white, rotate, ca. 4 mm in diam., glabrous; tube ca. 1 mm; lobes spreading, suborbicular, ca. 1 mm in diam., ca. 2 × as long as tube, apex rounded, margin entire. Stamens nearly as long as corolla, inserted near base of corolla tube; filaments ca. 3 mm; anthers yellow, globose, ca. 1 mm. Styles nearly as long as calyx lobes; stigmas subsessile. Fruit not turning red, maturing purple-blackish, suborbicular, 4-5 mm in diam., base rounded, apex acute, glabrous; pyrenes globose, ca. 4 mm in diam., with 1 very small and shallow ventral groove, apex rounded. Fl. Apr-May, fr. Jun-Oct.
+  "Reference": "This species is perhaps conspecific with *Viburnum propinquum*.This species is perhaps conspecific with *Viburnum propinquum*.
+  "Statistics": "● Mountains; 500-600 m. Guangxi.
+**16. 三脉叶荚蒾（新拟）**
+
+Viburnum triplinerve Hand. -Mazz. in Sinensia 5: 15. 1934.
+
+常绿灌木，高达2米，全体无毛；幼枝纤细，褐色，有时密生皮孔，老枝灰白色。叶常密集于小枝顶，革质，椭圆形、椭圆状卵形或近圆形，长2-6 (-7.5) 厘米，约为宽度的二倍，两端钝或圆形，全缘，离基2-6毫米处具3出脉，脉延伸至叶全长的约3/4处，近缘前弯拱而互相网结，上面凹陷，下面显著，小脉上面略凹陷，下面常不明显；叶柄长7-15毫米。聚伞花序直径1.5-3.5厘米，果时可达10厘米，总花梗长约1厘米，纤细，第一级辐射枝6-8条，长4-7毫米，花生于第二级辐射枝上，花梗甚短；萼筒宽钟形，长不到1毫米，萼齿宽三角形或宽卵形，顶钝，长约为萼筒之半或不到；花冠辐状，裂片近圆形，直径约1毫米，长二倍于筒；雄蕊约与花冠等长，花药球形；柱头几无柄，约与萼齿等高。果实近圆形，直径4-5毫米，熟时紫褐色，有1条极细的浅腹沟。
+
+特产广西。生于山地，海拔约550米。模式标本采自广西罗陈。

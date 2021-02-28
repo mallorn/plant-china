@@ -1,0 +1,14 @@
+黄球花",
+3.**Strobilanthes chinensis** (Nees) J. R. I. Wood & Y. F. Deng Bot. J. Linn. Soc. 150: 388. 2006.",
+
+## Description
+Herbs or subshrubs, 30-50(-150) cm tall, isophyllous. Stems often procumbent and rooting at base, 4-angled when young, hirsute, basally slightly woody. Petiole 4-10 mm; leaf blade obovate, obovate-elliptic, or sometimes oblong-elliptic, 1.5-11 × 1-4.5 cm, both surfaces sparsely hispid, adaxially densely covered with cystoliths, midvein impressed, secondary veins 5 on each side of midvein, purplish, and scabrous, base attenuate and decurrent onto petiole, margin crenate to slightly dentate, apex acute to shortly acuminate. Inflorescences axillary or terminal, subcapitate; bracts imbricate, broadly to narrowly ovate, 1.5-2 cm, hirsute, usually 3-veined, apically beaked to a subobtuse point; bracteoles linear, ca. 9 mm, resembling calyx lobes. Calyx 5-11 mm, subequally 5-lobed to base; lobes linear-lanceolate, ca. 10 × 0.5 mm, outside gland-tipped pilose, inside apically pubescent, apex attenuate. Corolla yellow, 1.6-2 cm, straight; tube basally cylindric and ca. 1 mm wide for ca. 5 mm then gradually widened to ca. 1 cm at mouth, outside pubescent, inside villous; lobes orbicular, ca. 4 mm in diam. Stamens 4, included or longer pair slightly exserted; shorter filament pair ca. 2 mm; longer filament pair ca. 5 mm; anther thecae oblong, ca. 2 mm. Ovary pilose; style ca. 2 cm, villous; stigma pilose. Capsule ca. 1 cm, pubescent, 8-seeded. Seeds yellowish, broadly ovate in outline, ca. 2 × 2 mm, subglabrous; areole large. Fl. Oct-Mar, fr. Jun-Jul.
+  "Statistics": "Moist hollows along streams; near sea level to 1300 m. Guangdong, Guangxi, Hainan [Cambodia, Laos, Vietnam].
+  "Synonym": "*Ruellia chinensis* Nees in A. Candolle, Prodr. 11: 147. 1847; *Hemigraphis chinensis* (Nees) T. Anderson ex Hemsley; *Sericocalyx chinensis* (Nees) Bremekamp.
+**1．黄球花（海南植物志）半柱花（中国高等植物图鉴）图版15：1-6**
+
+Sericocalyx chinensis (Nees) Bremek. , in Verh. Ned. Akad. Wetensch. Afd. Naturk. Sect. 2. 41(1): 163. 1944; 海南植物志3: 548. f. 921. 1974. ——Ruellia chinensis Nees in DC. Prodr. 11: 147. 1817. ——Hemigraphis chinensis(Nees)T. Anders ex Hemsl. in Journ. Linn. Soc. Bot. 26: 238. 1890;中国高等植物图鉴4: 157. 1975. ——Hemigraphis procumbens(Lour. )Merr. in Phil. Sci. Journ. 15: 256. 1919; et Trans. Am. Philos. Soc. 2: 24(2): 356. 1935; sensu Merr. et Chun in Sunyatsenia 5(1-3): 183-184. 1940; 广州植物志: 622. 1956.
+
+草本或小灌木，高30-50厘米，可达1.5米。茎下部常木质化，基部常匍匐生根，稀直立，仅嫩枝4棱，被硬毛，侧枝上的叶常较小，顶端渐尖或急尖，基部渐狭或稍下延，边缘具细锯齿或牙齿，两面被疏刺毛，上面钟乳体多为细而平行的线条，主脉下陷，侧脉每边5条，紫色，下面脉凸起，具顶端钩状囊状体，粗糙或稍粗糙，毛较密；叶柄长4-10厘米。穗状花序短而紧密，圆头状或稍伸长；苞片通常覆瓦状排列，卵形，长1.5-2厘米，绿色，通常自基部3出脉，被硬毛，顶端喙状骤尖，喙线形，长约为苞片1/3左右，钝头；小苞片与萼裂片等大，线形，长约9毫米；花冠长约2厘米，外面被短柔毛，里面被长柔毛，蒴果长约10毫米，被短柔毛；种子每室4粒，阔卵形，干时淡黄色，无毛或边缘稍被毛。花期：冬春。
+
+产广东（茂名、罗定、广州白云山、番禺、新兴、云浮）、海南（乐东、定安、东方、昌江、陵水、三亚、保亭、琼中）、广西（容县、博白）。生于沟边或潮湿的山谷。越南、老挝和柬埔寨也有分布。

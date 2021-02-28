@@ -1,0 +1,15 @@
+印度卷柏",
+3.**Selaginella indica** (Milde) R. M. Tryon Ann. Missouri Bot. Gard. 42: 52. 1955.",
+
+## Description
+Plants epilithic, xerophytic, summer-green, creeping, 5-15 cm, growing indefinitely, without stolons. Rhizophores at intervals throughout length of creeping stem and branches, borne on dorsal side in axils of branches, densely hairy. Main stems anisotomously branched throughout, glabrous; leafy branches glabrous, dorsiventrally flattened. Leaves spirally arranged on all sides of stem and branches, monomorphic throughout, linear-lanceolate, 1.8-2.3 mm excluding seta, 0.3-0.5 mm wide, with long apical seta ca. 1/5 as long as leaves, margin shortly ciliolate, apex acuminate. Strobili solitary on erect branchlets, tetragonal, 5-25 × 1.5-2 mm; sporophylls monomorphic, ovate-triangular or ovate-lanceolate.
+
+> On rocks in open places; 2000-3700 m. Sichuan, Xizang, Yunnan [India].
+  "Synonym": "*Selaginella rupestris* (Linnaeus) Spring f. *indica* Milde, Filic. Europ. 262. 1867; *Bryodesma indica* (Milde) Soják.
+**3.印度卷柏（植物分类学报）图版20：1-3**
+
+Selaginella indica (Milde) R. M. Tryon in Ann. Miss. Bot. Gard. 42: 52, f. 27, map. 32. 1955; R. D. Dixit, Selag. India 32, f. 1: A-G, pl. 1. 1992: X. C. Zhangin Acta Phytotax. Sin. 39 (4): 348, f. 1: 3-4. 2001. ——Bryodesma indicum (Milde)Sojdk in Preslia 64 (2): 154. 1992 (publ. 1993) ; R. J. Johns, Ind. Fil. Suppl. 7: 17. 1997. ——Selaginella rupestris f. indica Milde, Filic. Eur et Atl. 262. 1867. ——Se-laginella wightii auct. non Hieron.: Panigrahi et R. D. Dixit in Proc. Nat. Inst. Sci. In-dia 34B (4): 206, f. 11. 1968. ——Selaginella vardei auct. non H. Levl. : Fl. Xizang., 1: 19. 1983, p. p. excl. fig. ; H. S. Kung, Fl. Sichuan. 6: 58. 1988, p. p. excl. fig; Vascul. Pl. Hengduan Mts. 1: 8. 1993, p. p. ——Selaginella longipila auct. non Hieron一Alston in Proc. Nat. Inst. Sci. India 11: 214. 1945; R. M. Tryon in Ann. Miss. Bot. Gard. 42: 52, f. 27, map. 32. 1955; R. D. Dixit, Selag. India 32, f. 1: A-G, Pl. 1. 1992. ——Bryodesma indicum (Milde) Sojak in Preslia, 64 (2): 154. 1992 (publ. 1993) ; R. J. Johns, Ind. Fil. Suppl. 7: 17. 1997. ——Selaginella rupestris f. indica Milde, Filic. Eur et Atl. 262. 1867. ——Selaginella wightii auct. non Hieron. : Panigrahi et R. D. Dixit in Proc. Nat. Inst. Sci. India 34B (4): 206, f. 11. 1968. ——Selaginella zaardei auct. non Levl. : Fl. Xizang., 1: 19. 1983, P. P. excl. fig. ; H. S.Kung, Fl. Sichuan., 6: 58. 1988, P. P. excl. fig; Vascul. Pl. Hengduan Mts. 1: 8. 1993, P. P. ——Selaginella longipila auct. non Hieron. : Alston in Proc. Nat. Inst. Sci. India 11: 214. 1945; Baishya et R. R. Rao, Ferns and Fern-allies of Meghalaya State, India 27. 1982.
+
+石生或土生，密集呈垫状。茎和枝具背腹性，匍匐或倾斜；主茎明显，侧生分枝多，长1. 5-2.5厘米，连叶宽约2毫米，1-2回羽状分枝，再生出3-7个短的小枝。根托由茎的上侧生出，沿茎各部遍生。叶草质，一形，略疏松排列，线状披针形，长1.8-2.3毫米 (不包括叶尖芒长) ，宽0.3-0. 5毫米；茎下面的叶黄棕色，侧面的叶斜升；中肋背面明显；基部楔形，下延或圆形，贴生，边缘疏被睫毛，睫毛斜升；叶先端扁平，渐狭；叶尖芒长达叶片的1/5，通直，有短毛。孢子叶穗紧密，四棱柱形，单生于小枝末端，5-25毫米x1.5-2毫米；孢子叶一形，卵状三角形至卵状披针形；大孢子叶分布于下部，大孢子叶分布于上部；大孢子橘黄色；小孢子橘黄色。
+
+产西藏 (错那、吉隆) 、云南 (安宁、大理、洱源、双柏) 、四川 (德昌) 。生于干热河谷山坡或山顶裸露岩石上，海拔1500-2800米。印度、尼泊尔、不丹也有分布。模式标本采自印度。

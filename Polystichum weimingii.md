@@ -1,0 +1,12 @@
+维明耳蕨
+109.**Polystichum weimingii** Li Bing Zhang & H. He Syst. Bot. 34: 13. 2009.
+
+> It is possible that *Polystichum weimingii* also occurs in parts of Laos, Myanmar, and Vietnam bordering Yunnan.The fronds of the tallest individual of this species at the type locality can reach 107 × 28 cm.
+
+
+## Description
+Plants evergreen. Rhizome erect, short; scales brown, linear-lanceolate. Fronds 30-50(-107) cm; stipe yellowish green, 6.5-18 cm, 1.5-2(-2.5) mm in diam. at middle; basal stipe scales brown, dull, linear-lanceolate, ca. 10 × 1 mm, papery, obtusely toothed, acuminate; distal stipe scales similar but narrower and shorter, brown, dull, linear-lanceolate to linear, tortuous, papery, sparsely shortly toothed, caudate. Lamina bipinnate, shiny green adaxially when fresh, deltoid-lanceolate, 24-33(-74) × 4.6-8.2(-28) cm, not contracted toward base, acuminate at apex; rachis ca. 1.5 mm in diam., without proliferous bulbils; rachis scales brown, linear and tortuous, 0.25-0.5 mm, deltoid at base. Pinnae 15-23(-27) pairs, alternate, attached at nearly right angles to rachis, slightly (or strongly) angled upward, lanceolate, shortly stalked, pinnate, acute or acuminate; middle pinnae 2.3-6.5(-22) × 1.2-2.8(-3.2) cm, basal second and third pairs of pinnae slightly larger than others, basalmost pairs of pinnae smallest; costa ca. 0.5 mm in diam.; costa scales brown, linear and tortuous. Pinnules 5-12 (-24) pairs, basal two pairs 2-4 cm apart, alternate, attached at ca. 80° angle to rachis, falcate-deltoid, 0.6-1.1(-1.6) × 0.25-0.35(-0.7) cm, shortly stalked; basal acroscopic pinnules auriculate, cuneate, shallowly undulate, mucronate; abaxially scaly, adaxially glabrous; microscales on abaxial surface linear and tortuous; frond texture papery; midrib raised abaxially, concave adaxially; lateral veins free, once dichotomously branched, ca. 4(-8) pairs from midrib per pinnule, raised and obvious abaxially, indistinct adaxially. Sori terminal on veins, (3-)5-8 (-14) sori per fertile pinnule, at middle between midrib and pinnule margin; indusia dark brown at middle, brown elsewhere, ca. 0.8 mm in diam., membranous, lacerate. Spores 40(26.4-57.1) × 46.4(35.7-78.6) × 42.9(28.6-68.6) µm (polar axis × long equatorial axis × short equatorial axis, respectively); perispore sculpturing striate with perforations.
+
+
+> ● Open canopies of large *Caryota urens* in ravines, red soil on limestone walls in low light beneath dense papery plants; 1300-2100 m. S Yunnan (Gengma, Mengzi).
+

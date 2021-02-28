@@ -1,0 +1,8 @@
+石生假脉蕨",
+6.**Crepidomanes rupicola** (Raciborski) Copeland Philipp. J. Sci. 67: 59. 1938.",
+
+## Description
+Rhizome long creeping, filiform, less than 0.1 mm in diam., densely covered with dark brownish hairs, thus appearing ca. 0.3 mm in diam. Stipe greenish, filiform, terete, very short, 1-3 mm, hairy or glabrescent. Fronds with up to 6 lobes, seemingly digitately arranged, or simple, simple fronds like lobes of multi-lobed fronds that are orbicular in outline, up to slightly more than 1 cm × 1 mm, base rounded to cuneate, apex rounded to obtuse; pinnae simple or at most forked, all lobes 1-veined; ultimate segments or simple fronds narrowly oblong to linear, up to nearly 1 cm × 2 mm, margin entire and flat, apex rounded or slightly notched; surface thin, pale green (green even on specimens after many years), nearly transparent; submarginal false veinlets usually obsolete, or sometimes present but interrupted and duplicated to next row, many oblique striae present. Sori at apices of ultimate lobes, solitary, campanulate; involucres with tuberous basal portion and dilated mouth, tuberous portion completely immersed in lobe apex, ca. 1.8 mm, ca. 0.7 mm in diam., broadly winged by lobes, or of same width as lobes, dilated mouth up to 1.7 mm in diam., ca. 0.5 mm in width; receptacles elongate, projecting from dilated mouth.
+
+> Petrophilous on reverse slope of large boulders, often overhanging streams but above reach of floods, on moss-covered rocks in ravines, rarely on base of large trees; 100-400 m. SE Taiwan (Lan Yu) [Indonesia (Flores, Java), Philippines].
+  "Synonym": "*Trichomanes rupicola* Raciborski, Pteridoph. Buitenzorg, 24. 1898; *T. formosanum* Y. Yabe.

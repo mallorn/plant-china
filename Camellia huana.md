@@ -1,0 +1,8 @@
+贵州金花茶",
+7.**Camellia huana** T. L. Ming & W. J. Zhang",
+
+## Description
+Shrubs 1-3 m tall. Young branches grayish yellow, with brown lenticels; current year branchlets purplish red, slender, glabrous. Petiole 7-12 mm, glabrous; leaf blade elliptic to oblong-elliptic, 7-11.5 × 3-5 cm, thinly leathery, abaxially pale green and brown glandular punctate, adaxially dark green, shiny, and becoming yellowish green when dry, both surfaces glabrous, midvein abaxially elevated and adaxially slightly impressed, secondary veins 6 or 7 on each side of midvein, abaxially raised, and adaxially visible, base cuneate, margin serrate, apex shortly acuminate. Flowers subterminal, solitary, 3-3.5 cm in diam. Pedicel 6-10 mm, thickened toward apex; bracteoles 5 or 6, not covering pedicel, semiorbicular to ovate, 0.5-2 mm, outside glabrous, inside white puberulent, margin ciliolate. Sepals 5, ovate to suborbicular, ca. 5 mm, leathery, outside green and glabrous, inside white puberulent, margin ciliolate. Petals 7-9, pale yellow; outer 2 or 3 petals broadly elliptic to obovate, 1-1.2 × 0.8-1 cm; inner petals obovate-elliptic, 1.5-2 × 1-1.5 cm, basally connate for ca. 2 mm. Stamens ca. 1.5 cm, glabrous; outer filament whorl basally connate for ca. 4 mm. Ovary globose, ca. 2 mm in diam., glabrous; styles 3, distinct, ca. 1.4 cm. Capsule oblate, ca. 1.5 × 3-3.5 cm, 3-loculed with 2 seeds per locule; pericarp 1-1.5 mm thick. Seeds brown, hemispherical, reddish brown villous. Fl. Feb, fr. Oct. 2*n* = 30*.
+
+> ●  Forests or thickets in valleys or on calcareous hills; 600-800 m. Guangxi (Tian’e), Guizhou (Ceheng, Luodian).
+  "Synonym": "*Camellia liberofilamenta* Hung T. Chang &amp; C. H. Yang; *C. tianeensis* S. Y. Liang &amp; Y. T. Luo.

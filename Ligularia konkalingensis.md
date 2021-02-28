@@ -1,0 +1,6 @@
+贡嘎岭橐吾",
+31.**Ligularia konkalingensis** Handel-Mazzetti Bot. Jahrb. Syst. 69: 112. 1938.",
+
+## Description
+Stem erect, 60-90 cm tall, to 1 cm in diam. at base, shortly yellow pilose. Basal leaves petiolate; petiole densely shortly yellowish brown pilose, to 28 cm, base long sheathed; leaf blade orbicular-reniform, ca. 17 × to 24 cm, abaxially with prominent palmate veins and shortly pilose, adaxially glabrous, margin coarsely dentate, apex rounded; sinus ca. 1/3 as long as leaf blade, narrow. Middle stem leaves petiolate; petiole to 7 cm; sheath enlarged, ca. 5 × 2.5 cm, densely shortly yellow pilose; leaf blade smaller, reniform. Distalmost stem leaves sessile, ovate, without sheath. Compound corymbs spreading or clustered; leaflike and supplementary bracts linear, shortly pilose; peduncles to 2 cm, shortly yellow pilose. Capitula numerous. Involucre cylindric or campanulate-cylindric, 10-12 × 4-6 mm, outside densely shortly yellow pilose; phyllaries 5-7, in 2 rows, oblong-lanceolate, ca. 2 mm wide, apex acute; inner phyllaries membranous at margin. Florets 5-9, yellow, all tubular, 7-8 mm, extending from involucre; tube ca. 5 mm; limb campanulate. Achenes brown, cylindric, 6-7 mm. Pappus pale brown, as long as tube of tubular corolla. Fl. Aug-Sep.
+  "Statistics": "● Alpine stream banks; 3800-4800 m. Sichuan (Batang, Gonggaling, Muli).

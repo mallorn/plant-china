@@ -1,0 +1,9 @@
+德钦碎米荠",
+37.**Cardamine hydrocotyloides** W. T. Wang",
+
+> The above first record from Sichuan is based on Al-Shehbaz et al. 9348 (MO), collected ca. 36 km S of Xiancheng. The filaments in all the material examined by the present authors, including the type collection and paratypes, are slender, and the dentate filaments mentioned in the protologue could not be observed.
+
+## Description
+Herbs perennial, 10-26 cm tall. Rhizomes short, thickened and somewhat fleshy at stem base, with several stolons bearing simple leaves. Stems erect, subglabrous or puberulent with often curved trichomes, simple from rhizomal branches, not flexuous. Rhizomal and lowermost cauline leaves simple; petiole 1.5-6 cm, puberulent or glabrous, not auriculate at base; leaf blade reniform or suborbicular, 0.5-2.5 × 0.8-3.5 cm, papery, glabrous or sparsely pilose adaxially, base cordate, margin repand-crenate or subentire; stolon leaves simple, similar to rhizomal leaves but smaller and with shorter petioles. Uppermost cauline leaves usually 3-foliolate, rarely simple; petiole 0.3-2 cm; terminal leaflet suborbicular, reniform, or ovate-suborbicular, 0.6-2 × 0.8-3 cm, with a petiolule 0.5-7 mm, base cordate, rounded, or subtruncate, margin entire or repand, rarely slightly lobed; lateral leaflets similar to terminal one, petiolulate. Fruiting pedicels 0.9-2 cm, divaricate or ascending, slender, glabrous or puberulent. Sepals ovate, 2-2.5 × 1-1.5 mm, glabrous, not saccate. Petals white, obovate, 5-6 × 3-4 mm, apex rounded. Median filament pairs 3-3.5 mm, slender, toothless; lateral pair 2-2.5 mm; anthers oblong, 0.8-1 mm. Ovules 10-14 per ovary. Fruit linear, 1-2.8 cm × 1-1.3 mm; valves glabrous, smooth; style 1-3 mm. Seeds brown, oblong, ca. 1.3 × 0.8 mm, wingless. Fl. and fr. Jul-Aug.
+
+> * Forests, along ditches and trails; 3200-3400 m. Sichuan, Yunnan.

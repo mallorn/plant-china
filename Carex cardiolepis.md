@@ -1,0 +1,13 @@
+藏东薹草",
+155.**Carex cardiolepis** Nees in Wight Contr. Bot. India. 127. 1834.",
+
+## Description
+Rhizome obliquely ascending, ligneous, stout. Culms densely tufted, 20-40 cm tall, ca. 1 mm thick, slightly scabrous. Leaves slightly shorter than or nearly equaling culm, elongating after flowering, flat or plicate, blades 1-2 mm with soft, dark brown persistent sheaths at base. Involucral bracts spathelike, sheaths green, membranous on margin, shortly leafy at apex. Spikes 3 or 4, remote, rarely lowermost one basal; terminal spike male, clavate-cylindric, 1.5-2 cm, 2-2.5 mm thick, densely many flowered; lateral spikes 2 or 3, female, cylindric, 1-2 cm, ca. 3 mm thick, laxly many flowered; peduncles filiform, very long exserted from involucral bract sheath. Female glumes brownish laterally, green at middle, obovate-oblong or oblong, 4.3-4.7 mm, papery, 3-veined, margins white hyaline, apex rounded or emarginate, with scabrous awn. Utricles greenish, shorter than or equaling glume, obovate-oblong, inflated trigonous, 4-4.5 mm, papery, densely pubescent, 2-veined laterally and thinly several veined, base gradually narrowed into a short stipe, apex abruptly contracted into a recurved and short beak, orifice entire. Nutlets obovate-oblong, 2.5-2.8 mm, trigonous, base shortly stipitate, apex with recurved and short beak; style base slightly thickened; stigmas 3. Fl. and fr. May-Sep.
+  "Statistics": "Meadow thickets on high mountains, forests; 3000-4300 m. S Qinghai, SW and W Sichuan, E and S Xizang, NW Yunnan [Afghanistan, India, Kashmir, Nepal].
+**139. 藏东薹草（西藏植物志）**
+
+Carex cardiolepis Nees in Wight. Contrib. Bot. India 127, 1834; Kunth, Enum. Pl. 2: 516, 1837; Boott, Illustr. Carex 1: 6, t. 17, 1858; Bocklr. in Linnaea 41: 200, 1877; Boiss., Fl. Orient. 5: 409, 1884; C. B. Clarke in Hook. f., Fl. Brit. Ind. 6: 744, 1894 et in Journ. Linn. Soc. Bot. 36: 279, 1903; Franch. in Nouv.Arch. Mus. Paris 3, 9: 172, 1897; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 490, 1909; 西藏植物志5: 412, 1987; 横断山区维管植物下册: 2377, 1994.
+
+根状茎斜生，木质，粗壮。秆密丛生，高20-40厘米，粗约1毫米，稍粗糙。叶稍短于秆或与之近等长，花后稍延伸，平张或对折，宽1-2毫米，柔软，基部具暗褐色宿存叶鞘。苞片佛焰苞状，苞鞘绿色，边缘膜质，顶端具短苞叶。小穗3-4个，彼此疏远，偶有最下部的1个自秆的基部生出，顶生小穗雄性，棒状圆柱形，长1.5-2厘米，粗约2-2.5毫米，具多数密生的雄花；侧生的2-3个雌性，圆柱形，长1-2厘米，粗约3毫米，具多数疏生的花；小穗柄丝状，很长地伸出苞鞘之外。雄花鳞片长圆状披针形，长约4.5毫米，顶端渐尖，膜质，淡褐色；雌花鳞片倒卵状长圆形或长圆形，长4.3-4.7毫米，顶端圆或微凹，具粗糙的短芒，纸质，两侧淡褐色，有宽的白色膜质边缘，中间绿色，有3条脉。果囊短于鳞片或与之等长，倒卵状长圆形，肿胀三棱形，长4-4.5毫米，纸质，淡绿色，密被短柔毛，除具二侧脉外，还有若干条细脉，基部渐狭成短柄，顶端骤缩成外弯的短喙，喙口全缘。小坚果倒卵状长圆形，长2.5-2.8毫米，三棱形，基部具短柄，顶端具外弯的短喙；花柱基部稍增粗，柱头3个。
+
+分布于青海南部、四川西部和西南部、云南西北部、西藏东部和南部；生于高山灌丛草甸或林下，海拔3000-4300米。锡金、尼泊尔、印度北部、克什米尔地区及阿富汗也有分布。模式标本采自东喜马拉雅山区。

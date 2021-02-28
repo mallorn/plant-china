@@ -1,0 +1,8 @@
+爪哇蕗蕨",
+12.**Hymenophyllum javanicum** Sprengel Syst. Veg. 4(1): 132. 1827.",
+
+## Description
+Rhizome long creeping, wiry, slender, ca. 0.5 mm in diam., laxly branched, with rather sparse brownish hairs. Stipes remote, naked but very base hairy, 2-5 cm, winged except near base; wings becoming broader upward, entire, ± crisped at edge. Rachis straight or zigzag in very upper portion, winged like upper portion of stipe. Lamina tripinnate to quadripinnatifid, oblong-subdeltoid, 4-7(-15) cm, 3-4(-7) cm wide at widest basal portion, glabrous, apex ± acute; pinnae 5 or more pairs, basal ones oblong-subdeltoid, up to 3 × 2 cm, base broadly cuneate to rounded, shortly stalked, apex moderately acute to rounded; upper ones gradually becoming smaller upward, oblong in outline; pinna rachis like rachis, ± zigzag throughout; ultimate segments up to 4 mm, narrow, 0.6-1 mm wide, decurrent into every axis forming distinct, wavy or crisped wings ca. 0.8 mm in width, margin entire but undulate or crisped, apex rounded to obtuse; internal cell walls thin, straight. Sori scattered usually on apical parts of pinnae; involucres bivalvate, deeply cleft to base; valves subdeltoid to oblong, 1.2-1.6 mm, up to 1 mm wide, lips finely toothed; receptacles wholly included within involucres, clavate to filiform. 2*n* = 72.
+
+> Epiphytic on moss-covered tree trunks in dense tropical evergreen forests; 1400-2100(-2300) m. E, ?NC, and S Taiwan [India, Indonesia, Malesia, Myanmar, Sri Lanka, Thailand, Vietnam; Australia, Pacific islands (Melanesia, Micronesia, Polynesia)].
+  "Synonym": "*Mecodium javanicum* (Sprengel) Copeland.

@@ -1,0 +1,6 @@
+假葶苈属",
+55.**Drabopsis** K. Koch",
+
+## Description
+Herbs annual, scapose. Trichomes stalked, 3- or 4-rayed stellate, sometimes forked or simple at leaf margin and on sepals. Basal leaves sessile or subsessile, rosulate, simple, entire or rarely few toothed. Cauline leaves absent. Racemes few to several flowered, ebracteate. Fruiting pedicels stout, often as thick as fruit, suberect or divaricate-ascending. Sepals oblong, erect, glabrous or pubescent, base of lateral pair not saccate. Petals yellow or yellowish white, ascending, slightly longer than sepals; blade oblanceolate, apex obtuse or retuse; claw obscurely differentiated from blade. Stamens 6, erect, tetradynamous; filaments not dilated at base; anthers ovate, obtuse at apex. Median glands absent; lateral glands 1 on each side of lateral stamen. Ovules 12-40 per ovary. Fruit dehiscent siliques, linear, latiseptate, sessile; valves with a prominent midvein, glabrous or rarely pubescent with stalked, forked and 3-rayed trichomes, smooth; replum rounded; septum complete; style obsolete or to 0.2 mm; stigma capitate, entire. Seeds uniseriate, wingless, oblong, flattened; seed coat minutely reticulate, slightly mucilaginous when wetted; cotyledons accumbent.
+  "Statistics": "One species: C and SW Asia, SE Europe.

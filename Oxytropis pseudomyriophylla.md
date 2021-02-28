@@ -1,0 +1,6 @@
+拟多叶棘豆",
+7.**Oxytropis pseudomyriophylla** S. H. Cheng ex X. Y. Zhu H. Ohashi & Y. B. Deng, J. Jap. Bot. 74: 127. 1999.",
+
+## Description
+Herbs, 10-25(-30) cm tall, acaulescent, from a simple to copiously branched multiheaded caudex. Stipules narrowly tri-angular, 3.2-4.3 × 1.7-2.6 mm, herbaceous to membranous, with rigid trichomes, highly adnate to petiole, veins conspic-uous. Leaves 12-15 cm, with yellowish brown trichomes; leaf-lets verticillate or opposite, in 15-27 whorls or pairs, 2-4 blades per node; leaflet blades narrowly oblong, lanceolate, or elliptic, 6-9 × 2-2.5 mm, both surfaces with dense glandular trichomes. Racemes elongate, lax, (5-)8-20-flowered; peduncle 7-25 cm, much surpassing leaves; bracts ovate, ca. 6.5 × 2.5 mm, with yellowish brown trichomes and glands. Calyx cylindric, ca. 7.5 × 3 mm, with yellowish brown trichomes; lobes subulate, ca. 1 × 0.2 mm. Corolla purple; standard ca. 1.7 × 0.4 cm, lamina narrowly obovate, apex rounded; wings ca. 1.6 cm, lamina obo-vate, apex rounded; keel ca. 1.2 cm, beak 1.5-2 mm. Legume sessile; body lanceolate-ovoid, leathery, with glandular tri-chomes. Fl. May-Sep, fr. May-Sep.
+  "Statistics": "● Hillsides, roadsides along fields; 1400-2600 m. Gansu, Ningxia, Shanxi.

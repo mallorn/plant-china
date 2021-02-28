@@ -1,0 +1,15 @@
+葵叶报春",
+45.**Primula malvacea** Franchet",
+
+## Description
+Herbs perennial. Leaves forming a rosette; petiole 1--22 cm, with dense white or fulvous multicellular hairs; leaf blade suborbicular to broadly ovate, 2.5--12 cm wide, abaxially pilose along veins, adaxially pubescent intermixed with long hairs, base cordate, margin crenate or crenate-lobulate, apex rounded; lobes irregularly denticulate. Scapes 3--40 cm, pilose. Inflorescences terminal, usually in 1--8 superimposed whorls, sometimes in pseudo-whorls or a raceme; bracts leaflike, oblanceolate to broadly ovate, 0.5--2 cm. Pedicel 0.5--3.5 cm, copiously pubescent. Flowers heterostylous. Calyx broadly campanulate, 0.8--1.5 cm, enlarging to 2 cm in fruit, pubescent, parted to 1/3--2/3; lobes green, broadly ovate to elliptic, leaflike, margin entire to dentate, with prominent midvein and lateral veins. Corolla pale to dark rose, rarely white; tube 1--1.3 cm; limb 1.5--2.5 cm wide; lobes obovate, apex 2-cleft. Pin flowers: stamens at middle of corolla tube; style ca. 2/3 as long as tube. Thrum flowers: stamens in upper 1/2 of corolla tube; style ca. 1/3 as long as tube. Capsule globose, 3--6 mm in diam., shorter than calyx. Fl. Jul.
+
+> * On calcareous rocks of open slopes, forest margins; 2300--3700 m. NW Sichuan, N Yunnan
+  "Synonym": "&lt;I&gt;Primula atrotubata&lt;/I&gt; W. W. Smith &amp; Forrest; &lt;I&gt;P. barybotrys&lt;/I&gt; Handel-Mazzetti; &lt;I&gt;P. langkongensis&lt;/I&gt; Forrest; &lt;I&gt;P. malvacea&lt;/I&gt; Franchet var. &lt;I&gt;alba&lt;/I&gt; Forrest; &lt;I&gt;P. malvacea&lt;/I&gt; var. &lt;I&gt;intermedia&lt;/I&gt; W. W. Smith &amp; Forrest.
+**43.葵叶报春（中国高等植物图鉴）图版9: 7-9**
+
+Primula malvacea Franch. in Bull. Soc. Bot. France 33: 65. 1886: Forbes et Hemsl. in Journ. Linn. Soc. Bot. 26: 39. 1889; Pax in Bot. Jahrb. 10: 167. 1889, et in Engl, Pflanzenr. 22(IV-237): 26. 1905; Balf. f. in Journ. Roy. Hort. Soc. 39: 134,145-6. fig. 49. 1913; Hand.-Mazz Symb. Srn. 7:736 1936; W. Smith et Fletcher in Trans. Bot. Soc. Edinb. 34: 124. 1944, p. p. excl. syn. Primula neurocalyx Franch. ex Primula rosthornii Diels;中国高等植物图鉴3: 248. fig. 4450.1974;云南种子植物名录1505. 1984. ——Primula langkongensis Forr. in Not. RoyBot. Gard. Edinb. 4: 216. pl. 26. 1908.——Primula malvacea Franch. var. intermedia W. W. Smith et Forr. in Not. Roy. Bot. Gard. Edinb. 14: 48. 1923. ——-Primula malvacea Franch. var. alba Forr. in ibid. 14: 48. 1923. ——Primula atrotubata W. W. Smith et Forr. in ibid. 14: 33. 1923. ——Primula barybotrys Hand.-Mazz. in Anz. Akad. Wiss. Wien, 60: 116. 1923, et Symb. Sin. 7: 736. 1936.
+
+多年生草本。根状茎极短，向下发出纤维状长根。叶丛基部有多数褐色鳞片，叶片近圆形至阔卵圆形，直径2.5-12厘米，先端圆形，基部心形，边缘具波状圆齿或呈浅裂状，并有不整齐的小牙齿，上面深绿色，被长短不一的柔毛，下面淡绿色，沿叶脉被柔毛，毛被的疏密常有较大变异；侧脉4-5对，在下面显著；叶柄长1-22厘米，密被白色或淡褐色柔毛。花葶高3-40厘米，密被白色柔毛；花序顶生，花通常排成1-8轮，但有时仅近于轮生或排成总状花序；苞片披针形、倒披针形或阔卵形，长5-20毫米，叶状，两面被毛，全缘或有小齿；花梗长5-35厘米，密被毛；花萼阔钟状，长8-15毫米，果时增大，长可达20厘米，直径达35毫米，两面被毛，分裂达全长的1/3-2/3，裂片阔卵圆形至椭圆形，绿色，叶状，先端圆钝或锐尖，边缘全缘或具牙齿，具明显的中肋和侧脉；花冠粉红色或深红色，稀白色，冠筒口周围黄色或绿黄色，冠筒长10-13毫米，冠檐直径1.5-2.5厘米，裂片倒卵形，先端2裂；长花柱花：雄蕊着生于冠筒中部，花柱长约为冠筒的2/3；短花柱花：雄蕊着生于冠筒中上部，花柱长约为冠筒的1/3。蒴果球形，直径3-6毫米。花期7月。
+
+产于云南北部（宾川、鹤庆、丽江）和四川西南部（木里、稻城）。生于山谷林缘，向阳山坡和田埂上，海拔2300-3700米。模式标本采自云南鹤庆。

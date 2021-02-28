@@ -1,0 +1,9 @@
+台湾肿足蕨",
+4.**Hypodematium taiwanense** Ching ex K. H. Shing Fl. Reipubl. Popularis Sin. 4(1): 318. 1999.",
+
+> Reviewer Ralf Knapp notes that *Hypodematium taiwanense* may fall within the range of variation of *H. crenatum*, which is rather widespread in Taiwan, but further study is needed to ascertain whether or not the two taxa are distinct.
+
+## Description
+Plants 55-70 cm tall. Rhizomes prostrate, stout, densely scaly together with swollen stipe base; scales reddish brown, lustrous, linear-lanceolate, 1-2.5 cm, membranous, margin entire. Fronds subclustered; stipe stramineous, lustrous, 25-30 cm × ca. 2 mm, upward glabrous; lamina triangular-ovate, 30-40 cm, up to 30 cm wide at base, thinly herbaceous, densely covered with short hairs on both surfaces, rachis, costae, and costules, 4-pinnate at base, 3-pinnate upward, acuminate and pinnatifid at apex; pinnae ca. 12 pairs, spreading; lower 1 or 2 pairs opposite, separated from each other for ca. 8 cm, long stalked; upper pairs alternate or subopposite, 2-3 cm apart, shortly stalked; basal pair largest, narrowly triangular, ca. 20 cm, up to ca. 12 cm wide at base, base rounded, with ca. 1.5 cm stalk, 3-pinnate, apex acuminate; pinnules ca. 12 pairs, anadromous, alternate, spreading, acroscopic ones slightly smaller, proximal basiscopic pair largest, oblong-deltoid, ca. 8 × 6 cm, shortly stalked, base subcordate, 2-pinnate, apex acuminate; ultimate pinnules 5-8 pairs, oblique, oblong, basal one 4-5 × ca. 2.5 mm, margin pinnate into oblong lobes or crenate. Veins obvious on both surfaces, pinnate, ending at margin. Sori small, orbicular, 2 or 3 pairs per ultimate pinnule, located at middle of veinlets; indusia reddish brown, orbicular or reniform, sparsely hairy or sometimes glabrous. Spores ellipsoid, bearing few inflated folds, glabrous.
+
+> ● Taiwan.

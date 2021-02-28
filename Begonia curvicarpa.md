@@ -1,0 +1,7 @@
+弯果秋海棠",
+33.**Begonia curvicarpa** S. M. Ku et al.",
+
+## Description
+Herbs, rhizomatous. Rhizome elongate, sparsely hairy; internodes 1.5-5.5 cm. Leaves all basal; stipules triangular, ca. 10 × 9 mm, margin entire; petiole 7-17 cm, hirsute-villous; blade obliquely broadly ovate to orbicular, 4-19 × 3-12 cm, papery, abaxially villous, adaxially pilose, basally 6- or 7-veined, tertiary veins weakly percurrent and reticulate, base obliquely deeply cordate, margin denticulate or dentate and ciliate, apex acute to acuminate. Inflorescences axillary, flowers 3-5 in 1-3 times branched dichasial cyme; peduncle 9-12 cm, glabrous; bracts oblong, elliptic to ovate, 4-10 × 3-6 mm, margin serrate-ciliate, apex obtuse. Staminate flowers: tepals 4, glabrous, outer 2 broadly ovate to ovate-orbicular, 1.3-1.5 × 1.5-1.7 cm, inner 2 oblanceolate, ca. 12 × 6 mm; stamens 35-40; filaments nearly free, ca. 2 mm; anthers obovoid-oblong, ca. 1.2 mm, apex subemarginate. Pistillate flowers: tepals 3, glabrous, outer 2 broadly ovate to ovate-orbicular, 1.4-1.7 × 1.5-1.7 cm, inner 1 obtrullate to oblanceolate; ovary glabrous, ± curved, 1-loculed with parietal placentation; styles 3, fused to 1/3. Capsule nodding, manifestly crooked, 11-14 × 8-9 mm, glabrous, unequally 3-winged; abaxial wing 8-8.5 mm. Fl. Aug-Nov, fr. Oct-Dec. 2*n* = 30 *.
+
+> ● On limestone rocks or at entrances to semishaded to shaded, slightly moist caves. Guangxi (Rong’an, Yongfu).

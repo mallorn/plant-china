@@ -1,0 +1,14 @@
+攀茎耳草",
+51.**Hedyotis scandens** Roxburgh Fl. Ind. 1: 369. 1820.",
+
+## Description
+Shrubs or herbs, perennial, lianescent, climbing, or scandent, to several meters; stems compressed terete to angled, smooth or sulcate, glabrous or puberulent in lines. Leaves subsessile to petiolate; petiole to 5 mm, glabrous; blade drying papery to subleathery, pale abaxially, oblong-lanceolate, elliptic, narrowly elliptic, or elliptic-oblong, 5-10 × 1.5-4 cm, glabrous, base acute to cuneate then decurrent, apex long acuminate; secondary veins 3-5 pairs but not evident; stipules fused to petiole bases, truncate to triangular, 2.5-4 mm, glabrous to usually puberulent or strigillose, ciliolate to entire, apex acute to acuminate or bilobed, sometimes glandular and/or with bristle inserted below top of stipule. Inflorescences terminal and usually also in axils of uppermost leaves, cymose to compound-cymose, 2-15 cm, densely pilosulous or hirtellous, pedunculate; peduncles 2-3 cm; bracts triangular to narrowly triangular, 0.3-6 mm; pedicels 1-3 mm. Flowers pedicellate, distylous. Calyx glabrous; hypanthium portion obconical, ca. 1 mm, sometimes ridged; limb 1-2 mm, lobed for 1/3-1/2, lobes triangular and thickened, sometimes costate. Corolla white or yellow, tubular-funnelform to funnelform, outside glabrous [or puberulent in India], inside densely villous in throat and throughout lobes; tube 1-2 mm; lobes narrowly spatulate-oblong to narrowly triangular, 3-4 mm, acute. Anthers shortly to long exserted, ca. 1.2 mm. Stigmas 0.3-1 mm. Fruit capsular, subglobose, ellipsoid, or ovoid, 3-5 × 3-5 mm, glabrous, cartilaginous to stiffly papery, loculicidally dehiscent across top then sometimes septicidal, beak rounded to conical, 1.2-2 mm; seeds several, black, angled. Fl. Jul-Sep, fr. Aug-Sep.
+  "Statistics": "Sparse forests, on humid soil in valleys; 1000-1800 m [as low as ca. 700 m in India]. Yunnan [Bangladesh, Bhutan, India, Myanmar, Nepal, Vietnam].
+  "Synonym": "*Oldenlandia scandens* (Roxburgh) Kuntze.
+**48. 攀茎耳草（新拟）凉喉茶 图版12: 7-10**
+
+Hedyotis scandens Roxb. (Hort Beng. 10. 1814, nom. nud.) Fl. Ind. ed. Carey 1: 369. 1820; D. Don; Prodr. Fl. Nepal 134. 1825; DC. Prodr. 4: 422. 1830; Hook. f. Fl. Brit. Ind. 3: 57. 1880; Levl. Cat. Pl. Yunnan 241. 1917; Chung in Mem. Sci. Soc. China 1: 234. 1924. ——Oldenlandia scandens (Roxb.) Kuntze, Rev. Gen. Pl. 1: 292. 1891; Pitard in Lecomte, Fl. Gen. Indo-Chine 3: 140. 1922.
+
+多分枝藤状灌木，除花外其余各部无毛；嫩枝扁圆柱形，后变圆柱形，灰褐色。叶对生，近革质，长圆状披针形或狭椭圆形，通常长5-10厘米，宽3-4厘米或不及，顶端长渐尖，有时尾状长尖，基部楔形；侧脉每边4-5条，极柔弱，与中脉成锐角向上伸出；叶柄长2-3毫米；托叶膜质，基部合生，上部全缘，仅中央具1尖头，有微小缘毛。聚伞花序排成扩展的圆锥花序式，顶生，罕有腋生；花4数，有长2-3毫米的花梗；萼管倒圆锥形，长约1毫米，萼檐裂片卵形，与萼管近等长，短尖；花冠白色或黄色，管形，长6毫米，花冠裂片长圆形，长约4毫米，宽1-1.2毫米，外反，里面被髯毛；雄蕊生于冠管基部，花丝中部以下被毛，花药长1.2毫米；花柱长约4毫米，略短于雄蕊，中部被长毛，柱头2裂；裂片长2毫米。蒴果扁球形，顶部隆起，长和宽3-5毫米，宿存萼檐裂片短，成熟时室间开裂为2果爿，每个果爿腹部直裂，内有种子数粒；种子微小，有棱，干后黑色。花期7-8月。
+
+产于云南；生于疏林内或山谷湿润土壤上。国外分布于印度、越南。

@@ -1,0 +1,7 @@
+合生黄耆",
+50.**Astragalus concretus** Bentham in Royle Ill. Bot. Himal. Mts. 199. 1835.",
+
+## Description
+Plants 50-100 cm tall, hairy. Stems 3-8 mm thick, mostly strongly branched, covered rather densely with predominantly dark brownish hairs. Leaves 8-20 cm; stipules membranous, soon falling, 7-25 mm, in lateral branches often vaginate-con-nate behind stem or connate before petiole up to 10 mm, sparsely to loosely hairy or glabrous; petiole short, like rachis, with white and dark brown hairs; leaflets in 10-14 pairs, oblong to narrowly elliptic, 12-30(-40) × 4-10(-12) mm, abaxially loosely hairy, adaxially glabrous or sparsely to loosely ap-pressed hairy, apex obtuse to slightly retuse. Racemes 2-5 cm, densely 8-32-flowered; peduncle 4-10 cm, predominantly dark brown hairy to nearly glabrous; bracts soon falling, 4-10(-17) mm, white and dark hairy. Bracteoles 1-4 mm. Calyx 6-9 mm, rather densely covered with appressed to ascending predomi-nantly dark brown hairs; teeth mostly unequal, 1-3 mm. Petals yellow; standard obovate, 11-15 × 5-7 mm, apex indistinctly emarginate; wings 12-15 mm; keel 11-13 mm. Stigma with very short hairs. Legumes with a stipe 6-9 mm, narrowly ellip-soid, straight or distinctly curved, 25-44 mm, 3.5-6 mm high and 3-4.5 mm wide, keeled ventrally, slightly grooved dorsally, with a conspicuous beak 6-11 mm, 2-locular; valves thin, yel-lowish to blackish brown, glabrous.
+  "Statistics": "2500-4000 m. Xizang [Bhutan, India, Nepal].
+  "Synonym": "*Astragalus vicioides* Baker (1876), not Ledebour (1831); *A. xiphocarpus* Bunge.

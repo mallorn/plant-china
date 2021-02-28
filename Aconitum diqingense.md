@@ -1,0 +1,7 @@
+迪庆乌头",
+176.**Aconitum diqingense** Q. E. Yang & Z. D. Fang",
+
+## Description
+Caudex unknown. Stem ca. 70 cm, simple or branched below inflorescence, proximally glabrous, apically sparsely retrorse pubescent, with leaves equally arranged along stem. Proximal cauline leaves long petiolate, withered at anthesis; middle ones slightly long petiolate; petiole 2--4 cm; leaf blade pentagonal, 3--4 × 3--4 cm, abaxially glabrous, adaxially appressed pubescent, base cordate, 3-sect; central segment rhombic, apex acuminate, subpinnately parted; lateral segments obliquely flabellate, unequally 2-parted. Inflorescence 8--12 cm, ca. 12-flowered; rachis and pedicels densely retrorse pubescent; proximal bracts leaflike, distal ones lanceolate. Pedicels 1.2--3 cm, with 2 bracteoles at ± middle or below; bracteoles linear, ca. 5 mm. Sepals blue-purple; lower sepals oblong, ca. 0.8 cm; lateral sepals broadly obovate, 1--1.3 × ca. 1 cm, abaxially subglabrous, adaxially sparsely villous, apex subrounded; upper sepal galeate or navicular-galeate, ca. 7 mm high, 1--1.5 cm from base to beak, beak 1--1.5 mm, lower margin slightly concave. Petals ca. 1.7 cm; claw ca. 1.3 cm, glabrous; limb ca. 7 mm, glabrous; spur curved, 1--1.5 mm; lip ca. 3 mm, slightly concave at apex. Stamens glabrous; filaments entire. Carpels 3, densely pilose. Fl. Aug--Sep.
+
+> * Alpine meadows; 4200--4300 m. NW Yunnan (Dêqên Xian).

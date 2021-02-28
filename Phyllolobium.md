@@ -1,0 +1,48 @@
+膨果豆属",
+138.**Phyllolobium** Fischer in Sprengel Novi Provent. 33. 1818.",
+
+> Twenty-two species: mostly in China, a small number in the Himalayas and one in Tajikistan; 21 species (17 endemic) in China.
+
+## Description
+Perennial herbs with mostly well-developed stems, with basifixed hairs. Stipules free from petiole and from each other, very rarely shortly connate behind stem. Racemes several, with a distinct peduncle; bracts persistent. Bracteoles present or more rarely absent. Calyx campanulate. Standard wide, mostly suborbicular to transversely elliptic, with a very short claw, emarginate at apex; keel and wing petals not interlocking due to absence of bosses on keel and matching sockets on wings. Style with a brush of straight, rigid, short hairs just below glabrous stigma. Legumes 1-locular or incompletely to completely 2-locular.
+  "keylist": "
+1 Plants with slender stems up to 90 cm, at least in lower 1/2 with long, horizontally spreading lateral branches; hairs slender, 0.1-0.4 mm.[*P. eutrichus* 真毛膨果豆](Phyllolobium eutrichus.md)
+1 Stems mostly shorter, without horizontally spreading lateral branches, if sometimes as long as above, then with other kinds of hair——(2)
+2(1) Plants in all parts covered with bladderlike, scalelike hairs up to 0.1 mm.[*P. chinense* 背扁膨果豆](Phyllolobium chinense.md)
+2 Plants at least at calyx with slender, longer, not bladderlike hairs——(3)
+3(2) Petals yellow, rarely with violet-tipped keel——(4)
+3 Petals blue or violet, rarely yellow at base only——(6)
+4(3) Plants 30-75 cm tall; calyx 7-12 mm, teeth 4-9 mm; keel as long as wings.[*P. dolichochaete* 芒齿膨果豆](Phyllolobium dolichochaete.md)
+4 Plants 10-50 cm tall; calyx up to 10 mm, teeth up to 6 mm; keel longer than wings——(5)
+5(4) Leaflets in 7-13 pairs, 5-16 × 1-4 mm, distinctly more than 2 × as long as wide; peduncles 3-11 cm.[*P. flavovirens* 黄绿膨果豆](Phyllolobium flavovirens.md)
+5 Leaflets in 4-10 pairs, 5-10 × 2.5-5 mm, ca. 2 × as long as wide; peduncles 1.5-4 cm.[*P. camptodontum* 弯齿膨果豆](Phyllolobium camptodontum.md)
+6(3) Plants at least in part with spreading hairs——(7)
+6 Plants with appressed to ascending hairs only——(11)
+7(6) Calyx 8-10 mm, white hairy, teeth 4.5-6 mm; standard 15-19 mm; legumes with a stipe ca. 5 mm, 25-30 mm, 2-locular.[*P. turgidocarpum* 膨果豆](Phyllolobium turgidocarpum.md)
+7 Calyx shorter, white and black hairy, teeth mostly shorter; standard 7-13 mm; legumes with a stipe up to 3 mm or subsessile, up to 20 mm, 1-locular——(8)
+8(7) Leaflets 8-20 mm; bracts 8-10 mm; calyx 7-8 mm, with teeth 4-5 mm.[*P. lineariauriferum* 线耳膨果豆](Phyllolobium lineariauriferum.md)
+8 Leaflets distinctly smaller; bracts at most up to 4 mm; calyx up to 6 mm with shorter teeth——(9)
+9(8) Stipules 2.5-4.5 mm; leaflets 3-15 mm; bracts 1.5-4 mm; bracteoles 0.5-2 mm; calyx teeth 1.5-4 mm; legumes 5-6.5 mm high and wide.[*P. tribulifolium* 蒺藜叶膨果豆](Phyllolobium tribulifolium.md)
+9 Stipules up to 2.5 mm; leaflets 2-6 mm; bracts up to 2 mm; bracteoles mostly absent, if present, then ca. 0.3 mm (in P. milingense); calyx teeth up to 2.5 mm; legumes either much higher than wide or much wider than high——(10)
+10(9) Stems with appressed hairs; leaflets loosely to rather densely hairy adaxially; bracts 1.5-2 mm; legumes 15-20 mm, 8-12 mm high, strongly compressed laterally, without beak.[*P. heydei* 毛柱膨果豆](Phyllolobium heydei.md)
+10 Stems with partly spreading hairs; leaflets glabrous to subglabrous adaxially; bracts 0.6-1 mm; legumes 10-15 mm, 2.5-3 mm high and 5-7 mm wide, with a short beak.[*P. milingense* 米林膨果豆](Phyllolobium milingense.md)
+11(6) Leaflets on both surfaces loosely to densely hairy——(12)
+11 Leaflets adaxially glabrous or rarely sparsely hairy——(13)
+12(11) Stipules 2-3 mm; bracts 4-6 mm, with spreading hairs; calyx 7-8 mm, covered with spreading white and dark brown hairs.[*P. chapmanianum* 蔓生膨果豆](Phyllolobium chapmanianum.md)
+12 Stipules 4-7 mm; bracts 6-10 mm, with appressed to ascending hairs; calyx 9-10 mm, covered with appressed to ascending white and shorter black hairs.[*P. lasaense* 拉萨膨果豆](Phyllolobium lasaense.md)
+13(11) Standard up to 10 mm; bracts up to 2 mm; bracteoles absent——(14)
+13 Standard at least 12 mm; bracts mostly distinctly longer——(16)
+14(13) Plants up to 50 cm tall; calyx 7-8 mm; legumes 25-30 mm.[*P. siccaneum* 耐旱膨果豆](Phyllolobium siccaneum.md)
+14 Plants up to 30 cm tall; calyx up to 5.5 mm; legumes up to 13 mm——(15)
+15(14) Stem and peduncles loosely to rather densely hairy; leaflets narrowly elliptic, 3-11 × 1-2 mm, acute; keel as long as wings.[*P. prodigiosum* 奇异膨果豆](Phyllolobium prodigiosum.md)
+15 Stem and peduncles glabrous to sparsely hairy; leaflets elliptic, 4-9 × 1.5-4 mm, obtuse; keel distinctly longer than wings.[*P. sanbilingense* 乡城膨果豆](Phyllolobium sanbilingense.md)
+16(13) Stem, rachises, and peduncles glabrous or sparsely hairy; leaflets 10-30 × 3.5-10 mm.[*P. pastorium* 牧场膨果豆](Phyllolobium pastorium.md)
+16 Stem, rachises, and peduncles loosely to rather densely hairy, sometimes only sparsely hairy; leaflets up to 12 mm——(17)
+17(16) Stem, rachises, and peduncles covered with hairs up to 0.15 mm and also with much shorter, minute, nearly globose hairs; calyx teeth 2.5-3 mm; legumes very shortly acuminate.[*P. enneaphyllum* 九叶膨果豆](Phyllolobium enneaphyllum.md)
+17 Stems without minute subglobose hairs; at least longer calyx teeth 3.5-6 mm; legumes with a beak 2-4 mm——(18)
+18(17) Stipules 1-3 mm, lower ones completely embracing stem but free from each other; keel shorter than wings.[*P. donianum* 亚东膨果豆](Phyllolobium donianum.md)
+18 Stipules 3-5 mm, lower ones not or up to 1/2 embracing stem; keel longer than wings——(19)
+19(18) Plants 20-40(-60) cm tall; racemes 2-7(-9)-flowered; petals violet or in lower part yellow.[*P. balfourianum* 长喧膨果豆](Phyllolobium balfourianum.md)
+19 Plants 10-25 cm tall; stipules not embracing stem, never reflexed; racemes 1-5-flowered; petals purple or purple-red and standard in middle with a white, purple-striate spot——(20)
+20(19) Leaflets narrowly obovate, 2-3 mm wide; bracteoles 2-3(-4) mm; standard purple-red, ca. 16 mm, limb ca. 14 mm wide, transversely elliptic, in middle with a white, purple-striate spot.[*P. tingriense* 定日膨果豆](Phyllolobium tingriense.md)
+20 Leaflets widely obovate, 3.3-6 mm wide; bracteoles absent or up to 1 mm; standard purple, ca. 12 mm, limb ca. 8 mm wide, suborbicular.[*P. sichuanense* 四川膨果豆",](Phyllolobium sichuanense.md)

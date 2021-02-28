@@ -1,0 +1,15 @@
+湖南箬竹",
+12.**Indocalamus hunanensis** B. M. Yang",
+
+## Description
+Culms to 2.5 m, 0.2–0.8 cm in diam.; internodes initially yellow-green, finely striate, 15–26 cm, initially yellow-brown or brown strigose and white pubescent, especially below nodes, rough with tubercles and imprints of fallen hairs at maturity; wall 1.5–3 mm thick; nodes elevated; sheath scar usually edged with a suberous ring left by fallen sheath; intranode 3–7 mm. Culm sheaths initially usually red-brown or dull green, 1/3–1/2 as long as internodes, rigid, brittle, completely minutely white pubescent except for distal 1/4 part also yellow-brown or brown strigose and with imprints of fallen hairs, margins brown ciliate; auricles purple when fresh, dark purple or brown when dry, falcate; oral setae yellow-brown; ligule truncate or arcuate, 0.5–1 mm, densely puberulent, entire or denticulate and minutely ciliate; blade erect or reflexed, green or yellow, linear-lanceolate, tessellations distinct on both surfaces, base much narrower than sheath apex, margins scabrous. Leaves 2–5 per ultimate branch; sheath glabrous or white pubescent, sometimes sparsely strigose, margins ciliate; auricles purple; oral setae yellow-brown, both weakly developed or absent on upper sheaths; ligule dark purple, truncate or arcuate, 1–1.5 mm, densely puberulent, entire; blade oblong-lanceolate, 10–29 × 3.5–7.5 cm, both surfaces glabrous, abaxially with pale or yellow powdery granules, secondary veins 6–14 pairs, tessellations square, base rounded or cuneate. Panicle 5–11 cm, dense, axis and branches densely white pubescent. Branches ascending, not pulvinate, subtended by minute bracts. Spikelets purple or green, 1–2.5 cm; florets 3–5. Rachilla internodes densely white pubescent. Glumes 2, glabrous, apex acuminate; lower glume 2–2.5 mm, (3–)5(–7)-veined; upper glume 6–8.5 mm, 5(–7)-veined; lemma ovate-lanceolate, 7.5–10 mm, glabrous, 7–11-veined, apex acuminate, mucronate, callus puberulent; palea keels glabrous. Stamens and pistil unknown. New shoots Jun, fl. Aug–Sep.
+
+> * Forests, scrub on mountain slopes, valleys; 1400–2400 m. Chongqing, NW Hunan, NE Sichuan.
+  "Synonym": "*Indocalamus auriculatus* (H. R. Zhao &amp; Y. L. Yang) Y. L. Yang; *I. hispidus* H. R. Zhao &amp; Y. L. Yang var. *auriculatus* H. R. Zhao &amp; Y. L. Yang; *I. wuxiensis* T. P. Yi.
+**21．湖南箬竹（植物分类学报）图版215：9-11**
+
+Indocalamus hunanensis B. M. Yang in Act. Phytotax. Sin. 19(2): 259. f. 1. 1981.
+
+竿高约1.8米，粗4-8毫米；节间长20-26.7厘米，圆筒形，黄绿色，有细纵肋，被以伏贴黄棕色或棕色的疣基刺毛及白色短柔毛，尤以幼竿的节下方最密，老竿仍留存疣基刺毛脱落后的疣基，竿壁厚2-3毫米；竿环不明显；箨环显著，常有一圈木栓状残留物。算鞘坚硬而质脆，鲜时赤褐色，长为节间的1/3-2/3，背部被有白色微毛，除上部1/4部分外，并在以下的大部分贴生有黄棕色或棕色疣基刺毛，边缘具褐色纤毛；箨耳高度发达，镰形，抱竿或螺旋状扭曲，紫色，干后黑紫色，长1-1.5厘米，宽3毫米，上缘生有长达1.5厘米的黄褐色流苏状繸毛；箨舌极短，高约1毫米，略拱形，顶端全缘或浅细裂，无毛或有极短的纤毛；箨片直立，或竿下部者可外翻，线状披针形，绿色或略带黄色，两面小横脉明显，边缘粗糙，基部不收缩。小枝具3-5叶，下部的叶鞘常无叶片，其质地和被毛情况则均与竿鞘相同，上部具正常叶片的叶鞘近光滑，无疣基刺毛，或仅具白色微毛，边缘亦无纤毛；叶耳微小或不发达；鞘口繸毛少量，长约1厘米，接近顶部的叶鞘则鞘口常无繸毛；叶舌略呈拱形，高约1.5毫米，顶端全缘，无纤毛；叶片长圆状披针形，长10-28厘米，宽4.5-7.5厘米，两面均无毛，但有苍白色乳突状微点，次脉9-13对，小横脉显著，形成近于小方格状，叶缘粗糙，先端渐尖，基部圆形或阔楔形，收缩成长约1.5厘米的叶柄。花序未见。笋期6-8月。
+
+产湖南桑植县芭茅溪的山沟边及山坡上（模式标本产地）。

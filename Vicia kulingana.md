@@ -1,0 +1,7 @@
+牯岭野豌豆",
+25.**Vicia kulingana** L. H. Bailey Gentes Herb. 1: 33. 1920.",
+
+## Description
+Herbs perennial, 50-90 cm tall. Stem erect. Leaves pari-pinnate, 2-3.5 cm; stipules semihastate or lanceolate, 8-13 × 3-5 mm, margin toothed; leaflets 2- or 3(-5)-paired, lanceolate to narrowly elliptic, 40-85 × 15-35 mm, both surfaces puberulent, apex often acuminate, mucronate; lateral veins 5-8-paired, ex-tending to margin; tendril absent, replaced by a mucro. Raceme unbranched, 2-5 cm, subequaling or longer than leaf, 5-18-flowered; pedicels ca. 1.5 mm; bracts persistent at base of pedi-cels. Flowers ca. 15 mm. Calyx obliquely campanulate. Corolla purple-red, purple, or blue; standard violin-shaped or sub-oblong, subequaling wings and longer than keel. Ovary long stalked, linear; ovules ca. 5. Legume oblong, 40-50 × 7-8 mm, both ends acuminate. Seeds 1-4. Fl. Apr-Aug, fr. Jun-Sep. 2*n* = 14*.
+  "Reference": "The inclusion of Liaoning in the distribution is based on a specimen from \"Ts’ienshan: Fengtien,\" which may refer to Fengtian, an old name for Liaoning province or a prefecture that included Shenyang city.The inclusion of Liaoning in the distribution is based on a specimen from \"Ts’ienshan: Fengtien,\" which may refer to Fengtian, an old name for Liaoning province or a prefecture that included Shenyang city.
+  "Statistics": "● Bamboo thickets, valleys, grassy places, damp banks, wet places, sandy land; 200-1200 m. Henan, Hunan, Jiangxi, ?Liaoning, Shandong, Zhejiang.

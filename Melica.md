@@ -1,0 +1,113 @@
+臭草属",
+56.**Melica** Linnaeus",
+
+## Description
+Perennial, tufted or rhizomatous. Culms erect or ascending. Leaf sheaths with fused margins; leaf blades linear; ligule membranous, often cylindrical and then sometimes with lobe on side opposite blade. Panicle spreading or more often contracted, sometimes scanty or racemelike; pedicels drooping, pubescent below spikelet. Spikelets weakly laterally compressed, composed of 1–3 lower fertile florets and a few upper reduced florets, these often compressed into a terminal cluster of rudimentary scales, disarticulating below lowest floret, tardily between florets, or spikelet falling entire; glumes well developed, broadly lanceolate or ovate, often not keeled, membranous or papery, equal or lower glume shorter, 1–5-veined, apex obtuse or acute; floret callus small, glabrous, obtuse; lemmas broadly lanceolate or ovate, usually herbaceous, sometimes largely membranous, back rounded, smooth, scabrid or hairy; 5–9(–13)-veined, apex membranous, obtuse, acute, or shallowly 2-lobed; palea usually shorter than lemma, or as long as lemma in upper florets, keels scabrid or ciliolate. Stamens 3. *x* = 9.
+  "Statistics": "About 90 species:temperate and subtropical regions of the world, except Australia; 23 species (eight endemic) in China.
+  "keylist": "
+1 Lowest lemma conspicuously long-hairy from base to apex, on marginal or all veins, hairs 2–5 mm——(2)
+1 Lowest lemma glabrous or with short scattered hairs——(4)
+2(1) Lemmas long-pilose on all veins.[*M. persica* 伊朗臭草](Melica persica.md)
+2 Lemmas long-ciliate on marginal veins only——(3)
+3(2) Panicle rather lax, often 1-sided, central axis usually visible; all leaf sheaths antrorsely scaberulous; leaf blades rolled; lower glume 2/3–4/5 length of upper.[*M. ciliata* 小穗臭草](Melica ciliata.md)
+3 Panicle dense, cylindrical, central axis not visible; lowermost leaf sheaths retrorsely scabrid or pubescent; leaf blades flat; lower glume 1/2–2/3 length of upper.[*M. transsilvanica* 德兰臭草](Melica transsilvanica.md)
+4(1) Spikelets terminating in 1 sterile lemma, resembling the fertile lemmas but smaller; panicle branches up to 15 cm, often spreading, branchlets present——(5)
+4 Spikelets terminating in a globular cluster of rudimentary lemmas; panicle branches usually less than 5 cm, erect, unbranched or almost so, panicle sometimes racemelike (rarely branches longer or branchlets present)——(11)
+5(4) Lowest lemma 6–9 mm; leaf sheaths harshly scabrid.[*M. scaberrima* 糙臭草](Melica scaberrima.md)
+5 Lowest lemma 4–6.5 mm; leaf sheaths smooth, scabrid or pubescent——(6)
+6(5) Plants with slender rhizomes; panicle narrow, branches erect or ascending——(7)
+6 Plants lacking slender rhizomes; panicle broad at maturity, branches spreading——(8)
+7(6) Ligule 3–5 mm; leaf blades 2–2.5 mm wide; anthers ca. 2 mm.[*M. longiligulata* 长舌臭草](Melica longiligulata.md)
+7 Ligule 0.3 mm or shorter; leaf blades 2–6 mm wide; anthers 0.5–1 mm.[*M. przewalskyi* 甘肃臭草](Melica Przewalskyi.md)
+8(6) Culms up to 150 cm tall; leaf blades 6–14 mm wide; ligule 0.2–0.5 mm.[*M. onoei* 广序臭草](Melica Onoei.md)
+8 Culms up to 80 cm tall (if taller, ligule 1–4 mm); leaf blades 2–6 mm wide——(9)
+9(8) Panicle with many branches and spikelets; spikelets with purple glumes and green florets; fertile florets 2 or 3.[*M. schuetzeana* 藏东臭草](Melica schuetzeana.md)
+9 Panicle with distant divaricate branches and widely spaced spikelets; spikelets green or gray-green; fertile florets 1 or 2——(10)
+10(9) Glumes hyaline, shining, upper glume 6–8 mm; pedicels up to 20 mm; anthers 1.8–2 mm.[*M. yajiangensis* 雅江臭草](Melica yajiangensis.md)
+10 Glumes not conspicuously hyaline and shining, upper glume 5–6 mm; pedicels 3–5 mm; anthers 1–1.25 mm.[*M. taylorii* 高山臭草](Melica taylorii.md)
+11(4) Panicle racemelike, unbranched; spikelets few (3–15), borne directly on main axis——(12)
+11 Panicle branched; spikelets more than 15, borne on panicle branches——(14)
+12(11) Spikelets 5–8 mm; glumes purplish red; panicle eventually nodding.[*M. nutans* 俯垂臭草](Melica nutans.md)
+12 Spikelets 7–10 mm; glumes usually green; panicle erect——(13)
+13(12) Glumes subequal, ovate, obtuse.[*M. grandiflora* 大花臭草](Melica grandiflora.md)
+13 Glumes unequal, lanceolate, acute.[*M. pappiana* 北臭草](Melica pappiana.md)
+14(11) Culms up to 1.5 m tall; spikelets 8–14 mm; glumes obviously 5–7-veined——(15)
+14 Culms less than 1 m tall; spikelets 3.5–8(–11) mm; glumes with short inconspicuous lateral veins——(16)
+15(14) Panicle open, ovate, branches spreading; lemmas hispid below middle.[*M. turczaninowiana* 大臭草](Melica turczaninowiana.md)
+15 Panicle dense, linear-oblong, branches erect; lemmas glabrous.[*M. altissima* 高臭草](Melica altissima.md)
+16(14) Glumes unequal, much shorter than florets; lower glume ca. 1/2 length of adjacent lemma.[*M. virgata* 抱草](Melica virgata.md)
+16 Glumes subequal, large; lower glume slightly shorter to longer than adjacent lemma——(17)
+17(16) Lemma apex obtuse or acute——(18)
+17 Lemma apex very broad, denticulate-erose, usually 2-lobed or emarginate——(20)
+18(17) Panicle with many crowded spikelets, 20–50 on lower branches (including branchlets); leaf blades flat, 2–7 mm wide.[*M. scabrosa* 臭草](Melica scabrosa.md)
+18 Panicle with few spikelets, 1–6 on lower branches (branchlets absent); leaf blades usually rolled, 1–3 mm wide——(19)
+19(18) Plant tufted; ligules ca. 0.5 mm; lemmas coarsely tubercular-scabrid.[*M. radula* 细叶臭草](Melica radula.md)
+19 Plant rhizomatous; ligule 2–5 mm; lemmas scaberulous.[*M. secunda* 偏穗臭草](Melica secunda.md)
+20(17) Panicle lax; ligules with ca. 3 mm lobe on side opposite blade; anthers 1.2–2.2 mm.[*M. kozlovii* 柴达木臭草](Melica kozlovii.md)
+20 Panicle very dense; ligules without lobe on side opposite blade; anthers 0.6–1 mm——(21)
+21(20) Spikelets silvery green; lemmas narrowly membranous at apex; ligule abaxially glabrous.[*M. tangutorum* 青甘臭草](Melica tangutorum.md)
+21 Spikelets purple or yellow; lemmas membranous and slightly enlarged in upper 1/3; ligule abaxially pubescent——(22)
+22(21) Panicle purple; spikelets 5–8 mm; ligules 0.8–1.5 mm.[*M. tibetica* 藏臭草](Melica tibetica.md)
+22 Panicle yellow; spikelets 8–11 mm; ligules 2–4 mm.[*M. subflava* 黄穗臭草",](Melica subflava.md)
+**1．臭草属*Melica L.**
+
+L. Sp. Pl. 66. 1753, et Gen. Pl. ed. 5: 31. 1754.
+
+多年生草本。叶鞘几乎全部闭合，粗糙或被短毛。叶片扁平或内卷，常粗糙或被短柔毛。顶生圆锥花序紧密呈穗状，总状或开展；小穗柄细长，上部弯曲且被短柔毛，自弯转处折断，与小穗一同脱落；小穗含孕性小花1至数枚，上部1-3小花退化，仅具外稃，2-3枚者相互紧包成球形或棒状，脱节于颖之上，并在各小花之间断落；小穗轴光滑无毛，粗糙或被短毛；颖膜质或纸质，常有膜质的顶端和边缘，等长或第一颖较短，具1-5脉；外稃下部革质或纸质，顶端膜质，全缘，齿裂或2裂，具5-7（9)脉，背面圆形，光滑，粗糙或被毛，无芒，稀于顶端裂齿间着生一芒；内稃短于外稃，或上部者与外稃等长，沿脊有纤毛或近于平滑；雄蕊3。颖果倒卵形或椭圆形，具细长腹沟。染色体大，x＝9。
+
+本属约80种，分布于两半球的温带区域或亚热带，热带山区。我国有25种，2变种。
+
+低质含氢氰酸的有毒饲草。
+
+属模式：俯垂臭草Melica nutans L.产欧洲。
+
+## 检索表
+
+1 圆锥花序分枝较短或稍长，常紧缩成穗状或总状，少数稍疏展；小穗较宽，椭圆形或椭圆状披针形，顶生数枚不育外稃聚集成粗棒状或小球形。——(8)
+1 圆锥花序分枝细长，伸展，直立或上升；小穗狭长，线状披针形，顶生不育外稃通常1枚，不呈粗棒状或小球形。——(2)
+2 小穗较小，长5-9（10)毫米，含孕性小花2-3枚；颖狭披针形；第一外稃长4-6（7.5)毫米。——(3)
+2 小穗大，长10-14毫米，含孕性小花3-5枚；颖卵状披针形；第一外稃长7-8毫米。——[糙臭草](Melica%20scaberrima.md)
+3 颖短，第一颖长2-3.5毫米，第二颖长3-5.5毫米；第一外稃长4-5毫米；内秤脊上粗糙或具微细纤毛。——(4)
+3 颖较长，第一颖长（3.2) 3.8-8.5毫米，第二颖长(3.8) 4.6-10毫米；第一外稃长(3.5)5-7.5毫米。——(6)
+4 植株较细，高40-90厘米，具根茎；花序分枝直立或上升。——(5)
+4 植株粗壮，高100-150厘米，无根茎；花序分枝伸展。——[广序臭草](Melica%20onoei.md)
+5 叶舌透明膜质，长3-5毫米；叶片宽约2毫米；花药黄色，长2毫米。——[长舌臭草](Melica%20longiligulata.md)
+5 叶舌极短或缺；叶片宽2-6毫米，斜向上伸；花药带紫色，长0.5-1毫米。——[甘肃臭草](Melica%20przewalskyi.md)
+6 花序分枝少，并着生少数小穗；小穗灰绿色或绿色，含孕性小花1-2枚。——(7)
+6 花序分枝多，并着生多数小穗；小穗紫色或绿色带紫色，含孕性小花2-3枚。——[藏东臭草](Melica%20schuetzeana.md)
+7 花序分枝较短，直立向上；小穗含孕性小花2枚；颖草质；花药小，长约1毫米。——[高山臭草](Melica%20taylori.md)
+7 花序分枝细长，水平伸展或斜上升；小穗仅含孕性小花1枚；颖透明膜质；花药大，长1.8-2毫米。——[雅江臭草](Melica%20yajiangensis.md)
+8 外稃无毛或被糙毛。——(12)
+8 外稃被长柔毛。——(9)
+9 外稃背面仅沿边缘脉上被直立长柔毛。——(10)
+9 外稃背面遍生或沿脉被直立长柔毛。——(11)
+10 植株较矮，高25-50厘米，密集丛生，具短根茎；小穗较小，长3-6毫米。——[小穗臭草](Melica%20taurica.md)
+10 植株较高大，高30-100厘米，常单生，偶有短根茎；小穗较大，长4.5-7.5毫米。——[德兰臭草](Melica%20transsilvanica.md)
+11 秆与叶鞘及叶片两面均密被白柔毛；小穗紧密，长6-8毫米，含孕性小花1枚；外稃背面遍生长3-4毫米的直立柔毛。——[毛鞘臭草](Melica%20canescens.md)
+11 秆光滑；叶鞘仅基部被毛；叶片上面被毛；小穗疏松，长4-6毫米，含孕性小花2枚；外稃背面沿脉疏被长约1毫米的柔毛。——[伊朗臭草](Melica%20persica.md)
+12 外稃顶端钝或尖，全缘不具2裂。——(16)
+12 外稃顶端2裂，稀具缺刻。——(13)
+13 圆锥花序具较多的小穗，十分稠密；叶舌平截或圆形；外稃顶端2裂或具缺刻。——(14)
+13 圆锥花序具较少的小穗；叶舌微凹，中间长0.5-1.5毫米，两侧长3毫米；外稃顶端常有缺刻，长6-8毫米。——[柴达木臭草](Melica%20kozlovii.md)
+14 小穗紫红色或黄色，长5-11毫米；外稃顶端2裂，第一外稃长3.5-7毫米；叶舌长1-4毫米，背面常被短毛。——(15)
+14 小穗淡绿色，长4-7毫米；外稃顶端2浅裂或具缺刻，第一外稃长3-4.5毫米；叶舌长2-6.5毫米，背面无毛。——[青甘臭草](Melica%20tangutorum.md)
+15 小穗黄色，长8-11毫米，含孕性小花2-4枚；叶舌长2-3毫米。——[黄穗臭草](Melica%20subflava.md)
+15 小穗紫红色，长5-8毫米，含孕性小花2枚；叶舌长约1毫米。——[藏臭草](Melica%20tibetica.md)
+16 圆锥花序常狭窄或近总状。——(17)
+16 圆锥花序在花期开展，具较少小穗；小穗紫色或褐紫色；外稃背面中部以下被糙毛。——[大臭草](Melica%20turczaninowiana.md)
+17 圆锥花序长6-30厘米，常具较多小穗；颖和外稃质地较薄，较狭窄，外稃顶端渐尖或稍钝。——(18)
+17 圆锥花序狭窄，常为总状，长3-12厘米，仅具少数小穗；颖和外稃质地较厚，宽圆，外稃顶端钝。——(22)
+18 小穗较小，长3.5-8毫米；植株一般较矮，常不超过1米；叶片宽1-7毫米。——(19)
+18 小穗大，长10-12毫米；植株高大，高达1.5米；叶片宽9-12毫米。——[高臭草](Melica%20altissima.md)
+19 两颖几等长，约等于或稍短于第一外稃；小穗常为草黄色，稀带紫色。——(20)
+19 两颖不等长，第一颖长为第一外稃的1/2 ；外稃有时疏被糙毛；小穗带紫红色。——[抱草](Melica%20virgata.md)
+20 花序具少数小穗；叶片较窄，常纵卷，宽1-3毫米。——(21)
+20 花序具较密集小穗；叮片扁平，宽2-7毫米。——[臭草](Melica%20scabrosa.md)
+21 叶舌长约0.5毫米；小穗含孕性小花2枚；花序不偏向一侧。——[细叶臭草](Melica%20radula.md)
+21 叶舌长2-4毫米；小穗含孕性小花2-4枚；花序常偏向一侧。——[偏穗臭草](Melica%20secunda.md)
+22 植株疏丛，具匍匐根茎；叶鞘不具狭翅，鞘口及叶舌均无毛；花序具5-10多个小穗。——(23)
+22 植株密丛，无根茎；叶鞘具狭窄翅脊，鞘口及叶舌背面均被短柔毛；花序仅有4-6个小穗。 ——[鞘翅臭草](Melica%20komarovii.md)
+23 小穗柄直立，顶端不下垂；小穗较大，长7-10毫米，淡绿色或有时带紫色；两颖不等长。——(24)
+23 小穗柄弯曲，顶端下垂；小穗较小，长5-7毫米，紫红色；两颖近等长；外稃顶端钝圆，第一外稃与第二颖近等长。——[俯垂臭草](Melica%20nutans.md)
+24 颖卵形至宽卵形，顶端稍钝；第一外稃长于第二颖。——[大花臭草](Melica%20grandiflora.md)
+24 颖披针形，顶端急尖；第一外稃近等长于第二颖。——[北臭草](Melica%20pappiana.md)

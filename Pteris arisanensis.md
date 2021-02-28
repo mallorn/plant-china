@@ -1,0 +1,17 @@
+线羽凤尾蕨",
+66.**Pteris arisanensis** Tagawa Acta Phytotax. Geobot. 5: 102. 1936.",
+
+> According to Fraser-Jenkins (Taxon. Revis. Indian Subcontinental Pteridophytes, 116-117. 2008), *Pteris arisanensis* is the correct name for Himalayan material previously incorrectly identified as *P. linearis* Poiret.
+
+## Description
+Plants 1-1.5 m tall. Rhizome erect, short, 1.5-2 cm in diam., apex with black-brown scales. Fronds clustered (6-8 per plant); stipe basally brown, upper part straw-colored, slightly lustrous, as long as fronds, 3-4 mm in diam., glabrous; lamina 2- or 3-pinnatipartite, oblong-ovate in outline, 50-70 × 20-30 cm; lateral pinnae 5-15 pairs, opposite, slightly decumbent, sessile or basal pairs shortly stalked, lanceolate, 15-25(-33) × 3-4(-5.5) cm, base rounded-cuneate and slightly oblique, deeply pectinately divided to winged costa, apex long caudate; basal pair of pinnae often each with basiscopic pinnule similar to main part of pinnae but smaller; segments 25-35 pairs, alternate, subspreading or oblique, falcate-oblong, 20-30 × 5-8 mm, base slightly enlarged, margins entire, apex obtuse or mucronate; terminal pinna similar to lateral pinnae; costae with 6-10 mm wide wings, prominent abaxially, straw-colored, glabrous, grooved adaxially, with spines; veins conspicuous and convex on both sides, decumbent, 2-forked at base, basiscopic vein of segment base arising from rachis, and acroscopic vein from base of costa, 2 opposite veins of pinna base arriving at margin of incision and forming a fork or triangle, or sometimes interlinked into a continuous triangular mesh, and other veins outward from mesh separate and extending to base of incision; lamina green, yellowish green, or brown-green, subleathery when dried, glabrous.
+
+> Dense forests, wet areas near streamsides; 100-1800 m. Guangdong, Guangxi, SW Guizhou (Ceheng), Hainan, Sichuan (Dechang, Yanbian), Taiwan, C, S, and W Yunnan [India, Myanmar, Nepal, Sri Lanka, Thailand, Vietnam].
+  "Synonym": "*Pteris biaurita* Linnaeus var. *intermittens* C. Christensen; *P. confusa* T. G. Walker; *P. vijaynagarensis* Sarn. Singh &amp; Panigrahi.
+**56.线羽凤尾蕨（海南植物志）热带凤尾蕨（中国主要植物图说蕨类植物门）、三角眼凤尾蕨（中国高等植物图鉴）图版22**
+
+Pteris linearis Poir. in Lam. Encycl. Meth. Bot. 5:723. 1804; Ching in Lingnan Sci. Journ. 12:568, t. 43. 1933; Tard.-Blot et C. Chr. in Fl. Indo-Chine 7(2):158. 1940; Tagawa in Acta Phytotax. Geobot. 8:91. 1939; ibid. 16:72. 1956; Ching et. al. in W. Y. Chun et al., Fl. Hainan. 1:75. 1964; Ic. Corm. Sin. 1:154, f. 307. 1972; Shieh in H. L. Li, et al. Fl. Taiwan I: 297. 1975. ——Pteris nemoralis Willd. Enum. Pl. Hort. Bot. Berol. 1073. 1809; Benth. Fl. Hongk. 448. 1861. ——Pteris biaurita L. var. intermittens C. Chr. in Contr. U. S. Nat. Herb. 26:312. 1931.
+
+植株高1-1.5米。根状茎短而直立，粗1.5-2厘米，先端被黑褐色鳞片。叶簇生（6-8片）；柄约与叶片等长，粗3-4毫米，基部棕色，向上与叶轴为禾秆色，稍有光泽，光滑；叶片长圆状卵形，长50-70厘米，宽20-30厘米，二回深羽裂（或基部三回深羽裂）；侧生羽片5-15对，对生，略斜向上，无柄或下部的有短柄，披针形，长15-25（33）厘米宽3-4（5.5)厘米，先端长尾尖，基部圆楔形并稍偏斜，篦齿状深羽裂达羽轴两侧的阔翅，顶生羽片的形状、大小及分裂度与中部的侧生羽片相同，基部一对羽片与其上的羽片异形，即其基部下侧有1片篦齿状羽裂的小羽片（形状和羽片相同但较短小）；裂片25-35对，互生，近平展或斜展，疏离或毗连，镰刀状长圆形，长2-3厘米，宽5-8毫米，先端钝或短尖，基部稍扩大，全缘。羽轴下面隆起，禾秆色，光滑，上面有狭纵沟，沟两旁有刺，羽轴两侧的翅宽6-10毫米。侧脉两面均明显并隆起，斜向上，从基部以上二叉，裂片基部下侧一脉出自羽片的羽轴，上侧一脉出自主脉基部，相邻裂片基部相对的两小脉直达缺刻底部或附近，在缺刻底部开口或相交成一高尖三角形，或有时沿羽轴两侧联结成一列不连续的三角形网眼，网眼以外的小脉皆分离并伸向缺刻底部。叶干后近革质，绿色、黄绿色或棕绿色，无毛。
+
+产台湾、广东（中部及西部）、海南、广西（昭平、平南、扶绥、上思、百色、隆林）、贵州西南部（册亨）、云南（中部、南部及西部）。生密林下或溪边阴湿处，海拔100-1800米。也广泛分布于亚洲热带地区和马达加斯加。模式标本采自印度东部。

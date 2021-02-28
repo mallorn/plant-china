@@ -1,0 +1,11 @@
+桂竹",
+35.**Phyllostachys reticulata** (Ruprecht) K. Koch",
+
+> This species is planted on a commercial scale for the large culms, which are widely used for building materials, flooring, and furniture and are also split for weaving various bamboo articles. The shoots are bitter.
+
+## Description
+Culms to 20 m, to ca. 15 cm in diam.; internodes to 40 cm, not white powdery or initially faintly so below nodes, glabrous; wall ca. 5 mm thick; nodal ridge slightly more prominent than sheath scar. Culm sheaths yellow-brown, sometimes tinged with green or purple, with dense, variably sized, purple-brown spots, glabrous or sparsely deciduously erectly brown hairy; auricles deciduous, sometimes absent, purple-brown, small to large and falcate; oral setae radiate; ligule brown or green, arcuate, ciliate; blade reflexed, green in center, purple or brown on both sides, pale yellow along margins, linear, flat or sometimes slightly wavy at apex. Leaves 2–4 per ultimate branch; auricles suborbicular; oral setae well developed, radiate; ligule obviously exserted, arcuate or sometimes truncate; blade 5.5–15 × 1.5–2.5 cm. Flowering branchlets spicate, 5–8(–10) cm, scaly bracts 3–5; spathes 6–8; auricles small or inconspicuous, oral setae usually developed, blade orbicular-ovate to linear-lanceolate, base rounded, apex subulate-acuminate. Pseudospikelets 1 or 2(or 3) per spathe, absent from basal 1–3 deciduous spathes. Spikelets lanceolate, 2.5–3 cm; florets 1 or 2(or 3). Glumes absent or 1; rachilla pubescent, extension glabrous, terminated with a rudimentary floret; lemma 2–2.5 cm, sparsely puberulent, apex aristulate-acuminate; palea slightly shorter than lemma, glabrous except for keels or pubescent at apex; lodicules rhomboid-oblong, 3.5–4 cm. Anthers 1.1–1.4 cm. Stigmas 3. New shoots late May. 2*n* = 48*.
+
+> Open or degraded forests from Yangtze to Wuling Mountains, widely planted; below 1800 m. Fujian, Guangdong, Guangxi, Guizhou, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Shaanxi, Shandong, Sichuan, Taiwan, Yunnan, Zhejiang [Japan].
+  "Synonym": "*Bambusa reticulata* Ruprecht, Bambuseae, 58. 1839; *Phyllostachys bambusoides* Siebold &amp; Zuccarini; *P. lithophila* Hayata; *P. megastachya* Steudel; *P. pinyanensis* T. H. Wen; *P. quilioi* RiviΦre &amp; C. RiviΦre.
+  "frpsdesc": "",

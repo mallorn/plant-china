@@ -1,0 +1,15 @@
+掌裂秋海棠",
+114.**Begonia pedatifida** H. Léveillé",
+
+## Description
+Herbs. Rhizomes elongate, to 2.8 cm in diam. Leaves all basal or sometimes with 1 cauline leaf; stipules caducous, ovate, ca. 10 × 8 mm, membranous, apex acute; petiole 10-55 cm, densely or sparsely villous; blade oblate-orbicular to broadly ovate, 10-40 cm, abaxially hispidulous, adaxially sparsely hispidulous, venation palmate, 6- or 7-veined, base cordate, margin remotely serrulate, distinctly divided to 2/3 of leaf length; lobes (4 or)5 or 6, apex acuminate; lobules present. Inflorescences 5-16 cm tall, sparsely to densely villous; bracts caducous. Staminate flowers: pedicel 1-3.3 cm; tepals 4, white to pinkish, outer 2 broadly ovate, 1.7-2.5 × 1.2-1.8 cm, abaxially pilose, inner 2 oblong, 14-18 × 7-10 mm; stamens 80-200; filaments 1.2-4.9 mm; anthers obovoid-oblong, 1-2.5 mm, apex emarginate or obtuse. Pistillate flowers: pedicel 1-2.5 cm; tepals 5, white to pink, unequal, largest broadly ovate, 1.8-2 × ca. 1 cm, glabrous or abaxially pilose, smallest oblong, 0.9-1.6 cm × 5-8 mm; ovary glabrous or pilose, 2-loculed; placentae axile, bilamellate, styles 2, 4.2-5.5 mm, free; stigmas 2-cleft, spiraled. Capsule nodding, obovoid, ca. 1.5 × 1 cm, unequally 3-winged; abaxial wing triangular or falcate, 1.2-2.4 cm; lateral wings triangular, 4-10 mm. Fl. Jan-Jul, fr. Oct.
+
+> ● Broad-leaved forests, shaded moist environments; 300-1700 m. Guizhou, Hubei, Hunan, Sichuan.
+  "Synonym": "*Begonia pedatifida* var. *kewensis* H. Léveillé.
+**138.掌裂叶秋海棠（中国高等植物图鉴）图版42：1-3**
+
+Begonia pedatifida Levl. in Fedde, Repert. Sp. Nov. 7: 21. 1909, et in Fl. Kouy-Tcheou 46. 1914; Cat. Pl. Yunnan 17, fig. 2. 1916; Irmsch. in Mitt. Inst. Allg. Bot. Hamburg 6: 349. 1927, et .in 10: 541. 1939; W. P. Fang, Icon. Pl. Omi 2 (2): Pl. 151. 1946; Yu in Bull. Fan Mem. Inst. Biology new ser. 1 (2): 124. 1948; Gagnep. in Lecomte, Fl. Gen. Indo-Chine 2: 1104. 1921; 中国高等植物图鉴2: 940, 图3609. 1972: L. B. Smith et al. in Smithson. Contr. Bot. 60: 15, 19, in clavi, 212, pl. 4, fig. 40. 1986;贵州植物志4: 252,图版91,图1-2.1989. ——Begonia rubropunctata S. H. Huang et Shui in Acta Bot. Yunnan. 16 (1): 339, fig. 7. 1994. ——B. calophylla auct. non Irmsch.贵州植物志4: 260. 1989.
+
+草本。根状茎粗，长圆柱状，扭曲，直径6-9毫米，节密，有残存褐色的鳞片和纤维状之根。叶自根状茎抽出，偶在花葶中部有1小叶，具长柄；叶片轮廓扁圆形至宽卵形，长10-17厘米，基部截形至心形，（4-）5-6深裂，几达基部，中间3裂片再中裂，偶深裂，裂片均披针形，稀三角披针形，先端渐尖，两侧裂片再浅裂，披针形至三角形，先端急尖至渐尖，全边缘有浅而疏三角形之齿，上面深绿色，散生短硬毛，下面淡绿色，沿脉有短硬毛，掌状6-7条脉；叶柄长12-20 (-30)厘米，密被或疏被褐色卷曲长毛；托叶膜质，卵形，长约10毫米，宽约8毫米，先端钝，早落。花葶高7-15厘米，疏被或密被长毛，偶在中部有1小叶，和基生叶近似，但很小；花白色或带粉红，4-8朵，呈二歧聚伞状，首次分枝长约1厘米，被毛或近无毛；苞片早落；雄花：花梗长1-2厘米，被毛或近无毛，花被片4，外面2枚宽卵形，长1.8-2.5厘米，宽1.2-1.8厘米，先端钝或圆，外面有疏毛，内面2枚长圆形，长14-16毫米，宽7-8毫米，先端钝或圆，无毛；雄蕊多数，花丝长1.5-2毫米，花药倒卵长圆形，长1-1.2毫米，先端凹或微钝；雌花：花梗长1-2.5厘米，被毛或近无毛；花被片5，不等大，外面的宽卵形，长18-20毫米，宽10-20毫米，先端钝，内面的小，长圆形，长9-10毫米，宽5-6毫米；子房倒卵球形，长约8毫米，直径4-6毫米，外面无毛，2室，每室胎座具：裂片，具不等3翅；花柱2，约1/2处分枝，柱头外向增厚，扭曲呈环状，并带刺状乳突。蒴果下垂，果梗长2-2.5厘米，无毛；轮廓倒卵球形，长约1.5厘米，直径约1厘米，无毛，具不等3翅，大的三角形或斜舌状，长约1.2厘米，宽约1厘米，上方的边斜，先端圆钝，其余2翅短，三角形，长4-5毫米，先端钝，均无毛；种子极多数，小，长圆形，淡褐色，光滑。花期6-7月，果期10月开始。
+
+产湖北、湖南、贵州、四川。生于林下潮湿处、常绿林山坡沟谷、阴湿林下石壁上、山坡阴处密林下或林缘，海拔350-1700米。模式标本采自贵州龙里南（麻若场）。

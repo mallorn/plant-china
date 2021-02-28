@@ -1,0 +1,7 @@
+浆果乌桕属",
+68.**Balakata** Esser",
+
+## Description
+Trees or shrubs, monoecious, sometimes with one sex missing, glabrous throughout; latex white. Leaves alternate; stipules small, undivided, caducous; petiole with 2 apical glands; leaf blade entire, pinnately veined, eglandular above, below with a pair of distinct basal glands and with additional smaller submarginal glands. Flowers in terminal or axillary compound paniculate thyrses; bracts bearing 2 large glands at base on lower surfaces. Male flowers in apical part of inflorescences, small, yellow, 5-9-fascicled in axil of bracts, with distinct pedicel; pistillode absent; calyx membranous, cupular-shaped, shallowly 2-lobed; petals and disk absent; stamens 2; filaments free; anthers 2-celled, longitudinally dehiscent. Female flowers at base of inflorescences, larger than male ones, each bract-axil with only 1 female flower; pedicel short but distinct; calyx, rarely 2-sepaled, slightly fused at base; petals and disk absent; ovary 2-celled; ovules 1 per cell, smooth; styles short; stigmas 2, revolute, entire, eglandular. Fruits pedicellate, fleshy and indehiscent, globose, 2-celled with 1 or 2 seeds. Seeds subglobose, with a thin sarcotesta and a stony seed coat, without caruncle; endosperm fleshy; cotyledon broad and flattened.
+  "Statistics": "Two species: S and SE Asia; one species in China.
+  "Synonym": "*Sapium* sect. *Pleurostachya* Pax &amp; K. Hoffmann.

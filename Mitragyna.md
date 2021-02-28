@@ -1,0 +1,23 @@
+帽蕊木属",
+53.**Mitragyna** Korthals Observ. Naucl. Indic. 19. 1839.",
+
+> About seven species: one species in Africa, six species in Asia and Malesia; three species in China.
+
+## Description
+Trees, unarmed; buds flattened, with stipules erect and pressed together. Raphides absent. Leaves opposite, sometimes with domatia; stipules caducous, interpetiolar, generally ovate to obovate, sometimes keeled, entire, often well developed. Inflorescences terminal on main stems and axillary branches and often accompanied by reduced, petaloid, and/or bracteate leaves, capitate with globose heads in fascicles, cymes, umbels, or thyrses, sessile to shortly pedunculate, bracteate; bracteoles spatulate to obpyramidal. Flowers sessile, bisexual, monomorphic. Calyx limb truncate to 5-lobed. Corolla cream to yellow-green, funnelform or narrowly salverform, inside glabrous to variously pubescent; lobes 5, valvate in bud. Stamens 5, inserted near corolla throat, exserted or included; filaments short; anthers basifixed, partially to fully exserted. Ovary 2-celled, ovules numerous in each cell on fleshy, pendulous, axile placentas attached in upper third of septum; stigma clavate to mitriform (i.e., upside-down cupular), exserted. Fruit capsular, obovoid to ellipsoid, septicidally then loculicidally dehiscent, cartilaginous to woody, with calyx limb persistent or deciduous; seeds numerous, small, somewhat flattened, fusiform to lanceolate, shortly winged at both ends with basal wing sometimes bifid or notched.
+  "Reference": "Ridsdale reviewed this genus in detail (Blumea 24: 46-68. 1978) and excluded the African species. H. H. Hsue and H. Wu (in FRPS 71(1): 245. 1999) reported only *Mitragyna rotundifolia* from China; Ridsdale (loc. cit.: 65) reported only *M. diversifolia* from China; and Wu (Acta Phytotax. Sin. 6: 293. 1957) reported a third species, *M. hirsuta*, in a report that has been overlooked. Several other species of *Mitragyna* are found widely in Thailand and Myanmar, as well as cultivated for lumber, and should be expected in China (in particular, see comments under *M. diversifolia*). The leaves of *M. speciosa* (Korthals) Haviland are the source of kratom and used for tea, chewing, smoking, and as medicine in Thailand and Malaysia; the main active ingredient here is the alkaloid mitragynine, known only from this species and said to be stimulating at low doses but narcotic at high doses.Ridsdale reviewed this genus in detail (Blumea 24: 46-68. 1978) and excluded the African species. H. H. Hsue and H. Wu (in FRPS 71(1): 245. 1999) reported only *Mitragyna rotundifolia* from China; Ridsdale (loc. cit.: 65) reported only *M. diversifolia* from China; and Wu (Acta Phytotax. Sin. 6: 293. 1957) reported a third species, *M. hirsuta*, in a report that has been overlooked. Several other species of *Mitragyna* are found widely in Thailand and Myanmar, as well as cultivated for lumber, and should be expected in China (in particular, see comments under *M. diversifolia*). The leaves of *M. speciosa* (Korthals) Haviland are the source of kratom and used for tea, chewing, smoking, and as medicine in Thailand and Malaysia; the main active ingredient here is the alkaloid mitragynine, known only from this species and said to be stimulating at low doses but narcotic at high doses.
+  "Synonym": "*Paradina* Pierre ex Pitard; *Stephegyne* Korthals.
+  "keylist": "
+1 Calyx limb deeply lobed, with lobes 1.5-2.5 mm, spatulate to oblanceolate, usually quite evident on fruit.[*M. hirsuta* 毛帽蕊木](Mitragyna hirsuta.md)
+1 Calyx limb subtruncate or lobed for up to 1/2, with lobes up to 1 mm, triangular, deciduous or at least hardly evident on fruit——(2)
+2(1) Branch leaves 6-14 × 3-9 cm, with secondary veins strongly ascending (i.e., departing midrib at 55°-75°); corolla tube ca. 3 mm, lobes ca. 2.5 mm.[*M. diversifolia* 异叶帽蕊木](Mitragyna diversifolia.md)
+2 Branch leaves 9-25 × 6-20 cm, with secondary veins spreading (i.e., departing midrib at 35°-60°); corolla tube 2-3 mm, lobes 4-5 mm.[*M. rotundifolia* 帽蕊木",](Mitragyna rotundifolia.md)
+**25. 帽蕊木属 Mitragyna Korth. nom. cons.**
+
+Korth. Obs. Naucl. Ind. 19. 1839; K. Schum. in Engl. u. Prantl, Nat. Pflanzenfam. IV (4): 56. 1891; Havil. in Journ. Linn. Soc. Bot. 33: 68. 1897; Ridsd. in Blumea 24 (1): 56. 1978.
+
+乔木，顶芽椭圆状至卵圆状。叶对生；托叶全缘，有明显或略明显的龙骨，内面基部有粘液毛，有时近叶状。头状花序顶生，花序轴2歧或复2歧式分枝，有时排成聚伞状圆锥花序式。花5基数，无梗；小苞片匙状，花萼管短或长，萼裂片钝头，三角形至线状匙形；花冠漏斗状至狭高脚碟状，花冠裂片芽时镊合状排列；雄蕊着生于近花冠喉部，明显伸出、局部伸出或不伸出，花丝短，花柱伸出花冠外，柱头长棒形或近球形，子房2室，每室有一肥厚的胎座，悬垂于隔膜上部1/3处；胚珠多数。蒴果2室，外果皮薄，室背纵裂，内果皮厚，角质，室间开裂；种子小，多数，中央有网纹，两端有短翅，下部的翅浅2裂或微凹。
+
+约10种，非洲4种，亚洲6种。我国仅有1种。
+
+本属模式种：Mitragyna parvifolia (Roxb.) Korth.

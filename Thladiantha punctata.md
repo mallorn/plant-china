@@ -1,0 +1,15 @@
+台湾赤瓟",
+16.**Thladiantha punctata** Hayata J. Coll. Sci. Imp. Univ. Tokyo. 30(1): 119. 1911.",
+
+## Description
+Herbs, climbing; whole plant subglabrous. Stems and branches with obvious longitudinal striae. Petiole 3-12 cm, sometimes sparsely shortly setose in upper part; leaf blade abaxially pale green, adaxially dark green, narrowly ovate or narrowly ovate-lanceolate, 8-16(-20) × 6-10(-12) cm, membranous, glabrous, lateral veins at base not bordering sinus, margin dentate or sinuate-dentate, apex acuminate; basal sinus semicircular, 1-2 cm deep, 0.5-1.5 cm wide. Tendrils simple. Male flowers: inflorescences racemose or paniculate, rarely flowers solitary; peduncles slender, 4-8 cm; pedicels filiform, 0.5-1 cm; calyx tube broadly campanulate, 5-6 mm; segments lanceolate, ca. 8 mm, ca. 2 mm wide at base, 3-5-veined, acuminate at apex; stamens 4 in pairs and 1 free; filaments ca. 4 mm, base pubescent; anthers oblong, 2-3 mm; rudimentary ovary semiglobose, 2-3 mm in diam., with 3 membranous scales at base; scales yellow, ca. 3 mm. Female flowers usually solitary, rarely 2 at apex of peduncle; peduncles ca. 1 cm; pedicels 2-5 cm, glabrous; calyx and corolla as in male flowers but corolla usually larger than in male flowers; segments 2-2.5 × 1.1-1.2 cm, acuminate at apex; staminodes 4 in pairs and 1 free, ca. 1 mm; ovary ovoid, 1-1.3 × 0.4-0.6 cm, slightly pubescent, glabrescent, base rounded, apex attenuate; styles 2-3 mm, 3-fid; stigma reniform, expanded, 1.5-2 mm in diam. Fruiting pedicel 3-7 cm, glabrous; fruit ovoid or oblong, 3-5 × 2-3.5 cm, smooth, base obtuse-rounded, apex mucronate. Seeds brown, broadly ovoid, 5-6 × 3-4 mm, ca. 1 mm thick, base rounded, apex slightly narrowed. Fl. May-Jun, fr. Jul-Aug.
+  "Statistics": "● Mountain slopes, forests, wet places; 600-900 m. Anhui, Fujian, Jiangxi, Taiwan, Zhejiang.
+**10. 台湾赤瓟（植物研究）**
+
+Thladiantha punctata Hayata in Journ. Coll. Sc. Tokyo 30 (1): 119. 1911, et in Ic. Pl. Formos. 1: t. 37. 1911, et 2: 35, 111, f. 1-4. 1912; Cogn. in Engl., Pflanzenr. 66 (IV. 275. 1): 44. 1916. ——Thladiantha longifolia auct. non Cogn. ex Oliv.: 中国高等植物图鉴4: 351, 图6116. 1975. p. p. quoad distrib. Zhejiang.
+
+攀援草本；全体几乎无毛；茎、枝稍粗壮，有明显的纵向条纹。叶柄长3-12厘米，有时在上部被稀疏的短刚毛；叶片膜质，长卵形或长卵状披针形，长8-16 (-20) 厘米，宽6-10 (-12) 厘米，边缘有小齿或缺刻状的齿，齿端具由于小脉伸出而成的胼胝质小尖头，上面深绿色，明显密布由于短刚毛断裂而成的白色疣状糙点，甚粗糙，背面淡绿，平滑，无毛，先端渐尖，基部弯缺开放或有时内倾而靠合，半圆形，深1-2厘米，宽0.5-1.5厘米，基部的侧脉离弯缺边缘向外展开。卷须稍粗壮，单一，有不明显的纵纹。雌雄异株。雄花：花序常为总状或上部分枝成圆锥花序，稀单生，花序轴细弱，长4-8厘米；花梗丝状，长0.5-1厘米；花萼筒宽钟形，宽0.5-0.6厘米，长0.4厘米，裂片披针形，长8毫米，基部宽2毫米，先端渐尖，1脉；花冠黄色，裂片长卵形或长卵状披针形，长1.8-2厘米，宽约1厘米，顶端渐尖或长渐尖，3-5脉；雄蕊5，两两成对，1枚分离，花丝长4毫米，基部被短柔毛，花药长圆形，长2-3毫米；退化雌蕊半球形，直径约2-3毫米，基部具3枚长圆形的膜质鳞片，鳞片黄色，长约3毫米。雌花：常单生，稀2-3朵生在长约1厘米的总梗顶端；花梗长2-5厘米，光滑，无毛；花萼和花冠同雄花；花冠常比雄花大，裂片长2-2.5厘米，宽1.2厘米，先端渐尖；退化雄蕊5，棒状，两两成对生，1枚分离，长约1毫米，顶端被微柔毛；子房卵形，外面稍被微柔毛，后变无毛，长1-1.3厘米，粗4-6毫米，基部稍圆，顶端渐狭，花柱稍粗，长3毫米，顶端分3叉，柱头3，圆肾形，膨大，径约1.5-2毫米。果梗细，有不明显纵纹，无毛，长3-7厘米；果实卵形或长圆形，长3-5厘米，宽2-3.5厘米，基部钝圆，顶端有小尖头，表面平滑。种子宽卵形，褐色，长5-6毫米，宽3-4毫米，厚约1毫米，基部圆形，顶端稍狭，两面有不明显的疣状突起。花期5-6月，果期7-8月。
+
+产安徽、浙江、江西、福建和台湾。生于海拔600-900米的山坡、沟边林下或湿地。
+
+过去将采自安徽、浙江和福建的本种标本鉴定为长叶赤瓟 T. longifolia, 这是因为叶形为卵状披针形十分相似。经仔细检查，这些标本中子房均平滑而无瘤状凸起，更不皱褶状而和后者完全不同。

@@ -1,0 +1,15 @@
+川西荚蒾",
+18.**Viburnum davidii** Franchet Nouv. Arch. Mus. Hist. Nat., sér. 2. 8: 251. 1885.",
+
+## Description
+Shrubs, evergreen, to 10 m tall. Bark gray-brownish. Branchlets of current year purple-brownish, with raised lenticels, subglabrous; branchlets of previous year gray-whitish, terete, glabrous, with numerous, large, rounded lenticels. Winter buds ovoid, with 1 pair of separate scales; scales reddish brown, glabrous, apex acute. Leaves always opposite, not clustered at apices of branchlets; stipules absent; petiole purplish, robust, 0.8-2.5(-3) cm, glabrous; leaf blade purplish when young, elliptic-obovate to elliptic, 6-14 × 4-7 cm, thickly leathery, lustrous and conspicuously rugose, abaxially yellowish stellate-pubescent only in axils of veins, adaxially glabrous, midvein raised abaxially, triplinerved, veins pinnate, arched, rarely branched, anastomosing near margin, raised abaxially, impressed adaxially, veinlets transverse, conspicuous abaxially, deeply impressed and conspicuously rugose adaxially, not lobed, base broadly cuneate to subrounded, without glands, margin entire or sometimes with few irregular teeth above middle part, apex shortly acuminate. Flowers appearing after leaves; inflorescence a compound umbel-like cyme, terminal, 4-6 cm in diam.; rays whorled; first node of inflorescence with 5 or 6 rays, 1-3 cm, dense, glabrous, without large sterile radiant flowers; peduncles (1-)1.5-3(-3.5) cm; bracts caducous, leaflike, green, linear to linear-lanceolate, glabrous; bracteoles scalelike. Flowers on rays of 2nd order, not fragrant, with very short pedicels. Calyx greenish; tube campanulate, ca. 1 mm, glabrous; lobes lanceolate, very small, ca. 1/2 as long as tube, glabrous, apex acute. Corolla white, rotate, ca. 5 mm in diam., glabrous; tube ca. 1 mm; lobes spreading, orbicular, ca. 2 mm in diam., 2-4 × as long as tube, apex rounded, margin entire. Stamens ca. 1/2 as long as corolla, inserted near base of corolla tube; filaments ca. 2 mm; anthers red-blackish, subglobose, less than 1 mm. Styles nearly as long as calyx lobes; stigmas subsessile. Fruit not turning red, maturing blue-blackish, ovoid or ellipsoid-oblong, ca. 6 × 4 mm, base rounded, apex acute, glabrous; pyrenes globose, 4-5 mm in diam., with 1 small and shallow ventral groove, apex rounded. Fl. Jun, fr. Sep-Oct. 2*n* = 18*.
+  "Statistics": "● Mountains; 1800-2400 m. W Sichuan.
+**19. 川西荚蒾（新拟）**
+
+Viburnum davidii Franch. in Nouv. Arch. Mus. Hist. Nat. Paris, ser. 2, 13 (Pl. David. 2: 69. 1888): 251. 1886; Stapf in Bot. Mag. 149: t. 8980. 1923.
+
+常绿灌木，最高可达10米，除花序初时疏被簇状短毛外，全体几无毛；小枝紫褐色，有凸起皮孔，老枝灰白色。叶厚革质，椭圆状倒卵形至椭圆形，长6-14厘米，顶端短渐尖，基部宽楔形至近圆形，具基部3出脉，全缘或有时中部以上疏生少数不规则牙齿，上面有光泽，常因小脉深凹陷而呈明显的皱纹状，下面各脉凸起，仅脉腋有集聚簇状毛；叶柄粗壮，带紫色，长0.8-2.5 (-3) 厘米。聚伞花序稠密，直径4-6厘米，总花梗长 (1-) 1.5-3 (-3.5) 厘米，第一级辐射枝5-6条，长1-3厘米，花生于第二级辐射枝上，具极短花梗；萼筒钟形，长约1毫米，萼齿披针形，顶端尖，长约为萼筒之半；花冠暗红色，辐状，直径约5毫米，裂片圆形，直径约2毫米，为筒长的2-4倍；雄蕊长达花冠之半，花丝长约2毫米，花药红黑色，长不到1毫米。果实蓝黑色，卵圆形或椭圆状矩圆形，长约6毫米，直径4毫米；核有1条狭细浅腹沟。花期6月，果熟期9-10月。
+
+产四川西部。生于海拔1800-2400米的山地。模式标本采自四川宝兴。
+
+本种同樟叶荚蒾 V. cinnarimomifolium Rehd. 很相似，但叶质地较厚，上面小脉凹陷而呈明显的皱纹状，花序较小而稠密，萼齿披针形，花冠暗红色，果实较长大，而那个种的叶质地较薄，上面不为明显的皱纹状，花序大而松散，萼齿半圆形或三角形，花冠黄绿色，果实较小，易与本种区别。

@@ -1,0 +1,10 @@
+直立旋花",
+4.**Convolvulus pseudocantabricus** Schrenk",
+
+> Sa'ad (l.c., pp. 100-104) recognized two varieties in &lt;I&gt;Convolvulus pseudocantabricus&lt;/I&gt;, var. &lt;I&gt;pseudocantabricus&lt;/I&gt; (sepals oblong, ca. 7 mm, acute, outer 2 ca. as long as inner ones) and var. &lt;I&gt;dianthoides&lt;/I&gt; (Karelin &amp;amp; Kirilov) Sa'ad (sepals obovate, 4-5 mm, obtuse, mucronulate, outer 2 usually shorter than inner ones) but cited no Chinese specimens. It is not clear to which of these varieties the Chinese material ought to be assigned, as no material was available for study by Staples. The species is included here based on the account of Fang and Huang (1979).
+
+## Description
+Herbs perennial, 30-70 cm tall, of broomlike habit. Rootstock woody. Stems erect, much branched basally, densely appressed pilose. Leaves subsessile, linear to linear-lanceolate; basal leaves 2-3.5 cm X ca. 4 mm; cauline leaves 2.5-5 cm X 2-3 mm, abaxially &amp;#177; appressed pilose, adaxially glabrous, base attenuate, apex acute. Inflorescences long-pedunculate axillary cymes on main stems, solitary on branchlets; peduncle 3-7 cm; bracts linear, to 1.5 cm. Pedicel 2-6 mm. Sepals obovate, oblong, or oblong-elliptic, &amp;#177; unequal; inner ones 4-7 mm; outer 2 shorter, glabrous, apex &amp;#177; obtuse, mucronulate. Corolla red or rose, funnelform, 1.5-2.3 cm, midpetaline bands pubescent distally. Stamens included, slightly unequal; filaments glabrous; anthers oblong, apex obtuse. Disc cupular. Ovary glabrous. Stigmas linear. Capsule ovoid-obovoid, 6-8 mm, glabrous. Seeds often 1, dark brown, ca. 3.5 X 3 mm, hirsute. Fl. May-Jul, fr. Jun-Jul.
+
+> Steppes, forests, foothills, limestone rock, stony mountain slopes. Xinjiang [NE Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan; SW Asia]
+  "Synonym": "&lt;I&gt;Convolvulus askabadensis&lt;/I&gt; Bornm&amp;uuml;ller &amp; Sintenis in Bornm&amp;uuml;ller; &lt;I&gt;C. dianthoides&lt;/I&gt; Karelin &amp; Kirilov; &lt;I&gt;C. pseudocantabricus&lt;/I&gt; Schrenk subsp. &lt;I&gt;dianthoides&lt;/I&gt; (Karelin &amp; Kirilov) Vvedensky.

@@ -1,0 +1,7 @@
+屏东卷瓣兰",
+84.**Bulbophyllum pingtungense** S. S. Ying & C. Chen Coloured Ill. Fl. Taiwan. 1: 499. 1985.",
+
+## Description
+Rhizome 2-3 mm in diam. Pseudobulbs 5-10 cm apart on rhizome, ovoid or narrowly ovoid, 1-4 cm, 0.8-2 cm in diam., 3-5 ribbed, with a terminal leaf. Leaf subsessile; blade elliptic to narrowly oblong, 3-15 × 1-2.5 cm, leathery, base contracted, apex obtuse and retuse. Scape erect, 5-15 cm, stout; umbels 2-4-flowered; peduncle with 2 sheaths; floral bracts lanceolate, 7-8 mm, apex acute. Flowers erect, orange-yellow to pale red, marked with red or deep purplish red stripes and spots. Dorsal sepal ovate, concave, 1.5-2.4 × 1.1-1.5 cm, adaxially hairy, ciliate, apex cuspidate; lateral sepals obliquely lanceolate, 2.5-4 × 0.7-1 cm, base adnate to column foot, apex acute. Petals narrowly triangular, 1-1.2 cm, base broad and adnate to column foot, ciliate, apex acute; lip recurved, ligulate, ca. 1 cm, fleshy, hairy on both basal sides. Column ca. 0.6 cm, with triangular, enlarged wings at base; foot ca. 1.2 cm; stelidia conspicuous. Fl. Jan-Apr.
+  "Reference": "Chinese records of *Bulbophyllum wightii* H. G. Reichenbach (e.g., in FRPS 19: 240. 1999) are referable to *B. pingtungense*.Chinese records of *Bulbophyllum wightii* H. G. Reichenbach (e.g., in FRPS 19: 240. 1999) are referable to *B. pingtungense*.
+  "Statistics": "&amp;#9679; Tree trunks in broad-leaved forests; 100-400 m. S Taiwan.

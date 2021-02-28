@@ -1,0 +1,9 @@
+轮叶堇菜",
+79.**Viola dimorphophylla** Y. S. Chen & Q. E. Yang",
+
+> This is a very rare and endangered species.
+
+## Description
+Herbs perennial, to 30 cm tall, lacking stolons. Rootstock to 2.5 cm, ca. 5 mm in diam., vertical, densely articulate, with numerous dark brown fibrous roots. Stems 1-4, 0.2-1 mm in diam., glabrous, rarely 1-branched. Basal leaves 1 or 2(-4) or withered, long petiolate; petiole 2.5-13 cm, glabrous; leaf blade abaxially purplish, adaxially deep green, broadly cordate, usually broader than long, 1-4 × 1.5-5 cm, papery, abaxially glabrous, adaxially densely white hispid, base cordate, margin crenate-serrate, apex obtuse. Cauline leaves (3-)5-7(-10), verticillate, sessile, linear, 8-44 × 1-6.5 mm, both surfaces glabrous, margin usually entire, sometimes remotely denticulate in upper part, very rarely bifid. Stipules 2, free, leaflike when mature, 4-10 mm, nearly indistinguishable from leaves. Flowers yellow, axillary, ca. 1.3 cm in diam., yellow; pedicels 1.2-3.5 cm, slender, glabrous, 2-bracteolate near apex; bracteoles linear, very small, ca. 1 mm. Sepals green, linear, 3-4 × 0.25-0.5 mm, glabrous, margin entire, apex acuminate; sepal appendages very short, glabrous. Petals glabrous, upper ones oblong-spatulate, 7-10 mm, 2.5-3.5 mm wide in upper part, apex rounded; lateral ones oblong-spatulate, 8-11 mm, 3.5-4 mm wide in upper part, apex rounded, at throat with 2 black striae; lower petal broadly obovate-spatulate, 7-9 mm, 3-4 mm wide in upper part, apex obtuse, at throat with 6-9 black striae, shortly spurred; spur yellowish white, ca. 0.5 × 1.2 mm. Ovary ovoid, glabrous; style clavate, base geniculate, 1.6-3 mm; stigma capitate, thick, slightly 2-lobed, glabrous. Capsules ovoid or globose, 2-2.5 mm in diam., glabrous. Seeds ovoid, ca. 1.5 × 1 mm. Fl. Jul, fr. Sep.
+
+> ● Thicket-covered or grassy slopes; 2400-2600 m. NW Yunnan (Zhongdian).

@@ -1,0 +1,6 @@
+椭圆叶云实",
+19.**Caesalpinia elliptifolia** S. J. Li Z. Y. Chen & D. X. Zhang, Nordic J. Bot. 22: 349. 2003.",
+
+## Description
+Lianas, to 15 m; young parts with dense, brown hairs. Branchlets occasionally with scattered, recurved prickles. Stip-ules absent; leaf rachis 20-30 cm, with recurved prickles; pin-nae 1 or 2 pairs; petiolules 2-3 mm; leaflets opposite, 2 pairs per pinna, elliptic, 7-13 × 4.5-8 cm, leathery, abaxially with brown hairs especially on midvein, adaxially glabrous, base rounded, apex rounded, rarely obtuse. Racemes terminal and supra-axillary, aggregated into a panicle, 15-25 cm, all parts densely hairy; bracts caducous, lanceolate, 1-3 mm; pedicels 8-12 mm. Flowers yellow. Sepals oblong, ca. 6 × 2 mm. Petals unequal, 10-15 × 4-5 mm, shortly clawed. Stamens 10; fila-ments 9-14 mm, woolly from base to just above middle. Ovary subsessile, ca. 2 mm, hairy, 1- or 2-ovuled; style 7-10 mm, occasionally as short as 2 mm; stigma truncate. Legume com-pressed, indehiscent, oblong-elliptic, subsymmetrical, ca. 5 × 2.5 cm, without narrow wing, leathery, with robust reticulate veins. Seeds 1 or 2, brownish black, compressed, suborbicular, ca. 1.5 cm in diam. Fl. Apr, fr. May-Jun.
+  "Statistics": "● Beside ditches; ca. 100 m. Guangdong (Fengkai).

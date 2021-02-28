@@ -1,0 +1,17 @@
+察瓦龙紫菀",
+113.**Aster tsarungensis** (Grierson) Y. Ling Fl. Reipubl. Popularis Sin. 74: 241. 1985.",
+
+## Description
+Herbs, perennial, 6-45 cm tall, sometimes caespitose; rhizomes long, slender. Stems erect, simple, striate, purplish brown, moderately to densely villous, moderately to densely minutely purple stipitate glandular, sparsely leafy. Leaves basal and cauline; cauline leaves gradually reduced upward, thin, villous, sparsely stipitate glandular, margin remotely serrulate, villous-ciliate, prominently 3-veined, apex acute, tip blunt; basal leaves present at anthesis, long winged petiolate (petiole to 2.5 cm); blade spatulate to ovate or lanceolate, 0.5-5 × 0.2-1.8 cm, base attenuate; lower and middle cauline leaves broadly winged petiolate or sessile, lanceolate, 2.5-9.5 × 0.5-2.3 cm, base attenuate, sometimes subclasping (upward); upper cauline leaves (when present) sessile, linear. Capitula terminal, solitary, 4-6 cm in diam. Involucres broadly hemispheric, 2-3 cm in diam.; phyllaries 2-seriate, subequal, squarrose or spreading, oblong-lanceolate to lanceolate, 6-10 × 1.5-2.5 mm, densely villous (inner phyllaries sparsely so), distally minutely stipitate glandular, membranous, margin scarious, ciliate distally, multiveined, apex shortly acuminate, purple. Ray florets 2-seriate, 60-85, bluish purple, tube and basal lamina sparsely hairy, eglandular, lamina linear-lanceolate, 13-15(-20) × 1.6-1.8 mm; disk florets yellow or purplish tinged, 4.5-5.5 mm, limb funnelform, 3-4 mm, lobes erect, triangular, 0.5-0.6 mm. Pappus 4-seriate, dirty white; outermost series of white, broad scales 0.6-0.8 mm; bristles barbellate; outer bristles few, slender, 3.1-4.5 mm; inner bristles few, 5-6.5 mm, acute; innermost bristles 6-6.5 mm, weakly clavate. Fl. and fr. Jun-Oct.
+  "Reference": "*Aster tsarungensis* is closely related to and usually regarded as a subspecies of *A. flaccidus*. However, its densely purplish brown glandular, villous stems and yellow disk florets distinguish it from that species.*Aster tsarungensis* is closely related to and usually regarded as a subspecies of *A. flaccidus*. However, its densely purplish brown glandular, villous stems and yellow disk florets distinguish it from that species.
+  "Statistics": "● Alpine and subalpine meadows, valley slopes, *Rhododendron* thickets, limestone scree slopes; 2600-4800 m. W Sichuan, SE Xizang, NW Yunnan.
+  "Synonym": "*Aster flaccidus* Bunge subsp. *tsarungensis* Grierson, Notes Roy. Bot. Gard. Edinburgh 26: 133. 1964.
+**83. 察瓦龙紫菀**
+
+Aster tsarungensis (Griers.) Ling, comb. nov.——Aster flaccidus Bge. ssp. tsarungensis Griers. in Not. Roy. Bot. Gard. Edinb. 26: 133. 1964. ——Aster flaccidus Bge. ssp. flaccidus Onno, Biblioth, Bot. 106: 63. 1932, p. p. ——Aster diploste phioides auct. non. C. B. Clarke.: Hand. -Mazz. in Notizbl. Bot. Gart. u. Mus. Berl. -Dahl. 13: 624. 1937.
+
+多年生草本，根状茎细长，颈部细长。茎直立，高15-25或达45厘米，单生或与莲座状叶丛丛生，基部被枯叶残片，有细沟，上部或有时全部紫褐色，被开展的紫褐色密腺毛并杂有白色疏毛，下部有较密的叶，匙形，长5-9稀10厘米，宽0.3-7厘米，下部叶渐狭成具翅的长柄，全缘或有小尖头状疏齿，顶端圆形或钝；下部及中部叶长圆状匙形或披针形，长2.5-5厘米，宽0.5-2.5厘米，基部急狭，半抱茎，顶端钝或渐尖；上部叶渐小，线状披针形；全部叶质薄，两面被粗毛和腺毛或上面无毛而下面脉上有长毛，有长缘毛，中脉和离基三出脉在下面稍凸起。头状花序径4-6厘米，在茎端单生。总苞宽半球形，径2-3厘米，总苞片2-3层，近等长，线状披针形，长9-15毫米，宽1.5-3.5毫米，草质，顶端渐尖，外面，全部或沿中脉有长毛，上部带紫色，内层较狭，边缘狭膜质。舌状花约2层，60-85个；舌片蓝紫色，长15-20毫米，宽1.8-2毫米，管部长1-2毫米，有微毛。管状花长7.5-9毫米，黄色或带紫色，裂片长1.2-1.4毫米；花柱附片长0.5-1毫米。冠毛2层，外层短，白色，膜片状；内层污白色，长约8毫米，有等长的微糙毛。花果期6-10月。
+
+产于西藏东南部（江孜、康马、加匕拉山）、四川西部及南部（察瓦龙、九龙、稻城、阿坝等）、云南西北部（德钦，中甸、贡山等）。生于高山及亚高山草甸及山谷坡地。海拔2650-4800米。
+
+与萎软紫菀 (A. flaccidus Bge.) 接近，常被视为该种的一个亚种，但头状花序及总苞较大，茎较粗壮，被密腺毛及长粗毛或上面近无毛，管状花橙黄色或顶端带紫褐色。

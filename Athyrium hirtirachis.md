@@ -1,0 +1,19 @@
+毛轴蹄盖蕨",
+58.**Athyrium hirtirachis** Ching & Y. P. Hsu Fl. Tsinling. 2: 215. 1974.",
+
+> *Athyrium hirtirachis* morphologically is intermediate between *A. mackinnonii* and *A. dubium*. It differs from the former in the distal part of costae rather densely shortly hairy abaxially and the margin of wings ± hairy. It also differs from the latter in the pinnae shortly stalked, the lowest pinnae broader, the sori longer, and the scales at stipe base linear-lanceolate.
+
+## Description
+Rhizomes short, erect, apex densely clothed with dark brown, membranous, linear-lanceolate scales. Fronds caespitose; fertile fronds up to 65-106 cm; stipe pale stramineous, 30-40 cm, 3-4 mm in diam. at base, base similarly densely scaly, upward glabrate; lamina 2-pinnate-pinnatipartite, oblong or deltoid-oblong, 33-61 × (7-)22-46 cm at base, base slightly narrowed or almost not narrowed, apex acuminate; pinnae (8-) 14-18 pairs, basal 1 or 2 pairs subopposite, upper pinnae alternate, ascending, shortly stalked (stalk ca. 3 mm), oblong-lanceolate to lanceolate, basal pinnae slightly narrowed at base, pinnules anadromous; upper pinnae not narrowed or broadened at base, pinnules catadromous; middle pinnae (3.5-)13-22 × (1.5-)4-6 cm at middle, base subequilateral, truncate or somewhat auriculate on acroscopic side, cuneate on basiscopic side, pinnate, apex long acuminate to somewhat caudate; pinnules (5-)14-22 pairs, lower pinnules opposite, upper pinnules alternate, oblong to deltoid-ovate; middle pinnules 1.8-2.2 cm × ca. 7 mm, sessile, spreading or slightly ascending, base inequilateral, auriculate on acroscopic side, cuneate on basiscopic side, dentate or pinnatilobate to 1/2 at margin, apex obtuse-rounded to obtuse; pinnule segments 5 or 6 pairs, oblong, dentate at apex; veins visible abaxially, slightly visible adaxially, pinnate in pinnules, lateral veins 3-6 pairs, oblique, 2-4 veins forked per segment. Lamina herbaceous when dried, pale green; rachis and costae stramineous, slightly purplish red, with sparse brownish short hairs abaxially, hairs rather dense on middle and lower parts of costae on abaxial side, short hairs sparse on margin of costa wings, costules, and veins, with subulate spines on adaxial side at base of costa or costule. Sori oblong, elliptic, shortly linear, or J-shaped, sometimes horseshoe-shaped, 1-3 mm, 4-6 pairs per pinnule, biseriate on both sides of costule, 1 per segment, inframedial on basal acroscopic veins, often 2-4 on basal acroscopic pinnule segments; indusia brown, oblong, elliptic, or shortly linear, sometimes horseshoe-shaped, rarely J-shaped, membranous, erose at margin, persistent. Perispore surface without folds.
+
+> ● Forests; 1800-3200 m. SE Gansu, Sichuan.
+  "Synonym": "*Athyrium gonggaense* Z. R. Wang &amp; Li Bing Zhang.
+**59. 毛轴蹄盖蕨（秦岭植物志）贡嘎蹄盖蕨（云南植物研究）图版45: 7**
+
+Athyrium hirtirachis Ching et Hsu in Fl. Tsinling. 2: 103, 215, t. 26, f. 1-5. 1974. ——Athyrium gonggaense Z. R. Wang et L. B. Zhang in Acta Bot. Yunnan. 17 (3): 301, t. 1, f. 5-8. 1995.
+
+根状茎短，直立，先端密被深褐色、膜质、线状披针形的鳞片；叶簇生。能育叶长达65-106厘米；叶柄长30-40厘米，基部直径3-4毫米，灰禾秆色，基部密被与根状茎上同样的鳞片，向上几光滑；叶片长圆形或三角状长圆形，长33-61厘米，基部宽(7-)22-46厘米，先端渐尖，基部稍收缩，或几不变狭，二回羽状，小羽片深羽裂。羽片(8-)14-18对，基部1-2对近对生，向上互生，斜展，有短柄（长约3毫米），长圆状披针形至披针形，基部一对羽片的基部稍收缩，小羽片上先出，向上羽片基部不收缩或最宽，小羽片下先出，中部的长约(3.5-)13-22厘米，中部宽(1.5-)4--6厘米，先端长渐尖至稍呈尾状，基部近对称，上侧平截稍呈耳状突起，下侧楔形，一回羽状；小羽片约(5-)14-22对，下部的对生，向上的互生，长圆形至三角状卵形，中部的长1.8-2.2厘米，宽约7毫米，无柄，平展或稍斜展，先端钝圆至钝尖，基部不对称，斜楔形，上侧成耳状凸起，边缘有粗锯齿或浅裂，深裂可达1/2；裂片5-6对，长圆形，顶部有粗锯齿。叶脉下面明显，上面仅可见，在小羽片上为羽状，侧脉3-6对，斜向上，每裂片上叶脉有2-4分叉。叶干后草质，灰绿色；叶轴和羽轴下面禾秆色稍带微紫红色，疏被浅褐色短直毛，在羽轴的中上部下面毛较密，在羽轴两侧狭翅边缘及小羽轴和叶脉上面亦疏被短直毛，羽轴上面沿沟两侧边上有贴伏的钻状短硬刺。孢子囊群长圆形、椭圆形、短线形、弯钩形，少为马蹄形，长1-3毫米，每小羽片4-6对，在主脉两侧各排成1行，并略靠近主脉，每裂片上1枚，着生于裂片分叉叶脉之上侧第一小脉上，在小羽片基部上侧裂片上往往有2-4枚；囊群盖同形，罕有弯钩形，褐色，膜质，边缘啮蚀状，宿存。孢子周壁表面无褶皱。
+
+分布于甘肃东南部（康县）和四川（康定、泸定、石棉）。生杂木林下，海拔1800-3150米。模式标本采自甘肃（康县）。
+
+本种形态介于川滇蹄盖蕨 A. mackinnonii (Hope) C. Chr. 和毛翼蹄盖蕨 A. dubium Ching 之间，和前者不同在于羽轴上部的下面被有较密的短毛，狭翅边缘多少有毛，和后者不同在于羽片有短柄，基部羽片较阔，孢子囊群长，叶柄基部鳞片线状披针形。

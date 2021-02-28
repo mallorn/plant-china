@@ -1,0 +1,10 @@
+山地五月茶(原变种)",
+10a.**Antidesma montanum var. montanum**",
+
+> This is the most variable, common, and widespread taxon in the entire genus.&lt;p&gt;&lt;p&gt;*Antidesma costulatum* is a new synonym here. The syntype *Henry 13690* at Kew stands out only by its long petiole (up to 20 mm). There are several other specimens from Yunnan and Szechuan with similarly long petioles.
+
+## Description
+Petiole (2-)5-10(-20) mm; leaf blade elliptic to oblong, more rarely slightly ovate or obovate, (6-)9-25 × (2-)3-10 cm, papery or membranous, glabrous except midvein and lateral veins pubescent on one or both surfaces, rarely abaxially slightly pubescent throughout, shiny and drying olive green on both surfaces but often lighter abaxially, base acute or obtuse, rarely rounded, apex acuminate, more rarely acute, mucronate; domatia sometimes present; major veins impressed, rarely flat adaxially, lateral veins 7-10 pairs, tertiary venation weakly percurrent. Male inflorescences 3-13 cm, unbranched to 10(-40)-branched, females 4-10 cm, unbranched to 6-branched, fruiting 6-20 cm. Fl. Apr-Sep, fr. Jul-Nov.
+
+> Forests; 100-1500 m. Guangdong, Guangxi, Guizhou, Hainan, Taiwan, Xizang, Yunnan [Bangladesh, Bhutan, Cambodia, India (including Andaman and Nicobar Islands), Indonesia, Japan (Ryukyu Islands), Laos, Malaysia, Myanmar, Philippines, Thailand, Vietnam; Australia (Prince of Wales Island, N Queensland)].
+  "Synonym": "*Antidesma apiculatum* Hemsley; *A. barbatum* C. Presl; *A. **calvescens* Pax &amp; K. Hoffmann; *A. chonmon* Gagnepain; *A. costulatum* Pax &amp; K. Hoffmann; *A. gracile* Hemsley; *A. henryi* Hemsley; *A. henryi* Pax &amp; K. Hoffmann (1922), not Hemsley (1894); *A. kotoense* Kanehira; *A. moritzii* (Tulasne) Müller Argoviensis; *A. paxii* F. P. Metcalf; *A. pentandrum* (Blanco) Merrill; *A. pentandrum* var. *barbatum* (C. Presl) Merrill; *A. pentan**drum* var. *rotundisepalum* (Hayata) Hurusawa; *A. pubescens* Roxburgh var. *moritzii* Tulasne; *A. rotundisepalum* Hayata.

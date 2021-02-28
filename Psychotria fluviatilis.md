@@ -1,0 +1,14 @@
+溪边九节",
+6.**Psychotria fluviatilis** Chun ex W. C. Chen Acta Phytotax. Sin. 30: 268. 1992.",
+
+## Description
+Shrubs, 0.4-3 m tall; stems glabrous. Petiole 0.5-1.8 cm, glabrous; leaf blade drying papery to thinly leathery, grayish olive-green, yellowish green, or occasionally dark brown (*Zhang Guicai 488*, MO!), sometimes paler below, oblanceolate, narrowly elliptic, or narrowly elliptic-oblong, 5-11 × 1-3.7 cm, glabrous, abaxially with silvery or mottled thickened epidermis, base acute to cuneate, margins flat, apex deltoid, acute, or acuminate; secondary veins 4-8 pairs, not forming a submarginal vein, without domatia; stipules caducous, lanceolate or triangular, interpetiolar, 4-7 × 2.5-5.5 mm, glabrous, 2-lobed for 1/10-1/4, lobes narrowly triangular to linear, sometimes gland-tipped. Inflorescences terminal or often to pseudoaxillary, cymose-paniculiform, few to several flowered, glabrous, sessile to pedunculate; peduncle to 0.7 cm; branched portion corymbiform or broadly pyramidal, 1-3 × 1-1.5 cm, with 1 or 2 pairs of developed secondary axes; bracts triangular to linear-lanceolate, 0.5-1.5 mm; pedicels to 2 mm. Flowers subsessile and pedicellate in small dichotomous cymes. Calyx glabrous; hypanthium portion obconic, 1-1.5 mm; limb 0.5-1 mm, lobed shallowly or for up to 1/5; lobes broadly triangular. Corolla white, tubular, glabrous outside; tube 3-3.5 mm, in throat white villous; lobes triangular-oblong, 1-1.7 mm. Drupes red, oblong-ellipsoid or subglobose, 6-7 × 3-6 mm, with pedicels to 10 mm; pyrenes shallowly 3- or 4-ribbed. Fl. Apr-Sep, fr. Aug-Dec.
+  "Reference": "This name was validly published as cited above; the same article was republished later in the same journal in the same year, with this species treated on pp. 482-483. The later treatment is sometimes cited as the place of publication but is superfluous.This name was validly published as cited above; the same article was republished later in the same journal in the same year, with this species treated on pp. 482-483. The later treatment is sometimes cited as the place of publication but is superfluous.
+  "Statistics": "● Forests along valley streams; 500-1000 m. Guangdong, Guangxi.
+**7．溪边九节（植物分类学报）**
+
+Psychotria fluviatilis Chun ex W. C. Chen in Acta Phytotax. Sinica 30 (5): 482, 图1. 1992.
+
+灌木，高0.4-3米；小枝无毛。叶对生，纸质或薄革质，倒披针形或椭圆形，稀倒卵形，长5-11厘米，宽1-3.7厘米，顶端渐尖、短尖或稍钝，基部渐狭或楔形，全缘，无毛，稍光亮，干时榄绿色，下面较苍白；侧脉4-8对，纤细，不明显或在下面稍明显；叶柄长0.5-1.8厘米；托叶披针形或三角形，纸质，长4-7毫米，宽2.5-5.5毫米，顶端渐尖，有时2裂，脱落。聚伞花序顶生或腋生，少花，长1-3厘米，宽1-1.5厘米；总花梗长0.2-2厘米，常被疏短柔毛；苞片和小苞片线状披针形，长0.7-1毫米；花梗长约1.5毫米；花萼倒圆锥形，长1.5毫米，檐部扩大，花萼裂片4-5，三角形，长0.5毫米；花冠白色，管状，外面无毛，花冠管长3-3.5毫米，宽1.5毫米，喉部被白色长柔毛，花冠裂片4-5，长圆形，顶端稍尖，长1-1.7毫米，开放时下弯；花药长圆形，稍伸出；柱头稍伸出。果长圆形或近球形，红色，无毛，具棱，长6-7毫米，直径3-6毫米，顶部有宿存萼；果柄纤细，长5-10毫米；种子2颗，背面凸，具棱，腹面平坦。花期4-10月，果期8-12月。
+
+产广东、广西。生于山谷溪边林中，海拔550-1000米。模式标本采于广东英德。

@@ -1,0 +1,15 @@
+腺花旗杆",
+10.**Dontostemon glandulosus** (Karelin & Kirilov) O. E. Schulz",
+
+## Description
+Herbs annual or biennial, (1.5-)5-20(-30) cm tall, glandular. Stems erect or ascending, simple or many branched basally. Basal and lowermost cauline leaves pubescent, with simple trichomes to 1.5 mm, glandular; petiole 2-10(-25) mm; leaf blade lanceolate or oblong, (0.3-)0.5-2.5(-4) cm × 2-10(-15) mm, base attenuate or cuneate, margin dentate or pinnatifid, ciliate, apex acute. Fruiting pedicels ascending or divaricate, 2-8(-12) mm, glandular. Sepals oblong, 1-2(-3) × 0.5-1 mm, sparsely pubescent apically or glabrous. Petals lavender or white, spatulate, 2-4(-4.5) × (0.5-)1-1.5(-2) mm, apex obtuse or subemarginate; claw to 1.5 mm. Filaments of median stamens 1.5-2.5 mm, free, gradually expanded to broad base, toothless; filament of lateral stamens 1-2 mm, slender; anthers broadly ovate, 0.2-0.4 mm, apiculate. Ovules 14-70 per ovary. Fruit (0.7-)1.3-3(-4) × 0.8-1.3 mm, straight, torulose, terete; valves glandular, with prominent midvein and marginal veins; style 0.5-1 mm; stigma slightly lobed. Seeds brown, ovate or oblong, 0.8-1.7 × 0.5-0.8 mm, not margined distally; cotyledons obliquely accumbent or obliquely incumbent. Fl. and fr. Jun-Aug.
+
+> Alpine meadows and steppe, sandy river banks, rock crevices, gravelly plains, dry scrub, roadsides, scree slopes; 1900-5300 m. Gansu, Nei Mongol, Ningxia, Qinghai, Sichuan, Xinjiang, Xizang, Yunnan [Kashmir, Kazakhstan, Nepal, Russia, Sikkim, Tajikistan].
+  "Synonym": "&lt;I&gt;Arabis glandulosa&lt;/I&gt; Karelin &amp; Kirilov, Bull. Soc. Imp. Naturalistes Moscou 15: 146. 1842; &lt;I&gt;Alaida glandulosa&lt;/I&gt; (Karelin &amp; Kirilov) Dvorák; &lt;I&gt;Dimorphostemon glandulosus&lt;/I&gt; (Karelin &amp; Kirilov) Golubkova; &lt;I&gt;D. sergievskianus&lt;/I&gt; (Polozhij) S. V. Ovchinnikova; &lt;I&gt;Neotorularia sergievskiana&lt;/I&gt; (Polozhij) Czerepanov; &lt;I&gt;Sisymbrium glandulosum&lt;/I&gt; (Karelin &amp; Kirilov) Maximowicz; &lt;I&gt;Stenophragma glandulosum&lt;/I&gt; (Karelin &amp; Kirilov) B. Fedtschenko; &lt;I&gt;Torularia glandulosa&lt;/I&gt; (Karelin &amp; Kirilov) Vassilczenko; &lt;I&gt;T. sergievskiana&lt;/I&gt; Polozhij.
+**2. 腺异蕊芥 图版92：10-13**
+
+Dimorphostemon glandulosus (Kar. et Kir.) Golubk. in Бот. Журн. 59 (10): 1453. 1974 et in Nov. Syst. Pl. Vasc. 13: 125. 1976. ——Arabis glandulosa Kar. et Kir. in Bull. Soc. Nat. Mcsc. 15 (1): 146. 1842. ——Sisymbrium glandulosum (Kar. et Kir.) Maxim. Fl. Tangut. 61. 1889. ——Dontostemon glandulosus (Kar. et Kir.) O. E. Schulz in Notizbl. Bot. Gart. Berlin 10: 125. 1929. ——Torularia glandulosa (Kar. et Kir.) Vass. in Kom. Fl. URSS 8: 69. 1939. ——Alaida glandulosa (Kar. et Kir.) Dvorak. in Fedde, Repert. Sp. Nov. 82 (6): 431. 1971.
+
+一年生草本，高3-15厘米；茎多数呈铺散状分枝或直立，植株具腺毛和单毛。单叶互生，长椭圆形，长1-4厘米，宽2-5毫米，边缘具2-3对篦齿状缺刻或羽状深裂，两面皆被黄色腺毛和白色单毛。总状花序生枝顶，花序短缩，结果时渐延长；萼片长椭圆形，长2-2.5毫米，宽约1毫米，具白色膜质边缘，背面常具白色单毛及腺毛，内轮2枚，基部略呈囊状；花瓣宽楔形，长3-4毫米，顶端全缘，基部具短爪；长雄蕊花丝自顶端向下逐渐扩大，扁平，无齿。长角果圆柱形，长1.5-2厘米，具腺毛；果梗长3-6毫米，在总轴上斜上着生。种子每室1行，种子褐色而小，椭圆形，无膜质边缘；子叶斜背倚胚根。花果期6-9月。
+
+产甘肃、四川、宁夏、青海、新疆、云南（德钦）、西藏。生于山坡草地、高山草甸、河边砂地、山沟灌丛或石缝中，海拔1900-5100米。苏联、锡金也有分布。

@@ -1,0 +1,7 @@
+小叶兔儿风",
+38.**Ainsliaea parvifolia** Merrill Philipp. J. Sci. C, 12: 110. 1917.",
+
+## Description
+Herbs, perennial, 11-25 cm tall. Leaves basally clustered; petiole 2-5 cm, wingless, strigose; leaf blade ovate to oblong, 2-3.5 × 1.5-2 cm, subleathery, palmate-pinnate veined, abaxially moderately strigose, adaxially subglabrous, base abruptly rounded, then cuneately narrowed into petiole, margin denticulate, apex acute-mucronate. Capitula shortly pedunculate, arranged in spikes, 3-flowered; involucre 5- or 6-seriate, narrowly campanulate, ca. 4 mm in diam.; phyllaries dull purple, subleathery, glabrous, outer phyllaries ovate, 1-2 mm, inner linear to elliptic, ca. 10 mm. Florets bisexual, chasmogamous, corollas white, tubular, 8.5-11 mm, anther appendages truncate. Achenes oblong to obovoid, ca. 2 mm, apically pilose; pappus 6.5-8 mm. Fl. Oct.
+  "Reference": "This species is similar to *Ainsliaea yunnanensis* in its leaves long petiolate, leaf blades ovate with cuneate base, and capitula sessile but is quite different in its foliar trichomes straight (vs. T-shaped), involucre 8-10 mm (vs. 13-15 mm), and achenes apically pilose (vs. pilose).This species is similar to *Ainsliaea yunnanensis* in its leaves long petiolate, leaf blades ovate with cuneate base, and capitula sessile but is quite different in its foliar trichomes straight (vs. T-shaped), involucre 8-10 mm (vs. 13-15 mm), and achenes apically pilose (vs. pilose).
+  "Statistics": "● Open grassy slopes; 500-1000 m. Guangdong.

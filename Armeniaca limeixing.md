@@ -1,0 +1,9 @@
+李梅杏",
+2.**Armeniaca limeixing** J. Y. Zhang & Z. M. Wang",
+
+> This species is cultivated for its fruit and is unknown in the wild.
+
+## Description
+Trees 3–4 m tall, spreading. Trunk scabrous, bark grayish brown. Perennial branches grayish brown; previous year’s branches yellowish brown on exposed side, green to reddish brown on adaxial side, glabrous, with sparse flattened orbicular lenticels. Petiole 1.8–2.1 cm, glabrous, with 2–4 nectaries; leaf blade elliptic to obovate-elliptic, 6–7 × 3–4 cm, both surfaces glabrous or abaxially pubescent in vein axils, base cuneate, margin shallowly obtusely dentate, apex acuminate to caudate; midvein yellowish white. Flowers solitary to 3 in clusters, opening before or at same time as leaves, 1.5–2.5 cm in diam., slightly fragrant. Pedicel 3–8 mm, 4–12 mm in fruit, glabrous or rarely pubescent. Hypanthium yellowish green to reddish brown, campanulate, outside glabrous. Sepals green, rarely brown, ligulate to broadly ligulate, not reflexed after anthesis, outside glabrous, margin serrate. Petals 5(–8), white, suborbicular to elliptic, 8–10 × 7–8 mm, base shortly clawed, margin undulate, apex emarginate. Stamens 24–30, shorter than pistil; anthers yellowish. Carpel 1(or 2); ovary and base of style pubescent. Drupe yellowish white, orangish yellow, or yellowish red, subglobose to ovoid-globose, pubescent, not glaucous, with a deep suture; mesocarp yellow to orangish yellow, succulent, sweet-sour, fragrant, adnate to endocarp; endocarp compressed globose, ventral ribs obtuse, dorsal ribs acute, lateral ribs nearly absent, surface shallowly reticulate, base longitudinally shallowly furrowed, apex obtuse to acute. Seed bitter. Fl. Apr–May, fr. Jun–Jul.
+
+> Cultivated.  Hebei, Heilongjiang, Henan, N Jiangsu, Jilin, Liaoning, Shaanxi, Shandong.

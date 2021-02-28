@@ -1,0 +1,15 @@
+全缘对囊蕨",
+35.**Deparia formosana** (Rosenstock) R. Sano Acta Phytotax. Geobot. 51(1): 17. 2000.",
+
+## Description
+Rhizome apex with broad lanceolate brown scales. Stipe gray, 20-30 cm, base also scaly, sometimes upward with small narrowly lanceolate scales. Fertile frond of young plants deeply pinnatifid; lamina narrowly triangular, base cordate, lower lobes oval-lanceolate or broadly lanceolate, apex shortly acuminate. Fertile frond of adult plants elliptic, up to 45 × 28 cm, with 1 or 2(or 3) pairs of free lower pinnae, apex abruptly narrowed, and pinnatilobate and acuminate, or undulate to entire. Pinnae opposite or subopposite, oblong, subfalcate, base rounded, slightly asymmetrical, sessile or with indistinct stalk, entire, sometimes wavy, apex acuminate. Veins obvious on both sides, anastomosing with polygonal areoles formed by equally thin veinlets. Lamina gray-green when dried, lighter colored on abaxial surface; both sides of rachis and abaxial side of costae with rust-yellow short multicellular hairs and wormlike or coarse hairlike small scales. Sori with variable length, 1-3 irregular rows from costa to lamina margin, sori on acroscopic veinlets double, other sori single; indusia brown when mature, long, narrow. Spore bean-shaped.
+
+> Forests beside streams, forested slopes; 500-1400 m. Taiwan, Yunnan (Suijiang) [Japan].
+  "Synonym": "*Diplazium formosanum* Rosenstock, Hedwigia 56: 337. 1915; *Dictyodroma basipinnatifida* (Ching) Ching; *D. formosana* (Rosenstock) Ching; *Diplazium basipinnatifidum* Ching; *D. odoratissimum* Hayata.
+**3. 全缘网蕨（蕨类名词及名称）　台湾网蕨（植物分类学报）假肠蕨（台湾植物志）网脉双盖蕨（台湾植物志）　图版117: 1-9**
+
+Dictyodroma formosanum (Rosenst.) Ching in Acta Phytotax. Sin. 9 (1): 60. 1964; DeVol et C. M. Kuo in H. L. Li. et al., Fl. Taiwan 1: 459, pl. 163. 1975; Y. L. Chang et al., Sporae Pterid. Sin. 222, t. 48, f. 3-4. 1976; Nakaike, Enum. Pterid. Jap. 154. 1975 et New Fl. Jap. 364, cum f. a-c. 1982. ——Diplazium formosanum Rosenst. in Hedwigia 56: 337. 1915; C. Chr, Ind. Fil. Suppl. 2: 12. 1917; W. C. Shieh et al. in T. C. Huang, Fl. Taiwan 2nd ed. 1: 438, pl. 176. 1994. ——Diplazium odorasissimum Hayata, Ic. Pl. Form. 5: 273, f, 103. 1915; C. Chr., Ind. Fil. Suppl. 2: 12. 1917; Ogata, Ic. Fil. Jap. 4: t. 161. 1931. ——Diplazium heterphlebium auct. non (Mett.) Diels 1899: Wu, Wong et Pong in Bull. Dept. Biol. Sun Yatsen Univ. No. 3: 168, t. 75. 1932; K. Iwats., Ferns ＆ Fern Allies Jap. 257, pl. 176, f. 5. 1992. ——Anisogonium heterophlebium (Mett.) H. Ito, Fil. Jap. Ill. t. 170. 1944 non Bedd. 1869. ——Dictyadroma basipinnatifidum (Ching) Ching, l. c. 9 (1): 59, 1964. ——Diplazium basipinnatifidum Ching in Sinensia 1 (4): 49. 1930; C. Chr., Ind. Fil. Suppl. 3: 72. 1934.
+
+根状茎先端被褐色阔披针形鳞片。叶柄青灰色，长20-30厘米，基部被与根状茎上同样的鳞片，向上偶有狭披针形小鳞片；小龄植株的能育叶为深羽裂单叶，叶片长三角形，基部心形，下部裂片椭圆披针形或短阔披针形，先端短渐尖；充分成长的植株能育叶椭圆形，长达45厘米，中部宽达28厘米，下部有1-2(-3)对侧生分离羽片，顶部均显著急缩浅羽裂渐尖或两侧波状至全缘；分离羽片对生或近对生，镰状长椭圆形，先端渐尖，基部圆形，略不对称，无柄或有不明显的短柄；羽片及裂片均全缘，偶呈波状；叶脉两面明显，无明显侧脉。叶干后褐绿色，下面色较浅；叶片两面几光滑，仅叶轴两面、主脉下面中部以下及上面近基部疏生锈黄色短节毛及蠕虫状或粗毛状小鳞片。孢子囊群长短不等，在主脉两侧排列成不规则的1-3行，生于每组小脉基部上出一脉的多为双盖蕨型；囊群盖成熟时褐色，狭长。孢子豆形。
+
+分布于台湾（台北、宜兰、桃源、新竹、苗栗、台中、南投、嘉义、屏东、台东）、云南东北部（绥江）。生于海拔800米以下的溪谷林下。模式标本采自台湾（台北）。

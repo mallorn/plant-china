@@ -1,0 +1,7 @@
+外弯龙胆",
+137.**Gentiana recurvata** C. B. Clarke",
+
+## Description
+Annuals (3-)9-22 cm tall. Stems ascending to erect, 3 or 4 &amp;#215; dichotomously branched from base, glabrous. Basal leaves withered at anthesis; petiole 2-4 mm; leaf blade ovate-elliptic to ovate, 5-12(-15) &amp;#215; 3-7 mm, abaxially glabrous, adaxially densely and minutely papillate, apex acute to obtuse; veins 1-3, distinct, slender. Stem leaves spreading; petiole tube 0.5-1 mm; leaf blade lanceolate, narrowly elliptic, or ovate, (3-)5-11 &amp;#215; 1.5-4 mm, much shorter than internodes, abaxially glabrous, adaxially densely and minutely papillate, base rounded to cordate, apex acuminate to acute, midvein distinct. Flowers few to many. Pedicel 0.7-1.6 cm, glabrous. Calyx narrowly obconic, 4-5.5 mm; lobes filiform-subulate, 1.5-2 mm, base 0.5-1 mm wide, apex acuminate, midvein prominent. Corolla blue-purple, obconic to narrowly so, 1-1.4 cm; lobes ovate-elliptic to ovate, 3.5-4 mm, margin entire, apex obtuse; plicae ovate-oblong, 2-2.5 mm, margin clavate fringed with expanded tips. Stamens inserted at middle of corolla tube, equal; filaments 1.5-2.5 mm; anthers ellipsoid, 0.7-0.9 mm. Style 1-1.5 mm; stigma lobes oblong. Capsules narrowly obovoid to obovoid, 4-5 mm; gynophore to 1.4 cm. Seeds light brown, ellipsoid to ovoid-ellipsoid, 1.2-1.5 mm. Fl. and fr. Aug-Oct.
+
+> Meadows; 3000-4000 m. SE Xizang, NW Yunnan [NE Myanmar, E Nepal, Sikkim].

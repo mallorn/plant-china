@@ -1,0 +1,7 @@
+藤枝秋海棠",
+157.**Begonia tengchiana** C. I Peng & Y. K. Chen",
+
+## Description
+Herbs. Rhizomes to 2.1 cm in diam. Stems 38-80 cm tall, to 1.8 cm in diam. Leaves basal and cauline; stipules caducous, ovate to broadly ovate, to 2.4 × 1.9 cm, margin entire, apex acuminate; petiole glabrous, 7-23 cm; blade ovate to suborbicular, 9-25 × 7-18 cm, abaxially glabrous, adaxially sparsely scaberulous, venation palmate to palmate-pinnate, 6-9-veined, base oblique, cordate, margin remotely irregularly serrate or denticulate, apex acuminate. Inflorescences 10-24 cm; peduncle to 18 cm; bracts caducous, ovate to broadly ovate, 0.7-1.8 cm × 4-13 mm, thickly papery, glabrous, margin serrate, apex acute. Staminate flowers: tepals 4, margin slightly irregularly dentate, outer 2 broadly orbicular to orbicular, 1.1-2.3 × 0.9-2.2 cm, abaxially strigillose, inner 2 oblanceolate to narrowly obovate, 1-2.1 cm × 5-11 mm; stamens 39-68; anthers broadly oblanceolate to narrowly obovate, 1.9-2.3 mm; filaments 1.2-2.6 mm. Pistillate flowers: bracteoles in pairs, ca. 1 cm, narrowly lanceolate; tepals 5(or 6), unequal or subequal, narrowly obovate to very broadly obovate, largest 0.9-1.9 × 0.6-1.7 cm, smallest 0.7-1.6 cm × 3-9 mm; ovary subglabrous, locules 3; placentae axile, bilamellate; styles 3, 4.2-5.1 mm, stigmas 2-cleft, spiraled. Capsule nodding, trigonous, unequally 3-winged; abaxial wing shallowly triangular, to 5 mm; lateral wings to 3 mm. 2*n* = 82*.
+
+> ● Forests; 1500-1800 m. S Taiwan.

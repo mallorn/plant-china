@@ -1,0 +1,14 @@
+粘毛鼠尾草",
+44.**Salvia roborowskii** Maximowicz",
+
+## Description
+Herbs annual or biennial. Stems erect, 30-90 cm, much branched, densely viscid-hirsute. Petiole 2-6 cm, gradually shorter toward stem apex; leaf blade hastate to hastate-triangular, 3-8 &amp;#215; 2.5-5.5 cm, strigose, abaxially yellowish glandular, base shallowly cordate to truncate, margin crenate, apex acute to obtuse. Verticillasters 4-6-flowered, in terminal and axillary racemes, widely spaced at base; upper bracts lanceolate to ovate, 0.5-1.5 cm, glandular villous, intermixed with yellow-brown glands, margin undulate or entire. Pedicel ca. 3 mm. Calyx campanulate, 6-8 mm in flower, dilated after anthesis, hirsute, glandular pubescent, intermixed with yellowish brown glands, 2-lipped to 1/3 its length; upper lip triangular-semicircular, ca. 3.5 &amp;#215; 5 mm, apex 3-mucronate; lower lip nearly as long as adaxial, teeth triangular, apical spine ca. 1 mm. Corolla yellow, 1-1.3(-1.6) cm, pilose or subglabrous; tube imperfectly pilose annulate inside, somewhat exserted, slightly constricted below middle, exserted part dilated, to ca. 5 mm wide at throat; upper lip straight, oblong, ca. 4.5 &amp;#215; 2.7 mm, margin entire; lower lip longer than upper, ca. 3.5 &amp;#215; 7 mm; middle lobe obcordate, ca. 1.5 &amp;#215; 3 mm. Filaments ca. 4 mm; connectives arcuate, ca. 4 mm, arms subequal. Nutlets obovoid, ca. 2.8 &amp;#215; 1.9 mm, dark brown. Fl. Jun-Aug, fr. Sep-Oct.
+
+> * Grasslands, hillsides, foothills, wet streamsides; 2500-3700 m. Gansu, Qinghai, Sichuan, Xizang, Yunnan.
+**44.粘毛鼠尾草 图版22:5-7**
+
+Salvia roborowskii Maxim. in Mel. Biol. Acad. Sci. St. Petersb. 11: 302. 1881; et in Bull. Acad. Sci. St. Petersb. 27: 527. 1881; Hemsl. in Journ. Linn. Soc. Bot. 26: 287. 1890; Dunn in Notes Bot. Gard. Edinburgh 6: 163. 1915; Kudo in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 166. 1929; Rehd. et Kobuski in Journ. Arn. Arb. 14: 31. 1933; Stib. in Act. Hort. Gothob. 9: 138. 1934, p. p.; et in Fedde, Repert. Sp. Nov. 39: 181. 1936; in Hand.-Mazz. Symb. Sin. 7: 929. 1936; in Act. Hort. Gothob. 13: 350. 1939; Hao in Engler, Bot. Jahrb. 6: 635. 1938.
+
+一年生或二年生草本；根长锥形，长10-15厘米，径3-7毫米，褐色。茎直立，高30-90厘米，多分枝，钝四棱形，具四槽，密被有粘腺的长硬毛。叶片戟形或戟状三角形，长3-8厘米，宽2.5-5.5厘米，先端变锐尖或钝，基部浅心形或截形，边缘具圆齿，两面被粗伏毛，下面尚被有浅黄色腺点；叶柄长2-6厘米，下部者较长，向茎顶渐变短，毛被与茎同。轮伞花序4-6花，上部密集下部疏离组成顶生或腋生的总状花序；下部苞片与叶相同，上部苞片披针形或卵圆形，长5-15毫米，边缘波状或全缘，被长柔毛及腺毛，有浅黄褐色腺点；花梗长约3毫米，与花序轴被粘腺硬毛。花萼钟形，开花时长6-8毫米，花后增大，外被长硬毛及腺短柔毛，其间混生浅黄褐色腺点，内面被微硬伏毛，二唇形，唇裂至花萼长1/3，上唇三角状半圆形，长约3.5毫米，宽约5毫米，先端具三个短尖头，下唇与上唇近等长，浅裂成2齿，齿三角形，先端锐尖，具长约1毫米的刺尖尖头。花冠黄色，短小，长1-1.3(1.6)厘米，外被疏柔毛或近无毛，内面离冠筒基部2-2.5毫米有不完全的疏柔毛毛环，冠筒稍外伸，在中部以下稍缢缩，出萼后膨大，至喉部宽约5毫米，冠檐二唇形，上唇直伸，长圆形，长约4.5毫米，宽约2.7毫米，全缘，下唇比上唇大，长约3.5毫米，宽约7毫米，3裂，中裂片倒心形，长1.5毫米，宽3毫米，先端微缺，基部收缩，侧裂片斜半圆形，宽约2毫米。能育雄蕊2，伸至上唇，内藏或近外伸，花丝长约4毫米，药隔弯成弧形，长约4毫米，上下臂近等长，二下臂药室联合。花柱伸出，先端不相等2浅裂，后裂片较短。花盘前方略膨大。小坚果倒卵圆形，长2.8毫米，直径1.9毫米，暗褐色，光滑。花期6-8月，果期9-10月。
+
+产甘肃西南部，四川西部、西南部，青海，西藏，云南西北部；生于山坡草地、沟边荫处、山脚山腰，海拔2500-3700米。模式标本采自甘肃西部。

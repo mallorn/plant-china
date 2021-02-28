@@ -1,0 +1,16 @@
+广南冬青",
+139.**Ilex guangnanensis** C. J. Tseng & Y. R. Li",
+
+## Description
+Trees evergreen, 6-15 m tall; bark gray. Current year’s branchlets gray-green, slender, longitudinally angular and sulcate, glabrous; second to third year’s branchlets brown-yellow, leaf scars convex, deltoid-semicircular, lenticels absent; terminal buds narrowly conical, glabrous, apically acuminate, bud scales sparsely ciliate. Stipules caducous; petiole 5-9 mm, raised abaxially, narrowly sulcate adaxially; leaf blade oblong-elliptic or obovate-elliptic, 4-8 × (1.3-)2-2.5 cm, leathery, lateral veins 9-11 pairs, conspicuous abaxially, obscure adaxially, reticulate veins evident only abaxially, base obtuse or broadly cuneate, margin undulate, conspicuously serrate, apex acuminate-caudate or falcate. Inflorescences: cymes, fasciculate, axillary on current year’s branchlets; flowers 4-merous. Male inflorescences: cymes of order 1 or 2, 1-3-flowered; peduncles nearly absent; pedicels very short, ca. 1 mm, glabrous; bracteoles 2, basal, ovate, ca. 1.5 mm, apex obtuse, ciliate; calyx patelliform, ca. 3 mm in diam., deeply 4-lobed, lobes ovate, ca. 1 mm, ciliate; corolla rotate, 5-6 mm in diam., petals oblong, ca. 2.5 × 2 mm, basally slightly connate, apex rounded; stamens shorter than petals, anthers ovoid, ca. 1 mm; rudimentary ovary ovoid, ca. 1 mm in diam., apex obtuse-rounded, shallowly 4-lobed. Female inflorescences: 1-flowered cymes; pedicels ca. 1.5 mm; bracteoles 2, basal, ovate, minutely ciliate; calyx patelliform, lobes broadly ovate-deltoid, ciliate; petals oblong, ca. 3 × 1.5 mm; staminodes shorter than petals, sterile anthers ovoid; ovary ovoid-globose, ca. 2 mm in diam., stigma convex, shallowly 4-lobed. Fruit red, globose, ca. 7 mm in diam.; fruiting pedicel ca. 2 mm, glabrous; bracteoles 2, basal; persistent calyx explanate, not quadrangular, 2.5-3 mm in diam.; persistent stigma thickly discoid, 4-lobed; pyrenes 4, ellipsoidal, ca. 4.5 mm, ca. 2.5 mm in diam., abaxially palmately thinly striate, subsmooth, inconspicuously sulcate, laterally nearly smooth, inconspicuously striate, endocarp bony. Fl. Mar, fr. Jun-Nov.
+
+> ● Evergreen broad-leaved forests; 1100-1600 m. SE Yunnan (Guangnan).
+**139.广南冬青（植物研究）图版40: 1-6**
+
+Ilex guangnanensis C. J. Tseng ex Y. R. Li in Bull. Bot. Res. 5 (1) : 18, pl. 5: 4. 1985; 云南植物志4: 261, 图版73: 1-4. 1986.
+
+常绿乔木；高6-10米；树皮灰色。当年生幼枝细弱，灰绿色，具纵棱沟，无毛，二、三年生枝褐黄色，具凸起的三角状半圆形叶痕，皮孔无；顶芽狭圆锥形，瘦长，渐尖，无毛，腋芽卵球形，芽鳞具疏缘毛。叶生于1-2年生枝上，叶片革质，长圆状椭圆形或倒卵状椭圆形，长4-8厘米，宽(1.2-)2-2.5厘米，先端尾状渐尖，渐尖头常镰状弯曲，长约1.5厘米，基部近圆形或阔楔形，边缘稍反卷，具疏的细圆齿，齿尖变黑色，叶面绿色，背面淡绿色，两面无毛，主脉在叶面凹陷，背面隆起，侧脉9-11对，在叶面不明显，背面显著，网状脉仅背面明显；叶柄长5-9毫米，上面具狭槽，背面隆起，无毛；托叶无。花序簇生于当年生枝的叶腋内；花4基数。雄花序为1-3花的聚伞花序簇生，总花梗几无，花梗极短，长约1毫米，无毛，基部具2枚小苞片，小苞片卵形，长约1.5毫米，先端钝，具短缘毛；花萼盘状，直径约3毫米，4深裂，裂片卵形，长约1毫米，具缘毛；花冠辐状，直径约5-6毫米，花瓣长圆形，长约2.5毫米，宽约2毫米，先端圆形，基部合生；雄蕊短于花瓣，长约为花瓣的3/4，花药卵形，长约1毫米；退化子房卵圆形，直径约1毫米，顶端钝圆，4浅裂。雌花单花簇生于当年生枝叶腋内，花梗长约1.5毫米，基部具卵形小苞片2枚，具小缘毛；花萼盘状，裂片阔卵状三角形，具缘毛；花瓣长圆形，长约3毫米，宽约1.5毫米；退化雄蕊短于花瓣，败育花药卵形；子房卵状球形，直径约2毫米，柱头凸起，4浅裂。果球形，直径约7毫米，成熟后红色，果梗长约2毫米，无毛，基部具2枚小苞片；宿存花萼平展，四边形，直径2.5-3毫米，宿存柱头厚盘状，4浅裂；分核4，椭圆体形，长约4.5毫米，背部宽约2.5毫米，具掌状细条纹，近平滑，沟槽不明显，两侧面几平滑，条纹不明显，内果皮骨质。花期3月，果期6-11月。
+
+产于云南东南部（广南，模式标本产地，林中文627. fr. KUN.）；生于海拔1150-1550米的常绿阔叶林中。
+
+本种与弯尾冬青Ilex cyrtura Mert.相似，惟本种之小枝及叶无毛，叶片狭，较小，侧脉在叶面不明显，果柄短，长约2毫米，果较大，直径约7毫米，宿存柱头厚盘形而不同。

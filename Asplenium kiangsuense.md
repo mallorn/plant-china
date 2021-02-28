@@ -1,0 +1,10 @@
+江苏铁角蕨",
+30.**Asplenium kiangsuense** Ching & Y. X. Jing Fl. Jiangsu. 1: 465. 1977.",
+
+> *Asplenium kiangsuense* is similar to a small form of *A. normale* but differs in its scales with wider central band of occluded cells, the adaxially flat rachis, the green rachis tip, the smaller and more elliptic pinnae, and the perispore. The green rachis tip and the pinna shape make it also similar to *A. adulterinum* Milde, from which it differs in the blacker and wider zone of occluded cell lumina of its scales. Due to confusion with *A. normale*, the distribution of this taxon is not well known.
+
+## Description
+Plants 6-12 cm tall. Rhizome erect, short, apex scaly; scales narrowly triangular to linear-subulate, with broad opaque black central stripe and narrow paler clathrate borders, margin with uniseriate hairs at scale base. Fronds caespitose; stipe castaneous to dark brown, shiny, terete, 1-3.5 cm, with brownish, hyaline fibrillose paleasters, subglabrous when old; lamina linear, 3-10 × ca. 1 cm, apex acute, 1-pinnate; pinnae 8-20(-22) pairs, lower ones subopposite, hardly reduced, middle pinnae spreading horizontally, elliptic to trapeziform-oblong, 4-5 × 4-5 mm, base asymmetrical, acroscopic side truncate and close to rachis, basiscopic side narrowly cuneate, shortly stalked to subsessile, margin entire to sinuate, apex obtuse. Venation anadromously pinnate or with first basiscopic vein lacking, costa with 2 or 3 acroscopic veins, obscure, veins simple or 1-forked. Fronds papery, grayish green when dry; rachis castaneous to dark brown, shiny, with small scales, semiterete and adaxially flat or with 2 slightly raised lateral ridges, apical part green on both sides, often deciduous. Sori 3-5 per pinna, linear-elliptic, ca. 1 mm, median on subtending vein; indusia grayish green, elliptic, membranous, entire and opening toward costa. Spores pale brown with lophate (costate) perispore, average exospore length 31-36 µm.
+
+> ● On rocks in forests; 100-1000 m. Anhui, Fujian, Hunan, Jiangsu, Jiangxi, Yunnan, Zhejiang.
+  "Synonym": "*Asplenium gulingense* Ching &amp; S. H. Wu; *A. hangzhouense* Ching &amp; C. F. Zhang; *A. parviusculum* Ching.

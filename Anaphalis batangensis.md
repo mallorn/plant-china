@@ -1,0 +1,7 @@
+巴塘香青",
+40.**Anaphalis batangensis** Y. L. Chen Acta Phytotax. Sin. 28: 488. 1990.",
+
+## Description
+Rhizome repent, thickish, with slender sobols. Stems erect or ascending, 10-40 cm, densely gray or grayish white tomentose, upper parts densely leafy. Lower and middle leaves small, 4-4.5 × 0.3-0.5 cm, base attenuate, decurrent on stem into a narrow wing, margin flat, apex acute or acuminate; upper leaves somewhat erect or adnate to stem, acuminate at apex, with withered long cusp; all leaves white or ash-gray tomentose on both surfaces, 1- or 3-veined. Capitula 4-8, densely corymbiform or capitate, at apex of stems or branches; peduncle 2-4 mm. Involucre broadly campanulate, ca. 7 × 8 mm; phyllaries 4- or 5-seriate; outer phyllaries light or dark brown, ovate, ca. 3 mm, tomentose; middle ones milky white, ovate-oblong, ca. 6 × 2-2.5 mm, rounded at apex; innermost ones narrowly oblong, ca. 5 mm, with a ca. 2/3 of full length claw. Receptacle with fimbrillate short hairs. Predominantly female capitula with numerous marginal female florets, center with 2 or 3 male florets; predominantly male capitula with male florets only. Corolla tube 3-4 mm. Pappus slightly exceeding corolla, incrassate at tip of apex in male florets, serrulate. Fl. and fr. Jul-Aug.
+  "Reference": "No specimens of this species were seen by the second author.No specimens of this species were seen by the second author.
+  "Statistics": "● *Picea* forest margins; 4000-4200 m. Sichuan (Batang).

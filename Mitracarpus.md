@@ -1,0 +1,16 @@
+盖裂果属",
+52.**Mitracarpus** Zuccarini in Schultes & J. H. Schultes Mant. 3: 210 [*\"Mitracarpum\"*], 399. 1827.",
+
+> About 30 species: widespread in tropical and subtropical Central, North, and South America and the Antilles, with one species widely nat-uralized in tropical Africa, Asia, Australia, and Pacific islands; one species (introduced) in China.
+
+## Description
+Herbs [to small shrubs], annual or perennial, unarmed. Raphides present. Leaves opposite, subsessile or sessile, without domatia; stipules persistent, interpetiolar and fused to leaf bases or petioles, truncate to rounded, setose. Inflorescences terminal and/or axillary, glomerulate or capitate, several to many flowered, sessile, sometimes immediately subtended by 1 or 2 pairs of leaves, bracteate. Flowers sessile, bisexual, monomorphic. Calyx limb deeply 4(or 5)-lobed; lobes usually unequal in pairs, usually with hyaline margins. Corolla white, salverform or funnelform, inside glabrous or pubescent in throat; lobes 4, valvate in bud. Stamens 4, inserted in corolla throat, included or exserted; filaments developed; anthers dorsifixed. Ovary 2-celled, ovules 1 in each cell on peltate axile placentas attached at middle of septum; stigmas 2, linear, usually exserted. Fruit capsular, subglobose to somewhat dicoccous, with dehiscence circumscissile around equator, with apical valve or \"lid\" deciduous and basal portion persistent, papery to cartilaginous, with calyx limb persistent or deciduous on lid; seeds 2, medium-sized, oblate to rounded, on ventral (i.e., adaxial) face with cruciform (i.e., X-shaped) scar; endosperm fleshy; cotyledon leaflike; radicle hypogeous.
+  "Reference": "This genus is frequently overlooked even in its native range, but the circumscissile capsules, seeds with a distinctive cruciform scar, leaves scabrous to the touch on the upper surface, and well-developed calyx lobes with hyaline erose margins are distinctive. W. C. Ko (in FRPS 71(2): 210. 1999) described the ovary as sometimes 3-celled; this condition is not otherwise known in *Mitracarpus* and has not been reconfirmed, although it does characterize the very similar, likewise adventive genus *Richardia*.This genus is frequently overlooked even in its native range, but the circumscissile capsules, seeds with a distinctive cruciform scar, leaves scabrous to the touch on the upper surface, and well-developed calyx lobes with hyaline erose margins are distinctive. W. C. Ko (in FRPS 71(2): 210. 1999) described the ovary as sometimes 3-celled; this condition is not otherwise known in *Mitracarpus* and has not been reconfirmed, although it does characterize the very similar, likewise adventive genus *Richardia*.
+**93．盖裂果属 Mitracarpus Zucc. ex J. A. Schultes et J. H. Schultes**
+
+Zucc. ex J. A. Schultes et J. H. Schultes, Mant. 3: 210. (in
+
+直立或平卧草本；茎四棱形，下部木质。叶对生，披针形，卵形或线形；托叶生于叶柄间，不脱落。花两性，常常组成头状花序；萼管陀螺形，倒卵形或近圆形，萼檐杯形，顶部4-5裂，通常2枚裂片比其它的略长，宿存；花冠高脚碟形或漏斗形，冠管内部常具1环疏长毛，喉部无毛或被柔毛，裂片4，镊合状排列，开展；雄蕊4，生于冠管喉部，花药内藏或突出；花盘肉质；子房2室，罕有3室，花柱2裂，裂片线形，长或极短；胚珠每室1颗，生于隔膜中部盾形的胎座上。果双生，成熟时在中部或中部以下盖裂；种子长圆形或圆形，腹面平或4裂，胚乳肉质；子叶叶形，胚根向下。
+
+属模式：M. scaber Zucc. ex J. A. Schultes et J. H. Schultes
+<p style='text-indent:28px'>本属约40多种，主要分布于热带美洲，其次是非洲和大洋洲；亚洲仅有2种，印度1种，我国1种，产海南。

@@ -1,0 +1,7 @@
+滇紫锤草",
+23.**Lobelia deleiensis** C. E. C. Fischer Bull. Misc. Inform. Kew. 1940: 297. 1941.",
+
+## Description
+Herbs, rhizomatous, up to 2 m tall. Stems erect or arching, often branched from base and sometimes above, glabrous. Leaves petiolate; blade elliptic or lanceolate, 6-14 × 1.4-4.2 cm, papery or somewhat leathery, both surfaces glabrous, base cuneate to obtuse, margin glandular-serrulate, -crenulate, or &amp;#8209;denticulate, apex caudate; petiole 0.3-1.8 cm. Flowers solitary and axillary; pedicels slender, 1.6-4.5 cm. Hypanthium campanulate or obovoid, 4-7 mm, glabrous; calyx lobes spreading or recurved, linear or linear-triangular, 5-17 mm, glabrous, entire. Corolla cream-colored or greenish with purple or blue markings on lip, 1.2-1.8 cm, outside glabrous, inside pubescent; dorsal lobes linear or linear-spatulate; ventral lobes narrowly elliptic, apex caudate. Filament tube glabrous or sparsely pubescent, ± equaling anther tube; anther tube cream-colored, 6-8 mm, glabrous or sparsely shortly pubescent toward apex; ventral anthers bearded at apex with tufts of white hairs up to 2 mm. Berry greenish, globose, 8-11 mm. Seeds tan, dull, broadly ellipsoid, slightly compressed, ca. 0.6 × 0.4 mm. Fl. Jul-Nov, fr. Aug-Apr.
+  "Statistics": "Evergreen broad-leaved forests; 1500-2400 m. SW Yunnan [NE India].
+  "Synonym": "*Pratia montana* (Reinwardt ex Blume) Hasskarl var. *deleiensis* (C. E. C. Fischer) F. E. Wimmer.

@@ -1,0 +1,7 @@
+格尔木黄耆",
+161.**Astragalus golmunensis** Y. C. Ho Bull. Bot. Lab. N. E. Forest. Inst., Harbin. 1980(8): 61. 1980.",
+
+## Description
+Plants 25-40 cm tall, covered with mostly spreading hairs 0.1-0.3 mm. Stems ascending to erect, sparsely to loosely white hairy, below nodes also black hairy. Leaves 3.5-6 cm; stipules 4-5 mm, lower ones distinctly to high connate behind stem, upper ones amplexicaul but free from each other, all mostly white ciliate; petiole short, like rachis loosely predominantly white hairy; leaflets of lower leaves in 4-6 pairs, mostly flat, elliptic, 4-8 × 2-4.5 mm, apex rounded to slightly emarginate, those of upper leaves in 6-9 pairs, narrowly elliptic, 8-12 × 3-4 mm, mostly folded, apex obtuse, all abaxially loosely to rather densely and adaxially loosely covered with appressed to sub-appressed white hairs. Racemes ovoid to oblong, many flow-ered; peduncle 8-10 cm, loosely to rather densely covered in basal part with predominantly white and in upper part with pre-dominantly black hairs; bracts 3-3.5 mm, sparsely black hairy. Calyx ca. 4 mm, loosely to rather densely covered with subap-pressed to ascending black hairs; teeth unequal, 1-1.5 mm. Pet-als violet; standard ovate, 8-9 × ca. 5 mm; wings ca. 7 mm; keel ca. 5 mm. Ovary with a stipe ca. 1 mm, glabrous. Legumes unknown.
+  "Statistics": "● 4100-4500 m. Qinghai.
+  "Synonym": "*Astragalus golmunensis* var. *paucipilus* Y. H. Wu.

@@ -1,0 +1,13 @@
+披针鳞薹草",
+80.**Carex lancisquamata** L. K. Dai Acta Phytotax. Sin. 37: 181. 1999.",
+
+## Description
+Rhizome stoloniferous, stolons slightly thick and long, clothed with purple-brown sheaths. Culms tufted, 40-45 cm tall, rather slender, obtusely trigonous, scabrid on angles, few purple-brown and bladeless sheathed at base, rudimentary sheaths usually disintegrating into reticulate fibers. Leaves slightly shorter or slightly longer than culm, blades 2-4 mm wide, canaliculate on midrib of upper surface, revolute on margins, scabrous on upper surface and margins, rather long sheathed, sheaths 5-6 cm and purple-brown at lower part of culm. Involucral bracts leaflike, lower 1 or 2 longer than inflorescence, shortly sheathed, upper ones linear, shorter than inflorescence, not sheathed. Spikes 6 or 7, rather congregated at top of culm, sometimes lowest one rather remote; uppermost spikes 2 or 3 male, sometimes with few female flowers at base, lanceolate or cylindric, 1.5-3 cm, subsessile; remaining spikes female or androgynous, cylindric, 4-5 cm, densely many flowered, lower spikes with slender peduncles, upper ones with short peduncles. Female glumes purple-brown or yellow-brown laterally, lanceolate, 6-8 mm, membranous, 1-costate, apex acuminate, long aristate, arista 2-4 mm. Utricles olivaceous and slightly red-brown at base and beak, obliquely patent, shorter than glume, elliptic or broadly elliptic, obtusely trigonous or plano-convex, ca. 3 mm, herbaceous, densely white hispidulous, indistinctly veined, base abruptly contracted into a short stipe, apex abruptly narrowed into a ± long beak, orifice subtruncate or emarginate. Nutlets brown, tightly enveloped in utricle, orbicular-ovate or suborbicular, trigonous, ca. 2 mm; style base deflexed, not thickened; stigmas 3. Fl. and fr. May-Jun.
+  "Statistics": "● Riversides; ca. 2600 m. W Yunnan (Dali).
+**73. 披针鳞薹草 图版27: 5-8**
+
+Carex lancisquamata L. K. Dai in Acta Phytotax. Sin. 37 (2): 181-182, fig 2: 6-9, 1999.
+
+根状茎具较粗而长的地下匍匐茎，外面包以紫褐色的鞘。秆丛生，高40-45厘米，较细，钝三棱形，棱上微粗糙，基部具少数紫褐色无叶片的鞘，下面的老叶鞘常细裂成网状或纤维状。叶稍短或稍长于秆，宽2-4毫米，上面中脉处具沟槽，两边向下卷，上面和边缘粗糙，具较长的叶鞘，基部的叶鞘长5-6厘米，紫褐色。苞片叶状，下面的1-2枚长于花序，具短的苞鞘，上面的线形，短于花序，无苞鞘。小穗6-7个，较集中地生于秆的上端，有时最下面1个较远离，上端2-3个为雄小穗，有时基部具极少数雌花，披针形或圆柱形，长1.5-3厘米，近于无柄；其余小穗为雌小穗或雄雌顺序，圆柱形，长4-5厘米，具较密生的多数花，下面的具细长的柄，向上面柄渐短，最上面的近无柄。雄花鳞片狭披针形，长约8毫米（包括芒长），顶端渐尖，具长1.5-2毫米的芒，膜质，两侧紫红褐色，中间淡黄色，具1条中脉；雌花鳞片披针形，长6-8毫米，顶端渐尖，具长芒，芒长2-4毫米，膜质，两边紫红褐色或黄褐色，具1条中脉。果囊斜展，较鳞片短，椭圆形或宽椭圆形，不明显三棱形或近平凸状，长约3毫米，草质，橄榄绿色，基部和喙稍带红褐色，密被白色短硬毛，脉不明显，基部急缩成短柄，顶端急狭成中等长的喙，喙口近截形或微缺。小坚果紧包于果囊内，圆卵形或近圆形，三棱形，长约2毫米，棕色；花柱基部弯曲，不增粗，柱头3个。花果期5-6月。
+
+产于云南大理县；生于河边，海拔2600米。模式标本采自云南大理。

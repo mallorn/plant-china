@@ -1,0 +1,14 @@
+林大戟",
+60.**Euphorbia lucorum** Ruprecht",
+
+## Description
+Herbs, perennial, erect, 50-80 cm tall. Rootstock woody, dark brown, 10-15 cm × 6-11 mm thick, with fleshy roots to 8 mm thick, remains of old stems prominent. Stems single or in small clusters, 4-6 mm thick, a little branched toward apex, glabrous or sparsely pilose [or densely white hirsute]; sterile branches absent. Leaves alternate; stipules absent; basal scale-leaves many, overlapping; petiole almost absent; leaf blade elliptic or oblong, sometimes shorter than internodes, (1.5-)3-5(-6) × (0.6-)1-1.5(-2.2) cm, base cuneate, margin entire [or obscurely serrate], apex obtuse; midrib prominent abaxially, lateral veins inconspicuous. Inflorescence a terminal compound pseudumbel, with 2-8 slender, often abortive, pseudumbels from subterminal axils; primary involucral leaves 4-8, ovate, 1.5-2.2(-4.3) × (0.8-)1-1.3(-2.7) cm, margin minutely serrulate, base rounded or broadly cuneate to subtruncate, apex subacute, primary rays [0.3-0.9 cm or] 5.5-6 cm; secondary involucral leaves 3, rhombic-ovate or subrounded, 1-1.2 × 1-1.2 cm; cyathophylls 2, rhombic-ovate, ca. 10 × 9 mm, base ± rounded, apex rounded. Cyathium subsessile; involucre campanulate, ca. 2.5 × 2-3 mm, exterior glabrous, interior sparsely hairy, lobes obtuse-rounded, repand or shallowly emarginate, glabrous; glands 4, dark brown, narrowly transversely elliptic, entire. Bracteoles absent. Male flowers many, slightly exserted from involucre. Female flower: ovary shortly exserted from cup, densely tuberculate; styles connate for less than 1/4 length; style arms shortly 2-lobed, slightly enlarged. Capsule trigonous- globose, ca. 3 × 3-4 mm, longitudinally furrowed, sparsely tuberculate or cristate along angles. Seeds broadly ellipsoid, 1.5-2 × ca. 1.5 mm, yellow-brown [becoming black], shiny; caruncle peltate, yellowish, subsessile. Fl. May-Jun.
+
+> Open forests, forest margins, scrub, grasslands. Heilongjiang, Jilin, Liaoning, E Nei Mongol [Korea, Russia (Far East)].
+**59.林大戟（东北植物检素表）图版32：4-7**
+
+Euphorbia lucorum Rupr. in Maxim. Prim. Fl. Amur. 239. 1859; Boiss. in DC Prod, 15 (2): 120. 1862; Nakai, Fl. Kor. 2: 185. 1911; Prokh. in Kom. Fl. URSS 14: 374. 1949; 东北草本植物志6: 42.图版16: 1-4.1977; J. S. Ma ＆ C. Y. Wu in Collect. Bot. 21: 113. 1992.
+
+多年生草本，全株光滑无毛。根自基部多分枝或不分枝，呈圆锥状，长10-15厘米，直径6-11毫米，暗褐色。茎单一或数个发自基部，向上直立，高达50-80厘米，直径4-6毫米，顶部多分枝。叶互生，椭圆形或长椭圆形，长3-5厘米，宽1-1.5厘米，先端圆，基部渐狭；侧脉羽状，不明显；近无叶柄；总苞叶常为5枚，近卵形，长1.5-2.2厘米，宽1.0-1.3厘米，先端渐尖或尖，基部圆或近平截；伞幅5；长5.5-6.0 厘米；次级苞叶3枚，棱状卵形或近圆形，长与宽均1.0-1. 2厘米，先端圆或钝，基部近圆，边缘具微细齿；苞叶2枚，同总苞叶，但略小。花序单生二歧聚伞分枝的顶端；总苞钟状，直径约2.5毫米，高约2毫米，边缘4裂，裂片钝圆，有齿或无；腺体4，狭椭圆形，暗褐色。雄花多数，微伸出总苞外；雌花1枚，子房柄明显伸出总苞外；子房除沟外被长瘤；花柱3，近基部合生；柱头2裂。蒴果三棱状球形，长约3.5毫米，直径约4毫米，具3个纵沟，脊上稀疏被瘤至鸡冠状突起，成熟时分裂为3个分果爿。种子近球状，长1.5-2.0毫米，直径约1.5毫米，黄褐色，光亮；种阜盾状，近无柄。花期5-6月，果期6-7月。
+
+产于黑龙江、吉林、辽宁。生于林下、林缘、灌丛、草甸及山坡等。分布于朝鲜和俄罗斯（远东）。模式标本采自黑龙江流域。

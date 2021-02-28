@@ -1,0 +1,13 @@
+藏南绿南星",
+65.**Arisaema jacquemontii** Blume Rumphia. 1: 95. 1835.",
+
+## Description
+Tuber subglobose, 1.2-3 cm in diam. Cataphylls 1 or 2, whitish, occasionally brown, to 20 cm, membranous, apex acute or obtuse. Pseudostem, petiole, and peduncle pale green, unmarked. Leaves 1 or 2; petiole (2.5-)20-52 cm, proximal 4/5 sheathing and forming pseudostem; leaf blade palmate; leaflets 5(or 7 or 9), sessile, ovate, oblong, or lanceolate, base attenuate, apex acuminate; central leaflet 7-18 × 2.5-7 cm; lateral leaflets 3-7 × 0.8-2.5 cm. Peduncle as long as petioles. Spathe green outside, greenish inside; tube cylindric, 2.5-8 cm × 8-20 mm, throat obliquely truncate, not recurved; limb arching over spadix, ovate to narrowly ovate or oblong-triangular, 2.5-5(-9) × 1-2.5(-3.5) cm, apex acuminate into ascending filiform tail 2.5-6 cm. Spadix unisexual; female zone 1.5-3 cm × 5-7 mm; ovary greenish, narrowly ovoid; stigma spherical; male zone cylindric, 2-3 cm × 3-3.5 mm; synandria sessile, lax, cream-colored or tinged dark purplish; anthers 2-4, dehiscing by apical pores or slits. Appendix greenish proximally, purplish distally, 2-8 cm × ca. 1 mm, distal part emergent from spathe tube horizontal to decurved, tapering, base swollen, truncate to 3-5 mm in diam., shortly stipitate, smooth. Fl. Jun-Jul. 2*n* = 52.
+  "Statistics": "Coniferous forests, open grassy places in forests, *Juniperus* or *Rhododendron* thickets, forest margins; 3000-4300 m. S Xizang [Afghanistan, Bangladesh, Bhutan, N India, Kashmir, Nepal, Pakistan].
+**64. 藏南绿南星　图版34: 7-9**
+
+Arisaema jacquemontii Blume in Rumphia 1: 95. 1835; Kunth, Enum. Pl. 3: 16. 1841; Engl. in DC., Monogr. Phan. 2: 557. 1879; Hook. f., Fl. Brit. Ind. 6: 506. 1893; Engl. in Engl., Pflanzenr. 73(4, 23F): 197, fig. 45: A-C. 1920; Hara, Fl. E. Hirnal. 395. 1966, ed. 2: 346, Pl. 18: a. fig. 54: I. 1971. ——Arisaema exile Schott in Bonpl. 7: 26. 1859; Hook. f., l. c.: 506; Engl. in Engl. , l. c. 198, fig. 45: D-G. 1920. ——A. cornutum Schott in Bonpl. 7: 557. 1859; Engl. in DC., Moriogr. Phan. 2: 557. 1879.
+
+块茎近球形，直径1.2-3厘米。鳞叶1-2，下部筒状，上部宽线形，钝或锐尖，最内的长10-20厘米，薄膜质。叶1或2，叶柄长(2.5-)20-30厘米，绿色，下部4/5具鞘；叶片掌状或鸟足状分裂，裂片(3-)5(-9)，卵形，长圆形或倒披针形，无柄，两头渐狭或先端渐尖，长3-7(-18)厘米，宽0.8-2.5 (-7)厘米，中裂片通常较为宽大，侧脉不整齐，弧曲上升，集合脉距边缘3-5毫米。花序柄绿色，长(3.5-)5-25厘米，比叶柄长或短。佛焰苞绿色，内面淡绿色；管部圆柱形，长2.5-5(-9)厘米，直径8-20毫米，喉部边缘斜截形或稍外卷；檐部卵形或狭卵形，长2-6厘米，中部宽1-2.5(-3.5)厘米，骤渐尖，绿色或暗紫色，具淡绿色或白色条纹，先端延伸成1.2-3厘米的长尾。肉穗花序单性，雄花序圆锥形，长2-3厘米，粗3-3.5毫米，花疏，有时上部具中性花；雌花序长1.5-3厘米，粗5-7毫米，花密，各附属器长2-8厘米，粗1毫米，先端略钝或渐细成尾状，基部增大，截形，粗3-5毫米，具短柄，露出佛焰苞管外，略弯，极稀下垂。雄花花药2-4，近无柄，药室卵圆形，纵裂或环裂。雌花：子房狭卵圆形，花柱短，柱头小，盘状。花期6-7月。
+
+产西藏南部：察隅、帕里、定结、卡玛河谷、吉隆，海拔3000-4000米，常见于高山针叶林的林间隙地或五花草甸上。也分布于巴基斯坦、克什米尔地区、尼泊尔、不丹、锡金、印度北部与东北部，海拔1900-4500米的地区。

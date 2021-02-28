@@ -1,0 +1,6 @@
+瘦果薹草",
+219.**Carex regeliana** Kükenthal ex Litvinov Trudy Bot. Muz. Imp. Akad. Nauk. 7: 94. 1910.",
+
+## Description
+Rhizome stout, ascending. Culms densely tufted, 40-70 cm tall, obtusely trigonous, slender, smooth, glabrous, clothed at base with pale brown sheaths disintegrating into parallel fibers. Leaves crowded in basal rosettes, 1/4-1/3 length of culm, blades linear, 3-5 mm wide, rigid, flat to subcanaliculate. Lower involucral bracts leaflike, longer than spike but shorter than inflorescence. Spikes 5-8, slightly distant; terminal 1 or 2 male, erect, narrowly lanceolate to lanceolate-clavate, 1.5-2.5 cm; remaining spikes female, linear, 1-2 cm, rather sparsely flowered, especially below, solitary, pendent, with slender, scabrous peduncles 3-4 cm. Female glumes slightly ferruginous, ovate, finely 1-veined, margins broadly white hyaline, apex subobtuse. Utricles purplish brown to blackish brown, oblong-ovate, faintly trigonous, subplano-convex, ca. 4 mm, lustrous, nerveless, base shortly stipitate, apex gradually tapering into an elongate beak, beak obliquely truncate, white hyaline margined. Fl. and fr. May-Sep.
+  "Statistics": "● Alpine meadows and marshes; 1400-4300 m. Xinjiang.

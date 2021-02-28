@@ -1,0 +1,6 @@
+朝芳薹草",
+323.**Carex chaofangii** C. Z. Zheng & X. F. Jin Acta Phytotax. Sin. 42: 548. 2004.",
+
+## Description
+Rhizome short, woody, rigid. Culms 25-35 cm tall, triquetrous, smooth, rigid. Leaves surpassing culm, blades brown-green, broadly linear, 6-10 mm wide, flat, leathery, margins scabrous. Involucral bracts leaflike, shorter than spikes, smooth, sheathing. Spikes 3; terminal spike male, cylindric, 2-3 cm, with peduncle 2.5-3 cm; lateral spikes 2, female, cylindric, 3-3.5 × ca. 1 cm, densely flowered, lower peduncle 3.5-5 cm, smooth, erect, upper ones shorter. Female glumes green, glaucous, ovate-elliptic, ca. 3 mm (excluding awn), 1-veined costa projecting beyond subacute apex forming a scabrous awn ca. 3.5 mm. Utricles green, glaucous, longer than glume, ellipsoid to obovoid-ellipsoid, ca. 7 mm, subleathery, glabrous, inconspicuously many veined, base cuneate, apex gradually attenuate into a subcylindric, smooth beak ca. 2 mm, orifice deeply 2-toothed. Nutlets tightly enveloped, broadly ovoid-ellipsoid, ca. 6 mm (including beak), trigonous with angles deeply constricted in middle, faces concave below, apex abruptly contracted into a cylindric beak ca. 1 mm, apex slightly swollen; style base ± thickened; stigmas 3. Fl. and fr. Apr-Jun.
+  "Statistics": "● Forests, valleys, on rocks; 700-1400 m. Zhejiang (Baishanzu, Longquan, Qingyuan).

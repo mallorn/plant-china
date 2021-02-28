@@ -1,0 +1,16 @@
+团花冬青",
+141.**Ilex glomerata** King",
+
+## Description
+Trees evergreen, ca. 13 m tall, ca. 30 cm d.b.h. Young branchlets slender, longitudinally ridged and sulcate, glabrous or glabrescent; terminal buds narrowly conical, bud scales glabrous, ciliate. Stipules very minute, obscure; petiole 8-15 mm, abaxially raised, transversely rugose, adaxially narrowly sulcate, glabrous; leaf blade olivaceous or brownish olivaceous when dry, shiny, oblong or oblong-elliptic, rarely ovate-elliptic, 6-12 × 2-4 cm, subleathery, both surfaces glabrous, midvein impressed and glabrous adaxially, lateral veins 8-10 pairs, raised abaxially, evident adaxially, obliquely ascending, reticulate veins obscure, base obtuse, cuneate, or rarely rounded, margin serrate, apex acuminate, acumen 8-15 mm. Inflorescences: cymes, fasciculate, axillary on second year’s branchlets; bracts ovate, ciliate. Male inflorescences: cymes of order 1 or 2, 1-3-flowered; peduncles ca. 1 mm; pedicels 1-2 mm; bracteoles 2, basal, deltoid, ciliate; flowers 4-merous; calyx patelliform, ca. 2 mm in diam., deeply 4-lobed, lobes deltoid or suborbicular, ciliate; corolla 7-8 mm in diam., petals oblong, ca. 3.5 × 2 mm, basally slightly connate; stamens ca. as long as petals, anthers oblong, ca. 1 mm; rudimentary ovary subglobose, apex obtuse or subglobose. Female flowers not known. Infructescences: 1-fruited cymes; fruiting pedicels 1-3 mm. Fruit red, globose, 7-8 mm in diam.; persistent calyx explanate, ca. 2 mm in diam., ciliate; persistent stigma flattened, discoid or navel-like; pyrenes 4, oblong or subglobose, 5.5-7 mm, 4-5 mm in diam., both ends obtuse or rounded, abaxially palmately striate and sulcate, laterally reticulate, rugose and pitted, endocarp stony. Fl. Apr-May, fr. Sep-Nov.
+
+> Evergreen broad-leaved forests, forest margins, shrubby areas, mountain slopes; 200-900 m. Guangdong, Guangxi, Hunan [Malaysia, Myanmar, Vietnam].
+**141. 团花冬青（中国高等植物图鉴补编）图版40: 7-9**
+
+Ilex glomerata King in Journ. As. Soc. Bengal. 64 (2): 135 (Mater. Fl. Malay. Penin. 2: 623). 1895; Loes. in Nov. Act. Acad. Caes. Leop.-Carol. Nat. Cur. 78: 325 (Monog. Aquif. 1: 325). 1901; Val. in Meded. Depart. Landb. 18: 20. 1914 (Koord. et Val. Bijdr. Booms. Java 13: 20); Koord. et Val. Atlas. Baumart. Java, fig. 787, I. K. 1918; Ridl. Fl. Malay. Penin. 1: 439. 1922; Tardieu-Blot in Fl. Gen. Indo-Chine Suppl. 1: 777. 1948; S. Y. Hu in Journ. Arn. Arb. 31: 55. 1950; 中国高等植物图鉴补编2: 211. 1983, in clavi; 湖南植物名录219. 1987.
+
+常绿乔木，高可达13米，胸径约30厘米；幼枝较细弱，具纵棱沟，无毛或变无毛；顶芽狭圆锥形，芽鳞无毛，具缘毛。叶生于1-2年生枝上，叶片近革质，长圆形，长圆状椭圆形，稀卵状椭圆形，长6-12厘米，宽2-4厘米，先端渐尖，渐尖头长8-15毫米，基部钝，楔形或稀圆形，边缘具锯齿，叶面深绿色，干时橄榄绿色或褐橄榄色，具光泽，背面浅绿色，无光泽，两面无毛，主脉在叶面凹陷，无毛，在背面隆起，侧脉8-10对，在叶面明显，背面凸起，斜直升，网状脉不明显；叶柄长8-15毫米，上面具狭槽，背面凸起，具横皱纹，无毛；托叶不明显。花序簇生于二年生枝的叶腋内，苞片卵形，具缘毛；雄花序为1-3花组成的聚伞花序簇生，总花梗长约1毫米，花梗长1-2毫米，其基部生2枚三角形，具缘毛的小苞片；花4基数，花萼盘状，直径约2毫米，4深裂，裂片三角形或近圆形，具缘毛；花冠直径7-s毫米，花瓣长圆形，长约3.5毫米，宽约2毫米，基部稍合生；雄蕊与花瓣近等长，花药长圆形，长约1毫米；退化子房近球形，先端钝或近圆形。雌花未见。果序簇生，果梗长1-3毫米；果球形，直径7-8毫米，成熟后红色，宿存花萼平展，直径约2毫米，具缘毛，宿存柱头扁平，盘状或脐状。分核4，长圆形或近圆形，长5.5-7毫米，宽4-5毫米，两端钝或圆形，背面具掌状条纹及沟，侧面具网状皱纹及洼穴。花期4-5月，果期9-11月。
+
+产于湖南（宜章、通道）、广东（乐昌、英德、大埔）、广西（上思、融水、金秀、钦州）等省区；生于海拔200-900米的山地常绿阔叶林中、林缘或灌木丛中。分布于越南、马来西亚和印度尼西亚（爪哇）。模式标本采自马来西亚霹雳。
+
+本种在叶的质地和大小方面与拟榕叶冬青 Ilex subficoidea S. Y. Hu 相似，惟后者之果较大，直径10-12毫米，分核卵状椭圆形，长8-9毫米，宽5-7毫米，两端尖，具不规则的皱纹及洼点。

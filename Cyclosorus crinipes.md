@@ -1,0 +1,15 @@
+鳞柄毛蕨",
+9.**Cyclosorus crinipes** (Hooker) Ching Bull. Fan Mem. Inst. Biol., Bot. 8: 179. 1938.",
+
+## Description
+Plants 0.5-1.5 m tall. Rhizomes erect, apices with dense dark brown lanceolate scales. Fronds clustered; stipes 20-40 cm, dark stramineous, with dense scales from bases to rachises; laminae 30-120 × 25-45 cm, bases abruptly narrowed, apices acuminate; pinnae 20-45 pairs, proximal 3-5 pairs shortened, triangular-auriculate, lowest one ca. 1 × 1 cm; middle pinnae linear-lanceolate, 10-25 × 1-1.5 cm, bases truncate, lobed 1/2-2/3 toward costae, apices long acuminate; segments ca. 30 pairs, oblong, 3-5 × ca. 3 mm, entire, apices obtuse; veinlets 7-9 pairs, proximal 1-1.5 pairs anastomosing, next pair running to sinus membrane. Laminae papery, grayish green when dried, with several acicular hairs along veins adaxially, with short acicular hairs along costae and veins abaxially, also with minute hairs and minute glands throughout. Sori orbicular, medial; indusia shortly hairy. Sporangia bearing reddish orange glands on stalks. Spores dark brown, echinate. 2*n* = 72.
+
+> Wet forest margins, wet places in forests; 100-1300 m. S Guangdong, S Guangxi, S Guizhou, Hainan, SE Xizang, S Yunnan [Bhutan, India, Indonesia, Laos, Myanmar, Nepal, Thailand, Vietnam].
+  "Synonym": "*Nephrodium crinipes* Hooker, Sp. Fil. 4: 71. 1862; *Christella crinipes* (Hooker) Holttum; *Dryopteris crinipes* (Hooker) Kuntze; *Thelypteris crinipes* (Hooker) K. Iwatsuki.
+**7.鳞柄毛蕨（中国主要植物图说，蕨类植物门）**
+
+Cyclosorus crinipes (Hook.) Ching in Bull. Fan Mem. Inst. Biol. Bot. ser. 8:179. 1938; 傅书遐, 中国主要植物图说 (蕨类植物门) 139. 1957; Ching et S. H.Wu in W. Y. Chun et al. Fl. Hainan. 1: 128. 1964; Y. L. Zhang et al., Sporae Pterid. Sin. 276. t. 61: 24-30. 1976. ——Nephrodium crinipes Hook., Sp. Fil. 4: 71. 1862; Hook. et Bak., Syn. Fil. 294. 1867; Clarke in Trans Linn. Soc. 2, Bot. 1: 533. 1880; Bedd., Ferns Brit. Ind. t. 263. 1868 et Handb. Ferns Brit. Ind. 279. 1883. ——Dryopteris crinipes O. Ktze., Rev. Gen, Pl. 812. 1891; C.Chr., Ind. Fil. 259. 1906 et in Contr. U. S. Nat. Herb. 26: 276. 1931; v. A.v. R., Handb. Mal. Ferns 229. 1909; Merr., Enum. Hainan Pl. in Lingnan Sci. Journ. 5: 8. 1927. ——Thelypteris crinipes (Hook.) K. Iwats. in Journ. Jap. Bot, 38: 315. 1963; Tagawa & K. Iwats. in Southeast Asia St. 3(3): 80. 1965 et 5: 68. 196; Fl. Thailand. 3(3): 430. 1988. ——Christella crinipes (Hook.) Holtt. in Nayar et Kaur, Comp. Bedd. 's Handb. 208. 1974; Kew Bull. 31(2): 326. 1976.
+
+植株高80-150厘米。根状茎粗壮，斜升，先端密被深棕色的鳞片。叶簇生；叶柄长20-25厘米，粗3-8毫米，深禾秆色，从基部直到叶轴下部密被和根状茎上同样的鳞片，脱落后留下褐色瘤状突起，表面粗糙；叶片长40-100厘米，中部宽25-45厘米，阔长圆披针形，先端渐尖，并具羽裂的尾头，基部突然变狭，二回羽裂；羽片30对以上，平展，互生，彼此接近或略有间隔，下部4-5对突然缩小成三角形耳片（基部一对长不过1厘米），斜向下，对生，彼此相距较远，中部羽片最长可达25厘米，短的约12厘米，宽1.4-2厘米，线状披针形，先端长渐尖，基部平截，对称，羽裂达1/2-2/3；裂片30-35对，斜上，彼此密接或有倒三角形缺刻分开，长5-7毫米，宽4毫米，长圆披针形或近镰状披针形，钝头，全缘。叶脉两面可见，侧脉斜上，每裂片7-9对，基部一对出自主脉基部稍上处，其先端交接成钝三角形网眼，并自交接点伸出一条短的外行小脉和缺刻下的透明膜质连线相接，第二对侧脉均伸达透明膜质连线，但不交接。叶厚草质或纸质，干后绿色或褐绿色，上面沿叶脉有一二针状毛，下面沿主脉略有少数短柔毛，其余近光滑。孢子囊群圆形，生于侧脉中部，每裂片6-8对；囊群盖大，灰棕色，厚膜质，上面疏生短柔毛，宿存。染色体2n=72。
+
+产广东南部（茂名）、海南（陵水、五指山）、云南（河口、澜沧、思茅）。生山谷水边或林边湿地，海拔190-1200米。尼泊尔、锡金、印度、泰国、印度尼西亚（苏拉威西岛）均有分布。模式标本采自锡金。

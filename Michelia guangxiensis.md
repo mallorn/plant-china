@@ -1,0 +1,7 @@
+广西含笑",
+35.**Michelia guangxiensis** Y. W. Law & R. Z. Zhou J. Trop. Subtrop. Bot. 7: 191. 1999.",
+
+## Description
+Trees, 5-10 m tall, 10-20 cm d.b.h. Bark brown. Young twigs, buds, petioles, and brachyblasts densely brown tomentose. Twigs of current year green; older twigs grayish brown, glabrous. Petiole ca. 1 cm, without a stipular scar or stipular scar 1-3 mm; leaf blade oblong to ovate-oblong, 6-15 × 3-5 cm, leathery, abaxially grayish green and with sparse brown trichomes, adaxially shiny dark green and glabrous, midvein abaxially prominent, secondary veins 9-11 on each side, reticulate veins dense and prominent on both surfaces when dry, base cuneate to broadly cuneate, apex acute to shortly acuminate. Flowers fragrant. Tepals 6, in 2 whorls, white, subequal, fleshy; outer 3 tepals obovate, 3-4 × 1.3-1.5 cm; inner 3 tepals narrowly obovate, 3-4 × 1-1.3 cm. Stamens many, 1.2-1.5 cm; connective exserted and forming a ca. 0.5 mm mucro; anthers ca. 1 cm. Gynophore 4-5 mm, densely brown firmly appressed pubescent; gynoecium ellipsoid-ovoid, ca. 1 cm; ovaries ovoid, ca. 3 mm; ovules (2-)4(or 5) per carpel; styles ca. 1 mm. Fruit 5-10 cm; mature carpels 10-15, ovoid, obovoid, or ellipsoid-ovoid, 1-2 cm, completely dehiscing into 2 valves, apex shortly beaked. Fl. Apr-May, fr. Sep-Oct.
+  "Statistics": "● Forests; 2100-2200 m. Guangxi (Longsheng).
+  "Synonym": "*Magnolia guangxiensis* (Y. W. Law &amp; R. Z. Zhou) Sima.

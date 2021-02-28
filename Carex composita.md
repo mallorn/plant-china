@@ -1,0 +1,13 @@
+复序薹草",
+8.**Carex composita** Boott Ill. Gen. Carex. 1: 3. 1858.",
+
+## Description
+Rhizome woody. Culms tufted, 40-60 × 0.15-0.2 cm, trigonous, smooth. Leaves basal and cauline, flat, 2-3 mm wide, glabrous abaxially, prominently scabrid adaxially; basal persistent leaf sheaths pale brown, fibriform. Involucral bracts leafy, longer than inflorescence, long sheathed. Panicle simple, 20-30 cm, 2-4-branched; inflorescence branches racemose, single, 5-8 cm, 3-8-spiked; peduncles of inflorescence branches tenuous, 5-8 cm, usually not exserted from sheaths; inflorescence axes loosely hairy on edges; bractlets glumelike. Spikes bisexual and androgynous, cylindric, 2-6 cm; male part of spike usually ca. 1/2 length of or rarely equaling female part; female part with many dense flowers; male glumes brown or brown laterally and pale green at middle, lanceolate, 3-3.5 mm, membranous, margins narrowly hyaline, apex apiculate; female glumes yellowish green at middle and reddish brown or purplish brown laterally, oblong-lanceolate, 2.5-3 mm, membranous, loosely pubescent, 3-veined, margins narrowly hyaline, apex acuminate, shortly awned. Utricles pale green, obovate or ovate-globose, flatly trigonous, slightly inflated, 3-3.5 mm, papery, with several fine veins, upper part with brown spots and loosely pubescent, base subsessile, apex shortly beaked, orifice minutely 2-toothed. Nutlet brown at maturity, loosely enclosed in utricle, ovate to triangular-ovate, trigonous, ca. 1.5 mm, base shortly stipitate, apex with contorted apiculus; style base slightly thickened; stigmas 3.
+  "Statistics": "Forests, grasslands; 1300-2500 m. Guizhou, Yunnan [Bhutan, India].
+**7. 复序薹草（中国高等植物图鉴）图版13: 5-8**
+
+Carex composita Boott, Illustr. Carex 1: 3, t. 8, 1858: Bocklr. in Linnaea 40: 328, 1876; C. B. Clarke in Hook. f., Fl. Brit. Ind. 6: 724, 1894 et in Journ. Linn. Soc. Bot. 34: 123, 1898; Kukenth. in Engl., Pflanzenr. Heft 38 (IV. 20): 259, 1909; Hand. -Mazz., Symb. Sin. 7: 1261, 1936; 中国高等植物图鉴5: 280, 图7389。1976; 贵州植物志8: 635, 图版200: 1-4, 1988; 横断山区维管植物 下册: 2367, 1994.
+
+根状茎木质。秆丛生，高40-60厘米，粗1.5-2毫米，三棱形，光滑。叶基生和秆生，通常生至秆的中部左右，平张，宽2-3毫米，下面平滑，上面明显粗糙，边具刺毛状细齿，基部具淡褐色、分裂呈纤维状的宿存叶鞘。苞片叶状，长于支花序，下部具长鞘。圆锥花序简单，长20-30厘米，具2-4个支花序；支花序总状，单生，具3-8个小穗；支花序柄纤细，长5-8厘米，通常不伸出苞鞘之外，支花序轴之棱上疏被短粗毛；小苞片鳞片状，长圆状披针形，长3-4毫米，淡绿色，顶端具短芒。小穗圆柱形，长2-6厘米，两性，雄雌顺序；雄花部分通常长为雌花部分的1/2，较少二者近等长，具多数花；雌花部分具多数密生的花。雄花鳞片披针形，长3-3.5毫米，顶端具短芒，膜质，褐色或两侧褐色中央淡绿色，具狭的白色膜质边缘；雌花鳞片长圆状披针形，长2.5-3毫米，顶端渐尖，具短芒，膜质，两侧红褐色或紫褐色，中间黄绿色，有3条脉，具狭的白色膜质边缘，疏被短柔毛。果囊倒卵形或卵圆形，扁三棱形，稍肿胀，长3-3.5毫米，纸质，淡绿色，顶端具褐色斑点或下部黄褐色，上部紫褐色，有数条细脉，上部疏被短柔毛，基部几无柄，顶端骤缩成短喙，喙口具2小齿。小坚果稍松地包于果囊内，卵形或三角状卵形，三棱形，长约1.5毫米，成熟时褐色，基部具短柄，顶端具扭曲的短尖；花柱基部稍增粗，柱头3个。花果期7-11月。
+
+产于贵州、云南；生于常绿阔叶林或针阔叶混交林边草地，海拔1300-2500米。不丹和印度北部也有分布。模式标本采自不丹。

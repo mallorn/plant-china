@@ -1,0 +1,7 @@
+斑果黄耆",
+154.**Astragalus beketowii** (Krasnov) B. Fedtschenko Trudy Imp. S.-Peterburgsk. Bot. Sada. 24: 202. 1905.",
+
+## Description
+Plants 5-17 cm tall, with very short appressed or as-cending hairs 0.05-0.2 mm. Stems several, 1-7(-10) cm, pros-trate, glabrous. Leaves 1.5-5 cm; stipules 4-5 mm, connate be-hind stem to more than 1/2 of length, ciliate with white or black and white hairs; petiole much shorter than to rarely nearly as long as rachis, like rachis nearly glabrous; leaflets in 4-7 pairs, ± glaucous, narrowly elliptic to ovate, 2-8 × 0.5-3 mm, abax-ially subglabrous or sparsely hairy on both surfaces, adax-ially glabrous, apex subacute or rarely obtuse. Racemes short, densely 5-16-flowered; peduncle 2-7 cm, subglabrous, toward raceme increasingly with white and black hairs; bracts 2-4 mm, subglabrous. Calyx 6-8 mm, loosely covered with appressed to spreading predominantly black hairs; teeth slightly unequal, 1.5-2 mm. Petals lilac to violet, with a dark spot at keel tip; standard obovate, 14-16 × ca. 8 mm, apex incised; wings 12-14 mm, deeply incised and bilobed; keel 9-11 mm. Legumes with a slender stipe ca. 3 mm, pendulous, bladderlike inflated, obliquely ovoid, 15-25 mm, 8-10 mm high, 1-locular; valves glabrous, red spotted.
+  "Statistics": "Alpine slopes; 2500-4300 m. Xinjiang [Kyrgyzstan, Mongolia, Tajikistan].
+  "Synonym": "*Oxytropis beketowii* Krasnov, Bot. Zap. 2: 15. 1887-1888; *Astragalus polychromus* Freyn.

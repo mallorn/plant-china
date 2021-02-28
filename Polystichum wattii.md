@@ -1,0 +1,17 @@
+细裂耳蕨",
+144.**Polystichum wattii** (Beddome) C. Christensen Index Filic. 98. 1905.",
+
+> *Polystichum wattii* has been placed in *P.* sect. *Micropolystichum* by Fraser-Jenkins (Himalayan Ferns (Guide to *Polystichum*), 7. 1997). It might be a member of *P.* sect. *Hypopeltis*.
+
+## Description
+Plants evergreen. Rhizome ascending to erect, short, rhizome apex and stipe base densely scaly; large scales opening, dark brown, ovate or narrowly ovate, up to 1 cm × 5 mm, shallowly erose, acuminate. Fronds 30-85 cm; stipe stramineous, 3-25 cm, 1-4 mm in diam. at base. Lamina tri- to tetrapinnatilobate, green or dark green when dry, adaxially darker, narrowly elliptic-lanceolate, 20-60 cm, 3-20 cm wide at middle, 2-7 cm wide at base, acuminate; rachis stramineous, without proliferous bulbils, sparsely covered with linear scales. Pinnae 25-40 pairs, mostly alternate, slightly ascendant, sessile, lanceolate and often slightly curved upward and falcate, middle pairs 1.5-13 × 0.5-2 cm, acuminate to caudate and long acuminate. Pinnules 5-15 pairs on middle pinnae, obliquely ovate, alternate, slightly ascendant, shortly stalked, acute; basal acroscopic pinnules largest; secondary pinnules obliquely rectangular or obovate, bases shortly stalked or narrowly cuneate and decurrent, apices acute or slightly obtuse, without spinulose tips; basal acroscopic secondary pinnules largest, apices forked-lobed or pinnate and forming 1 or 2 pairs of free obovate lobes, margins of other secondary pinnules entire or with 2 or 3 shallow lobes; costa green, abaxially scaly; scales similar to rachis scales but smaller; frond texture thinly papery; venation indistinct, 1 per lobe, reaching tip of lobe. Sori small, abaxial on veinlets, located at middle of secondary pinnules or lobes; indusia present, brown, small, entire, ca. 1/2 width of lobes. Spores semicircular in equatorial view, elliptic in polar view; perispore sculpturing reticulate with large lumina.
+
+> Rocks and rock crevices in montane broad-leaved evergreen forests; 1400-2000 m. SE Xizang (Mêdog), NW and W Yunnan (Dulongjiang region, Gaoligong Shan, Nushan) [N India, N Myanmar].
+  "Synonym": "*Aspidium wattii* Beddome, J. Bot. 26: 234. 1888; *Lastrea wattii* (Beddome) Beddome.
+**166．细裂耳蕨（西藏植物志）图版48：4-5**
+
+Polystichum wattii (Bedd.) C. Chr. Ind. Fil. 589. 1906; Y. L. Chang et al. Sporae Pterid. Sin. 334, pl. 72, f. 11-12. 1976; Ching et al. in C. Y. Wu, Fl. Xizang. 1: 213, f. 51: 1-3. 1983; Fraser-Jenkins in Asp. Pl. Sci, 13: 260. 1991; S. K. Wu et X. Cheng in W. T. Wang, Vasc. Pl. Hengduan Mts. 136. 1993; W. M. Chu et S. G.Lu in H. Li, Fl. Dulongjiang 33. 1993. ——Aspidium wattii Bedd. in Journ. Bot. 26: 234. 1888. ——Lastrea wattii (Bedd.) Bedd. Handb. Ferns Brit. Ind. Suppl. 49. 1892.
+
+植株高30-85厘米。根状茎短而斜升至直立，顶部及叶柄密被开展的大鳞片；鳞片深棕色，卵形或长卵形，长达1厘米，宽达5毫米，顶端渐尖，边缘浅啮蚀状。叶簇生；叶柄禾秆色，上面有阔沟槽，长3-25厘米，基部直径1-4毫米；叶片椭圆披针形，长20-60厘米，中部宽3-20厘米，基部宽2-7厘米，顶端渐尖，三至四回羽状细裂；羽片25-40对，大多互生，略向上斜展，无柄，披针形，常略向上弯弓呈镰刀形，中部的长1.5-13厘米，宽0.5-2厘米，顶端渐尖至尾状长渐尖；小羽片斜卵形，互生，略向上斜展，有短柄，顶端急尖，基部上侧的1片稍大，与叶轴平行或覆盖叶轴，基部下侧的与叶轴成钝角斜展，中部羽片有5-15对；二回小羽片斜方形或倒卵形，顶端急尖或略钝，无芒刺状锐尖头，基部有短柄或狭楔形下延，基部上侧的1片较大，顶端叉状浅裂或羽状全裂形成1-2对几完全分离的倒卵形裂片，其余的全缘或有2-3个浅裂片；叶脉不明显，每裂片1条，达顶尖。叶薄草质，干后绿色或深绿色，上面色较深；叶轴禾秆色，疏被棕色的线形小鳞片，上面有沟槽；羽轴绿色，上面有沟槽，下面也疏被棕色的线形小鳞片。孢子囊群小，生于小脉背部，位于二回小羽片或裂片中部；圆盾形的囊群盖小，棕色、全缘，宽度约为裂片的1/2。孢子极面观椭圆形，赤道面观半圆形，周壁褶皱形成网状纹饰，有的网脊不连续。
+
+产云南西北部怒山、高黎贡山及其西侧的独龙江河谷、西藏东南部（墨脱）。生海拔1400-2000米的山地常绿阔叶林下岩石上及岩隙。缅甸北部和印度东北部也有。模式标本采自印度东北部毗邻缅甸的东曼尼普尔。

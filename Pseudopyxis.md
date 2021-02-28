@@ -1,0 +1,16 @@
+假盖果草属",
+73.**Pseudopyxis** Miquel Ann. Mus. Bot. Lugduno-Batavi. 3: 189. 1867.",
+
+> Three species: China, Japan; one species (endemic) in China.
+
+## Description
+Herbs, perennial, low, unarmed, rhizomatous, sometimes with fetid odor. Raphides present. Leaves opposite or sometimes basalmost pairs reduced to prophylls, without domatia; stipules persistent, interpetiolar and fused to petioles, triangular or 3(or 5)-lobed, often glandular-dentate. Inflorescences terminal and in uppermost leaf axils (or subtended by leaflike bracts), fasciculate and 2- to several flowered or sometimes 1-flowered, pedunculate or subsessile, bracteate or bracts reduced. Flowers pedunculate or pedicellate, bisexual, apparently monomorphic. Calyx limb deeply 5-lobed, usually markedly reticulate-veined, with lobes often unequal. Corolla white or purplish red, slenderly tubular-funnelform to salverform, inside glabrous or pubescent in throat; lobes 5, valvate-induplicate in bud. Stamens 5, inserted at base of corolla tube, included to exserted; filaments short to developed; anthers dorsifixed. Ovary 4- or 5-celled, ovules 1 in each cell, anatropous on basal placentas; stigmas 2-, 4- or 5-lobed, exserted. Fruit capsular, obconic to hemispherical, papery, dehiscent through apical lid or operculum within persistent calyx limb, with pedicels becoming reflexed; seeds 3-5, obovoid, longitudinally grooved (or with many longitudinal idioblasts containing raphides).
+  "Reference": "H. S. Lo (in FRPS 71(2): 153-155. 1999) reported one species from China, *Pseudopyxis heterophylla* Maximowicz, with morphological characters that include some characters of both *P. heterophylla* and *P. depressa* Miquel as treated by the Fl. Japan (3a: 229. 1993). These two species were both reported there to be endemic to Japan: *P. depressa* with a height of 3-8 cm, uniformly distributed stem pubescence, purple corollas 20-25 mm, very short filaments, and 5 stigmas; and *P. heterophylla* with a height to 50 cm, stem pubescence arranged in lines, white corollas 6-7 mm, developed filaments, and 2 stigmas.H. S. Lo (in FRPS 71(2): 153-155. 1999) reported one species from China, *Pseudopyxis heterophylla* Maximowicz, with morphological characters that include some characters of both *P. heterophylla* and *P. depressa* Miquel as treated by the Fl. Japan (3a: 229. 1993). These two species were both reported there to be endemic to Japan: *P. depressa* with a height of 3-8 cm, uniformly distributed stem pubescence, purple corollas 20-25 mm, very short filaments, and 5 stigmas; and *P. heterophylla* with a height to 50 cm, stem pubescence arranged in lines, white corollas 6-7 mm, developed filaments, and 2 stigmas.
+**81．假盖果草属 Pseudopyxis Miq.**
+
+Miq. in Ann. Mus. Bot. Lugd. Bat. 3: 189. 1867; Hook. f. inBenth. et Hook. f. Gen. Pl. 2: 135. 1873; K. Schum. in Engl. u. Prantl, Nat. Pflanzenfam. IV (4): 127. 1891.
+
+多年生小型草本，被紧贴的短柔毛或疏生多细胞的柔毛；根茎匍匐，地上茎直立，圆柱形或方形。叶对生，具柄，宽卵形或卵状心形，羽状脉，叶柄间的托叶膜质，宽三角形，有齿或缺刻，宿存。花白色或紫红色；聚伞花序腋生或顶生；苞片有短柄，宿存；萼筒短，近球形，顶端5裂，萼裂片卵状披针形，宿存，果时增大，有明显的网脉；花冠细管状漏斗形，喉部无毛或有毛，5裂，裂片开展，宽卵形，内向镊合状排列；雄蕊5枚，着生于花冠管的基部，花丝极短，背着药，内藏；花盘肉质，位于萼筒的上方，包被着子房；子房4-5室，每室具一倒生的胚珠，花柱细长，柱头4-5裂，略伸出。果实小，冠以星状开展的萼裂，成熟后萼筒顶部似盖果状裂开；种子倒卵形，有纵沟。
+
+属模式：P. depressa Miq.
+<p style='text-indent:28px'>本属有2种，产日本；我国有1种，产浙江。

@@ -1,0 +1,14 @@
+细毛拉拉藤",
+42.**Galium pusillosetosum** H. Hara J. Jap. Bot. 51: 134. 1976.",
+
+## Description
+Herbs, perennial, procumbent and ascending, caespitose, (5-)10-20(-40) cm tall. Stems with 4 prominent whitish angles, variable from ± densely hispid with straight trichomes of ca. 0.8 mm to retrorsely (very rarely also antrorsely) aculeolate. Middle stem leaves in whorls of up to 5 or 6 (never only 4), subsessile; blade drying blackish, narrowly oblanceolate to narrowly lanceolate, (3-)5-10(-17) × 0.8-2(-4.2) mm, hispid, retrorsely aculeolate on midrib and margins or glabrescent, base cuneate, apex acute and shortly mucronate; vein 1, whitish. Inflorescences with axillary and/or terminal cymes, few to several flowered; peduncles divaricate, with leaflike bracts, 1-3 mm; pedicels 0.5-3 mm. Ovary ovoid, ca. 0.6 mm, densely hispidulous, glabrescent or glabrous. Corolla purple, yellowish green, or white, rotate, 2.5-3 mm in diam., glabrous or scaberulous inside; lobes 4, ovate, acute. Fruit subglobose, ca. 2 mm in diam., with dense to sparse ± uncinate trichomes 0.5-0.7 mm or glabrous and smooth. Fl. and fr. May-Aug.
+  "Reference": "*Galium pusillosetosum* is an obvious alpine member of the *G. asperifolium* group (*G.* sect. *Trachygalium* s.l.). Main differential characters are its relatively dense leaf and stem indumentum and its conspicuous whitish stem angles. These separate it from *G. acutum*, *G. baldensiforme*, *G. megacyttarion*, *G. rebae*, *G. glabriusculum*, and *G. sungpanense*. Nevertheless, its variability with respect to leaf epidermal cell size, flower color, and ovary and fruit indumentum is remarkable.*Galium pusillosetosum* is an obvious alpine member of the *G. asperifolium* group (*G.* sect. *Trachygalium* s.l.). Main differential characters are its relatively dense leaf and stem indumentum and its conspicuous whitish stem angles. These separate it from *G. acutum*, *G. baldensiforme*, *G. megacyttarion*, *G. rebae*, *G. glabriusculum*, and *G. sungpanense*. Nevertheless, its variability with respect to leaf epidermal cell size, flower color, and ovary and fruit indumentum is remarkable.
+  "Statistics": "Mountain slopes, open ground and grasslands; 2100-3900 m. Gansu, Nei Mongol, Ningxia, Qinghai, Shanxi, Sichuan, Xinjiang, Xizang [Bhutan, Nepal].
+**9. 细毛拉拉藤（贺兰山维管植物）**
+
+Galium pusillosetosum Hara in Journ. Jap. Bot. 51: 134, fig. 2. 1976. et in Hara et al. Enum. Flow. Pl. Nepal 2: 202. 1979; 贺兰山维管植物236. 1986; 黄土高原植物志5: 24. 1989; W. C. Chen in Acta Phytotax. Sinica 28 (4): 300. 1990.
+
+多年生草本，高5-40厘米；茎簇生，纤细，基部常匍匐，上部直立，具4角棱，被疏硬毛，稀近无毛，无皮刺。叶纸质，每轮4-6片，倒披针形、披针形或狭椭圆形，长3-17毫米，宽0.8-3毫米，顶端具硬尖或有短尖头，基部渐狭或阔楔形，两面疏被硬毛或仅下面中脉和边缘有倒向的刺毛，1脉，近无柄或具短柄。聚伞花序腋生或顶生，短而小，长1-2厘米，少花，常1-3花；苞片叶状；花小；花梗叉开，长达3毫米，无毛；花冠淡紫色，黄绿色或白色，辐状，直径2.5-3毫米，花冠裂片4，卵形，长1.2-1.5毫米，顶端锐尖，在内面上部粗糙；雄蕊4枚，花丝长约0.5毫米；子房被紧贴的白色硬毛，花柱2，长约0.5毫米，柱头头状。果近球形，直径约2毫米，散生钩毛。花果期5-8月。
+
+产内蒙古、陕西、宁夏、甘肃、青海、新疆、四川、西藏。生于山坡、沟边、荒地、草地，海拔2150-3900米。分布于尼泊尔、不丹。

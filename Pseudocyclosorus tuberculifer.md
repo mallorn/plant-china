@@ -1,0 +1,8 @@
+瘤羽假毛蕨",
+2.**Pseudocyclosorus tuberculifer** (C. Christensen) Ching Acta Phytotax. Sin. 8: 324. 1963.",
+
+## Description
+Plants more than 2 m tall. Rhizomes erect, firm, apices with dense brownish lanceolate scales. Fronds clustered; stipes 100-130 cm, brownish, sparsely scaly, distally glabrous; laminae broadly oblong-lanceolate, ca. 100 × 45 cm, tapering to bases, pinnate-pinnatifid, acuminate at apices; proximal to 15 pairs of pinnae abruptly reduced into brown aerophores, middle normal pinnae 28-30 pairs, proximal ones opposite or subopposite, spreading, distally alternate, obliquely spreading, sessile; middle pinnae linear-lanceolate, 20-30 × 2.2-3 cm, linear-acuminate at apices; proximal pinnae slightly tapering, cuneate, distal pinnae slightly broadened to bases, rounded-cuneate, pinnatifid and reaching broad wings on both sides; segments 35-45 pairs, oblique distally, slightly bent, subfalcate, 8-14 × ca. 4 mm, entire, acute at apices. Veins evident, raised on both sides, veinlets 11-15 pairs per segment, proximal pair reaching bottom of sinuses. Laminae papery when dry and brownish green, rachises and costae with sparse acicular hairs at apices abaxially, costae with dense appressed setae along grooves abaxially, elsewhere glabrous. Sori orbicular, attached below middle of veinlets and close to costules; indusia orbicular-reniform, thick, brown, glabrous, persistent.
+
+> Gravelly soil by streams; 600-1900 m. Guangdong, Guangxi, Yunnan [N India (Sikkim)].
+  "Synonym": "*Dryopteris tuberculifera* C. Christensen, Contr. U.S. Natl. Herb. 2: 275. 1931; *Thelypteris tuberculifera* (C. Christensen) Ching.

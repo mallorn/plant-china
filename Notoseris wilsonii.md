@@ -1,0 +1,8 @@
+峨眉紫菊",
+9.**Notoseris wilsonii** (C. C. Chang) C. Shih Acta Phytotax. Sin. 25: 202. 1987.",
+
+## Description
+Herbs to 1 m tall, perennial. Stem erect, apically branched and glandular hairy, basally glabrous, leafy. Lower and middle stem leaves with petiole 3.5-8 × 2-2.5 cm, ± unwinged and base slightly widened in lower leaves, narrowly winged and base sometimes somewhat auriculately widened in middle leaves; leaf blade pinnatipartite to pinnatisect and sometimes lyrately so, margin ± sinuate and mucronulately dentate and sometimes sublobately so; lateral lobes 1-4 pairs, opposite or alternate, sessile to subpetiolulate, ovate, triangular-ovate, or elliptic, 1-7 × 1-4 cm, often unequal, upper ones sometimes subdividing terminal lobe; terminal lobe triangular, triangular-ovate, or rhombic, 7-12 × 3-10 cm, base truncate to cuneate, margin sometimes lobulate, apex acute to acuminate. Upper stem leaves similar to middle stem leaves but sessile or with shorter usually broader winged petiole, sometimes smaller and fewer. Synflorescence paniculiform, with numerous capitula. Capitula with 4 or 5 florets. Involucre 9-10 × ca. 2 mm. Phyllaries purple, glabrous; outer phyllaries triangular-ovate to linear-lanceolate, largest 4-5 mm; inner phyllaries 5. Florets purplish blue. Achene 4-6 mm, apically usually more attenuate than basally. Pappus 6-7 mm, exserted from involucre at maturity. Fl. and fr. May-Jul.
+  "Statistics": "● Forests, forest margins; 1000-2800 m. Sichuan (Emei Shan, Wenchuan).
+  "Synonym": "*Prenanthes wilsonii* C. C. Chang, Bull. Fan Mem. Inst. Biol., Bot. 5: 322. 1934.
+  "frpsdesc": "",

@@ -1,0 +1,14 @@
+线叶拉拉藤",
+31.**Galium linearifolium** Turczaninow Bull. Soc. Imp. Natu-ralistes Moscou. 7: 152. 1837.",
+
+## Description
+Herbs, perennial, erect, sometimes slightly woody at base. Stems up to 65 cm tall, 4-angled, hirtellous or puberulent to glabrescent or smooth and glabrous. Leaves in whorls of 4, sessile or subsessile; blade drying leathery, linear-spatulate, often slightly falcate, 10-60 × 1-4 mm, adaxially glabrous, weakly shiny, antrorsely aculeolate along midrib and/or near margins, abaxially glabrous or sparsely hirtellous along midrib, base cuneate or obtuse, margin antrorsely aculeolate or pubescent, revolute, apex obtuse to acute; vein 1. Inflorescences terminal, paniculiform, with few- to many-flowered, 1.5-5 cm long cymes; peduncles hirtellous to glabrous, smooth; bracts narrowly elliptic, 1-3 mm or often lacking; pedicels 1.5-6 mm. Ovary ellipsoid to obovoid, ca. 0.8 mm, glabrous, smooth. Corolla white, rotate, ca. 4 mm in diam.; lobes 4, lanceolate, acute. Mericarps ellipsoid to subglobose, 2.5-3 mm, glabrous and smooth. Fl. Jun-Aug, fr. Jul-Sep.
+  "Reference": "*Galium linearifolium* seems to be a rare species and is easily confused with *G. boreale*. The latter has leaves usually somewhat lanceolate and with 3 main veins. Cufodontis (Oesterr. Bot. Z. 89: 219-223. 1940) mentioned a certain affinity of *G. linearifolium* with *G. bungei*. Although *G. linearifolium* is said in FRPS to have leaves in whorls of 4, the relevant figure (71(2): 251, t. 56, f. 3. 1999) shows them in whorls of 5, evidently a mistake.*Galium linearifolium* seems to be a rare species and is easily confused with *G. boreale*. The latter has leaves usually somewhat lanceolate and with 3 main veins. Cufodontis (Oesterr. Bot. Z. 89: 219-223. 1940) mentioned a certain affinity of *G. linearifolium* with *G. bungei*. Although *G. linearifolium* is said in FRPS to have leaves in whorls of 4, the relevant figure (71(2): 251, t. 56, f. 3. 1999) shows them in whorls of 5, evidently a mistake.
+  "Statistics": "Grassy slopes, forests, thickets, mountain meadows; 400-1800 m. Hebei, Hubei, Liaoning [Korea].
+**22. 线叶拉拉藤（东北植物检索表）图版56：3-5**
+
+Galium linearifolium Turcz. in Bull. Soc. Nat. Moscou 7: 152. 1837; Forb. et Hemsl. in Journ. Linn. Soc. Bot. 23: 394. 1888; Pampan. in Nuov. Giorn. Bot. Ital. 17: 719. 1910; Cuf. in Oesterr. Bot. Zeitschr. 89: 223. 1940; 东北植物检索表350. 1959; 中国高等植物图鉴4: 280, 图5973. 1975.
+
+多年生直立草本，基部稍木质，通常高30厘米左右，常近地面分枝成丛生状；茎具4角棱，有光泽，仅节上稍粗糙。叶近革质，4片轮生，狭带形，常稍弯，长1-6厘米，宽1-4毫米，顶端钝或稍短尖，基部楔形或稍钝，边缘有小刺毛，常稍反卷，上面有糙点和散生小刺毛而粗糙，稍有光泽，下面仅中脉上有时有疏短硬毛，1脉，无柄或近无柄。聚伞花序顶生，很少腋生，疏散，少至多花，长约5厘米，常分枝成圆锥花序状；总花梗纤细而稍长；花小，直径约4毫米；花梗纤细，长1.5-6毫米；花萼和花冠均无毛；花冠白色，裂片4，披针形，长约1.5毫米，宽约0.8毫米；雄蕊4枚，花丝长0.5毫米；花柱长0.7-1毫米，顶端2裂。果无毛，直径2.5-3毫米，果爿椭圆状或近球状，单生或双生；果柄长3-8毫米。花期6-8月，果期7-9月。
+
+产辽宁、河北、湖北。生于山地草坡、林下、灌丛、草地，海拔460-1800米。分布于朝鲜。模式标本采自河北。

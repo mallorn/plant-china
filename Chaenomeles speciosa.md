@@ -1,0 +1,17 @@
+皱皮木瓜",
+2.**Chaenomeles speciosa** (Sweet) Nakai",
+
+## Description
+Shrubs deciduous, to 2 m tall, with thorns. Branchlets purplish brown or blackish brown, terete, glabrous, with pale brown lenticels; buds purplish brown, triangular-ovoid, glabrous or pubescent at margin of scales, apex obtuse. Stipules reniform or suborbicular, rarely ovate, large, 5–10 mm, herbaceous, glabrous, sharply doubly serrate at margin, apex acute; petiole ca. 1 cm, initially sparsely pubescent, glabrescent; leaf blade ovate to elliptic, rarely narrowly elliptic, 3–9 × 1.5–5 cm, glabrous or pubescent abaxially along veins on leaves of shoots, base cuneate to broadly cuneate, margin shortly serrate, apex acute or obtuse. Pedicel absent or short, ca. 3 mm, subglabrous. Flowers precocious, 3–5-fascicled on second year branchlets, 3–5 cm in diam. Hypanthium campanulate, glabrous. Sepals erect, suborbicular, rarely ovate, 3–4 mm, abaxially glabrous, adaxially pubescent. Petals scarlet, rarely pinkish or white, ovate or suborbicular, base shortly clawed, apex rounded. Stamens 40–50, ca. 1/2 as long as petals. Styles 5, ca. as long as stamens, connate at base, glabrous or slightly pubescent. Pome fragrant, yellow or yellowish green, globose or ovoid, 4–6 cm in diam.; sepals caducous; fruiting pedicel short or absent. Fl. Mar–May, fr. Sep–Oct. 2n = 34*.
+
+> Fujian, Gansu, Guangdong, Guizhou, Hubei, Jiangsu, Shaanxi, Sichuan, Xizang, Yunnan [Myanmar].
+  "Synonym": "*Cydonia speciosa* Sweet, Hort. Suburb.-Lond. 113. 1818; *Chaenomeles lagenaria* (Loiseleur-Deslongchamps) Koidzumi; *Cydonia japonica* (Thunberg) Persoon var. *lagenaria* (Loiseleur-Deslongchamps) Makino; *C. lagenaria* Loiseleur-Deslongchamps.
+**2. 皱皮木瓜　木瓜、楙（本草纲目），贴梗海棠（群芳谱），贴梗木瓜（中国高等植物图鉴），铁脚梨（河北习见树木图说）　图版48: 1-5**
+
+Chaenomeles speciosa (Sweet) Nakai in Jap. Journ. Bot. 4: 331. 1929; Weber in Journ. Arn. Arb. 45: 311. 1964; Ohwi, Fl. Jap. (in English) 547. 1965. ——Cydonia speciosa Sweet, Hort. Suburb. Lond. 113. 1818. Holotype, pl. 692. in Curtis's Bot. Mag. 18: 1803. ——Cydonia lagenaria Loisel. in Duhamel, Traite Arb. Arburst. (Nouv. Duhamel) 6: 255. pl. 76. 1815 ——Cydonia japonica var. lagenaria (Loisel) Makino in Bot. Mag. Tokyo 22: 64. 1908 ——Chaenomeles lagenaria (Loisel) Koidz. in Bot. Mag. Tokyo 23: 173. 1909 & in Journ. Coll. Sci. Univ. Tokyo 34(2): 94. 1913; Rehd. in Sarg. Pl. Wils. 2: 296. 1915; Hers in Journ. N. China Branch Roy. Asiat. Soc. 53: 108. 1922; Rehd. in Journ. Arn. Arb. 5: 185. 1924; Hand. -Mazz. Symb. Sin. 7: 462. 1933; 周汉藩, 河北习见树木图说 115. 图70. 1934; 陈嵘, 中国树木分类学 426. 图325. 1937; Chun in Sunyatseoia 4: 210. 1940; Merr. in Brittonia 4: 83. 1941; Steward, Man. Vasc. Pl. Lower Yangtze Valley 196. f. 160. 1958; 裴鉴等, 江苏南部种子植物手册 352. 图564. 1959; 北京师范大学, 北京植物志上册 400. 图346. 1962; 中国高等植物图鉴 2: 243. 图2216. 1972.
+
+落叶灌木，高达2米，枝条直立开展，有刺；小枝圆柱形，微屈曲，无毛，紫褐色或黑褐色，有疏生浅褐色皮孔；冬芽三角卵形，先端急尖，近于无毛或在鳞片边缘具短柔毛，紫褐色。叶片卵形至椭圆形，稀长椭圆形，长3-9厘米，宽1.5-5厘米，先端急尖稀圆钝，基部楔形至宽楔形，边缘具有尖锐锯齿，齿尖开展，无毛或在萌蘖上沿下面叶脉有短柔毛；叶柄长约1厘米；托叶大形，草质，肾形或半圆形，稀卵形，长5-10毫米，宽12-20毫米，边缘有尖锐重锯齿，无毛。花先叶开放，3-5朵簇生于二年生老枝上；花梗短粗，长约3毫米或近于无柄；花直径3-5厘米；萼筒钟状，外面无毛；萼片直立，半圆形稀卵形，长3-4毫米。宽4-5毫米，长约萼筒之半，先端圆钝，全缘或有波状齿，及黄褐色睫毛；花瓣倒卵形或近圆形，基部延伸成短爪，长10-15毫米，宽8-13毫米，猩红色，稀淡红色或白色；雄蕊45-50，长约花瓣之半；花柱5，基部合生，无毛或稍有毛，柱头头状，有不显明分裂，约与雄蕊等长。果实球形或卵球形，直径4-6厘米，黄色或带黄绿色，有稀疏不显明斑点，味芳香；萼片脱落，果梗短或近于无梗。花期3-5月，果期9-10月。
+
+产陕西、甘肃、四川、贵州、云南、广东。缅甸亦有分布。
+
+各地习见栽培，花色大红、粉红、乳白且有重瓣及半重瓣品种。早春先花后叶，很美丽。枝密多刺可作绿蓠。果实含苹果酸、酒石酸、构椽酸及丙种维生素等，干制后入药，有驱凤、舒筋、活络、镇痛、消肿、顺气之效。

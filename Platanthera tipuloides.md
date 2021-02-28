@@ -1,0 +1,14 @@
+筒距舌唇兰",
+4.**Platanthera tipuloides** (Linnaeus f.) Lindley Gen. Sp. Orchid. Pl. 285. 1835.",
+
+## Description
+Plants 20-40 cm tall. Rootstock tuberous, narrowly fusiform to cylindric, elongate, 3.5-5 × 0.3-0.6 cm. Stem slender, with a tubular sheath at base, 1-leaved. Leaf oblong-elliptic, 5-11 × 0.8-2 cm, base clasping, apex obtuse. Peduncle slender, with 2 or 3 foliaceous, ovate-lanceolate bracts; rachis 6-12 cm, sparsely many flowered; floral bracts narrowly lanceolate, 12-15 mm, basal ones exceeding ovary. Flowers yellowish green; pedicel and ovary cylindric, 9-12 mm, slender. Dorsal sepal erect, forming a hood with petals, broadly ovate, cymbiform, 2.5-3 × 2-2.5 mm, glabrous, 3-veined, apex obtuse; lateral sepals reflexed, narrowly elliptic, 3-3.5 × 1.2-1.3 mm, glabrous, 3-veined, apex obtuse. Petals erect, ovate to narrowly ovate, oblique, 2.5-3 × 1-1.5 mm, slightly fleshy, 1-veined, apex obtuse; lip spreading horizontally to pendulous, broadly linear, 5-6 × 1.2-1.5 mm, entire, apex obtuse; spur slightly pendulous, sometimes incurved, cylindric, 12-17 mm, slender, apex obtuse. Column ca. 1.5 mm; anther locules nearly parallel; connective slightly concave; pollinia obovoid, with short caudicles and suborbicular viscidia; rostellum rather small; stigma lobes confluent, concave, lying directly below rostellum. Fl. May-Jul. 2*n* = 42.
+  "Statistics": "Dense forests on slopes, forest margins along valleys; 700-1700 m. Anhui, Fujian, Hong Kong, Hunan, Jiangxi, Zhejiang [Japan, Korea, Russia (Kamchatka, Sakhalin)].
+  "Synonym": "*Orchis tipuloides* Linnaeus f., Suppl. Pl. 401. 1782; *Perularia whangshanensis* S. S. Chien; *Tipularia tipuloides* (Linnaeus f.) Druce; *Tulotis whangshanensis* (S. S. Chien) H. Hara.
+**20. 筒距舌唇兰（浙江植物志）图版44：1-5**
+
+Platanthera tipuloides (L. f.) Lindl. , Gen. Sp. Orch. pl. 285. 1835; Diels in Bot. Jahrb. 29: 265. 1900; Nevski in Fl. USSR 4: 660. 1935; Ohwi, Fl. Jap. 325. 1965; S. Y. Hu in Quart. J. Taiwan Mus. 28(1-2): 138. 1975; 浙江植物志7: 505, 图7-675. 1993. ——Orchis tipuloides L. f. , Suppl. 401. 1781. ——Perularia whangshanensis S. S. Chien in Contr. Biol. Lab. Sci. Soc. China Bot. 6(7): 75, fig. 4. 1931, syn. nov. ——Tulotis whangshanensis(S. S. Chien)H. Hara in J. Jap. Bot. 30: 72. 1955, syn. nov.
+
+植株高20-40厘米。根状茎指状，伸长，长3.5-5厘米，近基部增粗，粗3-6毫米，肉质。茎细长，中部以下具大叶1枚，其上面具2-3枚小叶，且向上渐小成苞片状。最大叶的叶片线状长圆形，长5-11厘米，宽0.8-2厘米，先端钝，基部收狭成抱茎的鞘。总状花序长6-12厘米，疏生多数花；花苞片长披针形，长达12-15毫米，最下部的常稍长于花；子房细圆柱形，扭转，无毛，长9-12毫米；花黄绿色，细长；中萼片宽卵形，直立，舟状，先端稍内弯，长2.5-3毫米，宽2-2.5毫米，先端钝，具3脉；侧萼片反折，狭椭圆形，长3-3.5毫米，宽1.2-1.3毫米，先端钝，具3脉；花瓣斜卵形至狭长卵形，长2.5-3毫米，宽1-1.5毫米，稍肉质，较萼片厚，先端钝，具1脉，直立，与中萼片靠合呈兜状；唇瓣向前伸，肉质，宽线形，长5-6毫米，宽1.2-1.5毫米，先端钝；距细圆筒状，长1.2-1.7厘米，常向后斜伸且中部以下向上举，末端钝；蕊柱短，长约1.5毫米；药室并行；药隔稍凹陷；花粉团倒卵形，具短的柄和粘盘，粘盘小，卵圆形；蕊喙较小；柱头1个，凹陷，位于蕊喙之下穴内；退化雄蕊2个，半圆形。花期5-7月。
+
+产于安徽（黄山）、浙江（丽水、开化、龙泉、普陀、临安、遂昌）、江西（铅山）、福建（武夷山）、湖南（宜章）、香港。生于海拔750-1700米的山坡密林下或林缘沟谷中。俄罗斯（堪察加半岛和萨哈林岛）、朝鲜半岛和日本也有分布。模式标本采自俄罗斯（堪察加半岛）。

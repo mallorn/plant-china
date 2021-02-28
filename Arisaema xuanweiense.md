@@ -1,0 +1,6 @@
+宣威南星",
+59.**Arisaema xuanweiense** H. Li Kew Bull. 55: 419. 2000.",
+
+## Description
+Plants dioecious. Rhizome vertical, 3-5 cm × 7-10 mm, producing stolons. Cataphylls 2 or 3, whitish green, 3-8 cm, membranous, acuminate at apex. Leaves 1 or 2; petiole greenish, 15-18 cm, proximally forming pseudostem; leaf blade 3-foliolate, pale green abaxially, green adaxially; leaflets sessile, serrate; central leaflet suborbicular, 8.8-11 × 6-8.5 cm, base obtuse, apex acute; lateral veins 5 per side, parallel, collective vein 2-3 mm from margin; lateral leaflets obliquely ovate, 8.5-10.8 × 5.8-8.2 cm, base rounded, apex acuminate. Peduncle greenish, terete, to 18 cm. Spathe nearly erect, ca. 9.5 cm; tube green, cylindric, ca. 4 × 1.5 cm, basal ca. 1 cm white, throat obliquely truncate, straight or slightly recurved; limb green with whitish stripes, abaxially with a large (ca. 1 cm) oblong white area, incurved, ovate, ca. 5.5 × 4 cm, apex acuminate with a tail ca. 8 cm. Spadix unisexual; female zone subconic, ca. 15 mm; flowers dense; ovary green; stigma sessile; appendix erect, whitish green, cylindric, ca. 35 × 3.5 mm in total, base subtruncate, ca. 5 mm in diam., stipitate; stipe ca. 3 × 2 mm. Male spadix unknown. Fl. Apr.
+  "Statistics": "● About 2200 m. NE Yunnan (Xuanwei).

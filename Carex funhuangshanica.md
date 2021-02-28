@@ -1,0 +1,6 @@
+凤凰山薹草",
+129.**Carex funhuangshanica** F. T. Wang & Tang ex P. C. Li Acta Phytotax. Sin. 37: 168. 1999.",
+
+## Description
+Rhizome short. Culms densely tufted, 23-26 cm tall, ca. 0.5 mm thick, triquetrous, smooth. Leaves longer than culm, flat, blades 2-4 mm wide, stiff, scabrous on margins, with brown persistent sheaths. Involucral bracts leaflike, longer than inflorescence, long sheathed. Spikes 2, androgynous, oblong, 1-1.4 cm, 3-4 mm thick; male part of spike ca. 1/4 length of female part, densely few flowered; female part densely 10- or more flowered. Female glumes yellowish laterally, ovate or broadly ovate, 2.5-3 mm, subleathery, green 1-costate and thinly few veined, margins white hyaline, apex acute. Utricles yellowish brown, ovate or obovate, trigonous, 4-4.5 mm, subleathery, glabrous, laterally veined and thickly several veined, base cuneate, nearly estipitate, margins rather narrowly winged, ciliate, apex contracted into a short beak, orifice 2-lobed. Nutlets yellow, brownish at maturity, ovate or obovate, trigonous, 3-3.5 mm, base contracted into a short stipe, apex beakless; style thickened, base conic; stigmas 3. Fl. and fr. Jun-Jul.
+  "Statistics": "● Lax forests on mountain slopes; ca. 200 m. Guangxi (Wuming: Fenghuang Shan).

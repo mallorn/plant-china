@@ -1,0 +1,15 @@
+偏脉耳草",
+42.**Hedyotis obliquinervis** Merrill Lingnan Sci. J. 14: 56. 1935.",
+
+## Description
+Shrubs or subshrubs, climbing to scandent, to 40 cm; stems terete to 4-angled, sometimes sulcate, densely villous and usually also hirtellous or villosulous. Leaves petiolate; petiole 1-5 mm, densely hirtellous or villosulous; blade drying papery, lanceolate, oblong-lanceolate, or lanceolate-elliptic, 3-8 × 0.8-2.5 cm, adaxially sparsely to moderately hispidulous and sometimes villosulous or villous on lamina and densely hispidulous on principal veins, abaxially moderately to densely hispidulous, villosulous, or hirtellous with pubescence denser on principal veins, base cuneate to rounded, apex acute to acuminate; secondary veins 3-5 pairs; stipules fused to petiole bases, densely villous to villosulous, rounded, 1-4 mm, hispidulous, with 3-7 narrowly triangular to linear lobes or bristles 2-7 mm. Inflorescences terminal and sometimes also in axils of uppermost leaves, cymose to corymbiform-rounded, 2.5-9 × 4-16 cm, densely villous, villosulous, or hirtellous or sometimes glabrescent, pedunculate or sessile and tripartite; peduncles 1.5-5 cm; bracts linear-lanceolate to lanceolate, 0.5-4 mm; pedicels 1.5-3 mm. Flowers pedicellate, distylous. Calyx moderately to densely hirtellous or villosulous; hypanthium portion obconical, 1-1.5 mm; limb lobed nearly to base; lobes lanceolate to spatulate, 2-2.5 mm, sometimes reflexed. Corolla white or greenish white, funnelform, outside subglabrous or hispidulous at least on upper part; tube 1-1.5 mm, bearded in throat; lobes lanceolate to spatulate, 2-2.5 mm. Anthers exserted or included, 0.8-1 mm. Stigmas included or exserted, 0.2-0.5 mm. Fruit capsular, compressed globose, ca. 2 mm in diam., hirtellous or villosulous, cartilaginous, septicidally then loculicidally dehiscent, beak rounded, ca. 0.6 mm high; seeds several, blackish brown, angled. Fl. Dec-Aug, young fr. Jun-Jul.
+  "Reference": "This species is very similar to *Hedyotis ampliflora* and may be only a pubescent form of that species.This species is very similar to *Hedyotis ampliflora* and may be only a pubescent form of that species.
+  "Statistics": "Broad-leaved forests, thickets on hills; 100-400 m. Hainan [S Vietnam].
+  "Synonym": "*Hedyotis hedyotidea* (Candolle) Merrill var. *obliquinervis* (Merrill) Fukuoka.
+**45. 偏脉耳草（海南植物志）图版11：1-8**
+
+Hedyotis obliquinervis Merr. in Lingnan Sci. Journ. 14: 56. 1935; 海南植物志3: 306. 1974.
+
+攀援灌木，长约40厘米，基部粗壮，木质，略有分枝，全株被金黄色长柔毛或短柔毛；小枝具槽或具不明显的钝棱。叶对生，纸质，披针形或长圆状披针形，长3.5-8厘米，宽1.2-2.5厘米，顶端渐尖，基部楔形或阔楔形，上面的毛比背面的毛短而疏；侧脉明显，每边4-5条，与中脉成锐角伸出，斜向上伸；叶柄长2-5毫米，托叶基部合生，顶部有3-4条长2-3毫米刚毛状刺。花序顶生或生于上部叶腋，为伞房花序式排列的广展聚伞花序，有时顶部的分枝呈伞形花序式；总花梗长3-5厘米；苞片线状披针形，长3-4毫米；花4数，偶具3数；梗长约3毫米；萼管倒圆锥形，长1-1.5毫米，萼檐略扩大，裂片披针形，长2-2.5毫米，盛开时外反；花冠白色或绿白色，长约4毫米，外面近无毛，里面被疏长毛，喉部有髯毛，裂片被针形，长2-2.5毫米，短尖，顶端偶被髯毛；雄蕊生于冠管基部，与花冠裂片等长，花药突出，卵状长圆形，两端截平，长0.8-1毫米；花柱长突出，中部以下被长柔毛，柱头头状，浅2裂。蒴果扁球形，直径约2毫米，宿存萼檐裂片长2-2.5毫米，成熟时室间开裂为2果爿，果爿腹部直裂，顶部高出于萼檐裂片，内有种子数粒；种子微小，具棱，干后黑褐色。花期12月至翌年3月。
+
+产于海南崖县、保亭、琼中、昌江、白沙等县；生于低海拔杂木林内，攀援于树上，亦见于丘陵地带灌丛中。国外分布于越南南部。模式标本采自海南崖县。

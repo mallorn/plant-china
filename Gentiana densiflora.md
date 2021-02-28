@@ -1,0 +1,7 @@
+密花龙胆",
+239.**Gentiana densiflora** T. N. Ho",
+
+## Description
+Annuals 3-13 cm tall. Stems purple, erect, fastigiate branched from base, with short slender branches and 2-6 crowded flowering branches, papillate. Basal leaves withered at anthesis; petiole 2-3 mm; leaf blade ovate to broadly ovate, 1-2.5 &amp;#215; 0.7-1.3 cm, margin cartilaginous and ciliolate, apex obtuse; veins 1-3, slender. Stem leaves widely spaced; petiole tube 1-1.5 mm, abaxially papillate; leaf blade spatulate to obovate, 0.5-1.5(-2) &amp;#215; 0.2-1(-1.5) cm, shorter than internodes, smaller toward stem apex, margin narrowly membranous and ciliolate, apex rounded; veins 1-3, slender. Flowers many. Pedicel purple, 2-3.5 mm, surrounded by upper leaves, papillate. Calyx narrowly obconic, 5-6.5 mm; lobes broadly triangular, 1-2 mm, margin narrowly membranous and smooth, apex acute and apiculate, midvein prominent. Corolla outside pale yellow-green, inside pale blue, tubular, 1-1.3 cm; lobes ovate, 1.5-2 mm, margin entire, apex obtuse; plicae semiorbicular, 0.8-1 mm, margin entire or crenulate, apex obtuse. Stamens inserted at middle of corolla tube, equal; filaments 2.5-3 mm; anthers narrowly ellipsoid, 1.3-1.5 mm. Style 1-1.5 mm; stigma lobes oblong. Capsules narrowly obovoid to obovoid, 4.5-6 mm; gynophore to 1.8 cm, stout. Seeds brown, ellipsoid, 1-1.2 mm. Fl. and fr. Apr-Jun.
+
+> * Grassland and roadside slopes, wet grasslands, scrub, forest margins, forests; 900-3000 m. Guizhou, E Sichuan.

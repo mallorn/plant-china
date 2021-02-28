@@ -1,0 +1,14 @@
+禾叶嵩草",
+41.**Kobresia graminifolia** C. B. Clarke J. Linn. Soc., Bot. 36: 268. 1903.",
+
+## Description
+Rhizomes short. Basal sheaths prominent and persistent, pale brown or yellowish brown, dull or slightly shiny, margins and apices fibrillose, not or retaining a few dried leaf blades. Culms densely tufted, erect and rigid, obscurely trigonous, (7-)20-45 cm tall, 1-1.5 mm in diam. Leaves basal, shorter to longer than culms; blade semicircular or V-shaped in transverse section, 0.5-1.5 mm wide, midrib not usually distinct abaxially. Inflorescence ± densely spicate, usually unisexual (sometimes androgynous or gynaecandrous), male and female spikes borne on same plant. Male inflorescence narrowly cylindric or narrowly ellipsoid, 1.5-3(-5) × 0.3-0.6 cm; male glumes narrowly oblong, 6-8(-10) × 1-2 mm, margin narrowly hyaline, apex rounded. Female inflorescence brown, narrowly cylindric, 2.5-7.5 × 0.3-0.6 cm, lower spikelets distant; lowest involucral bract glumelike, apex acute or shortly aristate; female glumes brown, with paler midvein, oblong-ovate or narrowly triangular-ovate, 5-6 × 1.5-2 mm, midvein narrow, margin very narrowly hyaline, apex acute or obtuse. Prophylls lower part pale green, apex brown, narrowly oblong-elliptic, 4-6 × 0.8-1.8 mm, papery, 2-keeled, keels scabrid, margins free to base or fused in lower 1/4, not overlapping, apex truncate or notched. Nutlets narrowly elliptic or oblanceolate, trigonous, very shortly stipitate and shortly beaked, 3.5-5.5 (including stipe and beak) × 0.8-1.5 mm. Stigmas 3. Sterile rachilla of female spikelets 1.2-2 mm, less than 1/2 length of nutlet. Fl. and fr. Jun-Sep.
+  "Reference": "This is possibly a form of *Kobresia cercostachys*, which it resembles (especially in its fibrillose leaf sheaths and somewhat intermediate leaf morphology) but differs from in its (usually) contrasting female and male spikes.This is possibly a form of *Kobresia cercostachys*, which it resembles (especially in its fibrillose leaf sheaths and somewhat intermediate leaf morphology) but differs from in its (usually) contrasting female and male spikes.
+  "Statistics": "Grassy slopes, among shrubs, on mossy rocks, alpine meadows; 3100-4700 m. Gansu, Qinghai, Shaanxi, Sichuan, Xizang, Yunnan [Nepal].
+**52. 禾叶嵩草（图鉴）**
+
+Kobresia graminifolia C. B. Clarke in Journ. Linn. Soc. Bot. 36: 268, 1903; Kukenth. in Engl., Pflanzenr. Heft 38 ( IV, 20): 44, 1909: 中国高等植物图鉴5: 263, 图7356, 1976; 横断山区维管植物下册: 2352, 1994.
+
+根状茎短。秆密丛生，直立，坚挺，高30-45厘米，三棱形，光滑，基部的宿存叶鞘淡褐色，有光泽，高及秆的1/4-1/3。叶短于秆或与秆近等长，对折，线形，宽1-2毫米，边缘粗糙，柔软。穗状花序单性，雌雄异株；雄花序线状圆柱形，长4-5厘米，在基部偶有1-2朵雌花；雌花序线形或线状圆柱形，长6-7.5厘米，粗3-6毫米，支小穗多数，上部的密生，下部的较疏远。雄花鳞片狭长圆形，长6-8毫米，顶端钝，膜质，褐色，内有雄蕊3枚：雌花鳞片狭长圆形，长6-7毫米，顶端钝、渐尖或圆形，纸质，两侧褐色，有狭的白色膜质边缘，中间淡黄色，具1-3条脉。先出叶狭椭圆形，长4-5.5毫米，纸质，下部黄白色，上部褐色，在腹面，边缘分离几至基部，背面具微粗糙的2脊，脊间无脉或具细脉，顶端白色膜质，截形或浅二裂。小坚果狭椭圆形，三棱形，长3.5-5.5毫米，成熟后淡褐色，基部具短柄，顶端渐狭成圆锥状的喙，不伸出或略伸出先出叶之外；花柱基部不增粗，柱头3个。退化小穗轴扁，长为小坚果的1/3。花果期6-9月。
+
+产于陕西（太白山）和甘肃南部；生于海拔3100-3800米的山顶、岩缝中或林间草地。模式标本采自陕西太白山庙湾。

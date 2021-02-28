@@ -1,0 +1,14 @@
+拟兰",
+1.**Apostasia odorata** Blume Bijdr. 423. 1825.",
+
+## Description
+Plants 15-40(-50) cm tall. Rhizome elongate; roots proplike, 1-3 mm in diam. Stem erect or prostrate toward base, usually not branched, with several tubular sheaths toward base. Leaves many; blade lanceolate to linear-lanceolate, 6-18 × 0.7-1.9 cm, apex with an awn 3-11 mm; petiole-like base 1-2 cm. Inflorescence terminal, often nodding, conic, with 1-3 lateral branches, usually more than 10-flowered; floral bracts ovate to ovate-lanceolate, 4-9 mm. Flowers ca. 1 cm in diam.; ovary and pedicel 15-22 mm. Sepals pale yellow, narrowly oblong, 6-9 × 1.5-2.4 mm, 3-veined, margin crisped, apex shortly mucronate. Petals similar to sepals but with thickened midvein, pale yellow; lip similar to petals, ca. 10 × 2.5 mm. Column ventrally with 2 projecting wings below staminode; wings quadrate, ca. 0.7 mm, longitudinally sulcate; filaments ca. 1 mm; anthers sublinear, 4-5 mm, base sagittate, apex apiculate, with locules unequal in length; staminode subcylindric, slightly shorter than style, adnate to style for most of its length though distal ca. 1 mm free; style 5-6 mm, extending slightly beyond anthers, apex with slightly dilated stigma. Capsule cylindric, 15-20 × 2-3 mm. Fl. May-Jun, fr. Jun-Jul.
+  "Statistics": "Forests; ca. 700 m. N and S Guangdong (Wengyuan, Zengcheng), SW Guangxi (Longzhou), Hainan, S Yunnan (Mengla, Simao) [Cambodia, India, Indonesia, Laos, Malaysia, Thailand, Vietnam].
+  "Synonym": "*Apostasia platystylis* J. J. Smith; *A. selebica* J. J. Smith; *A. thorelii* Gagnepain.
+**1. 拟兰（中国高等植物图鉴）　假兰（海南植物志）　图版1: 3-4**
+
+Apostasia odorata Bl. , Bijdr. 423. 1825; Rolfe in J. Linn. Soc. Bot. 25: 236. 1889; Pfitz. in Engler, Pflanzenreich IV(50)Heft 12: 6. 1903; E. F de Vogel in Blumea 17(2): 343. fig. 10, 12. 1969;中国高等植物图鉴5: 603,图8035. 1976; S. C. Chen et K. Y. Lang in Acta Phytotax. Sin. 24(5): 346. 1986; Seidenf. in Opera Bot. 114: 13. 1992; Averyanov, Iden. Guide Vietnam. Orch. 13. 1994; Z. H. Tsi et S. C. Chen in Acta Phytotax. Sin. 33(3): 289. 1995. ——Apostasia thorelii Gagnep. in Bull. Soc. Bot. France 80: 350. 1933. ——Apostasia wallichii auct. non R. Br. : Merrill in Lingn. Sci. J. 5: 52. 1927; 海南植物志4: 180. 1977.
+
+植株高15-40厘米或过之；根状茎较长，与茎无明显界限，有时发出少数支柱状根；支柱状根粗1-3毫米。茎直立或下部匍伏，不分枝或偶见1个分枝，下部具数枚圆筒状的鞘，鞘上方具多枚叶。叶片披针形或线状披针形，长6-18厘米，宽0.7-1.9厘米，先端具长3-11毫米的芒尖，基部收狭成柄；叶柄长1-2厘米。花序顶生，常弯垂，具1-3个侧枝，圆锥状，通常有10余朵花；花苞片卵形或卵状披针形，长4-9毫米；花梗和子房长1.5-2.2厘米，无毛；花淡黄色，直径约1厘米；萼片狭长圆形，长6-9毫米，宽1.5-1.9毫米，先端短尾状，边缘皱波状，通常具3脉；花瓣与萼片相似，但中脉较粗厚；蕊柱（合生部分）长约2毫米，背侧在退化雄蕊下方具2个突出的翅；翅近方形，长约0.7毫米，中央有纵沟；能育雄蕊的花丝长约1毫米；花药近线形，长4-5毫米，基部戟形，顶端具细尖，两药室不等长；退化雄蕊近圆柱形，略短于花柱，除上端约1毫米离生外，全部贴生于花柱上；花柱（分离部分）长5-6毫米，略高出花药之上，顶端具稍膨大的柱头。蒴果圆筒形，长1.5-2厘米，直径2-3毫米；果梗长2-3毫米。花果期5-7月。
+
+产广东北部至南部（翁源、增城）、海南、广西西南部（龙州）和云南南部（思茅、勋腊）。生于海拔690-720米的林下。越南、老挝、柬埔寨、泰国、马来西亚、印度尼西亚和印度也有分布。模式标本采自印度尼西亚爪哇。

@@ -1,0 +1,14 @@
+长柄秋海棠",
+149.**Begonia smithiana** T. T. Yu",
+
+## Description
+Herbs. Rhizomes elongate, 5-10 mm in diam. Stems very short. Leaves mostly basal; stipules ovate, 3.5-5 × 2-3 mm, subglabrous, apex acuminate; petiole sometimes reddish, to 25 cm, sparsely to densely hairy; blade sometimes purple-red on veins, ovate to broadly ovate, rarely oblong-ovate, asymmetric, (3.5-)5-9(-12) × 3-5(-8) cm, abaxially hirsute, adaxially sparsely hispidulous, venation palmate, 6- or 7-veined, base oblique cordate, margin irregularly serrate, very shallowly lobed, apex caudate or acuminate. Inflorescences 12-20(-30) cm tall, subglabrous. Staminate flowers: pedicel 1.2-2.0 cm; tepals 4, pinkish, outer 2 broadly ovate, 1-1.4 × 0.8-1.6 cm, abaxially hairy, inner 2 oblong-ovate, 0.6-1.3 cm × 3-9 mm; stamens 68-81; filaments 1-3.9 mm, fused at base; anthers obovoid, 1-1.7 mm. Pistillate flowers: pedicel 1.2-1.5 cm; tepals 5, pinkish, largest broadly ovate, 8-14 × 7-13 mm, abaxially pilose, smallest narrowly elliptic to oblong-obovate, 4-14 × 2-10 mm; ovary sparsely hairy, 2-loculed; placentae axile, bilamellate; styles 2, fused to 2/3, ca. 4.7 mm; stigmas 2-cleft, spiraled. Capsule nodding, obovoid-globose, unequally 3-winged; abaxial wing subtriangular, ca. 1.5 cm, apex obtuse; lateral wings smaller. Fl. Aug, fr. Sep.
+
+> ● Forests or scrubby vegetation, on rocks in shaded moist environments along streams or in valleys; 700-1300 m. Guizhou, Hubei, Hunan, Sichuan.
+**129.长柄秋海棠（中国高等植物图鉴）**
+
+Begonia smithiana Yii ex Irmsch. in Not. Bot. Gard. Edinb. 21 (1): 44. 1951; 中国高等植物图鉴2: 944, fig. 3617, excl. pl. Sichuan;中国高等植物图鉴补编2: 536, 542, in clavi. 1983, excl. Pl. Sichuan; L. B. Smith et al. in Smithson. Contr. Bot. 60: 19, 83, in clavi, 234, pl. 5, fig. 28. 1986;贵州植物志4: 258.1989. ——B. fimbristipula auct. non Hance: L. B. Smith et al. in Smithson. Contr. Bot. 60: 160. 1986, quoad pl. 8, fig. 1. -B. limprichtii auct. non Irmsch: 贵州植物志4: 260, 图版94, 图1-2. 1989.
+
+多年生草本，无茎或具极短缩之茎。根状茎斜出或直立，呈念珠状，直径5-10毫米，节密，生出多数粗细长短均不等的纤维状之根。叶多基生，极少数自短缩茎抽出，具长柄；叶片均同形，两侧极不相等，轮廓卵形至宽卵形，稀长圆卵形，长（3.5 ) 5-9（-12)厘米，宽3（5-8)厘米，先端尾尖或渐尖，基部极偏斜，呈斜心形，窄侧宽1.8-3厘米，呈圆形，宽侧2.5-4.5厘米，呈宽大耳状，边缘有齿并不规则浅裂，裂片三角形至宽三角形，长1-2厘米，先端急尖，稀渐尖，上面带紫红色，散生短硬毛，下面亦常带紫红色，色淡，脉常带紫红色，沿主脉和侧脉和小脉被或疏被短硬毛，掌状6-7条脉，中部以上呈羽状脉；叶柄变异较大，长9-25厘米，常带红色，散生卷曲毛，近顶端密；托叶卵形，长3.5-5毫米，宽2-3毫米，先端渐尖，近无毛。花葶高12-20 (-30)厘米，近无毛；花粉红色，少数，呈二歧聚伞状；雄花：花梗长12-20毫米，无毛；花被片4，外面2枚，宽卵形，长10-12毫米，宽8-11毫米，先端钝或圆，全缘，外面中间部分被刺毛，内面2枚，长圆卵形，长6-8毫米，宽3-4毫米，先端钝，全缘，无毛；雄蕊多数，花丝长1-1.5毫米，基部合生，花药倒卵形，长约1毫米；雌花：花梗长12-15毫米，无毛；花被片3（-4），外面的宽卵形，8-13毫米，宽7-10毫米，外面微被毛，内面窄椭圆形至长圆倒卵形，长4-5毫米，宽2-3毫米，先端钝；子房偏的倒卵球形，长6-7毫米，直径4-5毫米，散生卷曲毛，2室，每室胎座具2裂片，具不等3翅，花柱：，在上部1/2的长度分枝，柱头外向增厚并螺旋状扭曲，并带刺状乳突。蒴果下垂，轮廓倒卵球形，被毛，具3不等之翅，大的近三角形，长约15毫米，有纵棱，先端钝，其余2翅窄，均无毛；种子极多数，小，长圆形，浅褐色，平滑。花期8月，果期9月。
+
+产贵州、湖北、湖南。生于水沟阴处岩石上、山谷密林下、山脚湿地灌丛中、水旁沟底岩石上，海拔700-1320米。模式标本采自贵州梵净山。

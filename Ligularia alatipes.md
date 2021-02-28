@@ -1,0 +1,13 @@
+翅柄橐吾",
+81.**Ligularia alatipes** Handel-Mazzetti Bot. Jahrb. Syst. 69: 132. 1938.",
+
+## Description
+Stem erect, to 150 cm tall, 1-1.5 cm in diam. at base, proximally glabrous, distally white arachnoid-puberulent and shortly yellow pilose. Basal leaves petiolate; petiole to 32.5 cm, winged; wings to 5 mm wide; base sheathed, margin entire; leaf blade ovate-cordate, 7-40 cm, proximally 10-17 cm wide, glabrous or abaxially pubescent along veins, pinnately veined, base cordate, margin regularly denticulate, ciliate, apex obtuse; sinus broad and shallow, ca. 1/10 as long as leaf blade, basal lobes orbicular. Middle stem leaves similar, but shortly petiolate; petiole winged; wings denticulate; sheath to 10 cm, upper margin dentate. Distalmost stem leaves bracteal, with enlarged sheathed petiole; leaf blade ovate or reniform, to 6 × 7 cm, margin dentate; pinnately or palmate-pinnately veined. Synflorescence racemose, to 35 cm; leaflike bracts ovate-lanceolate, proximal ones to 7.5 × 2.5 cm, smaller distally, dentate or reniform with sheathed petiole; peduncles slender, proximally to 11 cm, shorter distally, white arachnoid-puberulent. Capitula numerous; supplementary bracts narrowly lanceolate, 1-1.5 cm, longer than involucre, entire or dentate. Involucre broadly campanulate, 8-11 × ca. 10 mm, outside glabrous or white arachnoid-puberulent; phyllaries 10 or 11, in 2 rows, oblong, 4-5 mm wide, margin broadly brown membranous, apex broadly triangular. Ray florets yellow; lamina linear, 30-40 × 2-3 mm, apex acute; tube ca. 5 mm. Tubular florets numerous, ca. 8 mm; tube ca. 4 mm; limb broadly campanulate. Pappus white, as long as tubular corolla. Fl. Jul-Aug.
+  "Statistics": "● Grassy slopes; 2700-3600 m. SW Sichuan, NW Yunnan.
+**92.翅柄橐吾 图版23: 1-5**
+
+Ligularia alatipes Hand. -Mazz. in Bot. Jahrb. 69: 132. 1938; S. Y. Hu in Quart. Journ. Taiwan Mus. 20: 54. 1967. ——Senecio cacaliaefolius var. speciosus eruct. non (Schrad.) DC.: Diels in Not. Bot. Gard. Edinb. 7: 169. 1912; W. W Smith,. L. C. 17: 246. 1932.
+
+多年生粗壮草本。根肉质，多数。茎直立，高达150厘米，上部被白色蛛丝状柔毛和黄色有节短柔毛，下部光滑，基部直径1-1.5厘米。丛生叶与茎下部叶具柄，柄长达32.5厘米，全部具翅，翅宽达5毫米，全缘，基部鞘状，叶片卵状心形，长7-40厘米，下部宽10-17厘米，先端钝，边缘具整齐的小齿，齿端具软骨质小尖头，齿间具睫毛，基部心形，弯缺宽而浅，长为叶片的1/10，两侧裂片圆形，两面光滑，或下面脉上有时具短毛，叶质薄，叶脉羽状，在下面明显；茎中部叶与下部叶同形，具短柄，柄有翅，翅缘具小齿，鞘长达10厘米，鞘口边缘有齿；茎上部至花序下的叶，苞叶状，具膨大的鞘状柄，叶片卵形或肾形，长达6厘米，宽至7毫米，向上渐小，边缘具齿，叶脉羽状或掌式羽状。总状花序长达35厘米；苞片卵状披针形，下部者长达7.5厘米，宽至2.5厘米，向上渐小，边缘具．齿，或肾形，具鞘状柄；花序梗纤细，下部者长达11厘米，向上渐短，被白色蛛丝状柔毛；头状花序多数，辐射状；小苞片狭披针形，长10-15毫米，长于总苞，全缘或有齿；总苞宽钟形，长8-11毫米，宽约10毫米，总苞片10-11，2层，长圆形，宽4-5毫米，先端宽三角形，背部光滑或有白色蛛丝状柔毛，边缘具宽的褐色膜质。舌状花黄色，舌片线形，长3-4屋米，宽2-3毫米，先端急尖，管部长约5毫米；管状花多数，长约8毫米，管部长约4毫米，檐部宽钟形；冠毛白色与花冠等长。瘦果（未熟）光滑。花期7-8月。
+
+产云南西北部、四川西南部（木里）。生于海拔2740-3600米的草地及草丛中。模式标本采自云南丽江（玉龙山）。

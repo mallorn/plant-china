@@ -1,0 +1,19 @@
+狭基蹄盖蕨",
+39.**Athyrium mehrae** Bir Nova Hedwigia. 44: 165. 1962.",
+
+> J. Z. Wang and S. H. Li (in P. Y. Fu et al., Clav. Pl. Chin. Bor.-Orient. 35. 1995) considered that *Athyrium rupestre* Kodama occurs in Jilin. It is characterized by the perispore surface without folds and the pinnae pinnatipartite to pinnatisect, less than 1 cm wide, and long acuminate. *Athyrium rupestre* is distributed in Hokkaido and N Honshu, Japan, and E Russia. If the identification by J. Z. Wang and S. H. Li (1995) is correct, the species should be new to China.
+
+## Description
+Rhizomes erect, apex densely clothed with brown, lanceolate to broadly lanceolate scales. Fronds caespitose; fertile fronds (20-)35-48(-80) cm; stipe blackish brown at base, upward brown-stramineous, (3-)8-20 cm, base (1-)1.4-2(-5) mm in diam., similarly densely scaly, upward glabrate; lamina pinnate-pinnatipartite, oblanceolate, (18-)26-38(-60) × (3.5-)5.5-7(-15) cm above middle, base gradually narrowed, apex acuminate; pinnae 25-30 pairs, alternate, subspreading, sessile, lower 6-9(-12) pairs of pinnae gradually shortened, basal pinnae often reduced to triangular auricles, 5-7(-20) mm, deflexed, middle pinnae lanceolate to broadly lanceolate, up to 3.5-6.5 × 1-1.4 cm, base broadened, equilateral, truncate or subcuneate, pinnatipartite to 1 mm to winged costa, apex shortly acuminate to caudate-acuminate; pinna segments 10-12(-17) pairs, basal segments opposite, upper segments alternate, slightly ascending or subspreading, approximate, oblong to lanceolate, basal segments larger, 4-6 × 1.8-3 mm, dentate at margin, apex obtuse-rounded and toothed; veins inconspicuous adaxially, visible abaxially, pinnate in segments, lateral veins 4 or 5 pairs, oblique, lower veins forked, upper veins simple, thin. Lamina herbaceous when dried, greenish brown, glabrate on both surfaces, with subulate spines at base of pinnae and pinna segments on adaxial side. Sori small, orbicular, 1 or 2(or 3) per segment, inframedial on basal acroscopic veins, close to midrib; indusia brown, small, orbicular-reniform, membranous, entire or erose at margin, persistent. Perispore surface without folds, with granular ornamentation. 2*n* = 80.
+
+> Forests, shrub meadows, on rocks of mountain slopes; 3100-4100 m. SE Xizang, Yunnan [India (Sikkim)].
+  "Synonym": "*Athyrium stenopodum* Ching &amp; S. K. Wu; *A. tibeticum* Ching.
+**40. 狭基蹄盖蕨（西藏植物志）西藏蹄盖蕨（西藏植物志）图版38: 1-7**
+
+Athyrium mehrae Bir in Nova Hedwigia 44: 165, t. 52. 1962; Jarrett, Ind. Fil. Suppl. 5: 28. 1985. ——Athyrium tibeticum Ching in C. Y. Wu, Fl. Xizang. 1: 137, t. 3, f. 7-8. 1983; Z. R. Wang in W. T. Wang, Vasc. Pl. Hengduan Mount. 1: 83. 1993. ——Athyrium stenopodum Ching et S. K. Wu in C. Y. Wu, Fl. Xizang. 1: 137. 1983.
+
+根状茎直立，先端和叶柄基部密被深褐色、披针形至阔披针形的鳞片；叶簇生。能育叶长 (20-) 35-48 (-80) 厘米；叶柄长 (3-) 8-20厘米，基部直径 (1-)1.4-2 (-5) 毫米，黑褐色，向上禾秆色，光滑；叶片倒披针形，长 (18-) 26-38(-60) 厘米，中部宽(3.5-) 5.5-7 (-15)厘米，先端渐尖，向基部逐渐变狭，一回羽状至一回羽状，羽片深羽裂；羽片 (裂片) 约25-30对，互生，近平展，无柄，下部6-9 (-12) 对逐渐缩短，最下部一对常成三角形耳片状，长5-7 (-20)毫米，斜向下，中部的披针形至阔披针形，长达3.5-6.5厘米，基部宽1-1.4厘米，先端短渐尖至尾状渐尖，基部较阔，对称，截形或近楔形，羽裂3/4可达羽轴1毫米处；裂片10-12 (-17) 对，基部的对生，向上的互生，略斜展，近平展，彼此密接，长圆形至披针形，基部一对较大，长 4-6毫米，宽1.8-3毫米，钝圆头，有张开的大齿牙，两侧边缘也有尖锯齿。叶脉上面不显，下面可见，在裂片上为羽状，侧脉4-5对，斜向上，下部的二叉，上部的单一，纤细。叶干后草质，褐绿色，两面无毛；叶轴和羽轴上面有贴伏的钻状硬刺。孢子囊群小，圆形，每裂片1-2 (-3)枚，生于基部上侧小脉，靠近生脉；囊群盖小，圆肾形，褐色，膜质，全缘或边缘啮蚀状，宿存。孢子周壁表面无褶皱，有颗粒状纹饰。染色体数目n=40。
+
+分布于云南（贡山怒山及高黎贡山）和西藏东南部（察隅、波密、墨脱南迦巴瓦）。生山坡林下、灌丛草地或流石滩，海拔3100-4100米。锡金也有分布。模式标本采自锡金北部。
+
+据《东北植物检索表（第二版）》记载，吉林还产有一种：高寒蹄盖蕨（新拟），（原称“狭基蹄盖蕨”，西藏植物志第一卷已用过此中名）Athyrium rupestre Kodama inMatsum. Ic. Pl. Koisikav. 4: 63. t. 244. 1919; J. Z. Wang et S. H. Li in P. Y. Fu etal. (eds.) , Clavis Plant. Chin. Bor. -Orient. 2nd ed. 35. 1995.孢子周壁表面无褶皱，羽片羽状深裂至全裂，宽不足1厘米，长渐尖头，生林缘岩石上，形态与本组植物相近。原来只记载见于日本北海道和本州以北及俄罗斯远东地区，染色体数目n=40，2n＝80。吉林的标本还有待进一步研究，如果《东北植物检索表（第二版）》鉴定正确，应为新分布，而且将使本组的种数成为2种。

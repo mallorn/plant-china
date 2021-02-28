@@ -1,0 +1,6 @@
+假蓝花棘豆",
+114.**Oxytropis pseudocoerulea** P. C. Li Acta Bot. Yunnan. 11: 300. 1989.",
+
+## Description
+Herbs, acaulescent, 15-25 cm tall, from a multiheaded cau-dex, laxly caespitose. Caudex branches covered with marces-cent stipules. Stipules lanceolate, ca. 1 cm, herbaceous, densely appressed whitish villous, basal part adnate to petiole. Leaves 10-14 cm; leaflets 17-29, alternate or opposite; leaflet blades oblong-lanceolate to lanceolate, 8-12 × 4-5 mm, abaxially densely white villous, adaxially laxly white villous, base rounded, apex acuminate. Racemes oblong, many flowered; peduncle much longer than leaves, densely villous; bracts lan-ceolate-elliptic, 4-5 mm, densely pilose. Calyx tubular-campan-ulate, 9-10 mm, densely pilose; lobes linear-subulate, shorter than to rarely as long as tube. Corolla bluish purple; standard 1.3-1.4 × 0.7-0.8 cm, lamina broadly oblong, apex rounded; wings 1.2-1.3 × 0.4-0.5 cm, apex emarginate; keel ca. 1 cm, beak 3-4 mm. Ovary 2.5-3 mm, glabrous. Legume shortly stipitate; body oblong, 1.5-1.8 × ca. 0.5 cm, subleathery, 1-locular, densely pubescent, apex contracted into a long beak. Fl. and fr. May-Jul.
+  "Statistics": "● Grasslands, shrubby slopes; 2000-3800 m. Sichuan, Xinjiang, Xizang.

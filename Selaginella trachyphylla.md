@@ -1,0 +1,17 @@
+粗叶卷柏",
+30.**Selaginella trachyphylla** A. Braun ex Hieronymus Nat. Pflanzenfam. 1(4): 693. 1902.",
+
+> *Selaginella trachyphylla* differs from *S. doederleinii* only in the length of the apex of the dorsal leaves and the presence of unicellular thorns on the ventral leaves.
+
+## Description
+Plants terrestrial, evergreen, suberect or ascending from decumbent base, 25-45 cm. Rhizophores branched from base to middle of main stem. Main stems branched from lower part upward, pinnately branched, stramineous, main stem 1-3 mm in diam. in lower part, oval or subquadrangular, 2 or 3 times pinnately branched, adjacent primary branches on main stem 1.5-3.8 cm apart, ultimate branches 4-7 mm wide including leaves. Axillary leaves on branches symmetrical, narrowly ovate to triangular, base exauriculate, margin denticulate. Dorsal leaves on branches approximate or contiguous, oblong-ovate or ovate-elliptic, 1.1-2.7 × 0.4-1.4 mm, strongly carinate, base cuneate, margin denticulate, apex aristate, parallel to axis. Ventral leaves on branches contiguous or overlapping, slightly ascending, oblong-falcate, 3.4-4.3 × 1-1.9 mm, adaxially spinose, apex obtuse, subacute, or apiculate; basiscopic base rounded, margin subentire, denticulate at base; acroscopic base enlarged, broader, overlapping stem and branches, margin denticulate. Strobili in pairs, terminal, compact, tetragonal, 5-30 × 1-2 mm; sporophylls uniform, not obviously white-margined, ovate-triangular, margin denticulate, apex acuminate, without sporophyll-pteryx; microsporangia elliptic-oblong, relatively thick; marginal cells differentiated, longer; microspores pale yellow, megaspores whitish.
+
+> ● Terrestrial in forests; 100-400 m. Guangdong, Guangxi, Guizhou.
+  "Synonym": "*Selaginella atroviridis* Spring var. *trachyphylla* (A. Braun ex Hieronymus) Warburg; *S. doederleinii* Hieronymus subsp. *trachyphylla* (A. Braun ex Hieronymus) X. C. Zhang.
+**23a. 粗叶卷柏（中国主要植物图说·蕨类植物门）（亚种）  图版35：1-6**
+
+subsp. trachyphylla (Warb.) X. C. Zhang, comb. nov.——Selaginella atroviridisvar. trachyphylla Warb. in Monsunia 1: 103. 1900. ——S. trachyphylla A. Braun inSitzungsb. Ges. Naturf, Fr. Berl. 8. 1863, nom. nud. ——S. trachyphylla Hieron. inEngl. u. Prand, Nat. Pflanzenfam. 1(4): 693. 1902; Alston in Bull. Fan Mem. Inst. Biol. 5: 279. 1934, et in Lecomte, Fl. Gen. Indo-Chine 7(2): 564. 1951: S. H. Fu, Ill. Important Chinese Pl., Pterid. 9. 1957; Reed, Index Selaginellarum, in Mem. Soc. Brot. 18: 227. 1966; Iconogr. Corm. Sin. 1: 112. 1972; Tagawa et K. Iwats., Fl. Thailand 3(1): 22. 1979; M. Minaki in Pollen et Spores 26: 456, Pl. 16: 4-5. 1984: P. S. Wang in J. Arnold Arbor. 71: 266. 1990; P. H. Ho, Ill. Fl. Vietnam 1: 31. cum fig. 1991; P. S. Wang et X. Y. Wang, Pterid. Fl. Guizhou 643. 2001.
+
+土生，匍匐，上部斜生，高25-45厘米，无匍匐根状茎或游走茎。根托只生于主茎的中部以下，由茎上分枝的腋处下面生出，长4-22厘米。主茎自下部开始羽状分枝，不呈“之”字形，无关节，禾秆色，主茎下部直径1-3毫米，茎卵圆形或近方形，不具沟槽，维管束一根，2-3回羽状分枝，主茎上相邻分枝相距1.5-3.8厘米，分枝无毛，背腹压扁，末回分枝连叶宽4-7毫米。叶上表面有刺突，无虹彩，边缘不为全缘，不具白边。主茎上的腋叶较分枝上的大，卵状三角形，基部钝，分枝上的腋叶对称，狭卵圆形到三角形，边缘有细齿。中叶不对称或多少对称，主茎上的略大于分枝上的，边缘有细齿，先端具芒或尖头，基部钝，分枝上的长圆状卵形或卵状椭圆形，1.1-2.7毫米×0.4-1.4毫米，排列紧密，背部呈明显的龙骨状，先端与轴平行，具芒，基部楔形，边缘具细齿。侧叶不对称，主茎上的较侧枝上的大，分枝上的侧叶长圆状镰形，略斜升，排列紧密或相互覆盖，3.4-4.3毫米× 1.0-1.9毫米，先端钝或近尖或具短尖头，边缘具细齿，上侧基部扩大，加宽，覆盖小枝，上侧基部边缘不为全缘，上侧边缘有细齿，下侧基部圆形，下侧边近全缘，基部具细齿。孢子叶穗紧密，四棱柱形，单生于小枝末端，或成对，5-30毫米× l-2毫米；孢子叶一形，卵状三角形，边缘有细齿；白边不明显，先端渐尖；大孢子叶分布于孢子叶穗下部的下侧。大孢子白色；小孢子淡黄色。
+
+产广西、广东（惠阳、深圳、阳春）、贵州（榕江）、香港。林下土生，海拔150-350米。也分布到日本。模式标本采自香港。

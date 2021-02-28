@@ -1,0 +1,8 @@
+秀英冬青",
+16.**Ilex huana** C. J. Tseng ex S. K. Chen & Y. X. Feng",
+
+## Description
+Shrubs evergreen, 2-3 m tall. Branchlets terete, longitudinally ridged, puberulent or glabrescent. Petiole ca. 5 mm, puberulent, narrowly winged by decurrent leaf base; leaf blade abaxially greenish, adaxially green, elliptic, rarely obovate, 2.5-5 × 1-2 cm, papery, glabrous except on midvein adaxially, midvein impressed, puberulent adaxially, lateral veins 5-7 pairs, evident on both surfaces, anastomosing near margin, reticulate veins slightly distinct, base cuneate, margin entire or serrate apically, apex acuminate or acute. Inflorescences: cymes, solitary, axillary. Male inflorescences: cymes of order 2 or 3, 3-7-flowered, umbelliform; peduncles 6-10 mm, slender, glabrescent; pedicels ca. as long as peduncles; calyx 5-lobed, lobes ovate or suborbicular, margin entire or erose; petals ovate-oblong, ca. 3 mm, basally slightly connate; stamens shorter than petals, anthers oblong; rudimentary ovary ovoid. Female inflorescences: cymes of order 1 or 2, 1-3-flowered; peduncles ca. 5 mm; pedicels nearly as long as peduncles; 1-flowered pedicels 9-12 mm, glabrous; calyx and corolla as in male flowers; staminodes ca. 1/2 as long as petals, sterile anthers sagittate; ovary ovoid, stigma discoid or cristate. Infructescences: 1-fruited pedicels 1.5-1.8 cm, glabrous or glabrescent. Fruit ellipsoidal, 9-10 mm, 5-6 mm in diam., longitudinally striate when dry; persistent stigma discoid; pyrenes 5, ellipsoidal, abaxially broadly 1-sulcate, not striate, endocarp subwoody. Fl. Apr, fr. Jul-Nov.
+
+> ●  Mountain forests; low to middle elevations. Hainan (Baoting, Ledong, Wanning).
+  "Synonym": "*Ilex angulata* Merrill &amp; Chun var. *longipedunculata* S. Y. Hu.

@@ -1,0 +1,6 @@
+山西棘豆",
+10.**Oxytropis shanxiensis** X. Y. Zhu Nordic J. Bot. 23: 279. 2005.",
+
+## Description
+Herbs, 7-15 cm tall, acaulescent, from a short few-headed caudex. Stipules narrowly triangular, 7-11 × 1-2 mm, herba-ceous, with white trichomes, adnate to petiole base, apical ca. 2/3 free. Leaves 5-13 cm, of 3 types: first type with leaves 1-foliolate eophylls (early produced leaves), petiole 1.3-2.6 cm, leaf blade narrowly ovate to ovate, 1.5-1.7 × ca. 0.5 cm, apex acute; second type with leaves 7-15-foliolate, to 13 cm, leaflets opposite, leaflet blade apices acuminate to acute; third type with leaves verticillate, leaflets in 3 or 4 whorls, 3 or 4 blades per whorl, leaflet blades narrowly ovate to lanceolate-elliptic, 6-10 × 0.5-1 mm. Racemes few flowered; peduncle 3-16 cm, curved when young, soft, shorter than leaves at anthesis but almost as long as leaves in fruit; bracts narrowly ovate, 2.5-4.5 × 0.5-1 mm, with white trichomes. Calyx campanulate, 7-9 mm, with white trichomes; tube 4-4.5 mm; lobes subulate, 3-4 × ca. 0.2 mm. Corolla purple; standard 1.5-1.6 × 0.5-0.6 cm, lamina broadly ovate, apex emarginate; wings ca. 1.2 cm, lamina obo-vate, apex rounded; keel 1.1-1.3 cm, beak ca. 1 mm. Ovary pu-bescent. Legume unknown. Fl. Jun-Aug.
+  "Statistics": "● Grasslands on hillsides. Shandong, Shanxi.

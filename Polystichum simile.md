@@ -1,0 +1,10 @@
+相似柳叶耳蕨",
+151.**Polystichum simile** (Ching ex Y. T. Hsieh) Li Bing Zhang Phytotaxa. 60: 59. 2012.",
+
+> It is possible that *Polystichum simile* is conspecific with *P. tenuius*.
+
+## Description
+Plants evergreen. Rhizome erect or ascending, together with basal stipe densely scaly; scales dark brown or blackish brown, lanceolate, margins ciliate, apices acuminate. Fronds 45-55 cm; stipe stramineous, 18-28 cm, 2-2.5 mm in diam. at middle; basal stipe scales dense, blackish brown, lanceolate to subulate, membranous, margins ciliate, apices caudate; distal stipe scales sparser and smaller. Lamina imparipinnate, grayish green when dry, adaxially shiny, lanceolate, 25-30 × 6-9 cm at middle, not or only basalmost pinnae slightly contracted toward base, apex acute; rachis stramineous, without proliferous bulbils, abaxially sparsely scaly; scales similar to distal stipe scales, appressed, brown, ovate-lanceolate, margins ciliate, apices filiform. Pinnae 16-20(-22) pairs, alternate, lower pairs approximate, upper pairs approximate, lower pairs attached at ± right angles with rachis, upper pairs slightly ascendant, shortly stalked, falcate-lanceolate, middle pairs 3.5-5 × 0.8-1.5 cm, bases asymmetrical, acroscopic base hardly auriculate, proximal acroscopic margins of pinnae curved and slightly overlapping rachis, acroscopic margins straight or very slightly recurved, regularly shallowly incised-toothed, basal basiscopic margins cuneate, forming a ± 80° angle with rachis, entire, distal basiscopic margins curved upward, regularly shallowly incised-toothed, apices shortly acuminate; adaxially glabrous, abaxially sparsely scaly; microscales light brown, subulate; frond texture thinly leathery; venation pinnate on pinnae, entirely free, lateral veins 2- or 3-forked, slightly impressed on both surfaces. Sori in 1 row on each side of midrib, terminal on shorter veinlets, medial, lower lamina often sterile; indusia present, brown, thickly membranous, entire, evanescent.
+
+> ● Limestone crevices in forests; 900-1100 m. Guizhou, Yunnan.
+  "Synonym": "*Cyrtogonellum simile* Ching ex Y. T. Hsieh, Bull. Bot. Res., Harbin 9(3): 16. 1989.

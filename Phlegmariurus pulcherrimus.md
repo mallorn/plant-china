@@ -1,0 +1,20 @@
+美丽马尾杉",
+4.**Phlegmariurus pulcherrimus** (Wallich ex Hooker & Greville) Á. Löve & D. Löve Taxon. 26: 324. 1977.",
+
+> *Phlegmariurus pulcherrimus* is a typical Sino-Himalayan species. In China, it only occurs in S Xizang and W Yunnan, not in S or E China. There are mistakes about its distribution in China in some references. Sometimes, it is misidentified as *P. cryptomerianus*. It is questionable whether this species occurs in Thailand and Vietnam as reported by Ching (Acta Bot. Yunnan. 4: 124. 1982).This species is similar to *Phlegmariurus mingcheensis*, the latter occurs in E, S, and SW China. The leaves of this species are linear, dense, ascending, and amplexicaul.
+
+## Description
+Lycophytes, medium-sized. Stems caespitose, mature branches pendulous, 1 to several times forked, 15-50 cm, main stems ca. 4 mm in diam., stem together with leaves ca. 6 mm wide. Leaves basally twisted and forming 2 rows. Trophophylls oblique upward and amplexicaul, not lustrous, linear, 0.8-1.1 cm × 0.5-1.5 mm, leathery, midrib distinct, base cuneate, decurrent, sessile, margin entire, apex acuminate. Strobili thinner than sterile part, not columniform, terminal on branches. Sporophylls sparsely arranged, linear, 6-9 × ca. 1 mm, midrib distinct, base cuneate, margin entire, apex acute. Sporangia yellowish, reniform, vertically bisected.
+
+> Epiphytic on tree trunks in forests; 1100-1900 m. S Xizang (Mêdog), W Yunnan (Gongshan, Lushui, Yingjiang) [Bhutan, India, Nepal].
+  "Synonym": "*Lycopodium pulcherrimum* Wallich ex Hooker &amp; Greville, Icon. Filic. 1: 38. 1827; *Huperzia pulcherrima* (Wallich ex Hooker &amp; Greville) Pichi Sermolli; *H. setacea* Trevisan; *L.* *setaceum* Buchanan-Hamilton ex D. Don (1825), not Lamarck (1789); *Urostachys pulcherrimus* (Wallich ex Hooker &amp; Greville) Herter ex Nessel; *U. setaceus* Herter ex Nessel.
+**4. 美丽马尾杉（云南植物研究）**
+
+Phlegmariurus pulcherrimus (Wall. ex Hook. et Grev.) L. Love et D. Love in Taxon 26: 324. 1977; Ching in Acta Bot. Yunnan. 4(2): 124. 1982; Fl. Xizang. 1: 12. 1983; B. Ollg. Index Lycop. 79. 1989: Fl. Dulongjiang Reg. 1. 1993: Vasc. Pl. Heng-duan Mts. 1: 3. 1993; L. B. Zhang et H. S. Kung in Acta Phytotax. Sin. 37(1): 43. 1999. ——Lycopodium pulcherrimum Wall. ex Hook. et Grev. in Bot. Mag. 2: 367, et Ic. Fil. t. 78. 1831; K. Iwats. in Ohashi, Fl. E. Himal. 3: 167. 1975; B. Ollg. l. 64. —— Huperzia pulcherrima (Wall. ex Hook. et Grev.) Pic. Ser. in Webbia 24: 719. 1970; B. Ollg. in Opera Bot. 92: 166. 1987, et l. c. 19. —— H. pulcherrima (Wall. exHook. et Grev.) U. Sen et T. Sen in Fern Gaz. 11(6): 419, f.2: i-r. 1978; Dixit, Census Ind. Pterid. 8. 1984, et Lycop. Ind. 60. f.11 A-B. Pl. III: f. 9. 1988; Bir etal. in Ind. Fern J. 6: 32. 1989. —— L. setaceum Hamilt. ex Don, Prodr. Fl. Nepal. 18. 1825; C. B. Clarke in Trans. Linn. Soc. 11. Bot. 1: 590. 1880; Baker, Handb. Fern Allies 14. 1887, non Lam. 1789. ——  Huperzia setacea (Hamilt. ex Don) Trev. in Atti Soc. Ital. Sci. Nat. 17: 248. 1874. —— Urostachys setaceus (Hamilt. ex Don) Herter ex Nessel, Arch. Bot. Sao Paulo 1: 408. 1927, et Baerlappge. 141. 1939. —— H. setacea (Hamilt. ex Don) Rothm. in Fedde, Repert. Sp. Nov. 54: 61. 1944. —— L. pulcherrimum auct. non Wall. ex Hook. et Grev.: Ic. Corm. Sin. 1: 107. 1972. —— Ph. pulcherrimus auct. non (Wall. ex Hook. et Grev.) Love et Love: Fl. Anhui 1: 20, f. 5, 1985; S. F. Wu in Shanghai Teach. Coil. Tech. 10(4): 89. 1990; Keys Vasc. Pl. Wuling Mts. 5. 1995.
+
+中型附生蕨类。茎簇生，成熟枝下垂，1至多回二叉分枝，长15-50厘米，主茎直径4毫米，枝连叶宽约6厘米。叶螺旋状排列，但因基部扭曲而呈二列状。营养叶上斜抱茎，线形，长0.8-1.1厘米，宽0.5-1.5毫米，基部楔形，下延，无柄，无光泽，先端渐尖，中脉明显，革质，全缘。孢子囊穗比不育部分细瘦，非圆柱形，顶生。孢子叶线形，排列稀疏，长6-9毫米，宽约1毫米，基部楔形，先端尖，中脉明显，全缘。孢子囊生在孢子叶腋，肾形，2瓣开裂，黄色。
+
+产云南西部及西藏南部。附生于海拔1100-1900米的树干上。印度、尼泊尔、锡金、不丹有分布。模式标本采自尼泊尔。
+
+这是一个典型的中国—喜马拉雅马尾杉。本种在我国只分布于云南西部及西藏南部，而华南和华东均无本种分布。以前我国有些文献中的分布报道有误，其中包括一些为 Ph. cryptomerianus (Maxim.) Ching ex L. B. Zhang et H. S. Kung 的鉴定之误。本种在泰国、越南的分布报道（Ching，1982）也值得怀疑。
+<p style='text-indent:28px'>本种与广布于我国西南、华南及华东的 Ph. minchegensis (Ching) H. S. Kung et L. B. Zhang 的区别是：本种叶片线形，密生，上斜抱茎。

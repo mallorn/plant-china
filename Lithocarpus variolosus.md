@@ -1,0 +1,17 @@
+多变柯",
+28.**Lithocarpus variolosus** (Franchet) Chun",
+
+## Description
+Trees to 20 m tall. Branchlets blackish when dry, sparsely lenticellate; lenticels grayish brown. Petiole 1(-1.5) cm; leaf blade broadly ovate, ovate-elliptic, or lanceolate, 6-15(-24) ×  3-5(-7) cm, leathery to thickly papery, abaxially with thick adherent, waxy scalelike trichomes and ±  glaucous when dry, base subrounded to broadly cuneate, margin entire, apex acuminate and usually falcate; secondary veins 6-10 on each side of midvein, adaxially ±  impressed, fusing near margin; tertiary veins abaxially inconspicuous to slender, evident. Male inflorescences solitary in axils of leaves or paniculate. Female inflorescences usually terminal clusters, 3-6(-10) cm; rachis stout, usually twisted, with tawny scalelike trichomes; cupules in clusters of ca. 3. Infructescences 4-7 cm; rachis ca. 3 mm thick. Cupule cupular, 0.6-1.8 ×  1.5-2.5 cm, usually broadest slightly apically from middle, enclosing 1/2 to most of nut, wall 1-1.5 mm thick; bracts reddish to dark grayish brown, basal bracts usually united in continuous or interrupted rings and obscurely broadly ovate or multilateral, apically triangular and small. Nut depressed globose, 1-2 ×  1.2-2.6 cm, glabrous, wall ca. 0.5 mm thick; scar covering 1/5-1/3(-1/2) of nut, convex but concave at margin. Fl. May-Jul, fr. Jul-Sep of following year.
+
+> Mixed mesophytic forests, usually in association with &lt;I&gt;Picea&lt;/I&gt;, &lt;I&gt;Abies&lt;/I&gt;, and subalpine &lt;I&gt;Quercus;&lt;/I&gt; 2500-3000 m. SW Sichuan, NW Yunnan [Vietnam]
+  "Synonym": "&lt;I&gt;Quercus variolosa&lt;/I&gt; Franchet, J. Bot. (Morot) 13: 156. 1899; &lt;I&gt;Lithocarpus chienchuanensis&lt;/I&gt; Hu; &lt;I&gt;L. hui&lt;/I&gt; A. Camus; &lt;I&gt;L. leucostachyus&lt;/I&gt; A. Camus; &lt;I&gt;Pasania hui&lt;/I&gt; (A. Camus) Hu; &lt;I&gt;P. variolosa&lt;/I&gt; (Franchet) Schottky; &lt;I&gt;Synaedrys variolosa&lt;/I&gt; (Franchet) Koidzumi.
+**27. 麻子壳柯* 多变柯、多变石砾**
+
+Lithocarpus variolosus (Fr.) Chun in Journ. Arn. Arb. 9: 154. 1928; A. Camus, Chenes 3: 648. 1954, Atlas pl. 378. 1948; 中国高等植物图鉴 1: 428, 图855. 1972, figura mala!——Quercus variolosa Fr. in Journ. de Bot. 13: 156. 1899. ——Pasania variolosa (Fr.) Schott. in Bot. Jahrb. 47: 661. 1912. ——Synaedrys variolosa (Fr.) Koidz. in Bot. Mag. Tokyo 30: 198. 1916.——Lithocarpus hui A. Camus in Bull. Soc. Bot. Fr. 85: 653. 1938 et Chenes 3: 1077. 1954. Atlas pl. 493, f. 1-3. 1948. ——Pasania hui (A. Camus) Hu in Bull. Fan Mem. Inst. Biol. Bot. 10: 95. 1940. ——Lithocarpus chienchuanensis Hu in Acta Phytotax. Sin. 1: 105. 1951, quoad typum. ——Pasania leucostachya Hu in l. c. pro parte, non L. leucostachya A. Camus.
+
+乔木，高通常在20米以内，芽甚小，芽鳞无毛，干后常有光润的树脂溢出，枝、叶无毛，二、三年生枝干后暗褐黑色，散生灰棕色皮孔。叶革质或厚纸质，宽卵形，卵状椭圆形或披针形，长6-15厘米，宽3-5厘米，稀有长达24厘米，宽7厘米，顶部常呈镰刀状弯斜的长渐尖，基部近于圆或宽楔形，全缘，中脉在叶面微凸起或有时平坦，侧脉每边6-10条，在叶面甚浅的沟状凹陷，在近叶缘处常分枝并彼此连接，支脉不明显或纤细，嫩叶干后叶面常有油润光泽，成长叶则暗淡无光，叶背有较厚的紧实蜡鳞层，干后略带灰白的棕色；叶柄长约1，很少达1.5厘米。雄穗状花序单穗腋生或多穗排成圆锥花序；雌花序通常多穗聚生于枝顶部，长3-6、很少达10厘米，花序轴粗壮，常弯扭，被黄棕色糠秕状鳞秕，无毛，雌花每3朵一簇，花柱3枚，长约1毫米。壳斗碗状，通常最宽处在中部稍上，高6-18毫米，宽15-25毫米，包着坚果一半至绝大部分，顶端口部边缘甚薄，紧贴坚果，向下明显增厚，壳斗上部的小苞片三角形，细小，分明，稍下部的多连生成不连接的圆环，或为宽卵形或多边形，但较模糊，干后红褐至暗灰褐色；坚果扁圆形，高10-20毫米，宽12-26毫米，无毛，栗褐色，果脐凸起，约占坚果面积的1/3-1/5，稀达1/2，四周边缘稍凹陷。花期5-7月，果次年7-9月成熟。
+
+产四川西南部（盐边、会理等地）、云南西北部（丽江、鹤庆、维西、中甸、剑川等地）。生于海拔2 500-3 300米山地杂木林中，常与云杉、冷杉或云南松和高山栎类植物混生组成松栎林，生于山顶及岩石旁侧的多呈灌木状。模式标本采自云南洱源（牛街）。
+
+本种与 L. pachyphyllus 极近缘，本种的果一般较小，壳斗包着坚果的面积较大，故果脐面积通常也较大，叶通常较小，叶片基部宽楔形以至近于圆形，叶柄也稍较短。

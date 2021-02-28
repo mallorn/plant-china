@@ -1,0 +1,6 @@
+三面秆荸荠",
+3.**Eleocharis trilateralis** Tang & F. T. Wang Fl. Reipubl. Popularis Sin. 11: 225. 1961.",
+
+## Description
+Perennials. Stolons long, slender. Culms erect, grayish yellow, tufted, 30-75 cm tall, ca. 5 mm thick, firm, sharply 3-angled, narrowly winged on angles, smooth, glabrous, without transverse septa. Leaf sheaths 2, 5-18 cm; basalmost sheath dark purple, ± short; cauline sheath pale yellow, ± elongate, tubular, mouth obliquely truncate, apex acute. Spikelet pale brown, cylindric, 2-4 cm × ca. 5 mm, ± few flowered, apex obtuse. Basalmost glume empty, broadly ovate, amplexicaul for whole spikelet base, apex subrounded; fertile glumes pale brown, laxly imbricate, broadly ovate, ca. 5 × 5 mm, with many purple longitudinal striae, medially reddish brown puncticulate, leathery, and with a single midvein, both sides thinner, margin hyaline, apex obtuse-rounded. Perianth bristles 6, pale brown, nearly 2 × as long as nutlet, retrorsely spinulose. Stigmas 3. Nutlet pale yellow, broadly obovoid, ca. 2.5 × 1.5 mm, biconvex, with transverse oblong reticulate striae, apex distinctly constricted into a neck; persistent style base dark brown, attenuate to subdeltoid, compressed, not spongy, base ca. 1/2 as wide as nutlet.
+  "Statistics": "● Marshes; 1800-3300 m. Yunnan.

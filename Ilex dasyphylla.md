@@ -1,0 +1,17 @@
+黄毛冬青",
+6.**Ilex dasyphylla** Merrill",
+
+## Description
+Shrubs or trees, evergreen, 2.5-9 m tall. Branchlets, petioles, leaf blades, pedicels, and calyx ferruginous hispidulous, hairs with tuberculate bases; branchlets zigzag, gray, subterete; leaf scars triangular or suborbicular, small, slightly raised; lenticels absent, scabrous-punctate, hairs deciduous. Stipules subulate, pubescent; petiole 3-5 mm; leaf blade green, shiny or not, ovate, ovate-elliptic, oblong-elliptic, or ovate-lanceolate, (2-)3-11 × 1-3.2 cm, leathery, both surfaces hispidulous or glabrescent, midvein impressed adaxially, lateral veins 7-9 pairs, slightly impressed or flat adaxially, reticulate veins indistinct adaxially, base obtuse or rounded, margin entire or upper half sparsely serrulate, recurved, ciliate, apex acuminate. Inflorescences: cymes, solitary, axillary on current year’s branchlets; flowers red, 4- or 5-merous. Male inflorescences: cymes of order 2 or 3, umbelliform, 3-5-flowered; peduncles 4-5 mm, slender; bracts deltoid, densely ferruginous hispidulous; pedicels ca. 2 mm; bracteoles basal, densely ferruginous pubescent; calyx patelliform, ca. 3 mm in diam., lobes orbicular or deltoid, ciliate; corolla rotate, petals reflexed at anthesis, oblong, ca. 3 × 2 mm, base slightly connate; stamens ca. as long as petals, anthers oblong; rudimentary ovary pyramidal. Female inflorescences: cymes of order 1 or 2, 1-3-flowered; peduncles 5-8 mm; bracts linear-lanceolate, ca. 1.5 mm; pedicels 3-8 mm; bracteoles basal, minute, densely ferruginous hispidulous; calyx and corolla as in male flowers; staminodes ca. 1/2 as long as petals, sterile anthers sagittate; ovary ovoid-conical, ca. 1.5 mm, glabrous, stigma mammilliform. Fruit red, globose, 5-7 mm in diam.; exocarp thick, smooth; persistent calyx explanate, pentagonal, 3.5-4 mm in diam., shallowly 5-lobed; persistent stigma thickly discoid, convex; pyrenes 4 or 5, oblong-ellipsoidal, 4-6 mm, ca. 2.5 mm in diam., abaxially broadly and deeply 1-sulcate, smooth, not striate, endocarp leathery. Fl. May, fr. Aug-Dec.
+
+> ● Sparse forests or shrub forests on mountains, roadsides; 300-700 m. Fujian, Guangdong, Guangxi (Guinan), Hunan, Jiangxi.
+  "Synonym": "*Ilex flaveomollissima* F. P. Metcalf.
+**7．黄毛冬青（中国高等植物图鉴补编）图版3：1-4**
+
+Ilex dasyphylla Merr. in Lingnan Sci. Journ. 7: 311. 1931; Chun in Sunyats. 2: 68. 1934; S. Y. Hu in Journ. Arn. Arb. 30 (3) : 289. 1949;中国高等植物图鉴补编2: 215. 图8794. 1983. ——I. flaveo-mollissima Metcalf in Lingnan Sci. Journ. 11: 14. 1932.
+
+常绿灌木或乔木，高2.5-9米；小枝、叶柄、叶片、花梗及花萼均密被锈黄色瘤基短硬毛，具半圆形稍凸起的叶痕和毛脱落后而留下的圆糙点。叶生于一至二年生枝上，叶片革质，卵形、卵状椭圆形、长圆状椭圆形或卵状披针形，长（2-）3-11厘米，宽1-3.2厘米，具光泽或无，叶面绿色，老时毛被脱落，具皱纹，背面淡绿色，先端渐尖，基部钝或圆形，全缘或中部以上具稀疏小齿，具缘毛，外弯，主脉在叶面凹陷，背面隆起，侧脉7-9对，在叶面稍凹陷或平坦，网状脉于叶面不明显；叶柄长3-5毫米，托叶不明显。聚伞花序单生于当年生枝的叶腋内；花红色，花4或5基数。雄花序具3-5花，假伞形状，总花梗纤细，长4-5毫米，苞片正三角形，密被锈黄色短硬毛；花梗长2毫米，具基生的小苞片，小苞片密被锈黄色短柔毛；花萼盘状，直径约3毫米，裂片圆形或正三角形，密被锈黄色短硬毛及缘毛；花冠辐状，花瓣卵长圆形，长3毫米，宽约2.5毫米，在开放时反折，基部稍合生；雄蕊与花瓣等长，花药长圆形；退化子房金字塔形。雌花序聚伞状，具1-3花，总花梗长3-8毫米，具基生、密被锈黄色短硬毛的近三角形的小苞片；花萼与花瓣同雄花；退化雄蕊长为花瓣的1/2，败育花药箭头状；子房卵状圆锥形，长约1.5毫米，无毛，柱头乳头状。果球形，直径5-7毫米，成熟时红色，外果皮厚，平滑；宿存花萼平展，五角形，直径约3.5-4毫米，5浅裂，裂片密被短硬毛及缘毛，宿存柱头厚盘状，凸起；分核4或5，长圆状椭圆形，长约4-6毫米，背部宽约2.5毫米，背部中央具宽而深的单沟，全部平滑，无条纹，内果皮革质。花期5月，果期8-12月。
+
+产于江西（贵溪、资溪、吉安、赣县、上犹、崇义、龙南、全南）、福建（南靖、龙海、漳平、上杭、连城、沙县、宁化、龙溪）、广东（大埔、河源、翁源、连山、新丰、英德、丰顺、封开、信宜、怀集）、广西（桂南等）；生于海拔270-650米的山地疏林或灌木丛中、路旁。模式标本采自广东英德（CCC 14755)。
+
+具单沟的分核与冬青L. chinensis相似，但植物通体密被锈黄色硬毛使其迥异于其它冬青。

@@ -1,0 +1,16 @@
+小球花蒿",
+90.**Artemisia moorcroftiana** Wallich ex Candolle Prodr. 6: 117. 1838.",
+
+## Description
+Subshrubs, 50-70 cm tall; rootstock horizontally creeping, ca. 1 cm thick, woody; stems several, with capitate branches, most parts sparsely ± arachnoid gray or yellowish pubescent or glabrescent. Lower and middle stem leaves: petiole 1-3 cm; leaf blade oblong, ovate, or elliptic, 5-10 × 2-3(-4.5) cm, abaxially densely gray or yellowish tomentose, adaxially sparsely tomentose, 2- or 3-pinnatisect or partite; segments (4 or)5 or 6 pairs, ovate or elliptic-ovate; lobules lanceolate or linear-lanceolate, margin few serrate, apex acuminate; rachis narrowly winged. Uppermost leaves pinnatipartite; leaflike bracts 3-5-partite or entire. Synflorescence a narrowly cylindric interrupted, racemelike panicle, 15-20 × 1.5-2.5 cm; branches 2-3 cm, erect to somewhat appressed spicate. Capitula sessile. Involucre globose or hemispheric, 4-6 mm in diam.; outer phyllaries purplish, sparsely pubescent, margin not hyaline scarious, apex acute. Receptacle ± convex, glabrous. Florets purplish. Marginal female florets 15-20; corolla linear-tubular, glandular, 2-toothed. Disk florets bisexual 30-35; corolla clavate-tubular, base glandular, apex very sparsely hairy. Achene brown, ± cylindric, ca. 1.75 mm. Fl. and fr. Jul-Oct. 2*n* = 18.
+  "Statistics": "Slopes, terraces, valleys, rocky hills, subalpine steppes, subalpine meadows; 2000-5300 m. Gansu, Ningxia, Qinghai, W Sichuan, Xizang, NW Yunnan [Bhutan, India, N Pakistan].
+  "Synonym": "*Artemisia moorcroftiana* var. *campanulata* Pampanini; *A. moorcroftiana* f. *tenuifolia* Pampanini.
+**90.小球花蒿（中国高等植物图鉴）大叶青蒿（甘肃），小白蒿、芳枝蒿（四川西部），“看拉”（四川若尔盖藏语名）图版18：8-15**
+
+Artemisia moorcroftiana Wall. ex DC. Prodr. 6: 117. 1837; Hook. f . Fl. Birt. Ind. 3: 327. 1881; Limpr. in Fedde, Rep. Sp. Nov. 12: 507. 1922; Pamp. in Nuov. Giorn. Bot. Ital. n. s. 34: 681. 1927 et 36: 421. 1930, incl. var. typica Pamp. cum f. genuina Pamp. et var. campanulata Pamp. cum f. tenuifolia Pamp.; Hand. -Mazz. in Act. Hort. Gothob. 12: 276. 1938; S. Y. Hu in Quart. Journ. Taiwan Mus. 18(3-4): 246. 1965; Nasir et Ali, Fl. W. Pakistan 717. 1972; 中国高等植物图鉴 4: 537. 1975; 西藏植物志 4: 759, 图329. 1985. ——A. wallichiana Bess. in Nouv. Mem. Nat. Mosc. 3: 69. 1834. p. p.
+
+半灌木状草本。主根稍粗，侧根细而长；根状茎短，直径6-10毫米，有营养枝。茎少数或单生，高50-70厘米，紫红色或褐色，纵棱明显；上半部有着生头状花序的短分枝，枝长3-6(-8)厘米；茎、枝初时被灰白色或淡灰黄色短柔毛，后渐稀疏或近无毛。叶纸质，绿色，叶面微被绒毛，背面密被灰白色或灰黄色短绒毛；茎下部叶长圆形、卵形或椭圆形，长6-10厘米，宽2-3厘米，二（至三）回羽状全裂或深裂，第一回全裂，每侧具裂片(4-)5-6枚, 裂片卵形或长卵形，再次羽状深裂，小裂片披针形或线状披针形，长1-1.5厘米，先端锐尖，边缘稍反卷，有时有浅裂齿，中轴具狭翅，偶有浅裂齿，叶柄长1-3厘米，基部有小型假托叶；中部叶卵形或椭圆形，二回羽状分裂，第一回近全裂或深裂，每侧有裂片（4-）5-6枚，第二回为深裂或为浅裂齿，无柄或近无柄；上部叶羽状全裂或3-5全裂，裂片椭圆形、披针形或线状披针形，偶有浅裂齿；苞片叶3全裂或不分裂，而为线状披针形。头状花序稍多数，球形或半球形，直径4-5毫米，无梗，有线形的小苞叶，在茎端或短的分枝上密集排成穗状花序，并在茎上组成狭而长的圆锥花序；总苞片3-4层，外层总苞片略小，卵形，背面绿色，被灰白色或淡灰黄色短柔毛，边缘狭膜质，中层总苞片略大，卵形或长卵形，背面被短柔毛，边缘宽膜质，内层总苞片长卵形或椭圆形，半膜质，背面无毛或近无毛；雌花15-20朵，花冠狭管状或狭圆锥状，檐部具2裂齿，花柱伸出花冠外，先端2叉，叉端尖；两性花30-35朵，花冠管状，外面有小腺点，花药线形或披针形，先端附属物尖，长三角形，基部圆，花柱与花冠等长，开花时略伸出花冠外，先端2叉，叉端截形，并有睫毛。瘦果小，长卵形或长圆状倒卵形。花果期7-10月。
+
+产甘肃、宁夏、青海、四川（西部）、云南（西北部）及西藏等省区；西北省区分布在海拔2000-3000米地区，西南省区分布在海拔3000-4800米地区；常生于山坡、台地、干河谷、砾质坡地、亚高山或高山草原和草甸等地区，在西藏高山地区常与针茅属（Stipa Linn.）植物共同组成小区域植物群落的建群种或优势种。克什米尔地区及巴基斯坦也有，最高分布到海拔，5000米。模式标本采自我国西藏。
+
+全草入药，有止血、消炎作用。

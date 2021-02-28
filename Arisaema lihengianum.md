@@ -1,0 +1,6 @@
+李恒南星",
+4.**Arisaema lihengianum** J. Murata & S. K. Wu J. Jap. Bot. 78: 83. 2003.",
+
+## Description
+Plants to 50 cm tall, monoecious or male. Rhizome creeping horizontally, purplish to brownish outside, red-purple inside, subcylindric, to 13 × ca. 4 cm, branching. Cataphylls to 20 cm, some encircling peduncle directly. Leaf 1, expanding simultaneously with inflorescence; petiole purplish brown, mottled with green, to 30 cm, lacking pseudostem; leaf blade 3-foliolate; petiolules 3.5-4.5 cm; leaflets subequal in size, to 25 × 15 cm; central leaflet oblong-elliptic, base rounded-cuneate, apex acuminate and caudate; lateral leaflets oblique. Peduncle 11-20 cm. Spathe tube white or pale green, narrowly funnelform, 4.5-6 × 7-9 cm when opened; limb proximal half white, distal half dark red-purple, narrowly deltoid to narrowly deltoid-ovate, 15-20 × 5-6.5 cm, apex acuminate. Spadix bisexual after sex change; female zone 20-30 × ca. 10 mm; female flowers green, bottle-shaped; male zone 10-20 × ca. 8 mm; male flowers basically white; appendix sessile, 13-16 cm, slender, exserted from throat of spathe and pendulous, proximally white, distally dark red-purple, throughout with numerous filiform neuter flowers 3-5 cm.
+  "Statistics": "● Limestone crevices under bushy evergreen forests; ca. 1000 m. W Guangxi (Napo).

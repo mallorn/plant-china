@@ -1,0 +1,107 @@
+母草属",
+19.**Lindernia** Allioni",
+
+> About 70 species: widely distributed throughout warm regions of New and Old World; 29 species in China.
+
+## Description
+Herbs, erect, prostrate, or creeping. Leaves opposite; petiolate or sessile; leaf blade margin often toothed or rarely entire; veins pinnate or palmate. Inflorescences terminal or axillary, racemose, sometimes pseudo-umbellate, rarely in large panicles, or flowers solitary. Flowers opposite or alternate, often pedicellate. Bracteoles absent. Calyx lobes 5, equal or subequal, parted, or split on 1 side. Corolla lower lip larger than upper, extended; upper lip erect. Stamens 4, all fertile or 2 anterior reduced and filaments appendaged; anthers coherent or apex of locules of anterior ones pointed or spurred. Style mostly 2-lamellate, apex often enlarged. Seeds small, numerous.
+  "Synonym": "&lt;I&gt;Anagalloides&lt;/I&gt; Krocker; &lt;I&gt;Bonnaya&lt;/I&gt;Link &amp; Otto; &lt;I&gt;Ilysanthes&lt;/I&gt; Rafinesque.
+  "keylist": "
+1 Stems creeping, procumbent, or diffuse, rarely suberect or erect, sometimes long stoloniferous.——(2)
+1 Stems erect, occasionally decumbent.——(15)
+2(1) Calyx shallowly lobed, lobes triangular-ovate[Lindernia crustacea 母草](Lindernia crustacea.md)
+2 Calyx lobed to or almost to base, lobes sublinear.——(3)
+3(2) Capsule much longer than persistent calyx.——(4)
+3 Capsule almost as long as or shorter than persistent calyx.——(8)
+4(3) Leaves narrow, linear-lanceolate, rarely lanceolate; main veins parallel[Lindernia micrantha 狭叶母草](Lindernia micrantha.md)
+4 Leaves wide, mostly oblong; veins pinnate.——(5)
+5(4) Leaf margin conspicuously mucronate toothed.——(6)
+5 Leaf margin without conspicuous mucronate teeth.——(7)
+6(5) Leaves petiolate; margin acute-serrate; corolla 10-14 mm[Lindernia ruellioides 旱田草](Lindernia ruellioides.md)
+6 Leaves sessile or short petiolate; margin aristate-serrate; corolla ca. 7 mm[Lindernia ciliata 刺齿泥花草](Lindernia ciliata.md)
+7(5) Leaf base gradually narrowing; flowers paired, corolla violet; fruiting pedicel less than 0.6 cm[Lindernia brevipedunculata 短梗母草](Lindernia brevipedunculata.md)
+7 Leaf base truncate to subcordate; flowers solitary, corolla white or pale purple; fruiting pedicel 0.6-2 cm[Lindernia anagallis 长蒴母草](Lindernia anagallis.md)
+8(3) Leaf length much greater than width at least in lower part of stem, oblong-lanceolate to obovate-oblong.——(9)
+8 Leaf length almost equalling width, subovate to orbicular.——(12)
+9(8) Plants without long stolons; calyx ca. 3 mm in fruit.——(10)
+9 Plants with long stolons, rooting from nodes; calyx ca. 5-8 mm in fruit.——(11)
+10(9) Plants hairy throughout except corolla; leaves to 5 cm, apex obtuse to rounded; pedicel to 1 cm, recurved in fruit[Lindernia viscosa 粘毛母草](Lindernia viscosa.md)
+10 Plants glabrous throughout except calyx; leaves 1-1.5 cm, apex acute; pedicel 1-2 cm, not recurved in fruit[Lindernia dubia 北美母草](Lindernia dubia.md)
+11(9) Stems and branches densely with horizontally spreading, silvery and shiny hairs 7.5-10 mm; leaf apex acute to obtuse[Lindernia mollis 红骨母草](Lindernia mollis.md)
+11 Stems and branches sparsely pubescent with uniformly curved, neither silvery nor shiny hairs ca. 2.5 mm; leaf apex rounded[Lindernia cyrtotricha 曲毛母草](Lindernia cyrtotricha.md)
+12(8) Inflorescences terminal; capsule ovoid-globose[Lindernia pusilla 细茎母草](Lindernia pusilla.md)
+12 Inflorescences axillary; capsule fusiform-ovoid to ellipsoid-oblong.——(13)
+13(12) Plants setose or subglabrous; leaf blade ovate, deltoid-orbicular, or subtriangular-ovate, apex subacute to subobtuse.——(14)
+13 Plants densely hairy; leaf blade suborbicular, apex rounded[Lindernia kiangsiensis 江西母草](Lindernia kiangsiensis.md)
+14(13) Leaves 0.4-1.3 cm; flowers solitary[Lindernia setulosa 刺毛母草](Lindernia setulosa.md)
+14 Leaves 1.6-2.5 cm; flowers 6-10[Lindernia scutellariiformis 黄岑母草](Lindernia scutellariiformis.md)
+15(1) Stem nodes 2-4; inflorescences pseudo-umbellate, at base with 2 pairs decussate or unequally pseudo- whorled bracts[Lindernia dictyophora 网萼母草](Lindernia dictyophora.md)
+15 Stem nodes many; inflorescences racemose, spicate, or umbellate fascicles, without pseudo-whorled bracts.——(16)
+16(15) Leaf veins parallel.——(17)
+16 Leaf veins pinnate.——(21)
+17(16) Leaf blade margin conspicuously crenate or serrate; calyx lobed to middle or 2/3 of calyx length[Lindernia nummulariifolia 宽叶母草](Lindernia nummulariifolia.md)
+17 Leaf blade margin entire or somewhat serrate; calyx lobed almost to base.——(18)
+18(17) Capsule as long as or only slightly longer than persistent calyx.——(19)
+18 Capsule at least ca. 2 X as long as persistent calyx.——(20)
+19(18) Plants glandular hairy; fertile stamens 2; stigma discoid[Lindernia jiuhuanica 九华山母草](Lindernia jiuhuanica.md)
+19 Plants glabrous; fertile stamens 4; stigma 2-lobed[Lindernia procumbens 陌上菜](Lindernia procumbens.md)
+20(18) Leaves ovate-lanceolate to narrowly ovate, 0.5-1.5 cm; capsule narrowly ovoid to ellipsoid, ca. 2 X as long as persistent calyx[Lindernia hyssopoides 尖果母草](Lindernia hyssopoides.md)
+20 Leaves linear to linear-lanceolate, 1-4 cm; capsule linear, more than 2 X as long as persistent calyx[Lindernia micrantha 狭叶母草](Lindernia micrantha.md)
+21(16) Leaves to 12 cm; upper calyx lobe larger than other lobes[Lindernia megaphylla 大叶母草](Lindernia megaphylla.md)
+21 Leaves less than 4.5 cm; calyx lobes subequal.——(22)
+22(21) Calyx lobed to 1/3 of its length.——(23)
+22 Calyx lobed to or near base.——(25)
+23(22) Stems often much branched; branches spreading at an angle of 50-90°; internodes mostly equal in length[Lindernia crustacea 母草](Lindernia crustacea.md)
+23 Stems often simple or sparsely branched; branches spreading at an angle of 10-50°; internodes short below, elongated above middle.——(24)
+24(23) Leaf margin usually irregularly toothed; capsule shorter than persistent calyx[Lindernia oblonga 棱萼母草](Lindernia oblonga.md)
+24 Leaf margin entire; capsule as long as persistent calyx[Lindernia taishanensis 泰山母草](Lindernia taishanensis.md)
+25(22) Flowers numerous in racemes or sometimes panicles.——(26)
+25 Flowers solitary or few umbellate or in short racemes.——(30)
+26(25) Perennials; capsule shorter than persistent calyx[Lindernia macrobotrys 长序母草](Lindernia macrobotrys.md)
+26 Annuals; capsule 2-3 X as long as persistent calyx.——(27)
+27(26) Leaf base amplexicaul, margin densely aristate-serrate[Lindernia ciliata 刺齿泥花草](Lindernia ciliata.md)
+27 Leaf base cuneate and decurrent, margin not densely aristate-serrate.——(28)
+28(27) Capsule cylindric, 2 X or more as long as persistent calyx[Lindernia antipoda 泥花草](Lindernia antipoda.md)
+28 Capsule globose to ellipsoid, almost as long as to shorter than persistent calyx.——(29)
+29(28) Leaves sessile or short petiolate[Lindernia viscosa 粘毛母草](Lindernia viscosa.md)
+29 Petiole to 1.4 cm[Lindernia elata 荨麻母草](Lindernia elata.md)
+30(25) Branches spreading at an angle of 45°; plants often wider than tall or as wide as tall.——(31)
+30 Branches not spreading at angle of 45°; plants longer than wide.——(32)
+31(30) Plants 14-20 cm tall, woody with age; leaves thick, margin 12-18-toothed; calyx ca. 10 mm, lobes with long needlelike tip, longer than fruit[Lindernia stricta 坚挺母草](Lindernia stricta.md)
+31 Plants less than 10 cm tall, herbaceous; leaves thin, margin 8-12-toothed; calyx ca. 5 mm, lobes without long needlelike tip, as long as fruit[Lindernia delicatula 柔弱母草](Lindernia delicatula.md)
+32(30) Capsule ovoid, as long as persistent calyx; leaves not linear[Lindernia yaoshanensis 瑶山母草](Lindernia yaoshanensis.md)
+32 Capsule cylindric, 2-3 X as long as persistent calyx; leaves linear.——(33)
+33(32) Leaf base somewhat amplexicaul; bracts linear; corolla lower middle lobe larger than other lobes[Lindernia tenuifolia 细叶母草](Lindernia tenuifolia.md)
+33 Leaf base cuneate and decurrent; bracts subulate; corolla lobes subequal[Lindernia antipoda 泥花草",](Lindernia antipoda.md)
+**18.母草属——Lindernia All.**
+
+All. Misc. Taurin. 3: 178. 1766; Benth. in DC. Prodr. 10: 418.1846;Wettst. in Pflanzenfam. IV 3B: 79. 1891; Yamaz. Journ. Jap. Bot. 30: 171. 1955; Li, Quart. Journ. Taiwan Museum 14: 2. 1961; Philcox, Kew Bull. 22: 1-72. 1968. ——Vandellia L. Mant. 1: 12. 1767; Benth. in DC. Prodr. 10: 412. 1846; Benth. et Hook. f. Gen. Pl. 2: 955. 1876; Hook. f. Fl. Brit. Ind. 4: 279. 1884; Yamaz. Journ. Jap. Bot. 30: 172. 1955. ——Anagalloides Krock. Fl. Siles. 2(1): 398. 1790. ——Bonnaya Link. et Otto Ic. Pl. Select. 25. t. 11. 1820; Benth. in DC. Prodr. 10: 420. 1846; Benth. et Hook. f. Gen. Pl. 2: 956. 1876; Hook. f. Fl. Brit. Ind. 4: 284. 1884. ----Ilysanthes Rafin. Ann. Nat. 130. 1820; Benth. in DC. Prodr. 10: 418. 1846; Benth. et Hook. f. Gen. Pl. 2: 955. 1876. ——Hornemannia Link. et Otto, Ic. Pl. Select. 9. t. 3. 1820. non Willd. 1809. nom. illegit.
+
+草本，直立、倾卧或匍匐。叶对生，有柄或无，形状多变，常有齿，稀全缘，脉羽状或掌状。花常对生、稀单生，生于叶腋之中或在茎枝之顶形成疏总状花序，有时短缩而成假伞形花序，偶有大型圆锥花序者；常具花梗，无小苞片；萼具5齿，齿相等或微不等，有深裂、半裂或萼有管而多少单面开裂，其开裂不及一半；花冠紫色、蓝色或白色，二唇形，上唇直立、微二裂，下唇较大而伸展，三裂；雄蕊4枚，均有性，也有前方一对退化而无药，其花丝常有齿状、丝状或棍棒状附属物，其花药互相贴合或下方药室顶端有刺尖或距；花柱顶端常膨大，多为二片状。蒴果球形、矩圆形、椭圆形、卵圆形、圆柱形或条形；种子小，多数。
+
+本属的模式种：Lindernia procumbens(Krock.) Philcox (Anagalloides procumbens Krock.)
+
+本属约有70种。主要分布于亚洲的热带和亚热带，美洲和欧洲也有少数种类；我国约有26种。
+
+## 检索表
+
+1 雄蕊4，均能育，或其中2枚仅有不育之药。——(2)
+1 有性雄蕊2，退化雄蕊2。——(8)
+2 萼深裂，仅基部联合。——(4)
+2 萼半裂或浅裂，或在果期成不规则的分裂。——(3)
+3 萼半裂；蒴果长椭圆形，比萼长1-2倍（种1)。 ——[宽叶母草组](Sect.%20Nummularia (Benth.) Philcox.md)
+3 萼浅裂；蒴果椭圆形或矩圆形，与萼近等长（种2-4）。——[母草组](Sect.%20Torenioides.md)
+4 叶具齿，脉羽状。——(5)
+4 叶全缘，脉并行，自叶基发出3-5条（种5）。——[陌上菜组](Sect.%20Lindernia.md)
+5 蒴果卵球形、近球形、矩圆形或椭圆形，与萼近等长。——(6)
+5 蒴果条状圆柱形，比萼长1-3倍（种17-19）。——[长果组](Sect.%20Angustifoliae.md)
+6 雄蕊4枚均能育；前方一对花丝基部膝状弯曲或有附属物。——(7)
+6 雄蕊4，仅2枚能育，前方一对的花药不育，其花丝基部亦无附属物 (种16)。 ——[坚挺组](Sect.%20Pseudo-intermediae.md)
+7 前方一对花丝基部附属物丝状或棍棒状；蒴果椭圆形至卵状矩圆形（种10-15）。——[刺毛组](Sect.%20Setulosae.md)
+7 前方一对雄蕊花丝基部膝状弯曲，或有肾脏形附属物；蒴果球形至卵圆形，稀卵状椭圆形（种6-9）。——[短果组](Sect.%20Tittmannia.md)
+8 退化雄蕊不裂。——(9)
+8 退化雄蕊开裂。——(10)
+9 退化雄蕊细长或弯曲；蒴果条状圆柱形，长于萼很多（种20-23）——[泥花草组](Sect.%20Bonnaya.md)
+9 退化雄蕊粗短而顶端头状，蒴果近球形或矩圆形，短于萼（种24）。——[曲毛组](Sect.%20Cyrtotrichae.md)
+10 退化雄蕊作简单的2裂；叶三大脉；蒴果长卵圆形，约比萼长1倍（种25）。——[尖果组](Sect.%20Brachycarpae.md)
+10 退化雄蕊有明显的附属物；叶脉羽状；蒴果矩圆形，短于萼而包于其内（种26）。——[柔弱组](Sect.%20Delicatulae.md)

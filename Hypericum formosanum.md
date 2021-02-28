@@ -1,0 +1,19 @@
+台湾金丝桃",
+31.**Hypericum formosanum** Maximowicz",
+
+> The long sepals easily distinguish *Hypericum formosanum* from all other species in *H.* sect. *Takasagoya* except *H. nakamurae*, which has larger flowers and elliptic to obovate leaves.
+
+## Description
+Shrubs, ca. 22 cm tall; branches spreading and arching. Stems 4-lined and ancipitous when young, soon 2-lined to terete; internodes 1.5-6 cm, usually shorter than leaves. Leaves sessile or with petiole to 1 mm; blade ovate or elliptic to oblong-elliptic, 2-6 × 1.1-2.9 cm, subleathery, abaxially paler but not glaucous; laminar glands dots, prominent; abaxial glands absent; main lateral veins 1- or 2-paired, the upper forming intramarginal vein, tertiary reticulation very faint or invisible; base cuneate to rounded, apex subacute to rounded. Inflorescence 1-3-flowered, terminal, and 1- or 2-flowered on subsidiary branches from up to 7(-10) nodes below, the whole cylindric; bracts leaflike, bracteoles narrowly elliptic, subpersistent. Pedicels 5-10 mm. Flowers 2.5-3.5 cm in diam., stellate to very shallowly cupped; buds ± broadly ovoid, apex subacute to obtuse. Sepals very slightly connate, erect in bud, ascending in fruit, subequal to unequal, lanceolate or narrowly elliptic to oblanceolate or elliptic-ovate, 7-10 × 1.5-6 mm, laminar glands lines and dots, margin entire, apex acute to subacute. Petals golden yellow, obovate, (1-)1.3-1.7(-2) × 0.8-1.2 cm, ca. 2 × as long as sepals, eglandular, margin entire, apiculus very short, rounded. Stamen fascicles each with 25-40 stamens, longest 0.8-1.2 cm, ca. 0.7 × as long as petals. Ovary ovoid to subglobose, 3-4.5 × 3-3.5 mm; styles (6.5-)7-8(-8.5) mm, 1.5-2.5 × as long as ovary; stigmatic mass subglobose. Capsule broadly ovoid, 8-9 × ca. 6 mm. Seeds 1-2 mm, with apical expansion; testa ?linear-reticulate. Fl. Apr-Aug, fr. ?May-Sep.
+
+> ● On well-drained banks or in stony areas; sea level to 500 m. N Taiwan (Taibei).
+  "Synonym": "*Takasagoya formosana* (Maximowicz) Y. Kimura.
+**27.台湾金丝桃（台湾植物志）**
+
+Hypericum formosaaum Maxim. in Bull. Acad. Sci. St. Petersb. 27: 428. 1881 et in Mil. Biol. 11: 160. 1882: Forbes ＆ Hemsl. in Journ. Linn. Soc. 23: 73. 1886: Levl. in Bull. Soc. Bot. France 53: 499. 1906, pro parte, 54: 590. 1908, pro parte, excl. specim. Faurie.; Hayata, Icon. P1. Formosa 1: 79. 1911; R. Keller in Engl. u Prantl, Nat. Pflanzenfam. ed. 2, 21: 176. 1925 (‘f ormosum’): Sasaki, List Pl. Formos.: 295. 1928, pro parte excl. syn.: Susuki in Masamune, Short Fl. Formosa: 141. 1936 (‘f ormosana’); N. Robson in Blumea 20: 253, 19 73, 台湾植物志2; 63 0. 1976, excl. t. 429 et in Bull. Brit. Mus. Nat. Hist. Bot. 12(4): 289, f.21. 1985. ——Takasagoya formosana (Maxim.)Y. Kimura in Bot. Mag. Tokyo 50: 499, f. l, f 3a-i, 1936, in Nakai ＆ Honda, Nova Fl. Jap. 10: 89, ff. 37 (1), 38 (1), 39. 1951. ——H. patulum auct. non Thunb. ex Murray: Matsumura ＆ Hayata in Journ. Coll. Sci. Univ. Tokyo 22: 41. 1906, pro parte, quoad specim. cit.: Hayata, Icon. Pl. Formos. 1: 79. 1911, pro parte, quoad loc. Taiwan. cit.
+
+灌木，高约22厘米，有开张而拱弯的枝条。茎幼时具4纵线棱及两侧压扁，不久具2纵线棱至圆柱形；节间长1.5-6毫米，短于叶；皮层灰褐色。叶无柄，叶片卵形或椭圆形至长圆状椭圆形，长2-6厘米，宽1.1-2.9厘米，先端近锐尖至圆形，基部楔形至圆形，边缘平坦，近革质，上面绿色，下面淡绿但不呈苍白色，主侧脉1-2对，上方1对形成一近边缘脉，中脉有7条羽状的分枝，第三级脉网很纤细或不可见，近边缘的腺体密集，叶片腺体明显点状；茎下部叶迟落。花序具l-3花，顶生，而在茎顶端直至以下的7(-10)节的侧花枝具l-2花；花梗长0.5-1厘米；小苞片狭椭圆形，近宿存。花直径2.5-3.5厘米，星状至很浅的盃状；花蕾多少呈宽卵珠形，先端近锐尖至钝形。萼片略为合生，在花蕾时直立，结果时上举，披针形或狭椭圆形至倒披针形或椭圆状卵形，近等大至不等大，长7-10毫米，宽1.5-6毫米，先端锐尖至近锐尖，有5-7脉而小脉网状分枝，中脉分明但窄，近边缘腺体散布但不分明，表面上腺体线状及点状。花瓣金黄色，无红脉纹或红晕，开张而有内弯的先端，倒卵形，长（1-）1.3-1.7(-2 )厘米，宽0.8-1.2厘米，长约为萼片的2倍，有短的小尖突。雄蕊5束，每束具雄蕊2 5-40枚，最长者长8-12毫米，长约为花瓣的7/10。子房卵珠形至近圆球形，长3-4.5毫米，宽3-3.5毫米；花柱长（6.5-）7-8(-8.5)毫米，长约为1.5-2.5倍，柔弱；柱头近头状。蒴果宽卵珠形，长8-9毫米，宽6毫米。种子长0.1-0.2毫米，有线状网纹。花期4 月，初果期5月。
+
+产台湾（台北）。生于排水良好的海岸或石质地，海拔0-500米。模式标本采自台湾台北的淡水。
+
+本种因其长萼片在本组中除清水金丝桃H. nakamurai (Masamunc)N. Robson 外很易与其他种区别，而清水金丝桃却有较大型的花和椭圆形至倒卵形的叶不同于本种。它与金丝桃组的金丝梅H. monogynum Llnn.似乎也很相近。

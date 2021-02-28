@@ -1,0 +1,16 @@
+中亚苦蒿",
+5.**Artemisia absinthium** Linnaeus Sp. Pl. 2: 848. 1753.",
+
+## Description
+Herbs, perennial, 60-150 cm tall, somewhat woody at base, gray sericeous or puberulent. Stems 1-3. Basal leaves: petiole 6-12 cm; leaf blade ovate-elliptic or ovate, 8-12 × 7-9 cm, 2- or 3-pinnatisect; segments 4 or 5 pairs, pinnately lobed; lobules lanceolate-elliptic or -linear, 8-15 × 2-4(-7) mm, apex obtuse. Middle stem leaves: petiole 2-6 cm; leaf blade ovate or elliptic-ovate, 2-pinnatisect; lobules linear-lanceolate, (8-)10-25 × 2-3(-5) mm. Uppermost leaves 4-6 × 2-4 cm, pinnatisect or 5-lobed; leaflike bracts 3-lobed or entire; lobes lanceolate or linear-lanceolate. Synflorescence usually a broad conical panicle; primary branches straight, ascending or ± oblique spreading, up to 30 cm and secondary branches up to 12 cm. Capitula shortly pedunculate, nodding. Involucre globose or subglobose, 2.5-3.5(-4) mm in diam.; receptacle hemispheric, densely pubescent. Marginal female florets 15-25; corolla yellow, obliquely 2-toothed. Disk florets 30-70(-90), bisexual; corolla yellow. Achenes oblong, 0.8-1 mm, with apical corona or not. Fl. and fr. Aug-Sep. 2*n* = 18.
+  "Reference": "*Artemisia absinthium* is used in anti-inflammatory and anthelmintic medicines.*Artemisia absinthium* is used in anti-inflammatory and anthelmintic medicines.
+  "Statistics": "Hillsides, steppes, scrub, forest margins, often in locally moist situations; 1100-1500 m. Jiangsu, NW and W Xinjiang [Afghanistan, India, Japan, Kazakhstan, Kyrgyzstan, Pakistan, Russia; N Africa, SW Asia, Europe, North America].
+**5.中亚苦蒿（植物研究）洋艾（江苏南部种子植物手册），苦艾、苦蒿、啤酒蒿（新疆、江苏）图版1：8-12**
+
+Artemisia absinthium Linn. Sp. Pl. 2: 848. 1753; Ledeb. Fl. Alt. 4: 62. 1833 et Fl. Ross. 2 (2): 598. 1844-1846; DC. Prodr. 6: 125. 1837; Boiss. Fl. Or. 3: 373. 1875; Hook. f. Fl. Brit. Ind. 3: 328. 1881; Hall et Clements, Phylogen. Meth. Taxon. 106, Pl. 11. fig. 1—8. 1923; Pamp. in Nuov. Giorn. Bot. Ital. n. s. 34: 635. 1927 et 46: 552. 1939; Poljak. Фл. СССР 26: 515. 1961; S. Y. Hu in Quart. Journ.Taiwan Mus. 18(1—2): 121. 1965; Filat. Фл. Каэах. 9: 102. 1966; Nasir et Ali, Fl. W. Pakistan 714. 1972; Tutin et al. Fl. Europ. 4: 180. 1976; 江苏植物志, 下, 871, 图2191. 1982. ——Absinthium vulgare Lamarck, Fl. Fr. 2: 45. 1778; Bess. in Bull. Soc. Nat. Mosc. 1(8): 259. 1829. ——A. bipetala Gilib. Fl. Lithuan 174. 1782.
+
+多年生草本。主根明显，单一，垂直，有时木质化，直径达3厘米；根状茎稍粗短，垂直，直径1-2.5厘米，常有短小的营养枝，枝上密生营养叶。茎单生或2-3枚，直立，高60-150厘米，有纵棱，密被灰白色短柔毛，上半部多分枝，枝长10-20厘米，斜向上。叶纸质，叶两面幼时密被黄白色或灰黄色稍带绢质的短柔毛，后叶面毛渐稀疏，背面毛宿存；茎下部与营养枝的叶长卵形或卵形，长8-12厘米，宽7-9厘米，二至三回羽状全裂，每侧有裂片4-5枚，裂片长卵形或椭圆形，再次羽状全裂，小裂片椭圆状披针形或线状披针形，长8-15毫米，宽2-4(-7)毫米，先端钝尖，叶柄长6-12厘米；中部叶长卵形或卵形，长6-9厘米，宽3-7厘米，二回羽状全裂，小裂片线状披针形，长（0.8-）1-2.5厘米，宽2-5毫米，叶柄长2-6厘米；上部叶长4-6厘米，宽2-4厘米，羽状全裂或，全裂，裂片披针形或线状披针形，长8-12毫米，宽2-4（-6）毫米，近无柄；苞片叶3深裂或不分裂，裂片或不分裂的苞片叶披针形或线状披针形。头状花序球形或近球形，直径2.5-3.5(-4)毫米，有短梗或近无梗，下垂，基部有狭线形的小苞叶，在分枝及茎端排成穗状花序式的总状花序，并在茎上组成略开展或中等开展的扫帚形的圆锥花序；总苞片3-4层，外层、中层总苞片椭圆形，背面有白色柔毛与绿色中肋，边缘膜质，内层总苞片卵形，近膜质，背面近无毛；花序托密被白色托毛；雌花1层，15-25朵，花冠狭圆锥状或狭管状，檐部具2裂齿，花柱线形，伸出花冠外，先端分叉长，叉端锐尖；两性花4-6层，30-70( 90)朵，花冠管状，花药披针形或线形，顶端附属物尖，长三角形，先端锐尖，花药基部圆钝，花柱与花冠近等长，先端2叉，叉端截形，柱头具睫毛。瘦果长圆形，顶端微有不对称的冠状边缘。花果期8-11月。
+
+产新疆天山北部；生于海拔1 100-1 500米地区的山坡、草原、野果林、林缘、灌丛地等；南京及其他少数城市也有栽培。北温带广布种。亚洲中部或中西部地区的伊朗、阿富汗、印度（北部）、巴基斯坦（北部）、克什米尔地区、苏联（中亚、高加索、西伯利亚西部）、欧洲各国、非洲北部及西北部、北美洲的加拿大与美国东部都有。
+
+叶与头状花序含苦味素，成分为内脂类化合物及二萜类物质。欧洲民间提取苦味素作酒或饮料的苦味剂，但过量有小毒。全草入药，有消炎、健胃、驱虫之效。

@@ -1,0 +1,6 @@
+湘西薹草",
+275.**Carex xiangxiensis** Z. P. Wang Acta Bot. Yunnan. 11: 168. 1989.",
+
+## Description
+Rhizome short, indurate, thickened. Culms 40-90 cm tall, rather thick, triquetrous, smooth but scabrous on angles, clothed with dark purple and bladeless sheaths. Leaves shorter than or equaling culm, blades up to 17 mm wide, with several prominent veins, flat, slightly stiff, puberulent on veins above and generally on lower surface, sheathed. Involucral bracts leaflike, longer than subtending spike, shortly sheathed. Spikes 4 or 5, ± remote; terminal spike male, sublinear, 4-6 cm, shortly pedunculate; remaining spikes female, cylindric, 4-9 cm, densely flowered, lowest spike pedunculate, upper spikes nearly sessile. Female glumes pale, slightly purple-red laterally, ovate to oblong, ca. 5 mm (including ca. 2.3 mm awn), membranous, 3-veined, apex obtuse, mucronate to aristate. Utricles olivaceous, reflexed, longer than glume, obovate to elliptic, subinflated, trigonous, 3.5-4 mm, membranous, glabrous, many veined, base sessile, apex abruptly attenuate into a long beak, beak scabrous on margins, 2-toothed at orifice. Nutlets yellowish brown, loosely enveloped, rhomboid-elliptic, trigonous, ca. 2.3 mm; style base slightly thickened; stigmas 3, ± equaling beak.
+  "Statistics": "● Forests in valleys; ca. 300 m. NW Hunan (Zhangjiajie).

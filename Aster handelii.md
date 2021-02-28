@@ -1,0 +1,16 @@
+红冠紫菀",
+89.**Aster handelii** Onno Biblioth. Bot. 26(Heft 106): 52. 1932.",
+
+## Description
+Herbs, perennial, 9-35 cm tall, sometimes caespitose; rhizomes stout, often with stolons bearing rosettes. Stems erect or ascending, simple, sparsely to moderately strigose and/or villous, eglandular. Leaves basal and cauline; cauline leaves gradually reduced upward, both surfaces strigose, sometimes sparsely to moderately minutely stipitate glandular, abaxial veins moderately to densely villous, sometimes ± thick, margin villous-ciliate, midvein abaxially ± prominent (some basal leaves abaxially ± 3-veined); basal rosette present at anthesis; basal and lower cauline leaves winged petiolate; blade spatulate to oblanceolate, 0.7-4 × 0.4-1.4 cm, base attenuate, margin entire, sometimes sinuate, apex rounded to obtuse; middle cauline leaves oblong to lanceolate, 1.8-4 × 0.2-0.8 cm, base subclasping, apex acute or obtuse. Capitula terminal, solitary, 4-5.5 cm in diam. Involucres hemispheric, 5-7 mm; phyllaries 2-seriate, equal, squarrose, oblong-linear, 7.5-9 × 1.2-2 mm, abaxially sparsely to moderately villosulous proximally, adaxially distally moderately to densely villosulous, leaflike, margin narrowly scarious, villous-ciliate, midvein inconspicuous, apex obtuse to acute, tip purplish. Ray florets 28-40, bluish purple to lavender blue, lamina 12-23 × 2.5-3 mm; disk florets orange, ca. 6 mm, limb funnelform, ca. 4.5 mm, proximally moderately hairy, lobes spreading, triangular, ca. 1.2 mm, abaxially minutely stipitate glandular. Achenes broadly obovoid, ± compressed, 2.6-3 mm, densely strigillose, margin 2-ribbed (ribs distally reddish brown), strigillose-ciliate (sometimes rib completely strigillose). Pappus 4-seriate, purplish straw-colored, bristles barbellate throughout; outermost bristles few, slender, ca. 0.5 mm; outer bristles slender, ca. 4 mm; inner bristles few, ca. 5 mm, acute; innermost bristles ca. 5.5 mm, slightly clavate. Fl. and fr. Jul-Sep.
+  "Reference": "*Aster handelii* is similar to *A. tongolensis* but differs in the pappus structure.*Aster handelii* is similar to *A. tongolensis* but differs in the pappus structure.
+  "Statistics": "● Alpine or subalpine grasslands and dry grasslands, pastures, wet meadows, mixed shrublands, clearings in *Quercus* forests; 3000-3500 m. SW Sichuan, NW Yunnan.
+**61. 红冠紫菀 图版53：1-5**
+
+Aster handelii Onno, Biblioth. Bot. 106: 52, t. IB. f. 4. 1932; Hand. -Mazz., Symb, Sin. 7: 1089. 1936, et in Notizbl. Bot. Gart. u. Mus. Berl. -Dahl. 13: 620, 1937; Griers. in Not. Roy Bot. Gard. Edinb. 26: 147. 1964, in adnot; S. Y. Hu in Quart. Journ. Taiwan Mus. 18: 286, 1965.
+
+多年生草本，根状茎粗壮，顶端有单生或与莲座状叶丛丛生的花茎。茎直立或斜升，高15-35厘米，不分枝，被开展或上部被错杂的长毛，基部有枯叶残片，下部有密集上部有渐疏的叶。下部叶在花期生存，与莲座状叶同形，匙形或长圆状匙形，长1.5-4厘米，宽0.5-1.4厘米，下部渐狭成具翅的柄，全缘，顶端近圆形，中部叶长圆披针形或线形，长2-4厘米，宽0.3-0.8厘米，基部半抱茎，顶端尖或钝；上部叶渐狭小；全部叶质稍厚，两面被白色密粗毛，下面沿脉及边缘被较长的毛；中脉在下面稍高起，侧脉不显明。头状花序在茎端单生，径4-5.5厘米。总苞半球状；总苞片2层，长圆状线形，长7.5-9毫米，宽约2毫米，顶端钝或稍尖，被长密毛。舌状花30-40个，舌片浅蓝紫色，长15-25毫米，宽2-2.5毫米。管状花长约6毫米，裂片外面有短毛。冠毛1层，红褐色，几与管状花花冠等长，有极多数细糙毛。瘦果长圆形，稍扁，被密绢毛。花果期7-9月。
+
+产于云南西北部（中甸等）、四川西南部（稻城）。生于高山或亚高山草坝和干旱草地。海拔3000-3500米。
+
+此种与东俄洛紫菀 (A. tongolensis Franch.) 相似，但冠毛的构造不同。此种又以毛茸和冠毛的颜色与高山紫菀 (A. alpinus Linn.) 区别。上述的稻城的植物有较小的头状花序（总苞径1-1.5厘米），长达花冠裂片基部的冠毛，可能是此种的一个变种。

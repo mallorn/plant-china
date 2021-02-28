@@ -1,0 +1,19 @@
+大花荆芥",
+18.**Nepeta sibirica** Linnaeus",
+
+> Source of an essential oil. Cultivated as an ornamental.
+
+## Description
+Herbs perennial. Stems numerous, ca. 40 cm, puberulent, glandular. Petiole 3-7 mm, 1.5-1.7 cm in basal leaves; leaf blade triangular-oblong to triangular-lanceolate, 3.4-9 &amp;#215; 1.2-2.2 cm, adaxially sparsely puberulent, abaxially densely yellow glandular, veins pubescent, base shallowly cordate, margin denticulate, apex acute. Verticillasters lax, on apical part of stem, 9-15 cm; peduncle 5-8 mm; bracts linear, 2.5-3 mm, pubescent, ciliate. Pedicel ca. 1 mm. Calyx 9-10 mm, densely glandular pubescent, throat very oblique; teeth joined for 1/3-1/2 their length, lanceolate-triangular, apex acuminate; teeth of lower lip separated to base, longer, narrower, apex acute. Corolla blue or bluish, 2-2.9 cm, sparsely pubescent; tube nearly straight, narrow, abruptly dilated into throat ca. 6 &amp;#215; 6 mm; lobes of upper lip ca. 1/2 as long as upper lip, elliptic, apex obtuse; middle lobe of lower lip reniform, deeply sinuate, margin coarsely crenate; lateral lobes ovate to ovate-triangular. Nutlets unknown. Fl. Aug-Sep.
+
+> Hillsides; 1800-2700 m. Gansu, Nei Mongol, Ningxia, Qinghai [Mongolia, Russia]
+  "Synonym": "&lt;I&gt;Dracocephalum sibiricum&lt;/I&gt; (Linnaeus) Linnaeus; &lt;I&gt;Moldavica elata&lt;/I&gt; Moench; &lt;I&gt;M. sibirica&lt;/I&gt; (Linnaeus) Moench ex Steudel; &lt;I&gt;Nepeta macrantha&lt;/I&gt; Fischer.
+**15. 大花荆芥 图版56:8**
+
+Nepeta sibirica Linn. Sp. Pl. 572. 1753, excl. syn. Buxb.; P. A. Smirov in Bull. Soc. Nat. Moscou Sect. Biol. n. ser. 46: 2, 96. 1937; Pojark. in Fl. URSS 20: 342. 1954——Dracocephalum sibiricum Linn. Syst, Nat. ed. 10, 1104. 1759, Sp. Pl. ed. 2: 830. 1762, excl. syn. Buxb.; Buchoz, Hist. Regne Ve9. 6: t. 3. 1775, Ait. Hort. Kew. 2: 318. 1789; ed. 2. 3: 420. 1811; Willd. Sp. Pl. 3: 155. 1801, Pers. Syn. Pl. 2: 133. 1807; Sims in Curtis's Bot. Mag. 48: t. 2185. 1820; Pall. Fl. Ross. t. 113. 1831; Geel, Sert. Bot. Cl. 14. 1832; Loud. Ladies Fl, Gard. Ornam. Perenn. 2: 149, t. 90. 1844; Hand. -Mazz. in Act. Hort. Gothob. 9: 79. 1934, Symb. Sin. 7: 919. 1936; Sealy in Curtis's Bot. Mag. 164: t. 9646, 1943; Walker in Contr U. S. Nat. Herb 28: 656. 1941——Moldavica elala Moench, Meth. Pl. 410. 1794——Moldavica sibirica Moench ex Steud. Nom. Bot. 285. 1812——Nepeta macrantha Fisch. Catal. Hort. Gorenk. ed. 2:22. 1822, nom. nud.; Benth. Labiat. Gen. et Sp. 482. 1834, et in DC. Prodr. 12: 387. 1848; Maxim. in Bull. Acad. Sc. St. Petersb. 20: 468. 1875, in Mel. Biol. Acad. Sci. St. Petersb. 9: 447, 449. 1875; Franch. Pl. David. 1: 238. 1884; Lowe in Ber. Deist. Rot. Ges. Berlin 4: 124, t. 6, f. 21-22. 1886; Nichols. Cent. Suppl. Dict. Gard. 547. 1901; Danguy in Bull. Miss. Hist. Nat. Paris 17: 554. 1911, 20: 83. 1914; Diels in Fedde, Repert. Sp. Nov. Beih. 12: 477. 1922, p. p. quoad Limpricht 2889 ex Wu-ling-shun; Rock et Kobuski in Journ. Arn. Arb. 14: 31. 1933 (Rock nos. e Tsinghai); Krylov, Fl. Zapadn. Sibir. 2307. 1937; Bailey, Stand. Cycl. Hort. ed. 2, 2: 2130. 1939; ？Walker in Contr. U. S. Nat. Herb 28: 657. 1941——Dracocephalum stewartianum auct. non (Diels) Dunn: Hort. in Journ. Koy. Hort. Soc. London 64: 481, Proc. p. lxix. 1939, Gard, Chron. ser. 3, 106. 1939.
+
+多年生植物；根茎木质，长，匍匐状，具萌枝，顶端有粗糙纤维。茎多数，上升，高约40厘米，常在下部具分枝，四棱形，下部常带紫红色，被微柔毛，混生有小腺点。叶三角状长圆形至三角状披针形，长3.4-9厘米，宽1.2-2.2厘米，先端急尖，基部近截形，常呈浅心形，上面疏被微柔毛，下面密被黄色腺点，沿脉网被短柔毛，边缘通常密具小牙齿，坚纸质，脉在上面稍下陷，下面明显隆起；茎下部叶具较长的柄，柄长达1.5-1.7厘米，中部叶柄变短，长7-3毫米。轮伞花序稀疏排列于茎顶部，所占长度9-15厘米，在下部的具长5-8毫米的总梗，上部的具短梗或近无梗；苞叶叶状，向上变小，具极短的柄，上部的呈苞片状，披针形；苞片长约为萼长1/3-1/4，线形，被短柔毛及睫毛；花梗短，长约1毫米，密被腺点。花萼长9-10毫米，外密被腺短柔毛及黄色腺点，喉部极斜，上唇3裂，裂至本身长度1/2或达2/3，披针状三角形，渐尖，下唇2裂至基部，较长而狭，先端锐尖。花冠蓝色或淡紫色，长2-2.9厘米，外疏被短柔毛，冠筒近直立，狭窄部分伸出于萼长1/2，向上骤然扩展成长宽约6毫米的喉部，冠檐二唇形，上唇2裂至中部以下成椭圆形钝裂片，下唇3裂，中裂片肾形，先端具深弯缺，边缘具大圆齿，侧裂片卵状三角形或卵形。雄蕊4，后对雄蕊稍短于或略超出上唇。花柱等于或略超出上唇。成熟小坚果未见。花期8-9月。
+
+产内蒙古西部，宁夏，甘肃中部及青海；生于山坡上，海拔1750-2650米。苏联，蒙古也有。模式标本采自苏联西伯利亚。
+
+植株地上部分约含芳香油0.15%，油可用作化妆品香料。此外，由于花大美观，在欧洲早就作为观赏植物引入栽培。

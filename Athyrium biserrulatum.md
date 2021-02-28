@@ -1,0 +1,19 @@
+苍山蹄盖蕨",
+6.**Athyrium biserrulatum** Christ Bull. Acad. Int. Géogr. Bot. 17: 135-136. 1907.",
+
+> *Athyrium biserrulatum* is very similar to African (Ethiopian) *A. schimperi* Mougeot ex Fee; whether they are species or subspecies requires further analysis.
+
+## Description
+Rhizomes slender, long creeping, densely clothed with brownish, lanceolate scales. Fronds distant; fertile fronds 50-65 cm; stipe brown at base, upward stramineous, 15-20 cm, 1.5-2 mm in diam., base with sparse dark brown lanceolate scales, upward glabrate; lamina 2-pinnate, oblong, 30-45 × 14-18 cm; pinnae 15-20 pairs, basal 2 or 3(or 4) pairs of pinnae gradually shortened, opposite or subopposite, subspreading or slightly drooping, basal pinnae triangular, ca. 2.5 cm; middle pinnae lanceolate, 8-10 × ca. 3 cm, base ± rounded, shortly stalked, pinnate, apex acuminate, pinnae alternate, ascending; pinnules 10-12 pairs, deltoid-oblong, 1-1.5 cm × 5-7 mm, base somewhat inequilateral, acroscopic side often auriculate and parallel to costa, basiscopic side broadly cuneate, slightly decurrent, apex rounded and toothed; basal pinnules separated widely from each other; upper pinnules approximate, adnate to wing of costa, shallowly lobed; pinnule segments with spinelike teeth at apex. Veins visible adaxially, inconspicuous abaxially, pinnate in pinnules, lateral veins ca. 6 pairs, simple or forked. Lamina thinly herbaceous when dried, pale green or dark green, glabrate; abaxial surface of rachis and costae stramineous, with pallid short hairs. Sori oblong, J-shaped, or horseshoe-shaped, on basal acroscopic veins, biseriate along both sides of costule (often 2-4 in basal acroscopic segment); indusia pallid, large, oblong, J-shaped, or horseshoe-shaped, membranous, margin ciliate, persistent. Perispore with folds connected into large areoles. 2*n* = 80.
+
+> Forests, forest margins; 2000-3000 m. W Guizhou, Sichuan, SE Xizang, C and NW Yunnan [Bhutan, N India, Myanmar, Nepal, Pakistan].
+  "Synonym": "*Asplenium filix-femina* (Linnaeus) Bernhardi var. *polyspora* C. B. Clarke; *Athyrium filix-femina* (Linnaeus) Roth var. *polysporum* (C. B. Clarke) Beddome; *A. polysporum* (C. B. Clarke) Ching ex Mehra &amp; Bir.
+**5. 苍山蹄盖蕨（中国蕨类植物孢子形态）图版24：9-12**
+
+Athyrium biserrulatum Christ in Bull. Acad. Int. Geogr. Bot. Mans 17: 135-136. 1907; C. Chr., Ind. Fil. Suppl. 1: 14. 1913; Y. L. Chang et al., Sporae Pterid. Sin. 213, t. 43, f. 29-30. 1976; Ching et S. K. Wu in C. Y. Wu, Fl. Xizang. 1: 135. 1983; Z. R. Wang in W. T. Wang , Vasc. Pl. Hengduan Mount. 1: 81. 1993. ——Asplenium filix-femina (L.) Bernh. var. polyspora Clarke in Trans. Linn. Soc., Lond., II. Bot. 1: 493, t. 61, f. 1. 1880. ——Athyrium filix-femina (L.) Rothvar. polysporum (Clarke) Bedd., Handb. Ferns Brit. Ind. 170. 1883 et Suppl. 30. 1892. ——Athyrium polysporum (Clarke) Ching ex Mehra et Bir in Amer. Fern Journ. 50 (4): 289. 1960. ——Athyrium schimperi auct. non Moug. ex Fee, 1852; Bedd. Handb. Ferns Brit. Ind. Suppl. 36. 1893; Hope in Journ. Bomb. Nat. Hist. Soc. 14: 252. 1903; Nakaike et S. Malik in Nakaike et S. Malik, Cryptog. Fl. Pakistan 1: 271, f. 41. 1992.
+
+根状茎细长，横走，密被浅褐色、披针形的鳞片；叶远生。能育叶长50-65厘米；叶柄长15-20厘米，直径1.5-2毫米，基部深褐色，疏被深褐色披针形的鳞片，向上禾秆色，几光滑；叶片长圆形，长30-45厘米，宽14-18厘米，二回羽状；羽片15-20对，基部2-3 (-4) 对逐渐缩短，对生或近对生，有短柄，近平展或略斜向下，基部一对三角形，长约2.5厘米，中部羽片披针形，长8-10厘米，宽约3厘米，渐尖头，基部近圆形，有短柄，互生，斜向上，一回羽状；小羽片10-12对，三角状长圆形，长1-1.5厘米，宽5-7毫米，圆头，并有细而密的尖刺状锯齿，基部略不对称，上侧常凸起与羽轴并行，下侧阔楔形，略下延，基部的小羽片彼此分离，以阔的间隔分开，中部以上的彼此接近，基部以狭翅与羽轴相连，边缘浅裂，裂片先端有尖刺状的锯齿。叶脉上面可见，下面不显，在小羽片上为羽状，侧脉6对左右，小脉单一或分叉。叶干薄草质，淡绿色或暗绿色，光滑；叶轴和羽轴下面禾秆色，被灰白色短毛。孢子囊群长圆形、弯钩形或马蹄形，生于基部上侧小脉上、在主脉两侧各排成1行（但在基部上侧裂片上常有2-4枚）；囊群盖大，同形，灰白色，膜质，边缘有睫毛，宿存。孢子周壁有褶皱，表面成大网状。染色体数目n=40。
+
+分布于四川（木里、禹城）、云南中部和西北部（昆明、嵩明、安宁、禄劝、澄江、大姚、永仁、武定、元谋、大理、漾濞、洱源、鹤庆、丽江、兰坪、巧家）以及西藏东南部（察隅、吉隆、南迦巴瓦）。生林下或林缘，海拔2000-3000米。缅甸、不丹、锡金、尼泊尔、印度、巴基斯坦也有分布。模式标本采自云南（大理苍山）。
+
+本种和非洲产的Athyrium schimperi Moug. ex Fee, Gen. Fil. 187. 1850-52.十分相似，后者的模式标本采自埃塞俄比亚，二者之间是否亚种关系，还有待进一步研究。

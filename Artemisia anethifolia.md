@@ -1,0 +1,17 @@
+碱蒿",
+20.**Artemisia anethifolia** Weber ex Stechmann Artemis. 29. 1775.",
+
+## Description
+Herbs, annual or biennial, 20-55 cm tall, stems sometimes very slender; all parts pubescent, often glabrescent. Basal leaves elliptic or ovate-elliptic in outline, 3-4.5 × 1.5-2.5(-3) cm, 2- or 3-pinnatisect; segments 3 or 4 pairs, distal lateral lobes lobulate; lobules filiform, 6-12 × 0.5-1.5 mm. Uppermost leaves and leaflike bracts 3-5-lobed or entire. Synflorescence a broad panicle with flowering shoots from most upper nodes. Capitula closely to widely spaced, pedunculate, often bracteolate. Involucre hemispheric or broadly ovoid, wider than long, 2-3(-4) mm in diam.; phyllaries ± densely puberulent, sometimes ± glabrescent; receptacle convex, white pubescent. Marginal female florets 3-6. Disk florets 18-28, bisexual; corolla limb yellow or red. Achenes ellipsoid or obovoid. Fl. and fr. Aug-Oct.
+  "Reference": "This species is used as herbage for feeding livestock.This species is used as herbage for feeding livestock.
+  "Statistics": "Slopes, dry canyons, saline soils, saline steppes, wastelands, stable dunes, *Hippophae* thickets; 800-2500 m. Gansu, Hebei, W Heilongjiang, Nei Mongol, Ningxia, Qinghai, Shaanxi, N Shanxi, Xinjiang [Mongolia, Russia].
+  "Synonym": "*Absinthium divaricatum* Fischer ex Besser; *Artemisia **anethifolia* var. *erectiflora* Candolle; *A. anethifolia* f. *gracilis* Pampanini; *A. anethifolia* var. *multicaulis* (Ledebour) Candolle; *A. anethifolia* f. *shansiensis* Pampanini; *A. anethifolia* var. *stelleriana* Candolle; *A. multicaulis* Ledebour.
+**20.碱蒿（中国高等植物图鉴）盐蒿（陕西），大莳萝蒿（内蒙古、甘肃），糜糜蒿（内蒙古），臭蒿（宁夏），伪茵陈（山西），“博知莫格”、“霍宁-沙里尔日”（蒙语名）**
+
+Artemisia anethifolia Web. ex Stechm 29. 1775; Willd. Sp. Pl. 3: 1828. 1800; Bess. in Bull. Soc. Nat. Mosc. 9: 30. 1836; DC. Prodr. 6: 126. 1837, incl. var. stelleriana DC. var. erectiflora DC. et var. multicaulis DC.; Ledeb. Fl. Ross. 2(2): 600. 1844-1846; Maxim. in Bull. Acad. Sci. Petersb. 8: 537. 1872; Komar. Fl. Mansh. 3: 678. 1907; Pamp. in Nuov. Giorn. Bot. Ital. n. s. 34: 636. 1927, 36: 377. 1929 et Act. Hort. Go thob. 6: 73. 1930, incl. var. cum f. gracilis Pamp. et f. shansiensis Pamp.; Ling in Contr. Inst. Bot. Nat. Acad. Peip. 2(10): 504. 1934; Kitag. Lineam. Fl. Mansh. 422. 1939; Kitam. in Trans. Sapp. Nat. Hist. Soc. 16: 57. 1940; 东北植物检索表394,图版136,图4. 1959; Poljak. Фл. СССР 26: 522. 1961; S. Y. Hu in Quart. Journ. Taiwan Mus. 18(1一2): 121. 1965; Noda, Fl. N. -E. Prov. (Manch.) China 1208. 1971; 中国高等植物图鉴4: 522. 1975. ——A. multicaulis Ledeb. Fl. Alt. 4: 60. Tab. 458. 1833; Kryl. Fl. Sibir. Occ. 11: 2821. 1949. ——Absinthium divaricatum Fisch. ex Bess. l. c. 1 (8): 263. 1829.
+
+一、二年生草本；植株有浓烈的香气。主根单一，垂直，狭纺锤形。茎单生，稀少数，高20-50厘米，直立或斜上，具纵棱，下部半木质化，分枝多而长；茎、枝初时有短绒毛，后渐脱落无毛，叶初时被短柔毛，后渐稀疏，近无毛。基生叶椭圆形或长卵形，长3-4.5厘米，宽1.5-2.5（-3）厘米，二至三回羽状全裂，每侧有裂片3-4枚，每裂片再次羽状全裂，小裂片狭线形，长(3-)4-8毫米，宽1-2毫米，先端钝尖，叶柄长2-4厘米，开花时渐萎谢；中部叶卵形、宽卵形或椭圆状卵形，长2.5-3厘米，宽1-2厘米，一至二回羽状全裂，每侧有裂片3-4枚，侧边中部裂片常再次羽状全裂，裂片或小裂片狭线形，开展，长0.6-1.2厘米，宽0.5-1.5毫米；上部叶与苞片叶无柄，5或3全裂或不分裂，裂片或不分裂之苞片叶狭线形。头状花序半球形或宽卵形，直径2-3（-4）毫米，具短梗，下垂或斜生，基部有小苞叶，在分枝上排成穗状花序式的总状花序，并在茎上组成疏散、开展的圆锥花序；总苞片3-4层，外层、中层总苞片椭圆形或披针形，背面微有白色短柔毛或近无毛，有绿色中肋，边缘膜质，内层总苞片卵形，近膜质，背面无毛；花序托凸起，半球形，具白色托毛；雌花3-6朵，花冠狭管状，花柱伸出花冠外，上端分叉长，叉端稍钝；两性花18-28朵，花冠管状，檐部黄色或红色，花药线形，先端附属物尖，长三角形，花药基部有小尖头或稍钝，花柱与花冠近等长，先端2叉，叉端截形，叉口与叉端有睫毛。瘦果椭圆形或倒卵形，顶端偶有不对称的冠状附属物。花果期8-10月。
+
+产黑龙江（西部）、内蒙古、河北、山西（北部）、陕西、宁夏、甘肃、青海及新疆等省区；常生于海拔800-2 300米附近的干山坡、干河谷、碱性滩地、盐渍化草原附近、荒地及固定沙丘附近，在低湿、盐渍化地常成区域性植物群落的主要伴生种。蒙古及苏联（西伯利亚）也有分布。模式标本采自苏联贝加尔湖附近。
+
+民间采基生叶作中药“茵陈”代用品。牧区作牲畜饲料。

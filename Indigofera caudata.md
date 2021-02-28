@@ -1,0 +1,13 @@
+尾叶木蓝",
+36.**Indigofera caudata** Dunn Gard. Chron., ser. 3,. 32: 210. 1902.",
+
+## Description
+Shrubs, to 2.5 m tall. Stems brown, terete, with sparse spreading medifixed symmetrically 2-branched trichomes; young branches grayish brown, angular, with dense spreading brown subbasifixed very asymmetrically 2-branched trichomes. Stipules linear, ca. 7 mm, persistent or caducous, with spreading brown crooked basifixed trichomes. Leaves 12-18 cm, 5-11-foliolate; petiole and rachis with dense spreading brown sub-medifixed trichomes; petiole 2-3 cm; rachis trigonous, adax-ially flattened or grooved; stipels subulate, ca. 2 mm, hairy; petiolules 2-3 mm; leaflet blades opposite, ovate, elliptic, or ovate-lanceolate, 2.7-8 × 1.7-3.2 cm, papery, abaxially with appressed brown medifixed trichomes, adaxially glabrous, mid-vein abaxially obviously prominent and adaxially impressed, secondary veins 6-9 on each side of midvein, base rounded to cuneate, apex acute to acuminate and mucronate. Racemes 12-20 cm; peduncle 1.5-2 cm, with spreading brown asymmetri-cally crooked trichomes; bracts bristlelike, 4-6 mm, abaxially with brown trichomes. Pedicel ca. 1 mm but to 2 mm and deflexed in fruit. Calyx campanulate, 2-3 mm, with appressed medifixed trichomes; tube 1.5(-2) mm; teeth triangular, 0.5-1 mm. Corolla white; standard broadly ovate, 7-8 × ca. 5 mm, outside with appressed brown trichomes, base truncate, apex obtuse; wings as long as standard; keel 7-8 mm, outside hairy, spurred. Stamens 6-8 mm; anthers ovoid, glabrous. Ovary hairy or glabrous. Legume brown, cylindric, 5-6.5 cm, with dense appressed brown medifixed trichomes, sutures thickened; endo-carp blotched. Seeds 11 or 12 per legume. Fl. Aug-Oct, fr. Oct-Dec.
+  "Statistics": "Mountain slopes, valleys, trailsides, scrub, woodlands; 600-2000 m. Guangxi, S Guizhou, S Yunnan [N Laos].
+**12.尾叶木蓝（中国主要植物图说·豆科）图版77：1-5**
+
+Indigofera caudata dunn in Gard. Chron. 2: 210. 1902; de Kort et Thijsse in Blumea 30: 143. 1984.
+
+灌木，高约2.5米。茎直立，褐色，圆柱形，疏被卷曲毛，幼枝具棱，灰褐色，密被棕褐色长柔毛或卷曲毛。羽状复叶通常长12-18厘米，最长达30厘米；叶柄长2-3厘米，叶轴三棱状，上面扁平或有浅槽，与叶柄均密被棕褐色近平贴或半开展丁字毛；托叶线形，长达7毫米，被棕褐色毛，毛常反曲，宿存或脱落；小叶2-5对，对生，卵形、椭圆形或卵状披针形，长2.7-8厘米，宽1.7-3.2厘米，先端急尖或渐尖，具小尖头，基部圆形或楔形，上面绿色，无毛，下面粉绿色，被白色并间生有棕褐色丁字毛，脉上毛较多，中脉上面微凹，下面明显隆起，侧脉6-9对，下面较上面明显；小叶柄长2-3毫米；小托叶钻形，长约2毫米，与小叶柄均被毛。总状花序长12-20厘米；总花梗长1.5-2厘米，与花序轴均被褐色卷曲毛；苞片刚毛状，长4-6毫米，被棕褐色毛；花梗长约1毫米；花萼钟状，长约2毫米，外被绢丝状平贴毛，萼筒长约1.5毫米，萼齿三角状，长约0.5毫米，花冠白色，旗瓣阔卵形，长7-8毫米，宽约5毫米，先端圆钝，基部截平，外面被绢丝状棕褐色平贴毛，翼瓣与旗瓣近等长，龙骨瓣长约8毫米，外面被毛，有距；花药卵形，先端有小凸尖头，药隔两端无毛；子房被毛或近无毛。荚果褐色，线状圆柱形，长5-6.5厘米，背腹缝线均加厚，顶端圆钝，微向上弯曲，密被棕色平贴毛，内果皮具紫红色斑点，有种子11-12粒；果梗长约2毫米。下弯。花期8-10月，果期10-12月。
+
+产广西（隆林）、云南（西南部及东南部）。生于山坡、山谷、路旁、林缘的灌丛及杂木林中，海拔600-2000米。老挝也有。模式标本采自云南思茅。

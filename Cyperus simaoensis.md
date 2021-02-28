@@ -1,0 +1,6 @@
+思茅莎草",
+28.**Cyperus simaoensis** Y. Y. Qian Bull. Bot. Res., Harbin. 21: 335. 2001.",
+
+## Description
+Perennials. Roots many, fibrous. Rhizomes short. Culms tufted, 0.7-1.3 m tall, stout, obtusely 3-angled, smooth, with 3-5 leaves, basally enclosed by leaf sheaths. Leaves shorter than culm; sheath reddish brown but base dark brown, 10-35 cm; leaf blade 0.8-1.2 cm wide, basally folded, apically flat. Involucral bracts 8-15, leaflike, mostly to 1.3 m, usually longer than inflorescence. Inflorescence a compound anthela; rays 12-15, mostly to 25 cm, unequal in length, usually 8-12 each with 2-11 raylets; raylets radially spreading. Spikes cylindric, 1.5-11 × 0.7-1.3 cm, usually not pedunculate but rarely pedunculate. Spikelets numerous, in 3-5 rows, densely arranged, narrowly oblong-ovoid, 4-8 × 1-1.5 mm, obliquely spreading, 4-10-flowered; rachilla wings white, narrow, hyaline, persistent. Glumes brownish yellow on both surfaces, densely imbricate, oblong-obovate, 2.2-2.5 mm, slightly shiny, obscurely 3-5-veined, midvein forming a greenish keel, apex straight and mucronate. Stamens 3; anthers oblong. Style long; stigmas 3. Nutlet narrowly ellipsoid to sometimes subobovoid, 1.2-1.3 mm, 3-sided, smooth. Fl. and fr. Sep.
+  "Statistics": "● River margins; ca. 1200 m. S Yunnan (Simao Diqu).

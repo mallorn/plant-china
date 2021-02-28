@@ -1,0 +1,13 @@
+黄花木蓝",
+41.**Indigofera dumetorum** Craib Notes Roy. Bot. Gard. Edin-burgh. 9: 109. 1916.",
+
+## Description
+Shrubs, to 2.5 m tall. Stems rufous brown or gray, terete, with obvious lenticels; young branches striate, with spreading brown medifixed subsymmetrically crooked 2-branched tri-chomes. Stipules narrowly lanceolate, 5-8 mm, caducous. Leaves ca. 13 cm, 5-9-foliolate; petiole and rachis terete, adax-ially slightly flattened, with dense spreading white crooked medifixed trichomes; petiole ca. 2 cm; stipels not visible; petio-lules ca. 2 mm; leaflet blades opposite or subopposite, oblong, elliptic, or ovate, 2-5 × 1.5-2.5 cm, thickly papery, abaxially with dense spreading white medifixed crooked trichomes, adax-ially with appressed white medifixed trichomes, midvein abaxi-ally prominent and adaxially slightly impressed, secondary veins 8-10 on each side of midvein, base broadly cuneate to rounded, apex obtuse to acute. Racemes ca. 15 cm; peduncle and rachis with dense spreading white medifixed trichomes and crooked trichomes; peduncle 2-3 cm; rachis striate; bracts caducous. Pedicel 2-4 mm, hairy. Calyx campanulate, 4.5-5 mm, with dense spreading brown submedifixed crooked tri-chomes; tube ca. 2.5 mm; teeth triangular, unequal, most abax-ial one as long as tube. Corolla yellowish; standard ovate-ob-long, 1.2-1.7 × 0.6-0.7 cm, outside with appressed white tri-chomes, base not clawed, apex emarginate; wings 10-12 × ca. 2.5 mm, outside glabrous, margin ciliate; keel as long as stan-dard, outside with appressed brown trichomes on top part, clawed at base, spur ca. 0.5 mm. Stamens 1.3-1.6 cm; anthers ovoid-ellipsoid, glabrous. Ovary with 12-15 ovules. Legume slightly compressed, ca. 7 cm, with spreading brown or gray submedifixed trichomes, apex hooked. Fl. Jun, fr. Aug-Sep.
+  "Statistics": "● Dry woodlands; 2100-2700 m. SW Sichuan, NW Yunnan.
+**13.黄花木蓝（中国主要植物图说·豆科）**
+
+Indigofera dumetorum Craib in Not. Bot. Gard. Edinb. 9: 109. 1916; 中国主要植物图说·豆科231. 1955.
+
+灌木，高约2.5米。幼枝具棱，被黄褐色卷曲柔毛，老枝红褐色或灰色，圆柱形，常曲折，近无毛，皮孔明显。羽状复叶长达13厘米，叶柄长达2厘米，叶轴圆柱形，上面微扁平，与叶柄均密生白色长柔毛；托叶线状披针形，长5-8毫米，早落；小叶2-4对，对生或近对生，长圆状椭圆形、椭圆形或卵形，长2-5厘米，宽1.5-2.5厘米，顶生小叶常倒卵形、阔椭圆形，稀阔卵形，长4.5-5厘米，宽3-5厘米，先端圆钝或急尖，基部阔楔形至圆形，上面绿色，有白色短丁字毛，下面淡绿色，密生白色卷曲绒毛，边缘间生有棕褐色毛，中脉上面微凹，下面隆起，侧脉8-10对，下面明显；小叶柄长约2毫米；小托叶不明显。总状花序长达15厘米；总花梗长2-3厘米，花序轴具棱，与总花梗均生白色卷曲丁字毛；苞片早落；花梗长2-3毫米，被毛；花萼钟状，长4.5-5毫米，密生黄褐色柔毛，萼筒长约2.5毫米，萼齿三角形，先端钻形，不等长，最下萼齿与萼筒等长；花冠淡黄色，旗瓣倒卵状长圆形，长12-15毫米，宽6-7毫米，先端微凹，基部无瓣柄，外面有白色柔毛，翼瓣长10-12毫米，宽约2.5毫米，仅边缘具毛，龙骨瓣与旗瓣近相等，先端被棕褐色毛，基部具瓣柄，距长0.5毫米；花药卵状椭圆形，顶端具小突尖头，药隔两端无毛；子房有胚珠12-15粒。荚果稍扁平，长约7厘米，顶端弯钩状，有黄褐色或灰色半开展丁字毛。花期6月，果期8-9月。
+
+产四川（木里）、云南（丽江）。生于干燥灌木丛中，海拔2100-2700米。模式标本采自云南丽江东山及奉可。

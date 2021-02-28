@@ -1,0 +1,14 @@
+蒙古马兰",
+17.**Aster mongolicus** Franchet Nouv. Arch. Mus. Hist. Nat., sér. 2. 6: 41. 1883.",
+
+## Description
+Herbs, perennial, 50-122 cm tall. Stems erect, sulcate upward, strigose, branched in upper part. Leaves submembranous; lowermost cauline leaves withered by anthesis; lower and middle leaves: blade oblanceolate to narrowly oblong, 5-9 × 2-4 cm, sparsely hispidulous or glabrate, margin pinnatifid, densely hispidulous; lobes linear-oblong, margin entire, apex obtuse; uppermost leaves linear-lanceolate, 1-2 cm. Capitula 12-45 in corymbiform synflorescences, 2.5-3.5 cm in diam. Involucre hemispheric, 1-1.5 cm in diam.; phyllaries 3- or 4-seriate, unequal, apically green, elliptic to obovate, 5-7 × 3-4 mm, glabrous, margin scarious, white or purplish, lacerate, apex obtuse. Ray florets (11-)14-25, bluish purple, bluish, or white, tube ca. 2 mm, lamina 13.5-25.5 × 2.7-4.8(-5.2) mm; disk florets yellow, 3.5-4.9 mm, tube 0.8-1.6(-1.8) mm, lobes unequal, 0.8-2.1 mm. Achenes straw-colored or brownish, obovoid, compressed or sometimes trigonous, ca. 3.5 × 2.5 mm, sparsely strigillose, rarely apically glandular, yellowish 2- or 3-ribbed. Pappus brownish, unequal, 0.3-1.2 mm. Fl. and fr. Jun-Oct.
+  "Statistics": "Mountain slopes, thickets, semi-open secondary forests, margins of coniferous forests, mixed broad-leaved forests, field margins; sea level to 1300 m. Hebei, Heilongjiang, Jilin, Liaoning, Nei Mongol [Korea, E Russia].
+  "Synonym": "*Aster associatus* Kitagawa; *A. associatus* var. *stenolobus* Kitagawa; *A. lautureanus* (Debeaux) Franchet var. *holophyllus* (Maximowicz) F. H. Chen; *A. lautureanus* var. *mongolicus* (Franchet) Kitagawa; *Asteromoea mongolica* (Franchet) Kitamura; *Kalimeris associata* (Kitagawa) Kitagawa; *K. incisa* (Fischer) Candolle var. *holophylla* Maximowicz; *K. mongolica* (Franchet) Kitamura.
+**6. 蒙古马兰 图版32: 7-13**
+
+Kalimeris mongolica (Franch.) Kitam. in Act. Phytotax. Geobot. 6: 21. 1937; S. Y. Hu in Quart. Journ. Taiwan Mus. 20: 12. 1967. ——Aster mongolicus Franch., Pl. David. 1: 161. t. 13. 1884; Forbes et Hemsl., in Journ. Linn. Soc. 23: 414. 1888.——Aster lautureanus Franch. var. mongolicus (Franch.) Kitag. in Tokyo Bot. Mag. 48: 110. 1934. et Ind. Fl. Jehol. 53. 1936. et Lineam. Fl. Manch. 438. 1938. ——Asteromoea mongolica (Franch.) Kitam., Comp. nov. Jap. 21: 1931; Hand. -Mazz. in Act. Hort. Gothob. 12: 223. 1938; 东北植物检索表374. 1959; S. Y. Hu, l. c. 18: 307. 1965.
+
+多年生草本。茎直立，高60-100厘米，有沟纹，被向上的糙伏毛，上部分枝。叶纸质或近膜质，最下部叶花期枯萎，中部及下部叶倒披针形或狭矩圆形，长5-9厘米，宽2-4厘米，羽状中裂，两面疏生短硬毛或近无毛，边缘具较密的短硬毛；裂片条状矩圆形，顶端钝，全缘；上部分枝上的叶条状披针形，长1-2厘米。头状花序单生于长短不等的分枝顶端，直径2.5-3.5厘米。总苞半球形，径1-1.5厘米；总苞片3层，覆瓦状排列，无毛，椭圆形至倒卵形，长5-7毫米，宽3-4毫米，顶端钝，有白色或带紫色红色的膜质繸缘，背面上部绿色。舌状花淡蓝紫色、淡蓝色或白色，管部长2毫米；舌片长2.2厘米，宽3.5毫米。管状花黄色，长约5毫米，管部长1.5毫米。瘦果倒卵形，长约3.5毫米，宽约2.5毫米，黄褐色，有黄绿色边肋，扁或有时有三肋而果呈三棱形，边缘及表面疏生细短毛。冠毛淡红色，不等长，舌状花瘦果冠毛长约0.5毫米，管状花瘦果的冠毛长1-1.5毫米。花果期7-9月。
+
+产于吉林、辽宁、内蒙古、河北、山东（泰山）、河南（卢氏、西峡）、山西、陕西、宁夏（固原）、甘肃东部及四川西北部（康定、汉源）。生于山坡，灌丛，田边。模式标本采自河北。

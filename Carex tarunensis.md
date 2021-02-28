@@ -1,0 +1,6 @@
+长麟薹草",
+38.**Carex tarunensis** Franchet Bull. Soc. Philom. Paris, sér. 8. 7: 87. 1895.",
+
+## Description
+Rhizome long creeping. Culms erect, 20-60 cm tall, acutely trigonous, scabrous below inflorescence, clothed at base with purple bladeless sheaths often disintegrating into reticulate fibers. Leaves nearly equaling culm, blades linear, 2-3 mm wide, flat, margins revolute. Lowest involucral bract setaceous or leafy, upper ones glumelike. Spikes 3 or 4, approximate; terminal spike with female flowers in middle and male flowers at apex and base; lateral spikes female, ovate-oblong, 1-1.5 cm, subsessile. Female glumes purple-brown, green at middle, narrowly ovate-lanceolate, 4-4.5 mm (including awn), margins white hyaline, 1-veined costa forming short awn at apex, apex acuminate. Utricles light gray-green, shorter than glume, elliptic, compressed trigonous, 2.5-3.5 mm, subleathery, densely papillose, many veined, base contracted into a short stipe, apex abruptly narrowed into a very short beak, orifice 2-toothed. Nutlets loosely enveloped, subobovate, trigonous, ca. 1.8 mm; stigmas 3. Fl. and fr. Mar.
+  "Statistics": "Meadows, wet places in forests; 1400-1500 m. S Jilin (Changbai Shan) [Japan].

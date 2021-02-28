@@ -1,0 +1,8 @@
+拟栗鳞耳蕨",
+80.**Polystichum pseudocastaneum** Ching & S. K. Wu Fl. Xizang. 1: 222. 1983.",
+
+## Description
+Plants summer-green. Rhizome erect, covered with broadly lanceolate dark brown scales. Fronds 25-45 cm; stipe stramineous, 6-12 cm, 3-4 mm in diam. at base, lower part persistent, densely scaly; scales light brown, lanceolate and linear, sometimes gradually sparser toward lamina apex, and mixed with ovate scales, middle of scales dark brown. Lamina bipinnatifid, oblanceolate, 22-40 × 2.5-5.2 cm, gradually contracted at base, acuminate; rachis without proliferous bulbils, both surfaces covered with scales; scales light brown, linear and hairlike, abaxially mixed with lanceolate purplish brown scales. Pinnae 26-30 pairs, alternate, attached at right angles to rachis, nearly approximate, sessile, narrowly deltoid-ovate or deltoid-ovate, middle pairs 1.4-3.5 cm × 6-10 mm, bases slightly auriculate acroscopically and basiscopically, pinnatipartite to or nearly to pinna rachis, apices acuminate or obtuse, aristate. Lobes 4-6 pairs, nearly opposite, slightly ascendant, nearly approximate, oblong, apices acute or obtuse and aristate, margins with small teeth, tips of teeth aristate; microscales on abaxial surface light brown, linear and filiform; microscales on adaxial surface light brown, hairlike; frond texture papery; venation pinnate on lobes, distinct abaxially, indistinct adaxially. Sori on upper pinnae, 1-4 per lobe, sometimes in 1 row on each side of pinna rachis; indusia present, subentire.
+
+> ● *Abies* and *Betula* forests; 3500-3800 m. S Xizang (Gyirong, Nyalam).
+  "Synonym": "*Polystichum brunneum* Ching &amp; S. K. Wu.

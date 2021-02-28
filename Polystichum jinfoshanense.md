@@ -1,0 +1,16 @@
+金佛山耳蕨",
+181.**Polystichum jinfoshanense** Ching & Z. Y. Liu Bull. Bot. Res., Harbin. 3(4): 29. 1983.",
+
+> *Polystichum jinfoshanense* is often hard to identify. It is similar to *P. liui* but has fewer and larger pinnae, shorter laminae, and no spinules on the pinna margin except for the pinna tip.
+
+## Description
+Plants evergreen, small. Rhizome ascending or erect, short, 4-8 mm in diam. including stipe bases, rhizome apex and basal stipe scaly; scales brown, broadly lanceolate, membranous, sparsely toothed. Fronds 4-12 cm; stipe stramineous or pale greenish stramineous, 0.5-4 cm, less than 0.5 mm in diam., distal stipe scales similar to basal stipe scales in shape and color but smaller. Lamina light green when dry, adaxially darker, narrowly elliptic-lanceolate, 2.5-10 × 1-2 cm at middle, gradually slightly contracted below middle, 7-15 mm wide at base, 1-pinnate, apex obtuse or nearly acute, rarely shortly acuminate, often pinnatilobate to pinnatifid. Pinnae 5-22 pairs, alternate or nearly opposite, often approximate or imbricate, sometimes slightly remote, lower pairs very shortly stalked, upper pairs sessile, attached at right angles to rachis or slightly angled basiscopically, oblong, middle pinnae 4-11 × 2.5-7 mm, apices rounded-truncate or truncate, mucronate or shortly spinulose, bases asymmetrical, above midrib wider, bases without distinct auricles, margins with fewer than 10 coarse teeth; teeth irregular, acute or shortly spinulose apically, or shallowly lobed; basal basiscopic margins narrowly cuneate, margins entire, straight or slightly angled inward and curved, distal basiscopic margins nearly truncate and with 1-3 coarse teeth similar to those on acroscopic margins; adaxially glabrous, abaxially sparsely covered with light brown lanceolate and shortly linear microscales; frond texture papery; venation pinnate, slightly distinct on both surfaces, midrib slender, slightly zigzag, lateral veins dichotomous or simple, acroscopic base sometimes trifurcate, nearly reaching pinna margin. Sori terminal on shorter veinlets, close to pinna margin, 1-4 above midrib, 1 or 2 or sterile on upper part of pinnae below midrib; indusia present, dark brown, repand. Spores semicircular in equatorial view, orbicular or nearly orbicular in polar view; perispore sculpturing plicate.
+
+> ● Shaded limestone crevices in montane broad-leaved evergreen forests; 800-2000 m. Chongqing (Jinfo Shan), Guizhou (Zhenning), Sichuan (Emei Shan, Pengzhou), NE Yunnan (Yiliang, Zhenxiong).
+**122.金佛山耳蕨（植物研究）**
+
+Polystichum jinfoshanense Ching et Z. Y. Liu in Bull. Bot. Res. 3 (4): 29. 1983; Johns, Ind. Fil. Suppl. 6: 278. 1996.
+
+小型石生植物，植株高4-12厘米。根状茎短而斜升或直立，连同叶柄基部直径4-8毫米，顶端及叶柄基部密被棕色、阔披针形、边缘有疏齿的膜质鳞片。叶簇生；叶柄禾秆色或浅绿禾秆色，长0.5-4厘米，直径不足0.5毫米，上面有沟槽，基部以上至与叶柄同色的叶轴疏被与基部形态相同而较小的鳞片；叶片长椭圆披针形，长2.5-10厘米，中部宽1-2厘米，顶端钝或近急尖，少见短渐尖，通常羽状浅裂至半裂，中部以下渐略缩狭，基部宽7-15毫米，一回羽状；羽片5-22对，互生或近对生，通常接近或覆瓦状密接，有时有狭间距，下部的略有短柄，上部的无柄，平展或略向下反折斜展，矩圆形，中部的长4-11毫米，宽2.5-7毫米，顶端圆截形或截形，有短尖头或短刺齿，两侧不对称，主脉上侧较宽，基部无明显的耳状凸起，边缘有10个以下不整齐而顶端急尖或有短刺头的牙状或浅裂片状粗齿，下侧的下部狭楔形，全缘，通直或呈略向内弯的弧形，上部近截形，边缘有1-3个与上侧相似的粗齿；叶脉羽状，两面略可见，主脉细，略左右折曲，侧脉二叉状或单一，上侧基部的有时3叉状，几达羽片边缘。叶薄纸质，干后浅绿色，上面色较深；羽片上面光滑，下面疏被浅棕色的披针形细小鳞片及短线形节毛。孢子囊群生于较短的小脉顶端，接近羽片边缘，在主脉上侧有1-4个，下侧在顶部有1-2个或不育；圆盾形的囊群盖深棕色，边缘波状。孢子赤道面观半圆形，极面观圆形或近圆形，周壁具不规则弯曲并常联结的脊条状褶皱，脊条上有细刺状及细条状突起。
+
+产四川（峨眉山、金佛山）、贵州（镇宁）及云南东北部（镇雄、彝良）。生海拔850-1950米的山地常绿阔叶林地带阴处石灰岩隙。模式标本采自金佛山。

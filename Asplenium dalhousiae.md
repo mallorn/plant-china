@@ -1,0 +1,17 @@
+苍山蕨",
+18.**Asplenium dalhousiae** Hooker Icon. Pl. 2: t. 105. 1837.",
+
+> *Asplenium dalhousiae* is a relatively common W Himalayan fern expected to occur in Xizang as it has been reported for Nepal (Roy et al., Brit. Fern Gaz. 10: 194. 1971); it is recorded provisionally in the Flora. This and the following three taxa (*A. paucivenosum*, *A. magnificum*, *A. qiujiangense*) were often included in the genus *Ceterachopsis* (J. Smith) Ching (Bull. Fan Mem. Inst. Biol., Bot. 10: 8. 1940; 苍山蕨 属 cang shan jue shu) on the basis of their peculiar frond morphology. The group consists of four or five species, mainly from the subtropical mountains of SW China, and one (*A. dalhousiae*) more widely distributed taxon. Recent studies have confirmed that this clade does not merit generic rank.
+
+## Description
+Plants 13-15(-25) cm tall. Rhizome erect, short; scales brown to dark brown, narrowly triangular to lanceolate, margin with short teeth. Fronds caespitose; stipe short, less than 2 cm; lamina narrowly elliptical-obovate, 4-15 × 1.8-5 cm, gradually narrowed at base, pinnatipartite, apex acute to obtuse; segments 10-14 pairs, alternate, ovate to narrowly ovate, 8-12 × 5-8 mm, margin entire and hyaline, apex obtuse. Veins obscure, nothocatadromous (anadromous base pattern but several middle pinnae with their basal vein pair catadromous), lateral veins 6-8 pairs, often forking near margin. Fronds firmly papery, brownish yellow to dark brownish green when dry, glabrous, average guard cell length 45-54 µm. Sori 5-7 pairs per segment, 3-5 mm, oblique, on acroscopic secondary veinlets; indusia pale brown, linear, membranous, mostly opening toward costa. Spores pale brown, average exospore length 26-30 µm, outer perispore folded (lophate) and with small pores. Plants sexual diploid: 2*n* = 72.
+
+> On rocks; 1000-3000 m. ?Xizang [Afghanistan, India, Kashmir, Nepal, Pakistan; isolated populations in Africa, North America (Mexico, United States)].
+  "Synonym": "*Asplenium alternans* Wallich ex Hooker; *Ceterach alternans* Kuhn; *C. dalhousiae* (Hooker) C. Christensen; *Ceterachopsis dalhousiae* (Hooker) Ching.
+**1. 苍山蕨 图版26: 5-8**
+
+Ceterachopsis dalhousiae (Hook.) Ching in Bull. Fan Mem. Inst. Biol. Bot. Ser. 10: 9. 1940; Pichi-Sermolli, Ind. Fil. Suppl. 4: 48. 1965; Ching et S. H. Wu in Acta Phytotax. Sinica 22 (5): 410, pl. 1, f. 1. 1984.——Asplenium dalhousiae Hook. Ic. Pl. t. 105. 1837. ——Ceterach dalhousiae C. Chr. Ind. Fil. 170. 1905. ——Asplenium alternans Wall. List n. 221. 1828, nom. nud.; Moore, Ind. Fil. 112. 1857; Mett. Farngat. Aspl. 147. 1859; Hook. Sp. Fil. 3: 92. 1860; Hook. et Bak. Syn. Fil. 194. 1867; Clarke in Trans. Linn. Soc. 2. Bot. 1: 476. 1880; Christ, Farnkr. d. Erde 190. 1897; Bedd. Ferns Birt. Ind. pl. 59. 1865; Handb. Ferns Brit. Ind. 142, f. 72. 1883. ——Ceterach alternans Kuhn, v. Deck. Reis. 33. Bot. 36. 1879; Diels in Engl. u. Prantl, Nat. Pflanzenfam. 1 (4): 244. 1900.
+
+植株通常高13-15厘米，可达25厘米。根状茎短而直立，先端密被鳞片，叶柄连同叶轴下面疏被同样而略较小的鳞片；鳞片钻状披针形，或为卵状披针形而具长钻头，长3-4毫米，宽不超过1毫米，深棕色，膜质，边缘具睫毛。叶多数簇生；叶柄短，长不超过2厘米，两侧有狭翅；叶片狭倒披针形，通常长8-12厘米，中部以上宽1.8-2.5厘米，急尖头，向基部变狭，羽状深裂几达叶轴；裂片10-14对，互生，近平展，三角状椭圆形或近椭圆形，钝头，中部的长8-12毫米，基部宽5-8毫米，全缘，有干后呈微波状起伏的灰白色透明狭边，缺刻为V字形或U字形，宽3-5毫米。叶脉不可见，侧脉6-7对，二回二叉，基部上侧一脉为多回二叉。叶坚纸质，干后浅褐黄色或暗褐绿色，两面光滑无毛。孢子囊群粗线形，长约3毫米，斜上，几达叶边，生于每组侧脉上侧一条小脉的上侧边，每裂片5-7对；囊群盖同形，薄膜质，棕色或浅褐棕色，干后皱缩，开向主脉，但上部裂片的基部上侧一枚常背向主脉并与叶轴平行。
+
+产克什米尔、尼泊尔、锡金、印度南部及非洲东部（埃塞俄比亚）。生岩石上，在喜马拉雅西北部海拔1 000-3 000米处甚为普遍。笔者估计这个种会分布于我国西藏的喜马拉雅地区，故据喜马拉雅西北部的标本及文献载入本志，以供参考。模式标本产地：喜马拉雅西北部 (Kumaon)。

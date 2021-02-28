@@ -1,0 +1,15 @@
+棕毛含笑",
+8.**Michelia fulva** Hung T. Chang & B. L. Chen Acta Sci. Nat. Univ. Sunyatseni. 3: 87. 1987.",
+
+## Description
+Trees, 3-15 m tall, to 40 cm d.b.h. Bark grayish brown. Old twigs dark brown, 5-7 mm in diam., glabrous, lenticellate; young twigs yellowish brown tomentose; buds cylindric to narrowly ovoid, 2.5-3.5 cm, yellowish brown to golden yellow tomentose. Stipular scar ca. 1/4 as long as petiole. Petiole robust, 1.5-4.5 cm, adaxially furrowed, yellowish brown tomentose; leaf blade elliptic to ovate-elliptic, 13-24 × 4.5-12 cm, thickly leathery, abaxially glaucous, adaxially glabrous or appressed villous at first, and with trichomes but glabrescent, midvein abaxially evidently prominent and adaxially appressed, secondary veins 7-13 on each side of midvein, reticulate veins dense and prominent on both surfaces, base obtuse, apex acuminate to acute. Brachyblasts and bracts densely yellowish brown tomentose; brachyblasts robust, 1-2 cm; spathaceous bracts 3. Flowers 4-5 cm in diam. Tepals 9-12(-14), white or yellow, obovate to elliptic, subequal, fleshy; inner tepals smaller, 4.4-5.3 × 1-3 cm. Stamens numerous; filaments 4-8 mm; connective exserted and forming a mucro; anthers 1.5-2.9 cm. Gynophore 0.6-2.4 cm, pubescent; gynoecium terete, 2.4-4.8 cm; carpels ca. 152, narrowly ovoid, densely golden yellow pubescent; styles 1-2.5 mm. Mature carpels ovoid, sessile, ca. 1.5 × 1 cm, apex shortly beaked. Fl. Mar, fr. Nov.
+  "Reference": "*Michelia rufivillosa* D. X. Li &amp; S. C. Yang and *M. xanthostemina* D. X. Li &amp; Y. W. Law (in Y. H. Liu, Magnolias China, 312, 326. 2004) belong here but were not validly published because no Latin descriptions or diagnoses were provided and no types were indicated (*Vienna Code*, Art. 36.1 and 37.1).*Michelia rufivillosa* D. X. Li &amp; S. C. Yang and *M. xanthostemina* D. X. Li &amp; Y. W. Law (in Y. H. Liu, Magnolias China, 312, 326. 2004) belong here but were not validly published because no Latin descriptions or diagnoses were provided and no types were indicated (*Vienna Code*, Art. 36.1 and 37.1).
+  "Statistics": "● Limestone forests; 600-1700 m. S Guangxi, SE Yunnan.
+  "Synonym": "*Magnolia fulva* (Hung T. Chang &amp; B. L. Chen) Figlar; *M. fulva* var. *calcicola* (C. Y. Wu ex Y. H. Law &amp; Y. F. Wu) Sima &amp; Hong Yu; *M. glaucophylla* Sima &amp; Hong Yu; *M. ingrata* (B. L. Chen &amp; S. C. Yang) Figlar; *Michelia calcicola* C. Y. Wu ex Y. H. Law &amp; Y. F. Wu; *M. ingrata* B. L. Chen &amp; S. C. Yang.
+**23. 灰岩含笑（新拟） 图版47：8-11**
+
+Michelia calcicola C. Y. Wu in Acta Bot. Yunnan. 10: 339. 1988.
+
+小乔木，高3-8米。芽圆柱形或狭卵形，长2.5-3.5厘米，被黄褐色长绒毛，毛长达5毫米。嫩枝被淡黄色绒毛，老枝无毛，深褐色，径5-7毫米，有圆点状皮孔。叶革质，长圆形或卵状长圆形，长13-18厘米，宽4.5-7厘米，先端渐尖或急尖，基部宽楔形或近圆钝，嫩叶两面均被平伏长柔毛，老叶两面均无毛，下面灰白色；中脉在上面凹下，侧脉和网脉在两面均凸起，侧脉每边11-13条；叶柄长1.5-3厘米，嫩时被绒毛，老时无毛，托叶与叶柄离生，无托叶痕。花梗长约1厘米，密被淡黄色长绒毛；花黄色，径4-5厘米；花被片9片，长圆形或倒卵状长圆形，长4-4.5厘米，宽1-1.5厘米；雄蕊约60枚，长20-24毫米，花丝长4-5毫米，花药长1.5-17毫米，药隔伸出长0.8-1毫米的锐尖头。雌蕊群圆柱形，长约2厘米，近无毛；雌蕊群柄长约6毫米；心皮卵圆形，长3-4毫米，无毛，花柱褐色。聚合果圆柱形，长9-10厘米；蓇葖长圆体形，长1.5-1.7厘米，宽约1厘米，顶端具短喙。花期3月，果期11月。
+
+产于云南（广南、麻栗坡、西畴）、广西（龙州）。生于海拔590-1 500米的石山林中。模式标本采自广南。

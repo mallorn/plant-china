@@ -1,0 +1,15 @@
+镰羽双盖蕨",
+63.**Diplazium griffithii** T. Moore Index Fil. 330. 1861.",
+
+## Description
+Plants evergreen, medium-sized. Rhizome creeping, black-brown, up to ca. 1 cm in diam., apex densely scaly; scales black or black-brown, lanceolate or linear-lanceolate, thickly membranous, distal margin toothed; fronds approximate to caespitose. Fertile frond 0.5-1 m; stipe black-brown at base, upward stramineous or green-stramineous, 20-50 cm, 2-3 mm in diam., base with sparse scales similar to those on rhizome, upward glabrous, shallowly grooved adaxially; lamina 1-pinnate with pinnae pinnatifid to pinnatisect, or lower part 2-pinnate, deltoid, 20-50 × 20-30 cm at base, apex acuminate; pinnae 8-10 pairs, alternate, slightly ascending or spreading, sickle-shaped lanceolate, asymmetrical (wider on basiscopic side), up to 20 × 3-5 cm, stalked (stalk ca. 2 cm), base shallowly cordate or broadly cuneate, pinnatipartite or pinnate on basiscopic side, apex caudate or long acuminate; free pinnules of lower pinnae 1 or 2 pairs, pinna lobes up to ca. 15 pairs, subspreading, approximate or contiguous, sickle-shaped lanceolate or suboblong, margin serrate, occasionally pinnatilobate, apex shortly acuminate or rounded; veins visible abaxially, not prominent adaxially, pinnate; veinlets of lower pinnae usually 2-furcate, ascending. Lamina firmly herbaceous when dry, gray-green, glabrous on both surfaces; rachis green-stramineous, glabrous, shallowly grooved adaxially. Sori shortly linear, from costule or near costule to below lamina margin, up to 10 pairs per pinna lobe, mostly single or double on basal acroscopic veinlet, or occasionally forked; indusia brown when mature, membranous, entire, opening acroscopically, persistent. Spores bean-shaped, perispore hyaline, few rugate.
+
+> Evergreen broad-leaved forests; 1000-1900 m. W Guangxi (Baise), S Guizhou, S Hunan (Wugang), SE Yunnan (Jinping, Maguan, Yuanyang) [NE India, N Vietnam].
+  "Synonym": "*Allantodia griffithii* (T. Moore) Ching; *Athyrium griffithii* (T. Moore) Milde.
+**47. 镰羽短肠蕨（植物分类学报）图版96: 5-7**
+
+Allantodia griffithii (Moore) Ching Acta Phytotax. Sin. 9 (1): 52. 1964. ——Diplazium griffithii Moore, Ind. Fil. 330. 1861 non Bedd. 1869; C. Chr., Ind. Fil. 233. 1906; Tard. -Blot et C. Chr. in Lecomte, Fl. Indo-Chine 7 (2): 259. 1940.——Athyrium griffithii (Moore) Milde in Bot. Zeit. 354. 1870; Bedd., Ferns Brit. Ind. Suppl. 12. 1876. ——Diplazium veitchii sensu C. Chr. in Contr. U. S. Nat. Herb. 26: 302, t. 20. 1931, non Christ 1906.
+
+常绿中型林下植物。根状茎横卧，黑褐色，直径约达1厘米，先端密被鳞片；鳞片黑色或黑褐色，厚膜质，披针形至线状披针形，上部边缘有细齿；叶近生至簇生。能育叶长0.5-1米；叶柄约长20-50厘米，直径2-3毫米，基部黑褐色，疏被与根状茎上相同的鳞片，向上禾秆色或绿禾秆色，光滑，上面有浅纵沟；叶片三角形，长20-50厘米，基部宽20-30厘米，羽裂渐尖的顶部以下一回羽状一羽片羽状半裂至深裂，或下部二回羽状；侧生羽片8-10对，互生，稍斜向上或平展，镰状披针形，不对称（下侧裂片较长），长达20厘米，宽3-5厘米，柄长达2厘米，先端尾状长渐尖，基部浅心形或阔楔形，两侧羽状深裂或下部羽状；下部羽片的分离小羽片1片至2对，裂片约达15对，近平展，彼此接近或密接，镰状披针形或近长圆形，先端短渐尖或钝圆，边缘有锯齿，偶为浅羽裂；叶脉上面不明显，下面略可见，羽状；下部羽片的小脉通常2分叉，斜向上。叶干后坚草质，灰绿色，两面光滑；叶轴绿禾秆色，光滑，上面有浅纵沟。孢子囊群短线形，从小脉基部或近基部向上，不达边缘，在下部羽片的裂片上约达10对，大多单生于小脉上侧，在基部上出小脉常为双生，并常沿小脉的分叉上端叉开；囊群盖成熟时褐色，膜质，全缘，从外侧张开，宿存。孢子豆形，周壁透明，具少数褶皱。
+
+分布于湖南南部（武冈）、广西西部（百色）、贵州南部、云南东南部（马关、金平、元阳）。生于山地常绿阔叶林下阴湿处，海拔1000-1900米。印度东北部（阿萨姆、卡西丘陵）及越南北部也有。模式标本采自印度阿萨姆。

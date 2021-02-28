@@ -1,0 +1,7 @@
+刚刺杜鹃",
+284.**Rhododendron setiferum** I. B. Balfour & Forrest",
+
+## Description
+Shrubs, 2–3 m tall; old branches smooth, bark usually flaking when dry; branchlets stout, ca. 5 mm in diam., young branches densely glandular. Petiole terete, 10–20 mm, with glandular hairs; leaf blade leathery, oblong-elliptic or elliptic, 5.5–10 × 1.8–4 cm; base rounded; margin thin, reflexed downward; apex obtuse or acute, apiculate; abaxial surface indumentum thin, yellowish brown or brownish; adaxial surface green, glabrous; midrib prominently raised abaxially, grooved adaxially; lateral veins 12–15-paired, flat on both surfaces, inconspicuous. Inflorescence racemose-umbellate, 6–10-flowered; rachis ca. 5 mm, glandular hairy and with a discontinuous indumentum. Pedicel slender, 1.5–2 cm, glandular-hairy and pubescent; calyx membranous, lobes 5, large, lanceolate, apex acuminate, outer surface and margin sparsely glandular-hairy, 5–7 × 2–3 mm; corolla funnelform, white or pink, base with deep red lines, 3.5–4 × ca. 3.5 cm; lobes 5, rounded, ca. 1 × 1.5 cm, apex emarginate; stamens 10, unequal, 1.3–2.5 cm, filaments slightly puberulent at base; anthers oblong-elliptic, 2–3 mm; ovary ovate, 3–4 mm, densely glandular-setose; style 2.6–2.7 cm, as long as corolla, base glandular-hairy, glabrous above, stigma slightly expanded. Capsule slender, curved, 15–25 × ca. 4 mm, persistently glandular-setose. Fl. Apr–May, fr. Jul–Aug.
+
+> *Abies* forests, *Rhododendron* thickets; 3300–3700 m. SE Xizang, NW Yunnan.

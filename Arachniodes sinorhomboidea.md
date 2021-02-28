@@ -1,0 +1,10 @@
+中华斜方复叶耳蕨",
+36.**Arachniodes sinorhomboidea** Ching Bull. Bot. Res., Harbin. 6(3): 55. 1986.",
+
+> In appearance, this species looks like some specimens of *Arachniodes ×subamabilis* Sa. Kurata from Japan. But the Japanese plant was proved to be a hybrid between *A. amabilis* and *A. nipponica*, while this Chinese fern is intermediate between *A. amabilis* and *A. simulans*.
+
+## Description
+Rhizome creeping, succulent at growing apex, 1.5-2.2 cm in diam., densely scaly; scales reddish brown, ovate-lanceolate or lanceolate, to 8 × 1-3 mm, apically attenuate, thin and soft. Fronds remote, 0.6-1.1 m; stipe pale stramineous, 30-60 cm, ca. 5 mm in diam., base scaly as rhizome, upward scales diminishing to glabrescent; lamina 3-pinnate, yellowish green when dried, broadly oblong or lanceolate-oblong, 30-50 × 20-30 cm, papery, base broadly cuneate or cordate, apex abruptly narrowed and long acuminate, rachis glabrescent; lateral pinnae 6-8 pairs, alternate or lower 1(or 2) pairs opposite, with to 2 cm stalk, obliquely spreading; lowest pinna narrowly deltoid, to 20 × 12 cm, base broadly cuneate, apex attenuate; primary pinnules ca. 15 pairs, shortly stalked, lanceolate or distally oblong, (proximal basiscopic 1(or 2) elongated, to 9 × 4 cm), base broadly cuneate, apex acuminate; secondary pinnules rhombic, shortly stalked or sessile, to 1.5 × 0.8 cm, base acroscopically truncate and auriculate, basiscopically cuneate or straight, apex acute, margin sharply serrate or pinnatifid with mucronate teeth; upper 2(or 3) pairs of pinnae with a slightly longer basal pair of primary pinnules, remaining pinnae linear-lanceolate and gradually reduced; axes and veins of ultimate segments with sparse minute brown threadlike scales abaxially. Sori terminal on veinlets, 1-4 pairs per ultimate segment, intramarginal; indusia brown, papery, entire or shortly ciliate.
+
+> ● Along streams in mixed forests, forest margins; 600-1000 m. Guizhou (Guiyang), Hunan (Shimen, Lingxian), Sichuan (Emei Shan).
+  "Synonym": "*Arachniodes hupingshanensis* S. F. Wu.

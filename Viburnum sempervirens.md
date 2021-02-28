@@ -1,0 +1,23 @@
+常绿荚蒾",
+69.**Viburnum sempervirens** K. Koch Hort. Dendrol. 300. 1853.",
+
+## Description
+Shrubs, evergreen, to 4 m tall. Bark gray-brownish. Branchlets of current year quadrangular, yellowish or gray-yellowish sparsely or densely stellate-pubescent or subglabrous; branchlets of previous year purple-brownish or gray-brownish, slightly quadrangular, glabrous, with dispersed, small, rounded lenticels. Winter buds ovoid-lanceolate, with 2 pairs of separate scales; scales ovate-lanceolate, glabrescent. Leaves always opposite, not clustered at apices of branchlets; stipules absent; petiole reddish purple, robust, 5-15 mm, glabrous or stellate-pubescent; leaf blade green when young, black to black-brown or gray-black when dry, elliptic to elliptic-ovate, rarely broadly ovate, sometimes oblong or oblanceolate, 4-12(-16) × 2.5-5(-6.5) cm, leathery, abaxially with tiny brown glandular dots throughout, often sparsely adpressed pubescent on midvein and lateral veins, adaxially shiny, midvein raised abaxially, lateral veins 3-6-jugate, lowest pair elongating to upper part of blade, thus appearing ± triplinerved, pinnate, slightly arched, branched, ending in teeth or anastomosing near margin, conspicuously raised abaxially, deeply impressed adaxially, veinlets transverse, inconspicuous or slightly conspicuous abaxially, inconspicuous adaxially, not lobed, base acuminate to obtuse, sometimes subrounded, without glands, margin entire or serrate in upper part, apex acute or shortly acuminate. Flowers appearing after leaves; inflorescence a compound umbel-like cyme, terminal, 3-5 cm in diam.; rays whorled; first node of inflorescence with (4 or)5 rays, dense, glabrous, subglabrous, or densely stellate-pubescent, with red-brown glandular dots, without large sterile radiant flowers; peduncles less than 1 cm, or nearly absent; bracts caducous, leaflike, green, linear to linear-lanceolate, glabrous; bracteoles scalelike. Flowers on rays of 3rd and 4th orders, not fragrant, shortly pedicellate or sessile. Calyx green; tube tubular-obconical, ca. 1 mm, glabrous; lobes broadly ovate, shorter than tube, glabrous, apex obtuse, slightly ciliate. Corolla white, rotate, ca. 4 mm in diam., glabrous; tube ca. 1 mm; lobes spreading, suborbicular, subequaling tube, apex rounded, margin entire. Stamens slightly exceeding corolla, inserted at base of corolla; filaments ca. 3 × as long as anthers; anthers yellow-whitish, broadly elliptic, ca. 1 mm. Styles slightly exceeding calyx lobes; stigmas capitate. Fruit maturing red, ovoid, ca. 8 mm, base rounded, apex rounded, glabrous; pyrenes compressed, orbicular, 3-6 mm in diam., obviously or slightly convex on dorsal side, concave or not on ventral side, apex rounded. Fl. Apr-May, fr. Jul-Dec.
+  "Statistics": "● Sparse or dense forests, scrub; 100-1800 m. Anhui, Fujian, Guangdong, Guangxi, Guizhou, ?Hainan, S Hunan, Jiangxi, SE Sichuan, Yunnan, Zhejiang.
+**52. 常绿荚蒾（拉汉种子植物名称）坚荚蒾（救荒本草）**
+
+Viburnum sempervirens K. Koch, Hort. Dendr. 300. 1853; Maxim. in Bull. Acad. Sci. St. Petersb. 26 (in Mel. Biol. 10: 651): 479. 1880; Dunn et Tutch. in Kew Bull. add. ser. 10: 121. 1912; 海南植物志3: 367. 1974; 中国高等植物图鉴 4: 317, 图 6047. 1975. ——V. nervosum Hook. et Arn. Bot. Beech. Voy. 190. 1833, non D. Don (1825) ——V. venulosum Benth. Fl. Hongk. 142. 1861.
+**常绿荚蒾（原变种）**
+
+Viburnum sempervirens K. Koch var. sempervirens
+
+常绿灌木；高可达4米；当年小枝淡黄色或灰黄色，四角状，散生簇状短糙毛或近无毛，二年生小枝紫褐色或灰褐色，近圆柱状。叶革质，干后上面变黑色至黑褐色或灰黑色，椭圆形至椭圆状卵形，较少宽卵形，有时矩圆形或倒披针形，长4-12 (-16) 厘米，顶端尖或短渐尖，基部渐狭至钝形，有时近圆形，全缘或上部至近顶部具少数浅齿，上面有光泽，下面全面有微细褐色腺点，中脉及侧脉常有疏伏毛，侧脉3-4 (-5) 对，近缘前互相网结或达至齿端，最下一对伸长而多少呈离基3出脉状，上面深凹陷，下面明显凸起；叶柄带红紫色，长5-15毫米，无毛或散生少数簇状笔。复伞形式聚伞花序顶生，无毛或近无毛，直径3-5厘米，有红褐色腺点，总花梗长不到1厘米，四角状，或几无，第一级辐射枝 (4-) 5条，中间者最短，花生于第三至第四级辐射枝上，有短梗或无梗；萼筒筒状倒圆锥形，长约1毫米，萼齿宽卵形，顶钝形，比萼筒短；花冠白色，辐状，直径约4毫米，长约2毫米，裂片近圆形，约与筒等长；雄蕊稍高出花冠，花药宽椭圆形；花柱稍高出萼齿。果实红色，卵圆形，长约8毫米；核扁圆形，腹面深凹陷，背面凸起，其形如杓，直径3-5毫米。花期5月，果熟期10-12月。
+
+产江西南部、广东和广西南部。生于山谷密林或疏林中，溪涧旁或丘陵地灌丛中，海拔100-1800米。模式标本采自香港。
+**52a. 具毛常绿荚蒾（变种）（拉汉种子植物名称）**
+
+Viburnum sempervirens K. Koch var. trichophorum Hand. -Mazz. in Beih. Bot. Centralbl. Bd. 56 (Pl. Mell. Sin. 3): Abt. B, 465. 1937; Chun in Sunyatsenia 4: 263. 1940, pro parte, quoad C. Wang 30717. ——V. pinfaense Levl. in Fedde, Repert. Sp. Nov. 9: 442. 1911, et Fl. Kouy-Tcheou 66. 1914, pro parte, quoad Cavalerie 1056; Rehd in Journ. Arn. Arb. 16: 331. 1935, pro syn. sub V. sempervirens——V. sempervirens auct. non K. Koch: Hemsl. in Journ. Linn. Soc. Bot. 23: 355. 1888, pro parte, quoad pl. Anhui. ; Rehd. in Sarg. Trees and Shrubs 2: 95. 1908, pro parte, quoad pl. Yunnan.
+
+幼枝、叶柄和花序均密被簇状短毛，有时还夹杂简单长毛。叶顶端具较明显的锯齿，侧脉5-6对。果实较大，核长约7毫米，直径约6毫米，背面略凸起，腹面略呈鹅毛扇状弯拱而不明显凹陷。
+
+产浙江、江西、福建、湖南南部、广东、广西北部、四川东南部（北陪）、贵州（遵义、贵定、榕江）及云南（双江、西畴）。模式标本采自浙江南部。

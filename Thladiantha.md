@@ -1,0 +1,108 @@
+赤瓟属",
+11.**Thladiantha** Bunge Enum. Pl. Chin. Bor. 29. 1833.",
+
+> Twenty-three species: Bhutan, China, India, Indonesia, Japan (introduced), Korea, Laos, Myanmar, Nepal, Thailand, Vietnam; 23 species (19 endemic) in China.
+
+## Description
+Herbs, perennial, climbing, scandent, or prostrate. Roots usually tuberous. Stems herbaceous, scabrous. Tendrils simple or 2-fid. Leaves mostly simple, vary rarely pedately 3-7-foliolate; leaf blade cordate, margin dentate. Plants dioecious. Male flowers in cymes-racemes or rarely solitary; calyx tube broadly campanulate or cupular; segments 5, linear, lanceolate, ovate-lanceolate, or oblong, 1-3-veined; corolla yellow, campanulate, 5-partite; segments oblong, broadly ovate, or obovate, usually 5-7-veined, entire; stamens 5, inserted on calyx tube, free, often 4 in pairs, other 1 free; filaments short; anthers oblong or ovoid, all 1-celled; anther cell erect; rudimentary ovary glandlike. Female flowers solitary or 2- or 3-fascicled on a short peduncle; calyx and corolla as in male flowers; ovary ovoid, oblong, or fusiform, smooth or verrucose; ovules numerous, horizontal; style 3-fid; stigmas 3, 2-lobed, reniform. Fruit fleshy, indehiscent, smooth or verrucose, many ribbed or not ribbed. Seeds numerous, horizontal.
+  "keylist": "
+1 Bracts in male flowers flabelliform, dentate——(2)
+1 Male flowers without flabelliform bracts——(4)
+2(1) Calyx segments entire, 0.6-3 mm wide.[*T. cordifolia* 大苞赤瓟](Thladiantha cordifolia.md)
+2 Calyx segments dentate or irregularly lobed, (3-)4-11 mm wide——(3)
+3(2) Calyx segments (3-)4-6 mm wide, with 1-3 triangular lobes.[*T. grandisepala* 大萼赤瓟](Thladiantha grandisepala.md)
+3 Calyx segments to 11 mm wide, flabelliform, margin irregularly lobed.[*T. medogensis* 墨脱赤瓟](Thladiantha medogensis.md)
+4(1) Ovary and fruit scaly or verrucose——(5)
+4 Ovary and fruit not scaly or verrucose——(7)
+5(4) Leaf blade ovate-lanceolate or narrowly ovate-triangular; ovary and fruit verrucose.[*T. longifolia* 长叶赤瓟](Thladiantha longifolia.md)
+5 Leaf blade ovate-cordate; fruit with thick scales——(6)
+6(5) Ovary and fruit ovoid-globose, apex with a long rostrum, scales at base of fruit less than 5 mm, not adnate to pedicel.[*T. pustulata* 云南赤瓟](Thladiantha pustulata.md)
+6 Ovary and fruit ovoid-oblong, apex without a rostrum, scales at base of fruit to 10 mm, adnate to pedicel.[*T. henryi* 皱果赤瓟](Thladiantha henryi.md)
+7(4) Leaves palmately deeply 5-lobed.[*T. palmatipartita* 掌叶赤瓟](Thladiantha palmatipartita.md)
+7 Leaves not palmately deeply 5-lobed——(8)
+8(7) Male flowers congested at apex of rachis into pseudocapitulum——(9)
+8 Male flowers in cyme-panicle, panicle, raceme, or rarely solitary, but not capitellate——(10)
+9(8) Calyx segments lanceolate, apex acute, 1-veined.[*T. capitata* 头花赤瓟](Thladiantha capitata.md)
+9 Calyx segments linear, apex obtuse, 3-veined.[*T. davidii* 川赤瓟](Thladiantha davidii.md)
+10(8) Plants sparsely hairy or subglabrous——(11)
+10 Plants with dense multicellular setae, very rarely subglabrous——(15)
+11(10) Calyx segments 1-veined——(12)
+11 Calyx segments 3-veined——(13)
+12(11) Basal lateral vein along base of leaf blade; calyx segments linear, over 9 mm.[*T. oliveri* 鄂赤瓟](Thladiantha oliveri.md)
+12 Basal lateral vein not along base of leaf blade; calyx segments triangular- lanceolate, 4-5 mm.[*T. montana* 山地赤瓟](Thladiantha montana.md)
+13(11) Tendrils 2-fid, leaves not lobed or lobed.[*T. dentata* 齿叶赤瓟](Thladiantha dentata.md)
+13 Tendrils simple, leaves not lobed——(14)
+14(13) Leaf blade broadly ovate-cordate; tendrils filiform; pedicel in male flowers 1.2-2.5 cm; fruit with a long beak.[*T. maculata* 斑赤瓟](Thladiantha maculata.md)
+14 Leaf blade narrowly ovate or narrowly ovate-lanceolate; tendrils robust; pedicel 0.5-1 cm; fruit without beak.[*T. punctata* 台湾赤瓟](Thladiantha punctata.md)
+15(10) Leaves simple, unlobed or margin lobed or serrate, or pedately 3-5-foliolate.[*T. hookeri* 异叶赤瓟](Thladiantha hookeri.md)
+15 Leaves unlobed, rarely irregularly lobed——(16)
+16(15) Tendrils simple——(17)
+16 Tendrils 2-fid——(19)
+17(16) Male flowers solitary or in a short raceme, bracts leaflike.[*T. dubia* 赤瓟](Thladiantha dubia.md)
+17 Male flowers without bracts——(18)
+18(17) Petiole less than 1.5 cm, leaf blade lanceolate or narrowly ovate.[*T. sessilifolia* 短柄赤瓟](Thladiantha sessilifolia.md)
+18 Petiole over 2 cm, leaf blade ovate-cordate.[*T. villosula* 长毛赤瓟](Thladiantha villosula.md)
+19(16) Male flowers dimorphic, solitary, and in raceme with (2 or)3(-5) flowers in axil of same leaf.[*T. dimorphantha* 山西赤瓟](Thladiantha dimorphantha.md)
+19 Male flowers in panicle or raceme——(20)
+20(19) Stem and leaves with pale yellow multicellular setae or very rarely subglabrous, sinus at base of leaf closed; fruit orange-red when mature.[*T. nudiflora* 南赤瓟](Thladiantha nudiflora.md)
+20 Stem and leaves with gray-white multicellular setae, sinus at base of leaf open; fruit whitish yellow when mature——(21)
+21(20) Calyx segments broadly lanceolate or obovate-oblong, 10-15 mm.[*T. longisepala* 长萼赤瓟](Thladiantha longisepala.md)
+21 Calyx segments triangular-lanceolate, less than 10 mm——(22)
+22(21) Ovary and fruit with dense yellow-brown spiniform setae; seeds 6.5-7 mm, sparsely irregularly verrucose on surface.[*T. setispina* 刚毛赤瓟](Thladiantha setispina.md)
+22 Ovary and fruit with long setae; seeds 4.5-5 mm, not verrucose on surface.[*T. lijiangensis* 丽江赤瓟",](Thladiantha lijiangensis.md)
+**8. 赤瓟属——Thladiantha Bunge**
+
+Bunge, Enum. Pl. Chin. Bor. 29. 1833; Cogn. in DC., Mon. Phan. 421. 1881, et in Engl., Pflanzenr. 66 (IV. 275. 1): 40. 1916; Hutch., Gen Fl. Pl. 2: 384. 1967; Keraudren in Aubreville et Leroy, Fl. Cambodge Laos Vietnam 15: 29, 1975; 路安民、张志耘, 植物研究1 (1-2): 61. 1981.
+
+多年生或稀一年生草质藤本，攀援或匍匐生。根块状或稀须根。茎草质，具纵向棱沟。卷须单一或2歧；叶绝大多数为单叶，心形，边缘有锯齿，极稀掌状分裂或呈鸟趾状3-5 (-7) 小叶。雌雄异株。雄花序总状或圆锥状，稀为单生；雄花：花萼筒短钟状或杯状，裂片5，线形，披针形、卵状披针形或长圆形，1-3脉；花冠钟状，黄色，5深裂，裂片全缘，长圆形或宽卵形、倒卵形、常5-7条脉；雄蕊5，插生于花萼筒部，分离，通常4枚两两成对，第5枚分离，花丝短，花药长圆形或卵形，全部1室，药室通直；退化子房腺体状。雌花单生、双生或3-4朵簇生于一短梗上，花萼和花冠同雄花；子房卵形、长圆形或纺锤形，表面平滑或有瘤状突起，花柱3裂，柱头2裂，肾形；具3胎座，胚珠多数，水平生。果实中等大，浆质，不开裂，平滑或具多数瘤状突起，有明显纵肋或无。种子多数，水平生。
+
+本属23种10变种，主要分布我国西南部，少数种分布到黄河流域以北地区；个别种也分布到朝鲜、日本、印度半岛东北部、中南半岛和大巽他群岛。
+
+属模式种：赤瓟 T. dubia Bunge
+
+## 检索表
+
+1 雄花序上具覆瓦状排列的扇形苞片；花序不分枝（组1. 裂苞组 Sect. Fidobractea A. M. Lu et Z. Y. Zhang）——(2)
+1 雄花序不具覆瓦状排列的扇形苞片（组2. 赤瓟组 Sect. Thladiantha）——(4)
+2 苞片边缘锐裂；花萼裂片线形，长8-10毫米，宽0.6-1毫米。——(3)
+2 苞片边缘不锐裂，具不规则的三角形小齿，花萼裂片宽披针形或狭长卵形，长15毫米，宽4-6毫米，先端常2-3齿裂；子房狭长圆形，外面密被黄色长柔毛，基部渐狭，顶端近截平；果实椭圆形。——[大萼赤瓟](Thladiantha%20grandisepala.md)
+3 叶较大，长8-15厘米，宽6-11厘米，下面生长柔毛；雄花序轴短，长4-15厘米；子房长圆形，外面疏被长柔毛；果实长圆形，长3-5厘米，径2-3厘米；种子宽卵形。——[大苞赤瓟](Thladiantha%20cordifolia.md)
+3 叶较小，长 (3-) 5-10厘米，宽 (1.6-) 3-6厘米，背面疏被微柔毛；子房近球形或卵球形，密被淡黄色的绵毛；果实小，球形或卵球形，径约1.8-2.3厘米；种子三角状卵形。——[球果赤瓟](Thladiantha%20globicarpa.md)
+4 子房和果实决无瘤状凸起（亚组2. 光果亚组 Subsect. Leiocarpae A. M. Lu et Z. Y. Zhang）——(7)
+4 子房有瘤状凸起；果实亦有瘤状凸起或成皱褶状（亚组1. 皱果亚组 Subsect. Verrucosae A. M. Lu et Z. Y. Zhang）——(5)
+5 卷须单一；果实有瘤状凸起但不成皱褶状，基部稍内凹，但不延伸到花梗成裂片状。——(6)
+5 卷须2歧；子房及果实的基部下延，下延部分花时达5毫米，果时达1厘米，边缘有不规则裂片；果实椭圆形，果皮不规则隆起成皱褶状；枝、叶近无毛或仅有稀疏短柔毛。——[皱果赤瓟](Thladiantha%20henryi.md)
+6 全体近无毛或仅疏被短柔毛；叶片卵状披针形或长卵状三角形；花萼裂片三角状披针形；果实阔卵形，长达4厘米。——[长叶赤瓟](Thladiantha%20longifolia.md)
+6 全株密被淡黄色短柔毛和杂生多节的长柔毛；叶片卵状心形；花萼裂片线状披针形；果实卵球形，直径2-3厘米。——[云南赤瓟](Thladiantha%20pustulata.md)
+7 雄花序由于花在花序轴顶端聚生而成伞形状或几乎成头状。——(8)
+7 雄花序总状或分枝成圆锥状，或有时雄花单生。——(9)
+8 花萼裂片线状披针形或线状舌形，具1脉。——[头花赤瓟](Thladiantha%20capitata.md)
+8 花萼裂片披针状长圆形，明显具3脉。——[川赤瓟](Thladiantha%20davidii.md)
+9 卷须不分叉。——(10)
+9 卷须2歧。——(15)
+10 叶片不分裂，亦不成鸟足状3-7小叶。——(11)
+10 叶片多型，单叶、分裂或成鸟足状5-7小叶；子房纺锤形，密被黄褐色柔毛，两端狭；果实长圆形。——[异叶赤瓟](Thladiantha%20hookeri.md)
+11 子房和果实顶端决不成喙状。——(12)
+11 子房和果实纺锤形，顶端喙状。——[斑赤瓟](Thladiantha%20maculata.md)
+12 叶片卵状心形或阔卵状心形。——(13)
+12 叶片披针形、卵状披针形或狭卵形，叶柄长仅0.5-1.5厘米；雄花组成短缩的总状花序或单生；子房狭长圆形，密被黄褐色毡毛；果实卵状长圆形。——[短柄赤瓟](Thladiantha%20sessilifolia.md)
+13 全体被柔毛或短刚毛。——(14)
+13 除子房被毛外，全体几无毛；子房卵形，基部稍圆，顶端渐狭；果实卵形或长圆形。——[台湾赤瓟](Thladiantha%20punctata.md)
+14 子房长圆形；雄花单生或聚生于短枝上呈假总状花序；果实卵状长圆形，具10条明显的纵纹。——[赤瓟](Thladiantha%20dubia.md)
+14 子房狭长圆形；雄花序总状，常2-7朵生于一总梗上，在总梗的中部常有1-2枚叶状总苞片；果实长圆形。——[长毛赤瓟](Thladiantha%20villosula.md)
+15 全体近无毛。——(16)
+15 全体被柔毛或柔毛状硬毛。——(18)
+16 叶最基部的一对侧脉离弯缺边缘向外开展；花萼裂片三角状披针形或长圆状披针形；果实长圆形或椭圆形，两端钝圆。——(17)
+16 叶最基部的一对侧脉沿弯缺边缘向外开展；花萼裂片线形，反折，长7-9 (-12) 毫米，宽不及1毫米，具1脉；果实卵形，基部截形，稍内凹，先端钝圆，有喙状小尖头。——[鄂赤瓟](Thladiantha%20oliveri.md)
+17 花萼裂片长圆状披针形，长约5毫米，宽约1.5毫米，具3脉；种子稍大，长6毫米，宽3.5毫米。——[齿叶赤瓟](Thladiantha%20dentata.md)
+17 花萼裂片三角状披针形，长约4毫米，宽1毫米，具1脉；种子稍小，长4-5毫米，宽2-3毫米。——[山地赤瓟](Thladiantha%20montana.md)
+18 雄花序总状或圆锥状。——(19)
+18 雄花二型，单生花和总状花序同时腋生，单生花大，生于短缩的总状花序上的花小；子房纺锤形，密被白色长柔毛。——[山西赤瓟](Thladiantha%20dimorphantha.md)
+19 雄花序圆锥状；种子平滑。——(20)
+19 雄花序总状；种子有网纹；全体密被柔毛状硬毛；子房狭长圆形，上部渐狭，基部钝圆，密被淡黄色柔毛状硬毛。——[南赤瓟](Thladiantha%20nudiflora.md)
+20 花萼裂片小，长5-6毫米，宽1.5-2.5毫米。——(21)
+20 花萼裂片大，宽披针形，长12-15毫米，宽3-4毫米；叶面密生细刚毛，叶背被短柔毛；子房和果实长圆形，密生刚伏毛和疏柔毛，两端钝圆。——[长萼赤瓟](Thladiantha%20longisepala.md)
+21 子房密被黄色的硬毛或长柔毛；种子较小，卵形或宽卵形，长5-5.5毫米，宽3-4毫米。——(22)
+21 子房密被黄褐色刺状刚毛；种子较大，长卵形，长6-7毫米，宽3-3.5毫米，两面稍拱起；花萼裂片三角状披针形，具3脉；果实长圆形。——[刚毛赤瓟](Thladiantha%20setispina.md)
+22 花萼裂片狭卵状披针形，明显具3脉；子房卵球形，长4毫米；果实长圆形；种子宽卵形。——[灰赤瓟](Thladiantha%20cinerascens.md)
+22 花萼裂片三角状披针形，具1脉；子房椭圆形，长10-13毫米；果实近球形或卵球形；种子卵形。——[丽江赤瓟](Thladiantha%20lijiangensis.md)

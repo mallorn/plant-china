@@ -1,0 +1,15 @@
+毛枝蕨",
+1.**Arachniodes miqueliana** (Maximowicz ex Franchet & Savatier) Ohwi J. Jap. Bot. 37: 76. 1962.",
+
+## Description
+Rhizome long creeping, densely clothed with brown lanceolate scales along growing parts. Fronds 0.6-1 m; stipe ochraceous, 32-62 cm, 5-6 mm in diam., copiously scaly throughout, scales similar to those on rhizome; lamina 4-pinnate, dull green to yellowish green when dried, deltoid-pentagonal, 35-52 × 26-35 cm, herbaceous, apex acuminate, rachis scaly as stipe; pinnae 6-10 pairs, alternate, obliquely spreading; lowest pinnae deltoid-ovate, 29-32 × 22-25 cm, apex acuminate; primary pinnules ca. 18 pairs, obliquely spreading, deltoid-lanceolate, basal basiscopic one ca. 15 × 7 cm; secondary pinnules 6 or 7 pairs, stalked, blunt deltoid to oblong, ca. 3.5 × 2.5 cm, base broadly cuneate, apex obtuse; tertiary pinnules 3 or 4 pairs, ovate or rhombic, to 1.2 × 0.9 cm, apex obtuse or acute, margin deeply pinnatifid to obtusely serrate; upper pinnae gradually reduced; axes and main veins adaxially with pale gray unicellular acicular hairs, veins abaxially with scattered brown, bullate and ovate scales. Sori 1-3 per ultimate segment; indusia brown, entire.
+
+> Broad-leaved or mixed forests, terrestrial or occasionally on shaded wet and moss-covered rock surfaces; 400-1300(-1700) m. Anhui, Guizhou, Jiangxi, Jilin, WC Sichuan, N Yunnan, Zhejiang [Japan, Korea].
+  "Synonym": "*Aspidium miquelianum* Maximowicz ex Franchet &amp; Savatier, Enum. Pl. Jap. 240, 634. 1876; *Arachniodes borealis* Serizawa; *Aspidium fargesii* Christ; *Dryopteris fargesii* (Christ) C. Christensen; *D. miqueliana* (Maximowicz ex Franchet &amp; Savatier) C. Christensen; *Leptorumohra fargesii* (Christ) Nakaike &amp; Yamato; *L. miqueliana* (Maximowicz ex Franchet &amp; Savatier) H. Itô; *Nephrodium miquelianum* (Maximowicz ex Franchet &amp; Savatier) Komarov; *Polystichopsis miqueliana* (Maximowicz ex Franchet &amp; Savatier) Tagawa; *Rumohra miqueliana* (Maximowicz ex Franchet &amp; Savatier) Ching.
+**2．毛枝蕨（植物学报）**
+
+Leptorumohra miqueliana (Maxim.) H. Ito in Nakai et Honda, Nov. Fl. Jap. 4: 119. 1939; Ching in Acta Bot. Sin. 10: 361. 1962; 安徽植物志1: 165. f. 169.1985; Crypto. Fl. Yangtz. Del. Adj. Reg. 506. f. V-83. 1989. ——Aspidium miquelianum Maxim. ex Franch. et Sav. Fl. Enum. Jap. 2: 249. 1896. ——Rumohra　miqueliana (Maxim.) Ching in Sinensia 5: 67. t. 17, 1934.——Polystichopsis　miqueliana Tagawa in Journ. Jap. Bot. 33: 94. 1958.
+
+植株高80-100厘米。根状茎长，横长，连同叶柄基部被棕色、披针形鳞片；叶远生。柄长40-62厘米，粗5-6毫米，红棕色或向上达叶轴为棕禾秆色，疏被较小形鳞片；叶片阔卵形，长43-52厘米，宽26-35厘米，先端短尖，基部不变狭，四回或五回羽状；羽片6-8对，互生，有柄，斜展，基部一对较大，三角状卵形，长29-32厘米，宽22-25厘米，渐尖头，基部不对称，阔楔形，略向上弯弓，四回羽状；一回小羽片约18对，互生，有柄，斜展，下侧的较上侧的为大，基部下侧1 (2)片较大，三角状披针形，长达15厘米，基部宽约7厘米，渐尖头，基部近对称，二回羽状；二回小羽片约16对，互生，有柄，基部下侧1片较大，长三角形，长3.5厘米，基部宽2.5厘米，二回羽状；三回小羽片6-7对，互生，斜卵形，基部1对较大，长1.2厘米，宽约9毫米，钝头，一回羽状；末回小羽片3-4对，近卵形，全缘或边缘有3-5个锯齿。第二对羽片与基部的同形而较小，第三对以上各对羽片逐渐缩短。叶脉在末回小羽片上为羽状，小脉单一或分叉，两面可见。叶干后草质，黄绿色，两面密被锈色粗毛；各回羽轴下面疏被棕色、披针形小鳞片。孢子囊群小，圆形，背生小脉上，每末回小羽片1-3枚；囊群盖圆肾形，棕色、无睫毛，以后脱落。
+
+产浙江（西天目山) 、江西（庐山) 和四川（城口、峨眉山) 。生山谷疏林下或岩壁阴湿处；海拔800-1700米。日本和朝鲜也有分布。模式标本采自四川城口。

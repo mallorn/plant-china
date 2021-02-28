@@ -1,0 +1,15 @@
+瘤果蛇根草",
+22.**Ophiorrhiza hayatana** Ohwi Repert. Spec. Nov. Regni Veg. 36: 57. 1934.",
+
+## Description
+Herbs, erect, to 50 cm tall; stems subterete or weakly 4-angled, glabrous to puberulent or strigillose. Leaves in subequal pairs; petiole 0.3-1.5(-2) cm, glabrous to puberulent; blade drying papery, discolorous, narrowly elliptic-oblong, elliptic, or lanceolate, 2-10(-15) × 0.8-2.5(-3) cm, glabrous on both surfaces or often hispidulous near margins adaxially, base acute to attenuate, apex acute to acuminate; secondary veins 4-8 pairs; stipules deciduous, broadly triangular to rounded, 0.5-1 mm, puberulent to glabrescent and/or glandular, sometimes erose. Inflorescence several to many flowered, cymose, densely puberulent to pilosulous sometimes in lines, fasciculate or peduncle 1.5-2(-4) cm; axes subcapitate to helicoid; bracteoles linear to narrowly triangular, 0.5-4 mm, glabrous, persistent or deciduous as fruit develop. Flowers with biology unknown, subsessile or on pedicels to 1.5 mm, sometimes tuberculate. Calyx glabrous to puberulent; hypanthium suburceolate to oblate, ca. 1.2(-2) mm, densely tuberculate with peglike structures on lower part and also sometimes on sides, 5-ribbed; lobes linear to spatulate, 1-1.3 mm. Corolla white, slenderly funnelform, outside glabrous; tube (12-)13-15 mm, inside barbate in throat; lobes triangular, 2.5-3(-4) mm, ciliate, dorsally winged and with very short horn near apex. Capsules obcordate, ca. 4 × 8-10 mm, tuberculate and sometimes pilosulous.
+  "Reference": "Some measurements given by H. S. Lo in FRPS (71(1): 129. 1999) have not been seen on specimens and are provisionally presented in parentheses. The floral biology of this species has not been described; the specimens seen appear to be monomorphic with the anthers positioned at or just below the corolla throat and the stigmas perhaps positioned at the same level.Some measurements given by H. S. Lo in FRPS (71(1): 129. 1999) have not been seen on specimens and are provisionally presented in parentheses. The floral biology of this species has not been described; the specimens seen appear to be monomorphic with the anthers positioned at or just below the corolla throat and the stigmas perhaps positioned at the same level.
+  "Statistics": "● Broad-leaved forests; 500-900 m. Taiwan.
+  "Synonym": "*Ophiorrhiza stenophylla* Hayata, Icon. Pl. Formosan. 2: 91. Oct 1912, not Valeton (Feb 1912).
+**13. 瘤果蛇根草（植物研究）图版28: 11**
+
+Ophiorrhiza hayatana Ohwi in Fedde, Repert. Sp. Nov. 36: 57. 1934 (nom. nov.) et in Acta Phytotax. Geobot. 7: 195. 1938; Chao in Li, Fl. Taiwan 4: 317, Pl. 1021. 1978; Lo in Bull. Bot. Res. 10 (2): 27. 1990. ——O. stenophylla Hayata, Ic. Pl. Formos. 2: 91. 1912 et 9: 56, fig. 23 (5). 1920, non Valeton (1912, Feb.) nec Merr. (1920).
+
+直立草本，高约50厘米；茎纤细，近圆柱状或略呈四棱形，无毛或被柔毛。叶狭长圆形或近长圆形，长8-15厘米，宽1.5-3厘米，顶端长渐尖，基部渐狭，两面无毛或近无毛；叶柄长1-2厘米，被柔毛；托叶微小，三角形，顶端胼胝质。花序顶生或腋生，多花，总梗长2-4厘米，二歧分枝，分枝螺状；小苞片线形；萼管近坛状，有小瘤体，长约2毫米，有5直棱，裂片5，长圆状披针形，钝头，比萼管稍短或与之近等长，背部多少增厚；花冠白色，外面无毛，管长约12毫米，里面无毛，裂片5，三角形，长3-4毫米，喉部有毛；雄蕊内藏，花丝长2毫米，花药长圆形，长约1毫米；花盘2裂；花柱长1厘米，柱头2裂。蒴果倒心形，约1厘米宽，表面有小瘤体。
+
+我国特有，见于台湾各地，但以台湾岛的北部常见；生于中海拔地区的阔叶林中。

@@ -1,0 +1,17 @@
+稀鳞瓦韦",
+15.**Lepisorus oligolepidus** (Baker) Ching Bull. Fan Mem. Inst. Biol. 4: 80. 1933.",
+
+> *Lepisorus oligolepidus* is a distinct species in *Lepisorus* identifiable by the broadly lanceolate fronds, less than 20 cm, abaxially rather densely covered with small scales, the large subcostular sori, very closely spaced, and the usually relatively thick rhizome, to 10 cm, with thick, dark, linear-lanceolate scales.
+
+## Description
+Plants 10-20 cm tall. Rhizomes creeping, to 10 cm, 2-3 mm in diam., densely scaly; scales brown, sometimes with paler margins, lanceolate, 2.5-5 × up to 1 mm, very thick in center, margins serrate, central lumina opaque, marginal 1 or 2 rows of lumina brownish, transparent. Fronds 1-1.5 cm apart; stipe straw-colored, to 1(-3) cm, robust, 1-1.5 mm in diam.; lamina yellowish green, lanceolate to ovate-lanceolate, 8-18 × 1.5-3.5 cm, widest 1/3-1/2 from base, softly leathery when dried, abaxially densely scaly, scales deep brown, lanceolate, 1-2 × 0.4-0.5 mm, lumina usually transparent, adaxially glabrous, base cuneate, decurrent, apex acuminate; costa robust, raised on both sides, veinlets obscure. Sori on distal half of lamina, slightly closer to costa, orbicular or elliptic, up to 4-5 mm in diam., sterile at ends, contiguous; paraphyses deep brown, orbicular, 0.4-0.6 mm in diam. center thick and dark. Spores tuberculate.
+
+> Shaded places on slopes or tree trunks or rock crevices in forests; 200-2300 m. Anhui, Chongqing, Fujian, Guangdong, ?Guangxi, Guizhou, ?Henan, Hunan, Jiangxi, ?Shaanxi, Sichuan, ?Xizang, Yunnan, Zhejiang [India, ?Myanmar, Japan].
+  "Synonym": "*Polypodium oligolepidum* Baker, Gard. Chron., n.s., 14: 494. 1880; *Lepisorus ellipticus* Ching; *Pleopeltis oligolepida* (Baker) Á. Löve &amp; D. Löve; *Polypodium lineare* N. L. Burman var. *oligolepidum* (Baker) Christ; *P. trabeculatum* Copeland.
+**14.鳞瓦韦（中国蕨类植物图谱）**
+
+Lepisorus oligolepidus (Baker) Ching in Bull. Fan Mem. Inst. Biol. 4: 80. 1933 et Ic. Fil. Sin. 2: 70. 1934; 傅书遐, 中国主要植物图说.蕨类植物门214.图285. 1957; Fl. Tsingling 2: 182, T. 45. f. 2-4. 1974; Y. L. Zhang et al., Sporae Pterid. Sin. 355, T. 79, f. 1-2. 1976; Nakaike, Ill. Pterid. Jap. 2: 394. f. 395. 1981 et New Fl. Jap. 666. f. 666a. b. 1992; B. Z. Ding et al., Fl. Honan 1: 105. f. 125. 1981; Fl. Fujian 1: 230. 1982; Ching et al. in C. Y. Wu, Fl. Xizang 1: 310. 1982; R. J. Cheng, 陈仁钧, 安徽植物志 1: 105. 图125. 1985; Shing in W. T. Wang, Vasc. Pl. Hengduan Mts. 1: 165. 1993; S. X. Xu in J. F. Cheng et G. F. Chu, Fl. Jiangxi 1: 312. f. 320. 1993; Z. F. Zhang et S. Y. Zhang, Fl. Zhejiang 1: 317. f. 335. 1993; S. L. Yu et al. in Bull. Bot. Res. 16 (1): 13. 1996. ——Polypodium oligolepidum Baker, Gard. Chron. n. s. 14: 494. 1880; Takeda, Op. Cit. 276; C. Chr. Contr. U. S. Nat. Herb. 26: 316. 1931 (Partim). ——Polypodium lineare var. oligolepidum Christ in Bull. Soc. Bot. France 52. Mem. 1: 15. 1905; C. Chr., Ind. 548. 1905. ——Polypodium trabeculatum Copel. Phil. J. Soc. Bot. 3: 283. 1908.
+
+植株高10-20厘米。根状茎横走，密被披针形鳞片； 鳞片中部褐色，不透明，边缘1-2行网眼淡棕色，透明，具锯齿。叶略近生； 叶柄长2-3厘米，禾秆色，粗壮； 叶片披针形到卵状披针形，中部或近下部1/3处为最宽，约1.5-3. 5厘米，长8-18厘米，渐尖头，向基部渐变狭并下延，下面被有深棕色透明的披针形鳞片，上面光滑，干后淡黄绿色，软革质。主脉粗壮，上下均隆起，小脉不见。孢子囊群圆形或椭圆形，其直径达5毫米，彼此密接，聚生于叶片上半部狭缩区域，最先端不育，位于主脉与叶边之间，幼时被圆形深棕色隔丝覆盖。
+
+产福建 (崇安) 、浙江 (安吉、临安、淳安、富阳、开化、江山、东阳、遂昌、龙泉、庆元、缙云和乐清) 、江西 (庐山、彭泽、武宁、萍乡) 、安徽 (黄山、九华山、陵阳和蓝田) 、湖南 (黔阳) 、河南 (伏牛山和大别山) 、陕西 (周至、眉县) 、四川 (宝兴、峨眉山、南川、奉节、巫山、越西、灌县、涪陵) 、贵州 (罗甸、安顺) 、广东、广西 (龙胜) 、云南 (西畴、文山、维西、弥勒、彝良、屏边、丽江、平坝、元阳、蒙自、德钦) 、西藏 (易贡、察隅) 。附生山坡荫处或林下树干上或岩石缝中, 海拔170-2300米。日本也有分布。

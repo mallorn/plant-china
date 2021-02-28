@@ -1,0 +1,6 @@
+霍尔果斯黄耆",
+253.**Astragalus chorgosicus** Lipsky Trudy Imp. S.-Peter-burgsk. Bot. Sada. 26: 257. 1907.",
+
+## Description
+Plants subshrubby, 20-32 cm tall, vegetative parts with appressed, ± medifixed, only white hairs 0.5-0.8 mm. Stems several, branched, old parts lignified, stems of current year up to 8 cm, loosely hairy, sometimes glabrescent. Leaves 3-5 cm; stipules 2-3 mm, adnate to petiole for 1-1.5 mm, behind stem connate to middle, sparsely hairy or nearly glabrous; petiole 0.5-1 cm, like rachis loosely to rather densely hairy; leaflets in 3 or 4 pairs, narrowly elliptic to linear, 7-20 × 1-3 mm, both surfaces loosely hairy, apex obtuse to subacute. Racemes 4-8 cm, loosely 5-10-flowered; peduncle 5-18 cm, sparsely to loosely hairy; bracts 1.5-2 mm, sparsely black and white hairy. Calyx 11-12 mm, sparsely covered with subappressed white and black hairs 0.3-0.5 mm; teeth 1-1.5 mm. Petals pink or pale violet; standard narrowly obovate to oblong, 24-25 × 7-8 mm, apex emarginate, slightly constricted in middle; wings 21-23 mm; keel ca. 20 mm. Legumes with a stipe 3-5 mm, oblong, straight, 12-15 mm, 3-4 mm high and 2-3 mm wide, with a straight beak 1-1.5 mm, 2-locular; valves glabrous or with scattered hairs.
+  "Statistics": "Mountain slopes, arid bushes; 600-1200 m. NW Xinjiang [Ka-zakhstan].

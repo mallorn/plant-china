@@ -1,0 +1,6 @@
+扁基荸荠",
+31.**Eleocharis fennica** Palla ex Kneucker & G. Zinserling Allg. Bot. Z. Syst. 7: 212. 1901.",
+
+## Description
+Perennials. Rhizomes short. Culms green to grayish green, tufted, 10-50 cm tall, ca. 1 mm thick, few ribbed and longitudinally sulcate. Leaf sheaths 2, blood-red, tubular, 5-10 cm, mouth truncate, apex triangular dentate. Spikelet cylindric to ovoid-cylindric, 7-15 × ca. 3 mm, many flowered. Basalmost glume empty, amplexicaul for whole or nearly whole of spikelet base; fertile glumes dark blood-red to dark brown, slightly laxly imbricate, ovate, ca. 3 × 1.5 mm, midvein obscure, margin broadly to narrowly hyaline, apex obtuse. Perianth bristles absent or 4 or 5 and longer than nutlet. Stigmas 2. Nutlet brownish yellow, obovoid to rarely globose, ca. 1.4 × 1 mm to nearly as long as wide, biconvex, smooth; persistent style base white, subpatelliform (disk-shaped), ca. 0.2 × 0.5-0.7 mm, depressed, spongy-thickened, apically slightly concave. Fl. and fr. May-Aug.
+  "Statistics": "River margins, streams in valleys, wet places, coastal habitats, shallow water at lakeshores, swamps; near sea level to 3300 m. Heilongjiang, Nei Mongol, Qinghai, Xinjiang [Kazakhstan, Mongolia, Russia; Europe].

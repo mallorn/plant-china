@@ -1,0 +1,14 @@
+大叶橐吾",
+55.**Ligularia macrophylla** (Ledebour) Candolle Prodr. 6: 316. 1838.",
+
+## Description
+Plants grayish green. Stem erect, 35-110(-180) cm tall, 8-15 mm in diam. at base, proximally glabrous, distally and synflorescence shortly pilose. Basal leaves petiolate; petiole often purplish red, 5-20 cm, glabrous, narrowly winged, base sheathed; leaf blade ovate-oblong or oblong, 6-16(-45) × 4.5-9(-28) cm, glabrous, pinnately veined, base cuneate, narrowed into a petiole, margin undulately denticulate, apex obtuse. Stem leaves sessile, erect, ovate-oblong to lanceolate, to 12 × 5 cm, tubular-amplexicaul or semiamplexicaul at base. Synflorescence paniculate, 5-40 cm, proximally branched; leaflike and supplementary bracts linear-subulate, 3-8 mm; peduncles 1-3 mm, slender. Capitula numerous. Involucre narrowly turbinate or cylindric, 3.5-5(-6) × 2-3(-5) mm or mouth to 6 mm in diam., outside glabrous or white puberulent; phyllaries 4 or 5, in 2 rows, obovate or oblong, 1.5-3 mm wide, apex obtuse or rounded; inner phyllaries membranous at margin. Ray florets 1-3, yellow; lamina oblong, 6-8 × 2-3 mm, apex rounded; tube ca. 4 mm. Tubular florets 2-7, extending from involucre, 5-7 mm; tube 2-2.5 mm. Achenes yellowish, cylindric, 3-6 mm. Pappus white, as long as tubular corolla. Fl. and fr. Jun-Aug. 2*n* = 58.
+  "Statistics": "Stream banks, swamps, grasslands on shaded slopes, forest margins; 700-2900 m. Xinjiang (Altay, Tian Shan) [Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan].
+  "Synonym": "*Cineraria macrophylla* Ledebour, Fl. Altaic. 4: 108. 1833; *Ligularia ledebourii* (Schultz Bipontinus) Bergman; *Senecillis macrophylla* (Ledebour) Kitamura; *Senecio ledebourii* Schultz Bipontinus.
+**99.大叶橐吾 图版25: 1-4**
+
+Ligularia macrophylla (Ledeb.) DC. Prodr. 6: 316. 1837; Pojark. in Not. Syst. Inst. Bot. Acad. URSS 12: 310. 1950 et in Fl. URSJ 26: 837. 1961; Dress in Baileya 10: 74. 1962; S. Y. Hu in Quart. Jour n. Taiwan Mus. 20: 65. 1967; Nasir et Ali, Fl. West. Pakist. 765. 1972. ——Cineraria macropbylla Ledeb. Fl. Alt. 4: 108. 1833. ——Senecio ledebourii Sch.-Bip. in Flora 28: 50. 1845; Franch. in Bull. Soc. Bot. France 39: 302. 1892, p. p. ——Ligularia ledebourii (Sch. Bip.) Bergm. Vast. Pl. Rotsh. 316. 1924. ——Senecillis macrophylla (Ledeb.) Kitam. in Acta Phytotax. Geobot. 8: 87. 1939.
+
+多年生灰绿色草本。茎直立，高56-110（180）厘米，最上部及花序被有节短柔毛，下部光滑，基部直径0.8-1.5厘米。丛生叶具柄，柄长5-20厘米，具狭翅，光滑，基部具鞘，常紫红色，叶片长圆形或卵状长圆形，长6-16（45）厘米，宽4.5-9（28）厘米，先端钝，边缘具波状小齿，基部楔形，下延成柄，两面光滑，叶脉羽状；茎生叶无柄，叶片卵状长圆形至披针形，长达12厘米，宽达5厘米，筒状抱茎或半抱茎。圆锥状总状花序长7-24厘米，下部有分枝；苞片和小苞片线状钻形，长3-8毫米；花序梗长1-3毫米；头状花序多数，辐射状；总苞狭筒形或狭陀螺形，长3.5-5（6）毫米，宽2-3（5）毫米或在口部达6毫米，总苞片4-5，2层，倒卵形或长圆形，宽1.5-3毫米，先端钝或圆形，背部被白色柔毛，内层边缘膜质。舌状花1-3，黄色，舌片长圆形，长6-8毫米，宽2-3毫米，先端圆形，管部长约4毫米；管状花2-7，伸出总苞，长5-7毫米，管部长2-2.5毫米，冠毛白色与花冠等长。瘦果（未熟）光滑。花期7-8月。
+
+产新疆天山及阿勒泰地区。生于海拔700-2900米的河谷水边、芦苇沼泽、阴坡草地及林缘。在苏联也有分布。阿勒泰是模式标本产地。

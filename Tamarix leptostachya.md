@@ -1,0 +1,7 @@
+细穗柽柳",
+13.**Tamarix leptostachya** Bunge",
+
+## Description
+Shrubs, 1-3(-6) m tall. Growing branches of current year gray-purple or red. Leaves of growing branches narrowly ovate or ovate-lanceolate, base slightly decurrent, semiamplexicaul, apex acute; those of vegetative branches narrowly ovate or ovate-lanceolate, 1-4(-6) × 0.5-3 mm, base decurrent, apex acute. Racemes long, slender, 4-12 cm × 2-3 mm, terminal on branches of current year, clustered into terminal, dense, large, globose or ovoid panicles; peduncles 0.5-2.5 cm; bracts ascending, subulate, ca. 1.2 mm, equaling pedicels or subequaling calyx, apex acuminate. Pedicels equaling or slightly exceeding calyx. Flowers 5-merous, small. Calyx 0.7-0.9 mm; sepals ovate, 0.5-0.6 × ca. 0.4 mm, margin narrowly membranous, apex acuminate. Petals purplish red or pink, obovate, ca. 1.5 × 0.5 mm, ca. 2 × as long as calyx, apex obtuse, recurved, caducous. Disk 5-lobed, occasionally subdivided into 10 lobules. Stamens 5, opposite to sepals; filaments exserted, long, ca. 2 × as long as petals, base dilated, inserted at apex of disk lobes, or if disk lobes subdivided into lobules, then stamens inserted between lobes; anthers cordate, not apiculate. Ovary conic; styles 3. Capsule small, ca. 1.8 × 0.5 mm, ca. 2 × exceeding calyx. Fl. Jun-Jul. 2*n* = 24.
+
+> Salty soils, riversides, lakesides, lowlands in desert regions. Gansu, Nei Mongol, Ningxia, Qinghai, Xinjiang [Mongolia; C Asia].

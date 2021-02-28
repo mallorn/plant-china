@@ -1,0 +1,7 @@
+线萼凤仙花",
+22.**Impatiens linearisepala** S. Akiyama et al.",
+
+## Description
+Plants ca. 30 cm tall. Leaves alternate, crowded at upper part of stem, petiolate or nearly sessile in upper leaves; petiole 1-2.5 cm; leaf blade elliptic, 7-9 × 2.5-3.5 cm, both surfaces nearly glabrous, base attenuate into petiole, margin crenate, apex acute. Inflorescences in upper leaf axils, pendulous beneath subtending leaf, racemose,1-flowered or aggregately 2-flowered; peduncles 2-2.5 cm, glabrous. Pedicels ca. 1 cm, glabrous, bracteate at base; bracts not caducous, ovate, ca. 5 mm, apex acute. Flowers pale greenish yellow, large, ca. 3 cm, ca. 4 cm deep. Lateral sepals 4; outer 2: obliquely ovate, ca. 7 × 5 mm, apex acute; inner 2: longer, linear, ca. 1.4 cm, apex acuminate. Lower sepal pale greenish yellow, saccate, ca. 1.9 cm, ca. 2.5 cm deep excluding spur, abruptly narrowed into an incurved spur ca. 4 mm; mouth oblique. Upper petal pale greenish yellow, nearly orbicular, ca. 1.7 × 1.9 cm, apex rounded, abaxial midvein thickened, cristate above middle, crista ca. 5 mm high; lateral united petals pale greenish yellow, ca. 2.6 cm, 2-lobed; basal lobes oblong-obovate, ca. 1.6 × 0.8 cm, apex rounded; distal lobes oblong-obovate, ca. 1.7 × 0.8 cm, apex slightly retuse; auricle inflexed, rounded. Anthers ovoid, apex acute, connective glabrous. Fl. Aug. 2*n* = 36*.
+
+> ●  Forests, moist places; 1700-1900 m. SW Yunnan.

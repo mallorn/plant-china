@@ -1,0 +1,7 @@
+细辛叶兔儿风",
+10.**Ainsliaea asaroides** Y. S. Ye J. Wang & H. G. Ye, Nordic J. Bot. 28: 196. 2010.",
+
+## Description
+Herbs, perennial, 20-80 cm tall. Leaves above stem base; petiole 2-13 cm, wingless, villous; leaf blade ovate to narrowly ovate, 3-11 × 2-7 cm, subleathery, palmate-pinnate veined, abaxially pale, villous along veins, adaxially glabrous, base cordate to subcordate, margin callose-denticulate, ciliate, apex acute to obtuse or mucronate extended from midvein. Capitula subsessile or shortly pedunculate, arranged in panicles, 3- or 4-flowered; involucre cylindric, ca. 2 mm in diam.; phyllaries ca. 6- or 7-seriate, papery, abaxially glabrous, outer phyllaries ovate, 1-2.5 mm, inner narrowly elliptic, 7-10 mm. Florets bisexual, chasmogamous, white, corollas tubular, ca. 6 mm, deeply 5-lobed, lobes linear, unequal, anther appendages obtuse. Achenes terete or subfusiform, ca. 4 mm, ribbed, villous; pappus brownish, ca. 5 mm. Fl. Jul-Oct, fr. Sep-Nov. 2*n* = 26*.
+  "Reference": "*Ainsliaea asaroides* is very close if not identical to *A. fragrans*. It may no longer be possible to maintain them as separate species when additional gatherings become available.*Ainsliaea asaroides* is very close if not identical to *A. fragrans*. It may no longer be possible to maintain them as separate species when additional gatherings become available.
+  "Statistics": "● Riversides in forests; 600-700 m. Guangdong (Yangchun).

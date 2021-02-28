@@ -1,0 +1,8 @@
+蛇形弯梗芥",
+2.**Lignariella serpens** (W. W. Smith) Al-Shehbaz et al.",
+
+## Description
+Plants slender, short-lived perennial, glabrous throughout except for pedicels and sometimes fruit. Stems slender, few to many from base, decumbent, (1.5-)5-15(-30) cm. Leaves deeply 3(or 5)-lobed throughout, simple leaves absent; petiole glabrous, (2-)5-15(-40) mm; blade of central lobe oblong or ovate, rarely linear, entire or rarely 1-toothed on each side, (1.5-)3-8(-15) × (0.5-)1-3(-7) mm, apex obtuse to subacute; lateral lobes smaller, entire, 1- or 2-lobed or toothed, rarely leaves subternate. Fruiting pedicels (10-)15-30(-40) mm, strongly recurved or sigmoid, often filiform, adaxially puberulent with papillae to 0.1 mm. Sepals oblong, 1.5-5 × 0.7-1 mm, not saccate at base, scarious margin ca. 0.2 mm wide. Petals purple, broadly obovate, (2-)3-4(-4.5) × (1-)1.5-2.5(-3) mm, apex rounded, cuneate into a claw to 0.1 mm. Filaments purplish, 1.5-2.5 mm; anthers purple, ovate, 0.3-0.4 mm. Ovules 3-6 per ovary. Fruit ovoid or oblong, rarely oblong-linear, not geocarpic, often curved at middle, 2.5-8(-12) × 1-2(-2.5) mm; gynophore 0.5-3 mm; valves slightly torulose or not, glabrous or puberulent; style 1-1.5(-2) mm, stout. Seeds uniseriate, oblong, (1-)1.5-2.5 × (0.5-)0.8-1.2(-1.5) mm. Fl. Jun-Aug, fr. Jul-Oct.
+
+> Alpine peaty soil, scree, gravelly stream edges, turf among rocks and small shrubs; 2600-4300 m. Xizang [Bhutan, Nepal, Sikkim].
+  "Synonym": "&lt;I&gt;Cochlearia serpens&lt;/I&gt; W. W. Smith in W. W. Smith &amp; G. H. Cave, Rec. Bot. Surv. India 4: 175. 1911; &lt;I&gt;Lignariella hobsonii&lt;/I&gt; (H. Pearson) Baehni subsp. &lt;I&gt;serpens&lt;/I&gt; (W. W. Smith) H. Hara.

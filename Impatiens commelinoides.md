@@ -1,0 +1,7 @@
+鸭跖草状凤仙花",
+106.**Impatiens commelinoides** Handel-Mazzetti",
+
+## Description
+Plants annual, 20-40 cm. Stem procumbent, slender, branched, sparsely strigose in upper part, lower nodes slightly swollen, with many fibrous roots. Leaves alternate; petiole to 2 cm, strigose; leaf blade gray-green abaxially, dark green adaxially, ovate or ovate-rhombic, 2.5-6 × 1-3 cm, abaxially glabrous, adaxially strigose on veins, strigose-ciliate along margin, lateral veins 5-7 pairs, curved, base cuneate, margin sparsely serrate, apex acute or shortly acuminate. Inflorescences 1-flowered; peduncles 2-4 cm, strigose. Pedicels bracteate above middle; bracts persistent, lanceolate or linear-lanceolate, 3-5 mm, herbaceous. Flowers blue-purple. Lateral sepals 2, broadly ovate, ca. 5 × 3 mm, apex cuspidate. Lower sepal broadly funnelform, gradually narrowed into an incurved or involute spur ca. 1.5 cm. Upper petal orbicular, ca. 1 cm in diam., apex emarginate, mucronulate, abaxial midvein green, narrowly carinate; lateral united petals clawed, 1.2-1.5 cm, 2-lobed; both lobes orbicular, distal lobes larger; auricle absent. Filaments linear, compressed, ca. 3 mm; anthers ovoid, apex acute. Ovary erect, fusiform. Capsules linear-cylindric, ca. 1.8 cm. Seeds 5 or 6, brown, oblong-globose, 2-3 mm, smooth. Fl. Aug-Oct, fr. Nov.
+
+> ●  Along canals in valleys, margins of rice fields; 300-900 m. Fujian, Guangdong, Hunan, Jiangxi, Zhejiang.

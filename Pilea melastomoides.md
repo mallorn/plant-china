@@ -1,0 +1,17 @@
+长序冷水花",
+39.**Pilea melastomoides** (Poiret) Weddell",
+
+## Description
+Herbs perennial, robust or subshrubs, stoloniferous, glabrous, monoecious or dioecious. Stems blue green when dry, to 200 cm tall, ca. 1 cm in diam., succulent distally, woody at base, swollen between nodes, upper internodes shorter. Stipules persistent, triangular, ca. 2 mm, membranous; petiole equal in length, 2-9 cm; leaf blade abaxially pale green, adaxially often dark green or brownish, elliptic to elliptic-lanceolate, subequal in size, 10-23 × 5-16 cm, membranous, 3-veined, lateral veins many, spreading and regularly transverse, cystoliths fusiform, minute, often conspicuous abaxially, base cuneate or rarely subrounded, margin shallowly serrate or crenate, apex cuspidate or acuminate. Inflorescences solitary, male inflorescence a cymose-panicle, 15-35 cm overall, peduncle long and thick; female ones often shorter than petioles. Male flowers subsessile, in bud ca. 1 mm; perianth lobes 4, elliptic, apex acute or sometimes corniculate; stamens 4; rudimentary ovary minute. Female flowers subsessile, in bud ca. 0.8 mm; perianth lobes connate at base, subequal, abaxial lobe larger, subapically corniculate; staminodes 3, scale-like, oblong. Achene brownish, ellipsoid-ovoid, ca. 1 mm, compressed, almost not oblique, smooth or verrucose, with a slightly elevated ring by margin. Fl. Aug-Sep, fr. Oct-Nov.
+
+> Broad-leaved forests, shaded wet places by streams; 700-1800 m. SW Guangxi, Guizhou, Hainan, Taiwan, SE Xizang, S Yunnan [India, Indonesia, Sri Lanka, Myanmar, Vietnam].
+  "Synonym": "*Urtica* *melastomoides* Poiret, Encycl. Suppl. 4: 223. 1816; *Pilea* *cuneatifolia* Yamamoto; *P*. *ovatinucula* Hayata; *P*. *trinervia* (Roxburgh) Wight; *Urtica* *trinervia* Roxburgh.
+**40.长序冷水花（西藏植物名录）三脉冷水花（海南植物志），大冷水麻（台湾植物志）图版21: 5-7**
+
+Pilea melastomoides (Poir. ) Wedd. in Ann. Sci. Nat. Ser. 4, 1: 186. 1854; Bl. Mus. Bot. Lugd. -Bat. 2 (4): 54. 1856; Backer et Bakh. f. Fl. Java 2: 40. 1965; C. J. Chen in Bull. Bot. Res. (Harbin) 2 (3): 76. 1982; 中国高等植物图鉴, 补编1: 179, 图8446-1982; 西藏植物志1: 537, 图172 (1-2) . 1983; 云南种子植物名录, 上册734. 1984——Urtica melastomoides Poir. in Lam. Encycl. Bot. Suppl. 4: 223. 1816. ——U. trinervia Roxb. Fl. Ind. 3: 582. 1832. ——P. trinervia (Roxb.) Wight, Ic. Pl. Ind. Or. 6: 9, t. 1973. 1853; Bl. Mus. Bot. Lugd. -Bat. 2 (4): 57. 1856; Wedd. Monogr. Ureic. 224. 1856, et in DC. Prodr. 16 (1): 127. 1869; Hook. f. Fl. Brit. Ind. 5: 557. 1888; Gagnep. in Lecomte, Fl. Gen. Indo-Chine 5: 887. 1929; Hand. -Mazz. Symb. Sin. 7: 131. 1929, p. p. ; Merr. et Chun in Sunyatsenia 2: 217. 1935; 海南植物志2: 404, 图491. 1965; T. S. Liu et W. D. Huang in Li, Fl. Taiwan 2: 217. 1976. ——P. ovatinucula Hayata, Ic. Pl. Formos. 6: 48. 1916. ——？P. cuneatifolia Yamamoto, Suppl. Ic. Pl. f ormos. 1: 8. 1925. ——P. anisophylla auct. non Wedd. : C. H. Wright in Journ. Linn. Soc. Bot. 26: 475, p. p. quoad Pl. Taiwan.
+
+高大草本或半灌木，无毛；茎高达2米，粗达1厘米，上部肉质，干后常变蓝绿色，上部的节间密。叶大，椭圆形、宽椭圆形或椭圆状披针形，长10-23厘米，宽5-16厘米，先端凸尖或渐尖，基部楔形，稀近圆形，边缘除基部与先端全缘外，有浅锯齿或圆齿，干后变墨绿色，褐色，基出脉3条，侧脉多数，与中脉成直角水平开展，网脉在下面明显，钟乳体细小，条形，长0.1-0.2毫米；叶柄在同对的近等长，长2-9厘米；托叶小，三角形，长约2毫米。花雌雄异株或同株；雄花序聚伞圆锥状，具粗的长梗，直立，长15-35厘米，在上部有少数分枝，宽4-10厘米；雌花序聚伞圆锥状或分枝很短近穗状，长较叶柄长或短。雄花具短梗，在芽时长约1毫米；花被片4，合生至中部，裂片先端锐尖，有时在外面近先端处有一短角；雄蕊4;退化雌蕊不明.显。雌花无梗，长约0.8毫米；花被片3，不等大，中间的一枚最长，近船形，侧生二枚较短，三角形；退化雄蕊3，不明显；子房椭圆形。瘦果椭圆状卵形，几乎不歪斜，扁平，长1毫米，表面近光滑或有疣点，近边缘有一圈稍隆起的呈点状或虚线的环纹。花期8-9月，果期10-11月。
+
+产台湾、广东、海南、广西西南部、云南西南部及西藏东南部。常生常绿阔叶林下和山谷阴湿处，海拔700-1750米。印度、斯里兰卡、越南和印度尼西亚爪哇有分布。
+
+并入本种的P. trinervia Wight模式标本（采自印度南部）花序具较短的梗，连总花梗长不过叶，与本种其他地区的似乎稍有不同。

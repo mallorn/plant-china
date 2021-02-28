@@ -1,0 +1,6 @@
+旱谷黄耆",
+79.**Astragalus aridovallicola** P. C. Li Acta Bot. Yunnan. 11: 299. 1989.",
+
+## Description
+Plants with appressed white hairs. Stems several, branched near base, slender, prostrate, up to 15 cm, sparsely covered with hairs 0.1-0.2 mm. Leaves 2.5-5 cm; stipules greenish, 2-3 mm, lower ones shortly connate behind stem, upper free, all sparsely hairy; petiole 0.5-1.5 cm, with rachis loosely to rather densely hairy like stem; leaflets in 5-7 pairs, widely obovate to sub-orbicular, 3-6 × 2-4 mm, abaxially loosely covered with ap-pressed hairs 0.1-0.3 mm, adaxially sparsely hairy or with scattered hairs only, apex emarginate. Racemes loosely 3- or 4-flowered; peduncle 1.5-4.5 cm, erect, hairy like stem; bracts whitish membranous, 0.5-0.8 mm, white hairy. Calyx 4-5 mm, sparsely to loosely hairy; teeth unequal, 1-3 mm. Petals ?pale purple; standard widely ovate, ca. 8 × 5 mm, apex emarginate; wings ca. 6.5 mm; keel 7-7.5 mm, limbs ca. 5.5 × 3 mm. Leg-umes (immature) with a stipe ca. 2 mm, obliquely narrowly ellipsoid, ca. 10 mm, 1.5-2 mm high and wide, keeled ven-trally, deeply grooved dorsally, with a very short beak, 2-locu-lar; valves thin, loosely to rather densely covered with ap-pressed white hairs.
+  "Statistics": "● Sichuan.

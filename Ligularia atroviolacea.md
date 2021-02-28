@@ -1,0 +1,14 @@
+黑紫橐吾",
+45.**Ligularia atroviolacea** (Franchet) Handel-Mazzetti Bot. Jahrb. Syst. 69: 109. 1938.",
+
+## Description
+Stem erect, 25-60 cm tall, 3-5 mm in diam. at base, densely long blackish purple pilose, intermixed white arachnoid-puberulent in synflorescence. Basal leaves petiolate; petiole 7-15 cm, densely long blackish purple pilose, base narrowly sheathing; leaf blade ovate-cordate, 5-9 × 3.5-7 cm, abaxially shortly pilose, densely so along veins, adaxially glabrescent, pinnately veined, lateral veins 6-10 pairs, abaxially with conspicuous slender reticulate veins, base cordate, margin minutely denticulate, long blackish purple pilose between teeth, apex obtuse; sinus 1/4-1/3 as long as blade, narrow, basal lobes oblong, convergent. Middle stem leaves often solitary, similar but smaller, shortly petiolate; sheath enlarged, 3-4 × ca. 1.5 cm, densely long blackish purple pilose. Capitula 4-10, in corymb; leaflike and supplementary bracts subulate, shorter; peduncles 3-15 mm, densely long blackish purple pilose. Involucre narrowly campanulate or turbinate, 6-10 mm, mouth to 1 cm in diam., outside long blackish purple pilose; phyllaries 10-12, in 2 rows; outer phyllaries lanceolate and narrow; inner phyllaries oblong and ca. 2.5 mm wide, margin narrowly brown membranous, apex acute. Florets numerous, all tubular, yellow, 6-7 mm; tube ca. 3 mm. Achenes pale brown, cylindric, ca. 5 mm. Pappus yellowish, as long as tubular corolla. Fl. and fr. Aug-Dec.
+  "Statistics": "● Forest understories, grasslands; 3000-4000 m. SW Sichuan, NW Yunnan.
+  "Synonym": "*Senecio atroviolaceus* Franchet, Bull. Soc. Bot. France 39: 303. 1893; *Cremanthodium atroviolaceum* (Franchet) R. D. Good; *Senecillis atroviolacea* (Franchet) Kitamura; *Senecio* *oreotrephes* W. W. Smith.
+**31. 黑紫橐吾　图版9: 1-3**
+
+Ligularia atroviolacea (Franch.) Hand.-Mazz. in Bot. Jahrb. 69: 109. 1938. ——Senecio atroviolaceus Franch. in Bull. Soc. Bot. France 39: 303. 1892. ——S. oreotrephas W. W. Smith in Not. Bot. Gard. Edinb. 8: 116. 1913. ——Cremanthadium atroviolaceum (Franch.) Good in Journ. Linn. Soc. Bot. 48: 286. 1929; S. Y. Hu in Quart. Journ. Taiwan Mus. 19: 205. 1966; H. Koyama in Mem. Fac. Sci. Kyoto Univ. Ser. Biol. 2: 58. 1968. ——Senecillis atroviolacea (Franch.) Kitam. in Acta Phytotax. Geobot. 8: 87. 1939.
+
+多年生草本。根肉质，多数。茎直立，不分枝，高25-60厘米，被密的黑紫色有节长柔毛，上部近花序处混生白色蛛丝状毛，基部直径3-5毫米，被枯存叶柄纤维包围。丛生叶及茎下部叶具长柄，柄长7-15厘米，被密的黑紫色有节长柔毛，基部具狭鞘，叶片卵状心形，长5-9厘米，下部宽3.5-7厘米，先端钝，边缘具细齿，齿端具软骨质小尖头，齿间有黑紫色有节柔毛，基部心形，弯缺窄，长为叶片的1/3-1/4，裂片长圆形，不外展，上面近光滑，下面被短柔毛，脉上毛较密，叶脉羽状，具6-10对侧脉，网脉细，在下面较明显；茎中部常具1叶，与下部者同形．而较小，叶柄短，鞘膨大，长3-4厘米，宽约1.5厘米，被密的黑紫色有节柔毛。头状花序4-10，盘状，排列成伞房状花序，苞片及小苞片钻形，极短，被黑紫色有节短柔毛；花序梗长3-15毫米，被密的黑紫色有节短柔毛；总苞狭钟形或狭陀螺形，长6-10毫米，口部宽达10毫米，总苞片10-12，2层，外层狭，披针形，内层宽，长圆形，宽约2.5毫米，先端急尖，具褐色狭膜质边缘，背部被密的黑紫色有节短柔毛。小花全部管状，多数，黄色，长6-7毫米，管部长约3毫米，冠毛淡黄色，与花冠近等长。瘦果圆柱形，长约5毫米，光滑。花果期8-12月。
+
+产云南西北部。生于海拔3000-4000米的冷衫林下、高山草地。模式标本采自洱源（黑山门）。

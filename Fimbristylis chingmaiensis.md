@@ -1,0 +1,6 @@
+澄迈飘拂草",
+20.**Fimbristylis chingmaiensis** S. M. Huang Fl. Hainan. 4: 536. 1977.",
+
+## Description
+Annuals. Rhizomes absent. Culms tufted, 30-60 cm tall, 1-1.2 mm thick, slender, 5-angled, smooth, glabrous, bearing 1-3 bladeless sheaths at base. Leaves basal, shorter than culm; sheath pale brown, to 13 cm, margins membranous; ligule shortly ciliate; leaf blade linear, ca. 2 mm wide, midvein distinct, margins involute, apex acute. Involucral bracts 5-7, leaflike, ca. 3 cm, apex acuminate. Inflorescence a compound anthela, 3-5 cm; rays 5-7, to 3.5 cm, slender, unequal, 5-angled. Spikelets solitary, ovoid to oblong-ovoid, 2-2.5 × 1-1.2 mm, 7-9-flowered, apex acute. Glumes 7-11, spirally imbricate, overall pale chestnut-brown, ovate to broadly ovate, ca. 1.5 × 1-1.2 mm, membranous, abaxially keeled, midvein distinct and yellowish green, each side of midvein dark brown, margin apically hyaline, apex acute or mucronate. Stamens 3; anthers oblong, ca. 0.5 mm. Style 3-sided, not ciliate, basally inflated; stigmas 3. Nutlet white or pale brown, shortly stipitate, broadly obovoid, ca. 0.8 mm, obtusely 3-sided, with indistinct transverse oblong reticulation. Fl. autumn.
+  "Statistics": "● Deserted paddy fields. Fujian, Hainan (Chengmai).

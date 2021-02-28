@@ -1,0 +1,6 @@
+白里薹草",
+292.**Carex blinii** H. Léveillé & Vaniot Bull. Soc. Bot. France. 53: 316. 1906.",
+
+## Description
+Rhizome short. Culms lateral, tufted, 3-13 cm tall, trigonous, scabrous above, with dark brown sheaths 1-2 cm, sheaths disintegrating into fibers. Leaves basal, much surpassing culm, blades linear, 2-7 mm wide, flattish plicate, apex long acuminate. Lowest involucral bract leaflike, 1.5-2.5 cm surpassing inflorescence. Spikes 2-4, crowded; terminal spike male, linear-clavate, 3-5 mm; lateral spikes female, broadly elliptic or subglobose, 5-7 mm, slightly densely flowered, ± sessile. Female glumes dark brown or whitish, deltoid, deltoid-lanceolate, broadly ovate, or deltoid-ovate, 1.5-2.7 mm, margins hyaline, green 3-veined costa excurrent into a short mucro, apex acute or acuminate. Utricles longer than glume, patent, ovate-rhomboid, trigonous, 3-4 × 1.6-1.8 mm, glaucous, glabrous to puberulent, 10-14-veined, base shortly stipitate, apex gradually narrowed to a conic beak ca. 0.6 mm, orifice deeply 2-toothed with up to ca. 0.5 mm long teeth. Nutlets tightly enveloped, broadly ovate, trigonous, faces concave, 2.3-2.4 × ca. 1.6 mm; style base thickened; stigmas 3.
+  "Statistics": "Streamsides in evergreen forests, woods; 300-700 m. Guangxi, Guizhou, Shanghai [Thailand, Vietnam].

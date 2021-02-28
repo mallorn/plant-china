@@ -1,0 +1,15 @@
+短药肋柱花",
+13.**Lomatogonium brachyantherum** (C. B. Clarke) Fernald",
+
+## Description
+Annuals 2-15 cm tall. Stems prostrate, angular, much branched from base; branches slender, internodes short at base, elongated apically, glabrous. Basal and lower stem leaves short petiolate; leaf blade spatulate to spatulate-oblong, 1-1.5 cm &amp;#215; 2.5-3 mm, base cuneate, margin scabrous, apex obtuse, veins abaxially indistinct. Middle to upper stem leaves sessile, elliptic-lanceolate to elliptic, 3-6 &amp;#215; 2-3 mm, much shorter than internodes, base and apex obtuse, margin scabrous, veins abaxially indistinct. Flowers terminal, solitary, (4 or) 5merous. Pedicel prostrate to spreading, 1.2-3.8(-6) cm, slender, angular, glabrous. Calyx tube 1.5-2 mm; lobes elliptic to narrowly ovate, 4.5-6 mm, unequal, base obtuse, margin scabrous, apex acute, midvein distinct. Corolla blue to blue-purple, 5-8 mm in diam., tube 2-3 mm; lobes broadly elliptic, 8-10 mm, apex acuminate. Nectaries close to each other, lamellate, margin lobed. Filaments 4-5.5 mm; anthers yellow, ovoid, 1-1.5 mm. Ovary ovoid-ellipsoid, 5-7 mm, apex acuminate. Stigma lobes decurrent to apical part of ovary. Capsules ellipsoid-conic. Seeds brown, nearly broadly cylindric to subglobose, 0.5-0.7 mm in diam.; seed coat scabrous. Fl. and fr. Aug-Sep.
+
+> Beside streams, bogs, meadows around lakes, alpine meadows; 3200-5300 m. SW Gansu, Qinghai, Xizang [Afghanistan, Bhutan, India, Kashmir, Nepal, Pakistan, Sikkim].
+  "Synonym": "&lt;I&gt;Pleurogyne brachyanthera&lt;/I&gt; C. B. Clarke in J. D. Hooker, Fl. Brit. India 4: 120. 1883; &lt;I&gt;P&lt;/I&gt;. &lt;I&gt;diffusa&lt;/I&gt; Maximowicz; &lt;I&gt;P&lt;/I&gt;. &lt;I&gt;thomsonii&lt;/I&gt; C. B. Clarke; &lt;I&gt;Swertia carinthiaca&lt;/I&gt; Wulfen var. &lt;I&gt;afghanica&lt;/I&gt; Burkill; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;clarkei&lt;/I&gt; Knoblauch; &lt;I&gt;S&lt;/I&gt;. &lt;I&gt;lloydioides&lt;/I&gt; Burkill.
+**19．短药肋柱花**
+
+Lomatogonium brachyantherum (C. B. Clarke) Fern. in Rhodora 21: 197. 1919; Schmid in Fedde, Rep. Sp. Nov. 31: 61. 1932, #$# Schmid#$#; S. Nilsson in Grana Palyn. 5(3): 300. 1964 et 7(1): 109. 1967; Hara, Chater et Williams, Enum. Fl. Pl. Nepal 3: 95. 1982.——Pleurogyne brachyanthera C. B. Clarke in Hook. f. Fl. Brit. Ind. 4: 120. 1883: Hemsl. et Pears. in Journ. Linn. Soc. Bot. 35: 191. 1902; Иконн. мУайкунанДаи, раст. Памир.200, 1963.——Swertia brachyanthera (C. B. Clarke). Knobl. in Bot. Centralbl. 60(30): 388. 1894.——Pleurogynella beachyanthera (C. B. Clarke) Ikonn. in Nov. Syst. Pl. Vasc. 271. 1969, syn. nov.
+
+一年生草本，高1.5-4厘米。茎单一或由基部发出2-4个分枝，枝细瘦，紫红色，基部节间极短缩，上部花葶状。叶大部分生于茎下部，无柄或有短柄，椭圆形或匙状矩圆形，长2-6毫米，宽至3毫米，先端钝，基部稍狭缩，中脉在下面较明显。花4数，稀5数，单生茎或分枝顶端；花梗长5-20毫米；花萼长为花冠的1/2，长3-5毫米，裂片椭圆形或矩圆形，宽1-1.5毫米，先端急尖，背面中脉稍突起；花冠蓝色，裂片椭圆形，长5-8毫米，宽2-3毫米，先端急尖，无白色边缘，呈不明显的二色，基部有2个邻近的腺窝，腺窝片状，1侧边缘有少数裂片状齿；花丝线形，长2-3毫米，花药黄色，矩圆形或卵状矩圆形，长0.5-1毫米；子房长4-5毫米，无花柱，柱头下延于子房上部。蒴果与花冠等大；种子褐色，近球形，直径0.7毫米。花果期8-9月。
+
+产我国西藏西部和北部。生于河滩、山顶流石滩草甸中，海拔4900-5300米。模式标本采自西藏西部。帕米尔、喀喇昆仑、克什米尔地区、尼泊尔、锡金、不丹也有分布。

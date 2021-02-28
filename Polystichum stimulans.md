@@ -1,0 +1,17 @@
+猫儿刺耳蕨",
+16.**Polystichum stimulans** (Kunze ex Mettenius) Beddome Ferns Brit. India. t. 31. 1865.",
+
+> *Polystichum stimulans* was previously published by C. Presl (Tent. Pterid. 83. 1836) but as a nomen nudum and not therefore validly published (*Melbourne Code*, Art. 38.1(a)).
+
+## Description
+Plants evergreen. Rhizome erect, densely covered with lanceolate brown scales. Fronds 12-20 cm; stipe stramineous, 3-12 cm, 2-3 mm in diam. at base, scaly; scales brown or dark brown, lanceolate and filiform, denser at base of stipe. Lamina linear-lanceolate, 7-15 × 1.8-2.5 cm, not or slightly contracted at base, 1-pinnate but lower pinnae often pinnatifid, acuminate or long acuminate; rachis without proliferous bulbils, abaxially scaly; scales narrow, margins ciliate. Pinnae 10-16 pairs, alternate, attached at right angles to rachis, obliquely ovate nearly to deltoid, 8-14 × 6-8 mm, bases broadly obliquely cuneate, obliquely rounded-cuneate, or nearly cuneate, auricles deltoid, margins with small teeth, basal acroscopic margins of lower pinnae with 1 free pinnule or 1 or 2 pairs of lobes, apices acute, or acuminate and mucronate; lobes ovate, apex acute and mucronate; abaxially scaly; microscales filiform; frond texture hard leathery; venation pinnate on pinnae, indistinct on both surfaces. Sori in 1 row on each side of midrib; indusia present, toothed.
+
+> On rocks; 1700-3000 m. Sichuan, Xizang, Yunnan [Bhutan, N India, Nepal].
+  "Synonym": "*Aspidium stimulans* Kunze ex Mettenius, Abh. Senckenberg. Naturf. Ges. 2: 327. 1858; *A. ilicifolium* D. Don; *Dryopteris ilicifolium* (D. Don) Kuntze; *Polystichum ilicifolium* (D. Don) T. Moore (1858), not Fée (1850).
+**32．猫儿刺耳蕨（蕨类名词及名称）**
+
+Polystichum stimulans (Kunze ex Mett.) Bedd. Ferns Brit. Ind. Pl. 31. 1865; Tagawa in Hara, Fl. E. Himal. 1: 481. 1966; Nakaike in Misc. Publ. Nat. Sci. Mus. Tokyo 1982: 147. 1982; Dixit, Census Ind. Pterid. 160. 1984: Iwatsuki in Ohba et Malla, Himal. Pl. 1: 296. 1988; H. S. Kung in Act. Bot. Bor.-Occ. Sinica 9 (4): 267. 1989. ——Aspidium stimulans Kunze ex Mett. Farng. Pheg. Asp. 327. 1858: Hook. Sp. Fil. 4: 12. pl. 214. 1862.——A. ilicifolium Don, Prodr. Fl. Nepal. 3. 1825; Hopein Journ. Bomb. Nat. Hist. Soc. 14: 464. 1902. ——Polystichum stimulans Presl, Tent. Pterid. 83. 1836 nom. nud.; C. Chr. in Contr. U. S. Nat. Herb. 26: 285. 1931; Mehra et Bir. in Res. Bull. Punj. Univ. 15 (1-2): 127. 1964; Nayar et Kaur, Compan. Bedd. Handb. Ferns Brit. Ind. 48. 1974; Khullar et Gupta in Nova Hedwigia32: 432. f. 40-45. 1980; Ching et al. in C. Y. Wu, Fl. Xizang. 1: 207. 1983: S. K. Wu et X. Cheng in W. T. Wang, Vasc. Pl. Hengduan Mts. 1: 144. 1993. ——P. ilici-folium (Don) Moore, Ind. Fil. 94. 1858 non Fee 1852; Bedd. Handb. Ferns Brit. 206. f. 103. 1883; Daigobo in H. L. Li et al. Fl. Taiwan 1: 392. 1975.——P. leivingeiNair in Bull. Bot. Surv. Ind. 11: 192. f. 1. 1969.——P. acanthophyllum auct. non (Franch.) Christ: Hu et Ching, Ic. Fil. Sin. 1: Pl. 10. 1930. ——P. acanthophyllum (Franch.) Christ var. indicum auct non Christ: Ching et al. in C. Y. Wu, Fl. Xizang. 1: 207. 1983.
+
+植株高12-20厘米。根茎直立，密生披针形棕色鳞片。叶簇生，叶柄长3-12厘米，基部直径2-3毫米，禾秆色，腹面有纵沟，有披针形及纤毛状的棕色或暗棕色鳞片，在基部较密；叶片线状披针形，长7-15厘米，宽1.8-2.5厘米，先端渐尖或长渐尖，基部不变狭或略变狭，一回羽状但下部羽片常分裂；羽片10-16对，互生，平伸，斜卵形至近三角形，长8-14毫米，宽6-8毫米，先端急尖或渐尖呈刺状，基部宽的斜楔形、斜的圆楔形或近截形，上侧有三角形耳状凸，边缘有小齿，下部羽片基部上侧有1个分离的羽片或1-2对裂片，裂片卵形，先端急尖有刺头；羽片具羽状脉，两面均不明显。叶为较硬的革质，背面有纤毛状鳞片；叶轴腹面有纵沟，背面有边缘具纤毛的狭鳞片。孢子囊群位于主脉两侧；囊群盖圆形，盾状，边缘齿裂状。
+
+产西藏、云南、四川、贵州。垂直分布海拔1700-3000米。印度北部、尼泊尔、锡金、不丹均有分布。

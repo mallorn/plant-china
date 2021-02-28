@@ -1,0 +1,14 @@
+异喙菊",
+1.**Heteracia szovitsii** Fischer & C. A. Meyer Index Sem. Hort. Petrop. 1: 30. 1835.",
+
+## Description
+Herbs 5-30(-40) cm tall, annual. Taproot slender. Stem erect to ascending, sparsely furcately branched from base, glabrous. Basal leaves narrowly elliptic, obovate, or narrowly spatulate, 3-8 × 0.5-1.5 cm, undivided or shallowly pinnatifid to pinnatisect, glabrous, base attenuate, margin entire or sinuate-dentate, apex rounded to acute; lateral lobes (if present) triangular to narrowly elliptic, unequal. Stem leaves narrowly ovate to lanceolate, 3-7 × 0.5-1.5 cm, base sagittately clasping, otherwise similar to basal leaves. Capitula solitary or few, terminal or in axils of branches, sessile or on a distally somewhat thickened peduncle to usually ca. 4 cm at fruiting, with 20-50 florets. Involucre stout cylindric and 4-6 × 4-5 mm at anthesis, flat hemispheric and 5-10 mm in diam. in fruit. Outer phyllaries 2-5, triangular, 1-2 mm, subequal; inner phyllaries lanceolate, ca. 8, subequal. Achene with body 3-4 mm, of 2 kinds; outer achenes grayish brown, broadly obconical, compressed, with 5 ± rugose ribs, lateral ribs strongly winglike and enlarged, with a stout to slender 0.8-1.8 mm beak; inner achenes slenderly obconical, with 5 unequal, apically acute verruciform or scaly ribs, with a filiform beak to 8-10 mm strongly exceeding involucre. Pappus absent in outer achenes, mostly present or more rarely absent in inner achenes, white, 3-5 mm. Fl. and fr. Apr-Jun. 2*n* = 8.
+  "Statistics": "Deserts or semideserts; 800-1000 m. Xinjiang [Kazakhstan, Kyrgyzstan, Russia (E European part), Tajikistan, Turkmenistan, Uzbekistan; SW Asia].
+  "Synonym": "*Heteracia epapposa* (Regel &amp; Schmalhausen) Popov; *H. szovitsii* var. *epapposa* Regel &amp; Schmalhausen.
+**1.异味菊 图版15: 2**
+
+Heteracia szovitsii Fisch. et C. A. Mey. in Ind. Sem. Hort. Petrop 1: 29. 1835; DC., Prodr. 7: 178. 1838; Jaub. et Spach, Ill. Pl. Orient. 3: 125. 1847-1850; Ledeb., Fl. Ross. 2: 830. 1845-1846; Boiss., Fl. Or. 3: 724. 1875; Vass. in URSS 29: 591. 1964;中国高等植物图鉴4: 671, 图6756. 1975; 中国沙漠植物志3: 414. 1992. ——H. szovitsii Fisch. et C. A. Mey. var. epapposa Rgl. et Smalh. in Act. Hort. Petrop. 6: 329. 1878.——H. epapposa (Rgl. et Smalh.)M. Pop. ВТр. Узб. Гос. Унив. Сер. Биол. 14: 88. 1941.
+
+一年生草本，高5-30 (40)厘米。茎直立，少分枝，或自基部有铺散的分枝，分枝不等二叉状，全部茎枝无毛。根细，垂直直伸。基生叶长椭圆形或长椭圆状倒卵形，包括叶柄长3-8厘米，宽0.5-1.5厘米，边缘有锯齿至羽状浅裂或羽状深裂，顶端钝或圆形，基部渐狭成长或短柄；茎生叶长椭圆状卵形或披针形，长3-7厘米，宽5-15毫米，基部无柄，箭头状抱茎或半抱茎，边缘全缘或有小锯齿；全部叶两面无毛。头状花序单生枝端或单生枝叉处，但无花序梗或有极短的花序梗，或少数头状花序沿茎成穗状花序式排列，无花序梗，果期6-9(12)毫米。总苞钟状；总苞片2层，外层极小，2-5枚，内层8-10枚，披针形，草质，基部连合。舌状小花黄色，多数。外层瘦果宽，倒卵形，灰褐色，压扁，边缘有翅，顶端有短喙，喙长0.8-1.8毫米，喙顶无冠毛；内层瘦果脱落，细长，长圆柱形，上部被瘤状或鳞片状突起，上部急狭成长8毫米的长喙，喙顶有长4-5毫米的白色冠毛。花果期4-6月。
+
+分布新疆（乌鲁木齐、沙湾、奎屯、玛纳斯）。生于荒漠或半荒漠。俄罗斯（欧洲部分）、高加索、哈萨克斯坦、乌兹别克斯坦、西亚及伊朗有分布。模式标本采自外高加索地区。

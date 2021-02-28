@@ -1,0 +1,7 @@
+桂南秋海棠",
+10.**Begonia austroguangxiensis** Y. M. Shui & W. H. Chen",
+
+## Description
+Herbs rhizomatous. Rhizomes 4-7 cm, 3-4 mm in diam.; internodes 2-3 mm, sparsely hirsute-villous. Leaves all basal; stipules triangular, 5-6 × 2-3 mm, margin entire; petiole 6-20 cm, hirsute-villous; blade broadly ovate or suborbicular, 5-9 × 6-8 cm, abaxially tomentose-pilose on major veins and sparsely so on minor veins, adaxially flat and very sparsely setulose, base obliquely deeply cordate, margin serrulate and ciliate, apex rounded or obtuse. Inflorescences axillary, flowers 5-12 in a dichasial cyme; peduncle 3-20 cm, pilose or subglabrous; bracts triangular, ovate or rounded, 2.5-5 × 2-3.5 mm, margin entire or serrulate and ciliate. Staminate flowers: tepals 4, outer 2 pinkish or white, suborbicular or broadly ovate, 8-17 mm in diam., abaxially pilose or glabrous, inner 2 white, obovate to oblanceolate, 8-14 × 3-4 mm; stamens numerous; filaments nearly free, 1-1.5 mm; anthers obovoid, 1-1.3 mm, apex subemarginate. Pistillate flowers: tepals 3, outer 2 pinkish or white, suborbicular, 6-9 mm in diam., inner 1 obovate, 4-7 × 2-3.5 mm; styles 3, free, 2-3 mm; ovary 1-loculed with parietal placentation. Capsule nodding, 8-9 × 10-12 mm, pilose or glabrous, apex with persistent styles; wings 3, unequal, lunate, larger one 3-6 mm. Fl. May-Oct.
+
+> ● Limestone forests, on rocks in shaded environments; 200-600 m. Guangxi (Longzhou).

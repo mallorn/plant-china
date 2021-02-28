@@ -1,0 +1,6 @@
+石屏木蓝",
+8.**Indigofera shipingensis** X. F. Gao Novon. 19: 159. 2009.",
+
+## Description
+Shrubs. Stems with dense appressed brown medifixed 2-branched trichomes. Stipules subulate, ca. 4 mm. Leaves 1-foliolate; petiole 1-1.5 cm, with usually dense appressed brown medifixed 2-branched trichomes and fewer spreading tri-chomes; petiolule 2-4 mm, with appressed 2-branched tri-chomes; stipels 1.5-2.5 mm; leaflet blade oblong to elliptic-ovate, 3-4 × 2-2.5 cm when young, both surfaces with ap-pressed brown medifixed 2-branched trichomes, abaxially canescent, secondary veins 12-15 on each side of midvein. Racemes 3.5-6 cm, densely flowered; peduncle 4-7 mm; bracts subulate, 1-1.5 mm. Pedicel ca. 2 mm. Calyx ca. 2 mm, outside with dense spreading white 2-branched trichomes with un-equally long arms; tube ca. 1 mm; teeth ± equaling tube. Co-rolla standard obovate, ca. 7 mm, outside with dense spreading white and soft 2-branched trichomes; wings narrowly oblong, 1.6-1.8 mm wide, margin ciliate; keel densely spreading hairy at apex, spur ca. 1 mm. Stamens 6-7 mm; anthers glabrous. Ovary with white dense appressed 2-branched trichomes. Fl. Apr, fr. unknown.
+  "Statistics": "● Trailsides. S Yunnan (Shiping).

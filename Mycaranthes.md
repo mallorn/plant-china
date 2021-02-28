@@ -1,0 +1,10 @@
+拟毛兰属",
+122.**Mycaranthes** Blume Bijdr. 352. 1825.",
+
+> About 25 species: Bhutan, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Nepal, New Guinea, Philippines, Singapore, Thailand, Vietnam; two species in China.
+
+## Description
+Herbs, epiphytic, lithophytic, or rarely terrestrial. Stem short or elongate, usually slender, cylindric, of few to many internodes, lacking pseudobulbs, with leaves along whole length. Leaves alternate, in a biseriate arrangement on stem axis, conduplicate or rarely terete, usually long and narrow, articulate, base tightly enveloping stem, sometimes imbricate at base, sheaths persistent. Inflorescences subterminal or terminal, 1 or usually more than 1 together (as many as 12 in robust plants), with dense, short, stellate hairs, with numerous crowded small flowers; floral bracts triangular, usually small, broad at base and covered by short stellate hairs. Flowers spirally arranged, usually cream-colored or greenish yellow, sometimes adorned with small purple spots; pedicel, ovary, and abaxial surface of sepals tomentose, covered with similar hairs to inflorescence. Sepals and petals widely spreading. Dorsal sepal elliptic to triangular, acute; lateral sepals obliquely triangular, broadened at base, acute. Petals narrow, smaller than sepals; lip distinctly 3-lobed, or simple, rigid, perpendicular to long column foot; lateral lobes (when present) often erose; callus 2-partite, farinose, with a powdery median ridge that usually ends in a protruding globose callus at tip. Column erect, short, foot long; stigma almost circular or semicircular, large; anther cap hat-shaped, ventral side almost flat, usually not covering anther tightly, leaving pollinia fully exposed, hinged at base via a thin filament; pollinia 8, clavate, equal in size, with a common caudicle.
+  "keylist": "
+1 Leaves terete; flowers 1-2 cm in diam.[*M. pannea* 指叶拟毛兰](Mycaranthes pannea.md)
+1 Leaves dorsiventrally compressed; flowers 0.3-0.5 cm in diam.[*M. floribunda* 拟毛兰",](Mycaranthes floribunda.md)

@@ -1,0 +1,14 @@
+红腺蛇根草",
+61.**Ophiorrhiza rufopunctata** H. S. Lo Bull. Bot. Res., Har-bin. 10(2): 15. 1990.",
+
+## Description
+Herbs, weak at base, ascending above, to 15 cm tall; stems brownish hispidulous or -strigose. Leaves in somewhat unequal pairs; petiole 0.3-1.5 cm, pilosulous or hirsutulous; blade drying papery, oblong-ovate, ovate, or broadly ovate, 3-8(-10) × 2-3.5 cm, adaxially glabrescent and usually with scattered reddened gland dots, abaxially with red gland dots and glabrous or hispidulous to strigose on veins, base obtuse to subrounded or subcordate, often oblique, margins undulate, apex obtuse, subrounded, or acute; secondary veins 4 or 5 pairs; stipules persistent at least on upper nodes, subtriangular to ovate, 2-3 mm, obtuse and glandular at apex. Inflorescence 1-flowered or usually cymose and 2-5-flowered, densely brown hispidulous; peduncle ca. 1 cm; bracteoles linear-subulate, ca. 3 mm, usually hirtellous and/or with reddish gland dots. Flowers distylous, on short pedicels. Calyx hispidulous and/or with red gland dots; hypanthium turbinate to ellipsoid, ca. 3 mm, 5-ribbed; lobes linear, ca. 3 mm, each sinus with 1 gland. Corolla pale purple, funnelform; tube 18-22 mm, white villous or pilosulous above middle and densely pilosulous at middle inside; lobes ovate, 4-5 mm, dorsally ridged and with very small horn. Capsules 5-6 × ca. 11 mm, hispidulous. Fl. Nov.
+  "Reference": "In the protologue and FRPS (71(1): 118. 1999), H. S. Lo noted that the short-styled flowers have the anthers situated in the upper part of the corolla tube and the stigmas situated near its middle, while the long-styled flowers have the anthers situated near the middle of the corolla tube and the stigmas in its throat.In the protologue and FRPS (71(1): 118. 1999), H. S. Lo noted that the short-styled flowers have the anthers situated in the upper part of the corolla tube and the stigmas situated near its middle, while the long-styled flowers have the anthers situated near the middle of the corolla tube and the stigmas in its throat.
+  "Statistics": "● Wet places in forests. Sichuan.
+**1. 红腺蛇根草（植物研究）图版26：1-8**
+
+Ophiorrhiza rufopunctata Lo in Bull. Bot. Res. 10 (2): 15. 1990.
+
+矮小草本，高10-15厘米；茎稍肉质，下部卧地生根，嫩枝、花序、萼、果均被褐色短硬毛或糙毛。叶片纸质，长圆状卵形或卵形，有时阔卵形，长3-8厘米，有时达10厘米，宽2-3.5厘米，顶端钝或微圆，有时短尖，基部阔楔形，近圆形或偶有微心形，常两侧稍不对称，边缘浅波状，上面无毛或近无毛，通常散生红色腺点，中脉上较多，下面无毛或脉上被短柔毛，亦有红色腺点；侧脉疏离，纤细，每边4-5条，上面不明显，下面稍凸起；叶柄粗壮，长0.3-1.5厘米，被柔毛或硬毛；托叶近三角形，长2-3毫米，顶部有一腺体。花序顶生，总梗长约1厘米，被褐色硬毛，有花2-5朵，很少1朵；花二型，花柱异长；长柱花：花梗短，小苞片1或2片，线状钻形，长约3毫米，通常和花萼均被硬毛或有红色腺点；萼管陀螺形，长约3毫米，5棱，萼裂片5，线形，长约3毫米，裂片间有1腺体；花冠芽时近棒状，顶部5棱，淡紫色，近漏斗状，喉部阔大，管长1.8-2.2厘米，里面中部以上生白色柔毛，中部很密，裂片5，卵形，长4-5毫米，有中脉；雄蕊5，生冠管中部，花丝长约0.5毫米，花药近长圆形，长约1.5毫米；花柱长约1.9厘米，柱头薄，2裂，裂片长约2毫米；短柱花：花萼和花冠外形同长柱花；雄蕊生喉部；花柱长7-8.5毫米，柱头长约3毫米。蒴果宽1.1厘米，长5-6毫米，被短硬毛。花期11月。
+
+我国特有，产于四川峨眉山、天全、马边和南川；生于林下湿处。模式标本采自四川峨眉山。

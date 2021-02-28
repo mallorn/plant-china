@@ -1,0 +1,7 @@
+侧花乌头",
+65.**Aconitum secundiflorum** W. T. Wang",
+
+## Description
+Caudex unknown. Stem 32--42 cm, ca. 2 mm in diam., apically shortly branched, glabrous, 5--8-leaved. Proximal cauline leaves long petiolate, withered at anthesis, and distal leaves shortly petiolate; petiole 1.5--5 cm, sparsely pubescent, base shortly and narrowly sheathed; leaf blade pentagonal, 4.8--5.5 × 4.8--6.4 cm, herbaceous, abaxially glabrous or subglabrous, adaxially sparsely pubescent, 3-parted; central lobe rhombic, apex long acuminate, 3-fid; lateral lobes obliquely flabellate, unequally 2-parted slightly beyond middle. Inflorescence terminal, 6.5--10 cm, 3--5-flowered on one side; rachis and pedicels spreading pubescent; bracts leaflike, shortly stipitate. Pedicels 1--4 cm, with 2 bracteoles bordering flower, bracteoles leaflike or narrowly elliptic, 0.9--1.7 cm × 2.5--14 mm, 2- or 3-lobed. Sepals blue, abaxially pubescent; lower sepals obliquely elliptic or long elliptic, ca. 1.1 × 0.4--0.7 mm; lateral sepals obliquely broadly obovate, ca. 1.4 × 1.6 cm; upper sepal galeate, 1.4--1.6 cm high, shortly beaked, ca. 1.5 cm from base to beak. Petals ca. 9 × 3 mm; claw ca. 1.1 cm, sparsely pubescent; spur decurved, ca. 1.2 mm, glabrous; lip ca. 5 mm, 2-lobed, sparsely pubescent. Stamens sparsely ciliate; filaments entire. Carpels 4, sparsely pubescent. Fl. Aug.
+
+> * Slopes; 2800--2900 m. Sichuan (Maowen Qiang Zu Zizhixian).

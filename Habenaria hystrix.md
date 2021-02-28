@@ -1,0 +1,6 @@
+粤琼玉凤花",
+34.**Habenaria hystrix** Ames Orchidaceae. 2: 35. 1908.",
+
+## Description
+Plants 28-45 cm tall. Tubers oblong, ca. 3 × 1 cm, fleshy. Stem erect, terete, stout, with 5 or 6 leaves below middle and 5-8 bractlike leaves above. Leaf blade narrowly elliptic or oblong, 9-16 × 3-5 cm, base contracted and amplexicaul, apex acuminate or acute. Raceme 6-10-flowered, 8-11 cm; peduncle and rachis ridged, ridges villous; floral bracts ovate, ca. 1.5 cm, shorter than ovary, ciliate, apex acuminate; ovary twisted, cylindric-fusiform, slightly ridged, including pedicel ca. 18 mm. Flowers white or greenish white. Dorsal sepal forming a concave hood with petals, broadly ovate, ca. 6 × 6-6.5 mm, 3-veined; lateral sepals reflexed, strongly oblique, ovate, ca. 7 × 6 mm, 3-veined, apex acute. Petals obliquely triangular-lanceolate, ca. 6 × 2 mm, simple, 1-veined, apex long acuminate; lip longer than sepals, deeply 3-lobed from base; lobes parallel, filiform; lateral lobes 20-22 mm; mid-lobe 20-24 mm, base with 1 obtusely conic callus; spur spreading horizontally, cylindric-clavate, 16-20 mm, ca. as long as ovary, slightly dilated toward apex; stigmas narrowly elliptic, ca. 1.5 mm. Fl. Aug-Sep. 2*n* = 42.
+  "Statistics": "Forests, along valleys; 300-400 m. Guangdong, W Hainan [Indonesia (Kalimantan), Philippines].

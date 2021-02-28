@@ -1,0 +1,14 @@
+网脉橐吾",
+59.**Ligularia dictyoneura** (Franchet) Handel-Mazzetti Vegetationsbilder. 22(Heft 8): 6. 1932.",
+
+## Description
+Plants grayish green. Stem erect, purplish red, 33-124 cm tall, 2.5-4 mm in diam. at base, solid, glabrous. Basal leaves petiolate; petiole 8-22 cm, glabrous, below rounded, above flat, middle to distal petioles narrowly winged; leaf blade oblong, ovate, or suborbicular, 8-30 × 5-21 cm, glabrous, pinnately veined, midvein robust, to 5 mm wide, with prominent reticulate lateral veins on both surfaces, base cordate or slightly subtruncate, margin dentate or subentire, apex rounded. Middle to distal stem leaves subsessile, obovate to ovate, 7-16 × 4-11 cm, base semiamplexicaul or tubular-amplexicaul, margin dentate, apex obtuse. Distalmost stem leaves sessile, ovate-lanceolate to linear. Synflorescence racemose, to 30 cm, initially densely clustered, elongating in fruit, lax; leaflike and supplementary bracts linear, less than 1 cm; peduncles unequal, to 6.5 cm, densely shortly yellowish brown pilose. Capitula numerous. Involucre turbinate or subcampanulate, 6-9 × 4-5 mm, outside dark brown, glabrous; phyllaries 6-8, in 2 rows, oblong, 3-4 mm wide, brown ciliate, apex broadly triangular, acute, or shortly mucronate; inner phyllaries broadly membranous at margin. Ray florets 4-6, yellow; lamina oblong, 6-8(-20) × 3-4 mm, apex rounded; tube ca. 3 mm. Tubular florets numerous, 5-6 mm, higher than involucre; tube 2.5-3 mm. Achenes dark brown, cylindric, 3.5-5.5 mm. Pappus yellowish white, as long as tubular corolla. Fl. Jun-Aug. 2*n* = 58*.
+  "Statistics": "● Stream banks, forest understories, grassy slopes, scrub; 1900-3600 m. SW Sichuan, Xizang, NW Yunnan.
+  "Synonym": "*Senecio dictyoneurus* Franchet, Bull. Soc. Bot. France 39: 294. 1893; *Ligularia platyphylla* Handel-Mazzetti; *Senecillis dictyoneura* (Franchet) Kitamura.
+**102.网脉橐吾（中国高等植物图鉴）图版26：5-8**
+
+Ligularia dictyoneura (Franch.) Hand. -Mazz. in Vegetationsbild. 22: Heft. 8: 6. 1932. in obs., Symb. Sin. 7: 1140. 1936 et in Bot. Jahrb. 69: 120. 1938; S. Y. Hu in Quart. Journ. Taiwan Mus. 20: 57. 1967;中国高等植物图等 4: 588.图6589. 1975. ——Senecio dictyoneurus Franch. in Bull. Soc. Bot. France 39: 294 1892; Levl. Cat. Pl. Yunnan 51. 1916. ——Senecillis dictyoneura (Franch.) Kitam in Acta Phytotax. Geobot. 8: 86. 1939.
+
+多年生灰绿色草本。根肉质，粗壮。茎直立，紫红色，高33-124厘米，光滑，实心，具白色髓，基部直径2.5-4毫米，被厚的褐色枯叶柄纤维包围。丛生叶具柄，柄长8-22厘米，光滑，上面平，下面圆形，截面为半圆形，实心，坚硬，上半部有狭翅，叶片卵形、长圆形或近圆形，长8-30厘米，宽5-21厘米，先端圆形，边缘有锯齿或仅有软骨质小齿，基部心形，叶革质，两面光滑，叶脉羽状，中脉粗，宽达5毫米，侧脉网状在两面均明显突起；茎中下部叶近无柄，叶片倒卵形或卵形，长7-16厘米，宽4-11厘米，先端钝，边缘有齿，基部半抱茎或下部者鞘状抱茎；茎上部叶无柄，卵状披针形至线形。总状花序长达30厘米，幼时密集近头状，后伸长，疏散；苞片及小苞片线形，长不逾10毫米；花序便不等长，长达6.5厘米，被密的黄褐色有节短柔毛；头状花序多数，辐射状；总苞陀螺形或近钟形，长6-9毫米，宽4-5毫米，总苞片6-8，2层，长圆形，宽3-4毫米，先端宽三角形，急尖或有短尖头，被褐色睫毛，背部黑褐色，光滑，内层具宽膜质边缘。舌状花黄色，4-6，舌片长圆形，长6-8（20）毫米，宽3-4毫米，先端圆形，管部长约3毫米；管状花多数，高于总苞，长5-6毫米，管部长2.5-3毫米，冠毛黄白色，与花冠等长。瘦果（未熟）光滑。花期6-9月。
+
+产云南西北部、四川西南部。生于海拔1900-3600米的水边、林下、灌丛及山坡草地。模式标本采自云南大理。

@@ -1,0 +1,101 @@
+柳叶箬属",
+180.**Isachne** R. Brown",
+
+## Description
+Annual or perennial. Culms erect or decumbent or creeping, many-noded. Leaf blades narrowly lanceolate to ovate, margin frequently white and thickened; ligule a line of stiff hairs. Inflorescence an open or contracted panicle, branches and pedicels sometimes spotted with yellow glandular patches. Spikelets with 2 florets, florets both bisexual or lower floret bisexual or male and upper floret male or female, separated by a short internode or contiguous, disarticulating below each floret; glumes falling soon after florets, subequal, 3/4 to as long as spikelet, 5–9-veined; lower lemma variable, resembling the upper or of different size and texture; upper lemma orbicular to broadly elliptic, papery to leathery, glabrous or pubescent with short curved hairs, 5–7-veined, obtuse. Stamens 3. Caryopsis ellipsoid or subglobose.
+  "Statistics": "About 90 species:throughout the tropics, but mainly in Asia; 18 species (four endemic) in China.
+  "keylist": "
+1 Florets unequal in size and of different texture; lower floret longer, flatter and more delicate——(2)
+1 Florets equal in size or nearly so and of similar texture——(4)
+2(1) Upper floret 1/2 length of lower floret; panicle eglandular.[*I. hainanensis* 海南柳叶箬](Isachne hainanensis.md)
+2 Upper floret slightly shorter and broader than lower floret; panicle glandular——(3)
+3(2) Perennial; culms to 80 cm tall, nodes glabrous; leaf blades narrowly lanceolate, 3–11 cm.[*I. globosa* 柳叶箬](Isachne globosa.md)
+3 Annual; culms to 25 cm tall, nodes hispid; leaf blades ovate-amplexicaul, 2–3 cm.[*I. pulchella* 矮小柳叶箬](Isachne pulchella.md)
+4(1) Spikelets 2 mm or more——(5)
+4 Spikelets less than 2 mm——(10)
+5(4) Panicle branches and pedicels glandular——(6)
+5 Panicle branches and pedicels eglandular——(8)
+6(5) Leaf sheaths longer than internodes; nodes pubescent; glumes truncate.[*I. truncata* 平颖柳叶箬](Isachne truncata.md)
+6 Leaf sheaths shorter than internodes; nodes glabrous; glumes obtuse to rounded——(7)
+7(6) Leaf blades linear, 0.3–1 cm wide, suberect; panicle 5–14 cm; spikelets globose.[*I. himalaica* 喜马拉雅柳叶箬](Isachne himalaica.md)
+7 Leaf blades lanceolate, 0.8–1.8 cm wide, ascending; panicle 17–25 cm; spikelets elliptic to obovate.[*I. hoi* 浙江柳叶箬](Isachne hoi.md)
+8(5) Lemmas densely ciliate along margins, otherwise glabrous; culms 30–60 cm tall.[*I. ciliatiflora* 纤毛柳叶箬](Isachne ciliatiflora.md)
+8 Lemmas not above; culms 5–25 cm tall——(9)
+9(8) Leaf blades ovate-lanceolate or lanceolate 1–1.8 cm wide; glumes densely scabrid-hispidulous, obtuse or subrounded.[*I. repens* 匍匐柳叶箬](Isachne repens.md)
+9 Leaf blades narrowly lanceolate, 0.4–0.8 cm wide; glumes glabrous, subacute.[*I. sikkimensis* 锡金柳叶箬](Isachne sikkimensis.md)
+10(4) Culms up to 30 cm tall, often much less; plant decumbent or mat-forming——(11)
+10 Culms 30–100 cm tall, erect or ascending; plant tufted——(14)
+11(10) Leaf blades linear-lanceolate, 2–6 cm; pedicels often glandular.[*I. clarkei* 小柳叶箬](Isachne clarkei.md)
+11 Leaf blades lanceolate-ovate, 1–3.5 cm; pedicels eglandular——(12)
+12(11) Panicle branches and pedicels minutely scaberulous; leaf blades 2–3.5 cm, abruptly acuminate.[*I. nipponensis* 日本柳叶箬](Isachne nipponensis.md)
+12 Panicle branches and pedicels smooth; leaf blades 1–2 cm, acute——(13)
+13(12) Spikelets 1–1.4 mm; panicle with 15–30 spikelets (fewer in depauperate specimens)[*I. myosotis* 荏弱柳叶箬](Isachne myosotis.md)
+13 Spikelets 1.4–2 mm; panicle sparse, usually with fewer than 12 spikelets.[*I. pauciflora* 瘦脊柳叶箬](Isachne pauciflora.md)
+14(10) Panicle eglandular; spikelets 1–1.5 mm, whitish.[*I. albens* 白花柳叶箬](Isachne albens.md)
+14 Panicle glandular (sometimes sparsely); spikelets 1.2–2 mm, green, purplish or brownish——(15)
+15(14) Leaf blades 1–2.5 cm, sheaths very short; panicle 1.5–4 cm, branches stiffly horizontal.[*I. confusa* 紊乱柳叶箬](Isachne confusa.md)
+15 Leaf blades 3–20 cm, sheaths not short; panicle 4–22 cm, branches ascending or spreading——(16)
+16(15) Leaf blades 3–10 × 0.4–0.8 cm; leaf sheaths glabrous (except margin)——(17)
+16 Leaf blades 9–20 × 1–2.4 cm; leaf sheaths hairy——(18)
+17(16) Glumes boat-shaped, usually glabrous, rarely hispidulous or scaberulous above middle; leaf sheaths shorter than internodes.[*I. globosa* 柳叶箬](Isachne globosa.md)
+17 Glumes ovate-elliptic, hirtellous above middle; leaf sheaths about as long or longer than internodes.[*I. guangxiensis* 广西柳叶箬](Isachne guangxiensis.md)
+18(16) Leaf sheaths densely hirsute; leaf blades 9–12 × 1.3–2.4 cm.[*I. sylvestris* 刺毛柳叶箬](Isachne sylvestris.md)
+18 Leaf sheaths hispid with sharp patent hairs; leaf blades 12–20 × 1–1.2 cm.[*I. scabrosa* 糙柳叶箬",](Isachne scabrosa.md)
+**3. 柳叶箬属——Isachne R. Br.**
+
+R. Br. Prodr. Fl. Nov. Holl. 196. 1810.
+
+多年生或一年生草本。具扁平的叶片和疏散顶生的圆锥花序；小穗小，卵圆形或卵状球形，含2小花，均为两性或第一小花为雄性，第二小花为雌性，无芒，两小花的节间甚短，常连同两小花一起脱落；两颖近等长，草质，迟缓脱落；小花的背部拱凸，腹面扁平，两小花的内外稃均为革质，或第一小花的内外稃为草质，第二小花为革质，无毛或被毛；鳞被2,微小；雄蕊3枚，花柱2叉裂，柱头帚状。颖果椭圆形或近球形，与稃体分离。
+
+约140余种，分布于全世界的热带或亚热带地区。我国现知有16种和7变种，主要分布于长江流域以南各省。
+
+模式种：柳叶箬 I. australis R. Br=I. globosa（Thunb.）Kuntze（Milium globosum Thunb.）.
+
+## 检索表
+
+1 小穗的2小花同质同形，多为两性；浮体均为革质，但有少数种类第一小花可为雄性，略较第二小花窄，稃体质地亦可较第二小花稍软而薄。——(2)
+1 小穗的两小花异质异形；第一小花为雄性，形体较窄而长，稃体为草质；第二小花为两性，稃体为革质；植株通常匍匐地面形成草皮，稀仅基部节上生根而倾斜。——(22)
+2 植株匍匐地面，节上生根，通常可形成草皮，仅花枝直立，高5-30厘米；叶片多为卵状披针形；圆锥花序较小，长2-6厘米。——(3)
+2 植株直立，或仅基部节卧地而倾斜，但不形成草皮，通常高在30厘米以上；叶片多为线状披针形或披针形，稀卵状披针形；圆锥花序较大，长8-25厘米。——(7)
+3 小穗长在2毫米以下；颖具5-7脉；花序分枝及小穗柄较纤细。——(4)
+3 小穗长约2毫米或过之；颖具7-11脉：花序分枝及小穗柄较粗直。 ——[匍匐柳叶箬](Isachne%20repens.md)
+4 圆锥花序长约2厘米；花枝高3-10厘米；叶片长不超过2厘米，宽3-5毫米，边缘狭膜质。——(6)
+4 圆锥花序长2-6厘米；花枝高15-30厘米；叶片长2-5厘米，宽7-15毫米，边缘软骨质。——(5)
+5 花序分枝及小穗柄均具腺斑。 ——[江西柳叶箬 ](Isachne%20nipponensis var. kiangsiensis.md)
+5 花序分枝及小穗柄均不具腺斑。 ——[日本柳叶箬（原变种）](Isachne%20nipponensis var. nipponensis.md)
+6 圆锥花序分枝较多，每一分枝具2-6个小穗；植株直立部分高可达10厘米。 ——[荏弱柳叶箬](Isachne%20debilis.md)
+6 圆锥花序分枝少，或简化为总状，每一分枝具1小穗，花序通常仅有小穗2-5枚；植株直立部分高2-5厘米。 ——[瘦瘠柳叶箬](Isachne%20depauperata.md)
+7 颖片顶端渐尖或钝圆，但不为截平或凹头状；叶鞘多短于节间，在秆上不为跨覆状排列。——(11)
+7 颖片顶端截平状或微凹；叶鞘长于节间，在秆上跨覆排列。——(8)
+8 叶片质地较坚硬，干后不皱褶；花序分枝劲直。——(9)
+8 叶片质地较薄，干后皱褶状，花序分枝细弱而蛇曲。  ——[皱叶柳叶箬](Isachne%20truncata var. crispa.md)
+9 叶片较小，长2-10厘米，宽5-16毫米。——(10)
+9 叶片较大，长12-14厘米，宽1.8-2.5厘米。 ——[硕大柳叶箬](Isachne%20truncata var. maxima.md)
+10 叶鞘无毛或仅上部疏生短柔毛。 ——[平颖柳叶箬（原变种）](Isachne%20truncata var. truncata.md)
+10 叶鞘上部具疣基短刺毛。 ——[心叶柳叶箬](Isachne%20truncata var. cordata.md)
+11 叶鞘，或至少下部的叶鞘具疣基小刺毛。——(12)
+11 叶鞘无疣基小刺毛，或仅于边缘及鞘口具纤毛。——(15)
+12 圆锥花序长不超过10厘米，宽2-4厘米；小穗长不及2毫米。——(13)
+12 圆锥花序长达20厘米，宽8-12厘米，开展；小穗长约2毫米。 ——[浙江柳叶箬](Isachne%20hoi.md)
+13 秆在各节之下无腺斑状环圈；叶片披针形。——(14)
+13 秆在各节之下具明显的腺斑状环圈；叶片长卵状披针形。——[刺毛柳叶箬（原变种）](Isachne%20hirsuta var. hirsuta.md)
+14 圆锥花序较紧密；小穗卵状披针形。 ——[窄花柳叶箬](Isachne%20hirsuta var. angusta.md)
+14 圆锥花序较疏松；小穗椭圆形。 ——[永修柳叶箬](Isachne%20hirsuta var. yongxiouensis.md)
+15 小穗长1.2-1.8毫米。——(16)
+15 小穗长2-2.5毫米。——(20)
+16 植株高在50厘米以内；圆锥花序较小，长5-14厘米，宽3-5厘米，着生小穗较前者稍疏；小穗绿色至暗紫色。——(18)
+16 植株高50-100厘米以上；圆锥花序开展，长15-25厘米，宽6-12厘米，着生小穗较密；小穗灰白色。 ——(17)
+17 花序分枝及小穗柄不具腺斑。 ——[白花柳叶箬（原变种）](Isachne%20albens var. albens.md)
+17 花序分枝及小穗柄具腺斑。 ——[腺斑柳叶箬](Isachne%20albens var. glandulifera.md)
+18 花序分枝及小穗柄具腺斑。——(19)
+18 花序分枝及小穗柄不具腺斑。 ——[小花柳叶箬](Isachne%20beneckei.md)
+19 颖片略长于小穗，顶端尖或骤尖。 ——[广西柳叶箬](Isachne%20guangxiensis.md)
+19 颖片短于或等长于小穗，顶端钝或圆形；一年生。 ——[细弱柳叶箬](Isachne%20tenuis.md)
+20 花序分枝及小穗柄不具腺斑；颖片顶端渐尖或急尖，稀钝圆形；两小花的外稃边缘密生纤毛。 ——[纤毛柳叶箬](Isachne%20ciliatiflora.md)
+20 花序分枝及小穗柄具腺斑；颖片顶端钝或圆形；两小花的外稃边缘无密生的纤毛或仅第一小花外稃的边缘具纤毛。——(21)
+21 花序分枝及小穗柄较细弱而长，圆锥花序开展；第一小花的外稃通常无纤毛。 ——[柳叶箬 (原变种) ](Isachne%20globosa var. glabosa.md)
+21 花序分枝及小穗柄粗壮而短，圆锥花序缩紧成圆筒形；第一小花的外稃通常具纤毛。 ——[紧穗柳叶箬](Isachne%20globosa var. compacta.md)
+22 花序分枝及小穗柄具腺斑；第一小花略较第二小花窄长。——(23)
+22 花序分枝及小穗柄无腺斑；第一小花倍长于第二小花。——[海南柳叶箬](Isachne%20hainanensis.md)
+23 第一小花外稃背部无纵沟；植株节上生根而匍匐地面。 ——[二型柳叶箬](Isachne%20dispar.md)
+23 第一小花外稃背部具纵沟；植株仅以基部节上生根而倾斜。 ——[类黍柳叶箬](Isachne%20miliacea.md)

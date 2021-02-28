@@ -1,0 +1,17 @@
+白楸",
+27.**Mallotus paniculatus** (Lamarck) Müller Argoviensis",
+
+## Description
+Shrubs or trees, 3-15 m tall. Branchlets reddish stellate-tomentulose. Stipules small; petiole 2-15 cm; leaf blade rhombic, ovate, or triangular-ovate, often 1-3-lobed or 3-cuspidate, 5-15 × 3-12 cm, thickly papery, adaxially glabrescent, abaxially grayish tomentulose, base cuneate, sometimes slightly peltate, with 2 large basal glands, apex acuminate; basal veins 3-5. Male and female inflorescences often branched, 10-25 cm, tomentulose; bracts ovate, 1-2 mm. Male flowers 2-7-fascicled; pedicel 2-3 mm; calyx lobes 3 or 4, ovate, 2-2.5 mm, stellate-puberulent; stamens 50-60. Female flowers: sepals 4 or 5, oblong, 2-3 mm, tomentulose; ovary tomentulose; styles 3, ca. 3 mm, plumose. Fruiting pedicel ca. 2.5 mm; capsule 3-locular, ca. 10 mm in diam., tomentulose, sparsely softly spiny, spines subulate, 4-5 mm. Seeds subglobose, ca. 4 mm in diam., blackish, verruculose or smooth. Fl. Jul-Oct, fr. Oct-Dec.
+
+> Mountain slopes, thickets, secondary forests; below 100-1300 m. S Fujian, Guangdong, Guangxi, Guizhou, Hainan, Taiwan, Yunnan [Bangladesh, Cambodia, India, Indonesia, Laos, Malaysia, Myanmar, Papua New Guinea, Philippines, Thailand, Vietnam; NE Australia].
+  "Synonym": "*Croton paniculatus* Lamarck, Encycl. 2: 207. 1786; *Echinus trisulcus* Loureiro; *Mallotus chinensis* Müller Argoviensis; *M. cochinchinensis* Loureiro; *M. formosanus* Hayata; *M. paniculatus* var. *formosanus* (Hayata) Hurusawa; *Rottlera paniculata* (Lamarck) A. Jussieu.
+**17.白揪（中国树木分类学）力树（海南），黄背桐（广西临桂），白叶子（台湾）图版9：3-5**
+
+Mallotus paniculatus (Lam.) Muell. Arg. in Linnaea 34: 189. 1865. et in DC. Prodr. 15 (2): 965. 1866; Hayata in Journ. Coll. Sci. Tokyo 30: 271. 1911; Merr. in Philipp. Journ. Sci. Bot. 7: 400. 1912, et in Lingnan Sci. Journ. 5: 110. 1927, et in Trans. Amer. Philos. Soc. 24 (2): 237. 1935; 海南植物志2: 153. 1965; Airy Shaw in Kew Bull. 26: 298. 1972; C. F. Hsieh in Fl. Taiwan 3: 482. 1977. ——Croton paniculatus Lam. Encycl. Meth. Bot. 2: 207. 1786.——Echinus trisulcus Lour. Fl. Cochinch. 633. 1790; Hook. f. F1. Brit. Ind. 5: 430. 1887. ——Rottlera alba Rush. ex Jack Malaya Misc. 1: 26. 1820; Roxb. Fl. Ind. 3: 829. 1832. ——R. paniculata (Lam.) A. Juss. Euphorb. Gen. Tent. 33. 1824; Benth. F1. Hongk. 307. 1861.——Mallotus albus (Rosh. ex Jack) Muell. Arg. in Linnaea 34: 188. 1865, et in DC. Prodr.15(2): 965. 1866. ——M. chinensis Lour. ex Muell. Arg. in DC. Prodr. l. c., in syn. sphalm. ——M. formosanus Hayata in Journ. Coll. Sci. Tokyo 30: 269. 1911.——M. pantculatus Muell. Arg. var. formosanus (Hayata) Hurusawa in Journ. Fac. Sci. Univ. Tokyo Sect. Ⅲ 6 (6): 307. 1954.——M. cochinchinensis Lour. Fl. Cochinch. 635. 1790; Forb. et Hemsl. in journ. Linn. Soc. Bot. 26: 439. 1894; Pax et Hoffm. in Engl. Pflanzenr. 63 (IV. 147. VII) 166. 1914; Gagnep. in Lec. F1. Gen. Indo——Chine 5: 355. 1925;陈嵘, 中国树木分类学619,图516. 1937.
+
+乔木或灌木，高3-15米；树皮灰褐色，近平滑；小枝被褐色星状绒毛。叶互生，生于花序下部的叶常密生，卵形、卵状三角形或菱形，长5-15厘米，宽3-10厘米顶端长渐尖，基部楔形或阔楔形，边缘波状或近全缘，上部有时具2裂片或粗齿；嫩叶两面均被灰黄色或灰白色星状绒毛，成长叶上面无毛；基出脉5条，基部近叶柄处具斑状腺体2个，叶柄稍盾状着生，长2-15厘米。花雌雄异株，总状花序或圆锥花序，分枝广展，顶生，雄花序长10-20厘米；苞片卵状披针形，长约2毫米，渐尖，苞腋有雄花2-6朵，雄花：花梗长约2毫米；花蕾卵形或球形；花萼裂片4-5，卵形，长2-2.5毫米，外面密被星状毛；雄蕊50-60枚。雌花序长5-25厘米；苞片卵形，长不及1毫米，苞腋有雌花1-2朵；雌花：花梗长约2毫米；花萼裂片4-5，长卵形，长2-3毫米，常不等大，外面密生星状毛；花柱3，基部稍合生，柱头长2-3毫米，密生羽毛状突起。蒴果扁球形，具3个分果爿，直径1-1.5厘米，被褐色星状绒毛和疏生钻形软刺，长4-5毫米，具毛；种子近球形，深褐色，常具皱纹。花期7-10月，果期11-12月。
+
+产于云南、贵州、广西、广东、海南、福建和台湾。生于海拔50-1 300米林缘或灌丛中。分布于亚洲东南部各国。模式标本采自印度尼西亚（爪哇）。
+
+木材质地轻软；种子油可作工业用油。

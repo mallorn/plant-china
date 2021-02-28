@@ -1,0 +1,17 @@
+显脉瘤蕨",
+4.**Phymatosorus membranifolius** (R. Brown) S. G. Lu Guihaia. 19: 27. 1999.",
+
+> Beddome (Ferns S. India, t. 176. 1864) named material of *Phymatosorus membranifolius* as *Pleopeltis longissima* (Blume) T. Moore.
+
+## Description
+Rhizome 10-15 mm in diam., scaly; scales brown, orbicular or oblong, peltate, thin, margin irregularly toothed, apex rounded. Stipe straw-colored, 30-40(-50) cm, ca. 5 mm in diam., glabrous. Lamina usually pinnatifid, rarely pinnately ternate, dark green, 50-80 × 30-40 cm, or simple, 15-25 × 4-5 cm; lateral lobes usually (2 or)3-10(-12) pairs, ascending, broadly lanceolate, 15-20 × 3-4 cm, papery, both surfaces glabrous, base somewhat narrowed, margin subentire, apex caudate-acuminate; veins all distinct, areoles with forked included veinlets. Sori orbicular, ca. 4 mm in diam., in 1 row on each side of midrib, medial, abaxially distinctly hollow and adaxially distinctly raised.
+
+> Terrestrial or on rocks in tropical rain forests; 200-1200 m. Hainan, Taiwan, Yunnan [Cambodia, India, Indonesia, Malaysia, Philippines, Sri Lanka, Thailand, Vietnam; Pacific islands (Polynesia)].
+  "Synonym": "*Polypodium membranifolium* R. Brown, Prodr. 147. 1810; *Microsorum membranifolium* (R. Brown) Ching; *M. nigrescens* (Blume) Copeland; *Phymatodes nigrescens* (Blume) J. Smith; *P. nigrescens* var. *variabilis* (Ching) C. Christensen &amp; Tardieu; *P. variabilis* Ching; *Phymatosorus nigrescens* (Blume) Pichi Sermolli; *P. variabilis* (Ching) Pichi Sermolli; *Pleopeltis* *nigrescens* (Blume) Carruthers; *Polypodium nigrescens* Blume.
+**4.显脉瘤蕨 图版32: 2**
+
+Phymatosorus membranifolius (R. Br.) S. G. Lu in Guihaia 19 (1): 27. 1999. ——Polypodium membranifolium R. Br., Prodr. 147. 1810. ——Microsorummem branifolium (R. Br.) Ching in Bull. Fan Mem. Inst. Biol. 10: 239. 1941; S. B.Andrews, Ferns of Queensland 280. F. 28. 5. D. 1990; Noot. In Blumea 42: 339. 1997; Hovenk. in Fl. Mal. 3: 114. 1998. ——Polypodium nigrescens Blume, Enum. Pl. Jav. 126. 1828; Fl. Jav. Fil. 161. t. 70. 1829; Christ in Bull. Boiss. 6: 201. 1898. ——Phymatodes nigrescens (Blume) J. Sm., Ferns Br. For. 94. 1866; Tardieu et C. Chr. in Fl. Indo-Chine 7 (2): 473. 1941: Holttum, Ferns of Mal. 1: 193. 1954; Rev. Fl. Mal. 2: 193. f. 95. 1955. ——Pleopeltis nigrescens (Blume) Carr. in Seem., Fl. Vit. 368. 1873; Bedd., Handb. 367. f. 208. 1883. ——Microsorum nigrescens (Blume) Copel., Occ. Pap. B. P. Bishop Mus. 14: 74. 1938; Tagawa et K. Iwat., Fl. Thailand 3 (4): 532. 1989. ——Phymatosorus nigrescens (Blume) Pic. Serm. in Webbia 28 (2): 459. 1973; Jarrett et al., Ind. Fil. Suppl. 5: 135. ——Phymatodes variabilis Ching in Contr. Inst. Bot. Nat. Acad. Peiping 2 (3): 64. pl. 3. 1933; Ching et al. in W. Y. Chun, Fl. Hainan. 1: 175. 1964. ——Phymatodes nigrescens var. variabilis (Ching) C. Chr. et Tardieu. in Fl. Indo-Chine 7 (2): 473. 1941. ——Phymatosorus variabilis (Ching) Pic. Serm. in Webbia 28 (2): 460. 1973; Jarrett et al., Ind. Fil. Suppl. 5: 135. 1985. ——Pleopeltis longissima (Blume) T. Moore in Bedd., Ferns S. Ind. pl. 176. 1864 (excl. nom.) ; Ferns Br. Ind. t. 388. 1876 (excl. nom.) .
+
+土生植物。根状茎长而横走，粗1-1.5厘米，被鳞片；鳞片卵圆形，盾状着生，长约4毫米，宽约3毫米，质薄，边缘不整齐，褐色。植株高达1米，叶远生；叶柄禾秆色，长约30-40厘米，粗约5毫米，光滑无毛；叶片单叶不分裂或3裂至羽状深裂；裂片斜展，通常5-10对，长约15-20厘米，宽约3-4厘米，顶端渐尖，边缘全缘。叶脉两面均极明显，侧脉曲折，不直达叶边；小脉网状，具分叉的内藏小脉。叶片膜质，两面光滑无毛。孢子囊群大，圆形，在裂片中脉两侧各1行，位于中脉与边缘之间，在叶片表面形成明显的乳头状突起。
+
+产云南、海南。生于林下石上，海拔200-1200米。越南、柬埔寨、泰国、印度、斯里兰卡、菲律宾、马来西亚、印度尼西亚、新几内亚岛、澳大利亚及波利尼西亚等也有分布。模式标本采自澳大利亚。

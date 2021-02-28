@@ -1,0 +1,7 @@
+那坡螺序草",
+25.**Spiradiclis napoensis** D. Fang & Z. M. Xie Acta Phytotax. Sin. 40: 154. 2002.",
+
+## Description
+Herbs, ca. 65 cm tall, presumably perennial, procumbent at base, ascending above; stems moderately to densely curved pubescent. Leaves somewhat anisophyllous and clustered near top of stem; petiole 0.7-2 cm, densely curved pubescent; blade drying thinly papery to submembranous, adaxially dark green, abaxially pale, narrowly ovate to broadly ovate, 4-7 × 1.5-3.5 cm, adaxially pilosulous to glabrescent, abaxially glabrescent or curved pubescent along principal veins, base rounded to obtuse then decurrent, apex acuminate; secondary veins 8-10 pairs; stipules linear-subulate, 2-8 mm, glabrous, 2-lobed, lobes ca. 1 mm. Inflorescences cymose, 8-10-flowered, densely curved pubescent; peduncles 0.3-0.5 cm; axes 1-4 mm, puberulent; bracteoles linear, 6-10 mm, glabrous. Flowers distylous. Calyx puberulent to glabrescent; hypanthium portion ellipsoid, ca. 2 mm; limb deeply lobed; lobes narrowly triangular, ca. 2.5 mm, with a gland in each sinus. Corolla in bud white tinged with pink, subtubular, glabrous outside; tube ca. 12 mm, inside villous in throat; lobes subovate, ca. 5 mm, acute. Capsules unknown. Fl. Apr-May.
+  "Reference": "Details of the long-styled and short-styled flowers are given in the protologue.Details of the long-styled and short-styled flowers are given in the protologue.
+  "Statistics": "● Forests in valleys of limestone hills; ca. 1000 m. Guangxi (Napo).

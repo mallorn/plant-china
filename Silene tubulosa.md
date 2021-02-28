@@ -1,0 +1,9 @@
+管花蝇子草",
+49.**Silene tubulosa** Oxelman & Lidén",
+
+> &lt;I&gt; Silene tubulosa &lt;/I&gt; is not similar to any other species of &lt;I&gt; Silene&lt;/I&gt;. The name alludes to the petals that together form a small tube protruding from the calyx.
+
+## Description
+Herbs perennial. Rootstock short and sturdy, with a few robust roots, crowned by a few small, sterile leaf rosettes. Stems few, caespitose, erect to ascending, 15--25 cm, with a rather dense mixture of long, glandular hairs and some shorter, reflexed, eglandular hairs. Basal leaves long petiolate with leaf blade decurrent on petiole; petiole 1--4 cm; leaf blade suborbicular to narrowly ovate, 2--5 × 1--4 cm, abaxially glaucous and hairy, especially at veins and margin, adaxially subglabrous, apex obtuse to subacute. Distal leaves shortly petiolate; leaf blade lanceolate to elliptic, 1--2 cm × 5--10 mm, apex acute. Inflorescence a lax, irregular, unequally branched, 1--10-flowered thyrse; cymules long stalked, 2--4 cm, 1(or 3)-flowered; bracts lanceolate, small, herbaceous. Pedicel 5--15 mm. Calyx pale green with indistinct veins, campanulate at first, soon becoming ± inflated and subglobose, sparsely to densely pubescent; teeth obtuse to subacute at apex. Androgynophore ca. 2 mm, densely woolly. Petals greenish white, ± straight and erect, together forming a short tube exserted beyond calyx by 1--3 mm, each petal oblong, narrowed toward hairy base, 9--10 mm, ca. 1.5 mm wide at apex, without distinct lamina, claw, or coronal scales; apex truncate, ± irregularly notched or sometimes bifid. Stamens and styles long exserted beyond petal tube by up to 5 mm. Filaments white; anthers dark brown. Styles 3, greenish white. Seeds unknown.
+
+> * Granite boulders in deep shade of Betula forests, grassy cliff ledges, steep hillsides; 3600--4100 m. Xizang.

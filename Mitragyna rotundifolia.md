@@ -1,0 +1,15 @@
+帽蕊木",
+3.**Mitragyna rotundifolia** (Roxburgh) Kuntze Revis. Gen. Pl. 1: 289. 1891.",
+
+## Description
+Trees, perhaps deciduous, to 30 m tall; branches angled to subterete, glabrous to glabrescent. Petiole 15-60 mm, glabrous to densely pilosulous; leaf blade drying papery, suborbicular to broadly elliptic or ovate, 9-25 × 6-20 cm (to 75 cm on seedlings and sprouts), adaxially glabrous to puberulent, abaxially sparsely to densely pilosulous or tomentulose, base rounded to cordate, apex rounded to obtuse; secondary veins 5-7 pairs, spreading, sometimes with pilosulous domatia in abaxial axils; stipules elliptic-oblong to ovate, 13-50 × 5-30 mm, pilosulous, keeled, apex obtuse to rounded. Inflorescences densely puberulent to pilosulous; peduncles 1-3 mm (i.e., portion above articulation of subtending leaves but not including internode below node bearing inflorescence); flowering heads 1-5, 7-10 mm in diam. across calyces, 15-20 mm in diam. across corollas; bracteoles linear-spatulate, 1-1.5 mm, glabrous or sparsely pubescent. Calyx glabrous; ovary portion 1.5-3 mm; limb ca. 0.5 mm, subtruncate to lobed for ca. 1/2; lobes triangular, obtuse. Corolla yellowish white, outside glabrous, densely hairy inside; tube 2-3 mm; lobes narrowly oblanceolate, 4-5 mm, acute. Fruiting heads 10-16 mm in diam. Capsules 3-5 mm, weakly ridged, with persistent calyx thickened; seeds ca. 1 mm. Fl. [Aug-Nov], fr. Sep, Dec.
+  "Reference": "This species was illustrated by Ridsdale (Blumea 24: 66, f. 8. 1978). Puff et al. (Rubiaceae of Thailand, 46. 2005) noted that in Thailand this species is most often found in deciduous vegetation and is common in secondary vegetation.This species was illustrated by Ridsdale (Blumea 24: 66, f. 8. 1978). Puff et al. (Rubiaceae of Thailand, 46. 2005) noted that in Thailand this species is most often found in deciduous vegetation and is common in secondary vegetation.
+  "Statistics": "Dense forests; ca. 1000 m. S Yunnan [Bangladesh, India, Laos, Myanmar, Thailand].
+  "Synonym": "*Nauclea rotundifolia* Roxburgh, Fl. Ind. 2: 124. 1824; *Mitragyna brunonis* (Wallich ex G. Don) Craib; *N. brunonis* Wallich ex G. Don.
+**1. 帽蕊木（云南种子植物名录）帽柱木（中国高等植物图鉴）图版62**
+
+Mitragyna rotundifolia (Roxb.) Kuntze Rev. Gen. Pl. 1: 289. 1891; Ridsd. in Blumea 24 (1): 66. 1978.——Nauclea rotundifolia Roxb. Fl. Ind. ed. Carey 2: 124. 1824.——N. brunonis Wall. ex G. Don, Gen. Hist. 3: 467. 1834.——Mitragyna brunonis (Wall. ex G. Don) Craib, Fl. Siam. Enum. 2: 11. 1932; 中国高等植物图鉴4: 187, 图5787. 1975.
+
+乔木，高达30米；树皮灰褐色，粗糙，纵裂，内皮亮褐色，木材黄褐色；嫩枝有棱角或圆形，无毛或有短柔毛。叶对生，圆形至阔椭圆形或扁圆形，长14-25厘米，宽10-20厘米（苗木及萌芽枝上的叶长达75厘米），顶端圆或短尖，基部圆或心形，上面无毛，下面被较稀疏至稠密的短柔毛；侧脉6-10对，脉腋有毛窝；叶柄长2-6厘米，无毛或有稀疏短柔毛；托叶椭圆状长圆形至卵形，长2.5-5厘米，宽1.7-3厘米，全缘，有龙骨，外面有短柔毛，龙骨处及脉上被毛尤甚，内面无毛，基部有粘液毛。头状花序不计花冠直径7-10毫米，顶生，常3个一簇，中间的具极短的总梗，侧生的具长达3.6厘米的总梗；花无柄；小苞片线状匙形，略有龙骨，比花萼裂片略长或近等长，顶部无毛或疏被短柔毛，边具缘毛；花萼管长2-3毫米，无毛，萼裂片钝，三角形至线状匙形，无毛；花冠黄白色，高脚碟状至狭漏斗状，长约6.5毫米，外面无毛，内面有稠密的毛，在喉部尤甚，毛常突出管口，花冠裂片狭倒披针形。长4-5毫米，内面有毛，尤以基部和沿中脉最甚；雄蕊着生于花冠近喉部，花丝短，花药伸出花冠喉部且伸展；花柱伸出花冠外，柱头长棒形，长1.5-2毫米，子房2室；胚珠多数。果序直径10-16毫米，蒴果长3-5毫米，略有棱脊，宿存萼檐不明显。种子小，多数，两端有短翅，下部的翅浅2裂。花期春夏。
+
+产于云南南部；生于海拔1000米处的密林中。国外分布于印度、孟加拉国、缅甸、泰国、老挝等。

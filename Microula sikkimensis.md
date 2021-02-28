@@ -1,0 +1,15 @@
+微孔草",
+8.**Microula sikkimensis** (C. B. Clarke) Hemsley",
+
+## Description
+Stems erect or ascending, not crowded, frequently branched from base, or not branched, 6-65 cm tall, bristly, sometimes sparsely strigose. Basal and lower stem leaves long petiolate, broadly lanceolate to ovate or narrowly ovate, 4-12 &amp;#215; 0.7-4.4 cm, base rounded to broadly cuneate, apex acute to acuminate, rarely obtuse; upper stem leaves gradually reduced upward, short petiolate to sessile, narrowly ovate to broadly lanceolate, short strigose, abaxially bristly along midvein, adaxially sparsely bristly, hairs discoid at base, base attenuate, margin entire. Inflorescences terminal, crowded, 0.5-1.5 cm wide, sometimes slightly elongated to ca. 2 cm; basal bracts leaflike, other bracts 0.5-2 mm. Pedicel densely short strigose. Calyx ca. 2 mm, to 3.5 mm in fruit, parted nearly to base; lobes linear to narrowly triangular, sparsely pubescent and long hispid outside, margin densely pubescent and short strigose inside. Corolla blue or blue-purple; tube 2.5-3.8 mm, glabrous; appendages low trapeziform or lunate, ca. 0.3 mm, glabrous or short pubescent; limb 5-9(-11) mm wide, glabrous; lobes suborbicular. Nutlets ovoid, &amp;#177; dorsiventrally compressed, 2-2.5 &amp;#215; ca. 1.8 mm, with fine tubercles and short hairs; aperture in middle and upper parts of abaxial surface, narrowly oblong, 1-1.5 mm; attachment scar at center of adaxial surface. Fl. May-Sep.
+
+> Hillside meadows, thickets, forest margins, river banks, fields; 2900-4500 m. Gansu, Qinghai, SW Shaanxi, W Sichuan, SE Xizang, NW Yunnan [Bhutan, India, Nepal, Sikkim].
+  "Synonym": "&lt;I&gt;Anchusa sikkimensis&lt;/I&gt; C. B. Clarke in J. D. Hooker, Fl. Brit. India 4: 168. 1883; &lt;I&gt;Anoplocaryum limprichtii&lt;/I&gt; Brand; &lt;I&gt;Tretocarya sikkimensis&lt;/I&gt; (C. B. Clarke) Oliver.
+**8．微孔草（中国高等植物图鉴）图版30：4-5**
+
+Microula sikkimensis (Clarke) Hemsl. in Hook. Ic. Pl. 26: sub pl. 2562. 1898; Hemsl. et Pearson in Journ. Linn. Soc. Bot. 35: 192. 1902; Johnst. in Journ. Arn. Arb. 14: 30. 1933; Hand. -Mazz. Symb. Sin. 7: 820. 1936;中国高等植物图鉴3: 图5081. 1974.——Anchusa sikkimensis Clarke in Hook. f. Fl. Brit. Ind. 4: 168. 1883.——Tretocarya sikkimensis (Clarke) Oliv. in Hook. Ic. Pl. 23: pl. 2255. 1893; Hemsl. in Journ. Linn. Soc. Bot. 34: 138. 1894; Breslau in Repert. Sp. Nov. Beih. 12: 437. 1922.——Anoplocaryum limprichtii Brand in Repert. Sp. Nov. 26: 170. 1929; in Engl. Pflanzenr. IV. 252 (Heft 97): 115, f. 12. 1931.
+
+茎高6-65厘米，直立或渐升，常自基部起有长或短的分枝，或不分枝，被刚毛，有时还混生稀疏糙伏毛。基生叶和茎下部叶具长柄，卵形、狭卵形至宽披针形，长4-12厘米，宽0.7-4.4厘米，顶端急尖、渐尖，稀钝，基部圆形或宽楔形，中部以上叶渐变小，具短柄至无柄，狭卵形或宽披针形，基部渐狭，边缘全缘，两面有短伏毛，下面沿中脉有刚毛，上面还散生带基盘的刚毛。花序密集，直径0.5-1.5厘米，有时稍伸长，长约达2厘米，生茎顶端及无叶的分枝顶端，基部苞片叶状，其他苞片小，长0.5-2毫米；花梗短，密被短糙伏毛；花萼长约2毫米，果期长达3.5毫米，5裂近基部，裂片线形或狭三角形，外面疏被短柔毛和长糙毛，边缘密被短柔毛，内面有短伏毛；花冠蓝色或蓝紫色，檐部直径5-9（-11）毫米，无毛，裂片近圆形，筒部长2.5-3.8（-4）毫米，无毛，附属物低梯形或半月形，长约0.3毫米，无毛或有短毛。小坚果卵形，长2-2.5毫米，宽约1.8毫米，有小瘤状突起和短毛，背孔位于背面中上部，狭长圆形，长1-1.5毫米，着生面位腹面中央。5-9月开花。
+
+分布于陕西西南部，甘肃、青海、四川西部、云南西北部（中甸以北）、西藏东部和南部。生海拔3000-4500米（在青海东部和甘肃一带海拔为2000-3000米，在陕西西南部低达1900米）山坡草地、灌丛下、林边、河边多石草地，田边或田中。锡金也有分布。

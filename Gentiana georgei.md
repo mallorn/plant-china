@@ -1,0 +1,7 @@
+滇西龙胆",
+37.**Gentiana georgei** Diels",
+
+## Description
+Perennials 5-7 cm tall. Taproot short, stout. Stems ascending 2-3 cm, simple, glabrous; caudex sheathed by black membranous remnants of old petiole. Leaf blade sometimes folded, base slightly broadened, margin cartilaginous and scabrous, apex acuminate, midvein distinct. Basal rosette leaves well developed; petiole to 1 cm, membranous; leaf blade lanceolate, ensiform-lanceolate, or ovate-triangular, 4-8 cm &amp;#215; 3-13 mm. Stem leaves 2-4 pairs, upper leaves 2 (or 3) pairs, surrounding calyx; petiole to 6 mm, membranous; leaf blade lanceolate to ovate-lanceolate, 1.5-4 cm &amp;#215; 3-8 mm. Flowers terminal, solitary, sessile. Calyx tube obconic, 1.2-2 cm, membranous; lobes lanceolate, elliptic, or elliptic-triangular, 0.7-1.7 cm, unequal, margin and midvein cartilaginous and scabrous, apex acuminate to obtuse. Corolla ruddy purple, with paler base when fresh, usually without spots and stripes, campanulate, 4-6 cm; lobes broadly ovate, 7-10 mm, margin entire, apex rounded and cuspidate; plicae ovate, 3-5 mm, margin entire, apex obtuse. Stamens inserted at middle of corolla tube; filaments 1.5-1.7 cm; anthers narrowly ellipsoid, 4-5 mm. Ovary ovoid-ellipsoid, 1.3-1.5 cm; gynophore 8-10 mm. Style 1-2 cm; stigma lobes triangular. Fl. and fr. Aug-Nov.
+
+> * Grassland slopes, alpine meadows; 3000-4200 m. S Gansu, S Qinghai, N Sichuan, NW Yunnan.

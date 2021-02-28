@@ -1,0 +1,7 @@
+少花悬钩子",
+51.**Rubus spananthus** Z. M. Wu & Z. L. Cheng",
+
+## Description
+Shrubs scandent, 1–2 m tall. Branches brownish or reddish brown, with sparse prickles, villous when young. Leaves imparipinnate, 3-foliolate; petiole 3–6 cm, petiolule of terminal leaflet ca. 2 cm, lateral leaflets subsessile, sparsely villous, with minute prickles; stipules persistent, linear, ca. 7 mm, villous; blade of leaflets narrowly ovate or narrowly ovate-lanceolate, 4–8 × 2–4.5 cm, terminal leaflet slightly longer than lateral leaflets, lateral veins 8–10 pairs, abaxially villous along veins, with sparse, curved prickles along midvein, adaxially sparsely appressed villous, base obliquely broadly cuneate or subrounded, or rounded to subcordate on terminal leaflet, margin unevenly coarsely sharply serrate, apex acuminate to long acuminate. Inflorescences terminal on lateral short branchlets, corymbose or short racemes, shorter than petioles, several to 10-flowered; rachis and pedicels densely villous; bracts linear, soft hairy. Pedicel 5–10 mm. Flowers ca. 1 cm in diam. Calyx abaxially tomentose, intermixed villous; sepals ovate-lanceolate, 5–7 mm, subulate-caudate. Petals purplish red, narrowly obovate, abaxially soft hairy in middle part, base long clawed. Stamens numerous; filaments complanate. Pistils 20–40; ovary and base of style soft hairy. Fruit unknown. Fl. May–Jun.
+
+> Thickets on mountain slopes; 400--900 m. W Anhui (Dabie Shan, Jinzhai Xian).

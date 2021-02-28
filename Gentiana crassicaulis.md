@@ -1,0 +1,14 @@
+粗茎秦艽",
+19.**Gentiana crassicaulis** Duthie ex Burkill",
+
+## Description
+Perennials 25-40 cm tall. Roots to 30 &amp;#215; 2 cm. Stems ascending, stout, simple, glabrous. Basal leaves petiole 5-8 cm, membranous; leaf blade narrowly elliptic to ovate-elliptic, 12-20 &amp;#215; 4-6.5 cm, base narrowed, margin scabrous, apex acute, veins 5-7. Stem leaves 3-5 pairs, distinctly larger toward apex, sessile, spreading, and surrounding flower cluster; petiole to 3 cm, membranous, completely connate; leaf blade ovate-elliptic to ovate-triangular, 6-16 &amp;#215; 3-4.5(-7) cm, base obtuse to truncate, margin scabrous, apex acute to obtuse, veins 3-5. Inflorescences crowded, many-flowered terminal clusters, rarely also few-flowered axillary whorls. Flowers sessile. Calyx tube spathelike, 4-6 mm, membranous, split on 1 side, apex truncate; lobes 1-5, dentiform, 0.5-1 mm. Corolla blue-purple, base pale yellow base or sometimes white or dark green, urceolate, 2-2.2 cm; lobes ovate-triangular, 2.5-3.5 mm, margin entire, apex acute; plicae triangular, 1-1.5 mm, oblique, margin denticulate, apex acute. Stamens inserted at middle of corolla tube; filaments 6-8 mm; anthers narrowly ellipsoid, 1.5-2.5 mm. Style 2-2.5 mm; stigma lobes oblong. Capsules sessile, ovoid-ellipsoid, 1.8-2 cm. Seeds light brown, ellipsoid, 1.2-1.5 mm. Fl. and fr. Jun-Nov.
+
+> * Wastelands, grasslands, roadside slopes, alpine meadows, scrub, forest margins, forests; 2100-4500 m. NW Guizhou, W Sichuan, SE Xizang, NW Yunnan
+**17.粗茎秦艽 粗茎龙胆（内蒙古大学学报）图版10：1-4**
+
+Gentiana crassicaulis Duthie ex Burk. in Journ, Asiat, Soc. Bengal n. ser. 2: 311. 1906; Levl. Cat, Pl. Yunnan 113. 1916: Marq. in Journ. Roy. Hort. Soc. London 57: 206. 1932: H. Smith in Hand. -Mazz. Symb. Sin. 7: 978. 1936: D. wilkie, Gentians 53. 1936; Marq. in Kew Bull. 1937: 168. 1938; 四川中药志2: 144. 1960; 马毓泉, 内蒙古大学学报6 (1): 45. 1964; S. Nilsson in Grana Palyn. 7(1): 102. 1967;中国高等植物图鉴3: 393. 1974. ——G. tibetica auct. non King: Forbes et Hemsl. in Journ. Linn. Soc. Bot. 26: 136. 1890; Levl. l. c. 115;马毓泉, l. c. 45, p. p. ;中国高等植物图鉴3: 393. 1974, p. p.
+
+多年生草本，高30-40厘米，全株光滑无毛，基部被枯存的纤维状叶鞘包裹。须根多条，扭结或粘结成一个粗的根。枝少数丛生，粗壮，斜升，黄绿色或带紫红色，近圆形。莲座丛叶卵状椭圆形或狭椭圆形。长12-20厘米，宽4-6.5厘米，先端钝或急尖，基部渐尖，边缘微祖糙，叶脉5-7条，在两面均明显，并在下面突起，叶柄宽，长5-8厘米，包被于枯存的纤维状叶鞘中；茎生叶卵状椭圆形至卵状披针形，长6-16厘米，宽3-5厘米，先端钝至急尖，基部钝，边缘微粗糙，叶脉3-5条，在两面均明显，并在下面突起，叶柄宽，近无柄至长达3厘米，愈向茎上部叶愈大，柄愈短，至最上部叶密集呈苞叶状包被花序。花多数，无花梗，在茎顶簇生呈头状，稀腋生作轮状；花萼筒膜质，长4-6毫米，一侧开裂呈佛焰苞状，先端截形或圆形，萼齿1-5个，甚小，锥形，长0.5-1毫米；花冠筒部黄白色，冠檐蓝紫色或深蓝色，内面有斑点，壶形，长2-2.2厘米，裂片卵状三角形，长2.5-3.5毫米，先端钝，全缘，褶偏斜，三角形，长1-1.5毫米，先端钝，边缘有不整齐细齿；雄蕊着生于冠筒中部，整齐，花丝线状钻形，长7-8毫米，花药狭矩圆形。长1.5-2.5毫米；子房无柄，狭椭圆形，长8-10毫米，先端渐尖，花柱线形，连柱头长2-2.5毫米，柱头2裂，裂片矩圆形。蒴果内藏，无柄，椭圆形，长18-20毫米；种子红褐色，有光泽，矩圆形，长1.2-1.5毫米，表面具细网纹。花果期6-10月。
+
+产西藏东南部、云南、四川、贵州西北部、青海东南部、甘肃南部，在云南丽江有栽培。生于山坡草地、山坡路旁、高山草甸、撩荒地、灌丛中、林下及林缘，海拔2100-4500米。模式标本采自云南丽江。

@@ -1,0 +1,6 @@
+弯喙黄耆",
+5.**Astragalus campylorhynchus** Fischer & C. A. Meyer Index Sem. Hort. Petrop. 1: 23. 1835.",
+
+## Description
+Plants with hairs 0.3-0.5 mm. Stems 7-30 cm, lower part covered with nearly spreading hairs, upper part with ± appressed hairs. Leaves 3-10 cm; stipules whitish membranous, 3-6 mm, ciliate; petiole 0.5-2.5 cm, like rachis with appressed or more rarely ascending hairs; leaflets in 3-6 pairs, remote, glaucous, linear, 5-25 × 0.5-2.5 mm, abaxially sparsely ap-pressed hairy, adaxially glabrous, apex bilobed. Racemes re-motely 1-4-flowered; peduncle 1.5-7 cm, hairy like stem; bracts 1-3 mm. Calyx campanulate, 3-5 mm, loosely covered with appressed white and black hairs; teeth 0.8-2 mm. Petals pale violet; standard narrowly rhombic, 6.5-9 × 3-3.5 mm, apex emarginate to nearly bilobed; wings 6-7.5 mm; keel 5-6 mm. Legumes linear, straight or slightly curved, 3-5(-6) cm, 2.5-4 mm high and wide, with a short uncinate beak, incompletely to nearly completely 2-locular; valves thin but tough, glabrous or loosely covered with appressed white hairs 0.1-0.3 mm.
+  "Statistics": "Steppes, cultivated lands; below 2700 m. Xinjiang [Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, Uzbeki-stan; SW Asia (Caucasus)].

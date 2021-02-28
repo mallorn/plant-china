@@ -1,0 +1,6 @@
+墨脱垂头菊",
+19.**Cremanthodium medogense** Y. S. Chen Nordic J. Bot. 28: 757. 2010.",
+
+## Description
+Stems caespitose, erect, 18-38 cm tall, slender, 1.5-2 mm in diam. at base, glabrous. Basal leaves numerous, petiolate; petiole 5-19 cm, slender, glabrous, base narrowly sheathed; leaf blade cordate-reniform, 1.2-3.5 × 1.8-5.2 cm, abaxially glabrous, veins palmate-pinnate, margin coarsely dentate, with (11-)16-20 teeth in mature leaves, apex acute. Stem leaves 2 or 3; proximal leaves ovate, shortly petiolate; middle leaves sessile, linear-oblong, 10-23 × 2-4 mm; distal leaves usually 3, subulate, 2-5(-7) mm. Capitulum solitary, nodding. Involucre hemispheric, 1.5-2 × 1.2-1.5 cm, base yellowish brown pilose, outside glabrous; phyllaries 8, in 2 rows; outer phyllaries lanceolate-oblong, 2-2.5 mm wide, apex acuminate; inner phyllaries ovate-lanceolate, 5-6 mm wide, margin brown membranous, apex acute. Ray florets yellow, 8-10; lamina oblong, 20-23 × 9-13 mm, with brown veins, apex truncate, 3-lobed; lobes 3-5 × 3-4 mm; tube ca. 2 mm; style 8-10 mm; stigma black. Tubular florets numerous, yellow, 6-7 mm; style 10-12 mm. Achenes cylindric, 4-5 mm. Pappus brown, 3.5-4 mm, shorter than tubular corolla. Fl. Aug.
+  "Statistics": "● Alpine thickets and meadows; 3700-4200 m. SE Xizang (Mêdog).

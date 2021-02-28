@@ -1,0 +1,15 @@
+贵阳铁角蕨",
+69.**Asplenium interjectum** Christ Bull. Acad. Int. Géogr. Bot. 11: 241. 1902.",
+
+## Description
+Plants (10-)20-30 cm tall. Rhizome erect, short, apex scaly; scales black, linear, entire. Fronds caespitose; stipe 12-18 cm, semiterete, abaxially shiny castaneous, often green toward rachis, subglabrous, adaxially sulcate and with median ridge; lamina broadly triangular to deltoid, 8-17 × 5-7 cm, apex acuminate-caudate, bipinnate to tripinnate at base; pinnae 5-7 pairs, alternate or basal pinnae subopposite, long stalked, basal pair largest, triangular, 4-9 × 3-6 cm, base truncate, nearly symmetrical, 1- or 2-pinnate, apex acute to acuminate-subcaudate; pinnules (1 or)2 or 3(or 4) pairs, alternate, anadromous, stalked; basal pinnules largest, ovate-triangular, 1.5-3 × 1-2.6 cm, base cuneate, pinnatisect, apex obtuse to acute; ultimate pinnules 1 or 2 pairs, basal acroscopic segment largest, ovate-oblong, 6-14 × 4-9 mm, base cuneate and decurrent on costule, margins serrate, apex obtuse. Costa and basal part of veins raised adaxially, flat abaxially, veins anadromous-subflabellately branching, terminal hydathode visible, not reaching margin. Fronds herbaceous, green; rachis semiterete, abaxially green or shiny castaneous up to middle, subglabrous, adaxially sulcate with green lateral wings and median supravascular ridge. Sori 2-4 per ultimate segment, median on veinlets, linear, up to 6 mm; indusia gray to brownish, linear, membranous, repand to entire, opening toward costa or costule.
+
+> In rock crevices in forests; 700-900 m. Guizhou, Yunnan [N Thailand, N Vietnam].
+  "Synonym": "*Asplenium cuneifolium* Viviani var. *vegetius* Christ; *A.* *interjectum* var. *elatum* Christ; *A. longkaense* Rosenstock.
+**97. 贵阳铁角蕨（新拟）黔铁角蕨（中国蕨类植物图谱）**
+
+Asplenium interjectum Christ in Bull. Acad. Geogr. Bot. Mans 1902: 241. 1902 et 1907: 149. 1907; C. Chr. Ind. Fil. 116. 1905; Tard. -Blot, Aspl. du Tonkin in Bull. Soc. d’Hist. Nat. Toulouse 41, pl. 2, f. 3. 1932; Ching, Ic. Fil. Sinic. 4: pl, 176, 1937; Tard. -Blot et C. Chr. in Fl. Indo-Chine 7 (2): 230. 1939. ——Asplenium interjectum var. elatum Christ in Bull. Acad. Geogr. Bot. Mans 1907: 149. 1907. ——Asplenium cuneifolium var. vegetius Christ in Bull. Acad. Geogr. Bot. Mans 1902: 240. 1902. ——Asplenium longkaense Rosenst. in Fedde, Repert. Sp. Nov. 13: 123. 1913; C. Chr. Ind. Fil. Suppl. 2: 6. 1917. ——Asplenium cuneifolium auct non Viv. 1806: Christ in Bull. Acad. Geogr. Bot. Mans 1910: 13. 1910.
+
+植株高20-30厘米。根状茎短而直立，先端密被鳞片；鳞片线形，长3-5毫米，宽约2/3毫米，膜质，黑褐色，有虹色光泽，全缘。叶簇生；柄长12-18厘米，粗约2毫米，栗色或幼时绿色，有光泽，光滑，上面有浅阔纵沟；叶片阔三角形或三角状卵形，长8-17厘米，宽7-15厘米，短渐尖头，二回羽状，基部为三回羽状；羽片5-7对，互生或基部一对对生，斜展，彼此接近，有长柄（长5-9毫米），基部一对最大，长4-9厘米，宽3-6厘米，长三角形，渐尖头，基部圆楔形，近对称，二回羽状；小羽片3-4对，互生，上先出，斜展，各对相距1-1.5厘米，彼此密接，有长柄（长3-6毫米），基部一对较大，长1.5-3厘米，宽1-2.6厘米，卵状三角形，钝头，基部圆截形，羽状；末回小羽片1-2对，互生，斜展，彼此接近或略复迭，基部上侧一片较大，长6-14毫米，宽4-9毫米，卵形，圆头，基部楔形并与小羽轴合生，边缘有整齐的短粗齿牙。叶脉上面明显，隆起，下面仅可见，在末回小羽片为扇状二叉分枝，近羽状，极斜向上，每锯齿有小脉1条，先端有明显的水囊，不达叶边。叶草质，干后草绿色；叶轴及羽轴均与叶片同色，光滑，叶轴上面有阔纵沟，羽轴两侧有狭翅。孢子囊群线形，长达6毫米，棕色，极斜向上，生于小脉中部，每末回小羽片有2-4枚，沿主脉两侧排列；囊群盖线形，淡棕色，膜质，全缘，开向主脉，少数开向叶边，宿存。
+
+产贵州、云南（马关、路南、广南、西畴）。生林下潮湿的岩缝中，海拔800米。越南北部也有分布。模式标本产地：贵州（贵阳，青岩）。

@@ -1,0 +1,15 @@
+纤弱黄芩",
+82.**Scutellaria dependens** Maximowicz",
+
+## Description
+Herbs rhizomatous. Stems &amp;#177; erect, 15-35 cm tall, glabrous or sparsely pubescent on angles, unbranched or few branched from base. Petiole 0.8-4 mm, puberulent or subglabrous; leaf blade ovate-triangular to triangular, 0.5-2.4 cm &amp;#215; 3-12 mm, membranous, adaxially sparsely puberulent, abaxially puberulent only on veins, base shallowly cordate to truncate-cordate, margin irregularly and shallowly 1-3-dentate to subentire and ciliolate, apex obtuse to rounded. Racemes poorly defined, terminal, obliquely spreading upward initially, becoming pendent; bracteoles needlelike, ca. 0.75 mm, inserted at base of pedicels in pairs. Flowers axillary. Pedicel 2-3 mm, appressed puberulent. Calyx 1.8-2 mm, conspicuously veined, ciliolate on veins and margin, to 4 mm in fruit; scutellum ca. 1 mm, to 2 mm in fruit. Corolla white or white with purple on lower lip, 5-6.5 mm, puberulent outside, pilose only on middle of lower lip inside; tube slightly curved; middle lobe of lower lip spreading upward, trapeziform, ca. 1.5 &amp;#215; 2-2.5 mm, apex emarginate; lateral lobes triangular-ovate, slightly longer than upper lip. Nutlets yellow-brown, ovoid, ca. 0.7 &amp;#215; 0.5 mm, tuberculate, adaxially slightly swollen, umbonate near base. Fl. and fr. Jun-Sep.
+
+> Streamsides, wet areas in larch forests; 0-300 m. Heilongjiang, Jilin, Nei Mongol, Shandong [Japan, Korea, Russia].
+  "Synonym": "&lt;I&gt;Scutellaria nipponica&lt;/I&gt; Franchet &amp; P. A. L. Savatier; &lt;I&gt;S. oldhamii&lt;/I&gt; Miquel.
+**82．纤弱黄芩**
+
+Scutellaria dependens Maxim. in Mern. Acad. Sci. St. Petersb. Sav. Etrang 9: 219. 1859; Regel in Mem. Acad. Sci. St. Petersb. VII. 4: 119, n. 389. 1861; Franch. et Sav. Enum. Pl. Jap. 1: 377. 1875; Hemsl. in Journ. Linn. Soc. Bot. 26: 294. 1890; Korsh. in Act. Hort. Petrop. 12: 278. 1892; Komarov in Act. Hurt. Petrop. 25: 341. 1907; Nakai in Journ. Coll. Sci. Univ. Tokyo 31: 143. 1911; et in Bot. Mag. Tokyo 35: 195. 1921; Kudo in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 267. 1929; Kitagawa, Lineam. Fl. Mansh. 385. 1939; Juz. in Fl. URSS 20: 98, t. 4, f. 1. 1954; 刘慎谔等, 东北植物检索表324, t. 3, f. 6. 1959——Scutellaria oldhami Miq. Prol. Fl. Jap. in Ann. Mus. Bot. Lugd. Bat. 3: 197. 1867——Scutellaria nipponica Franch. et Sav. Enuni. Pl. Jap. 1: 337. 1875.
+
+一年生草本；根茎细，在节上生纤维状须根。茎大多直立，或顶端稍弯，高15-35厘米，粗0.8-1.5毫米，四棱形，具浅槽，无毛，或在棱上被有极稀疏的小毛，不分枝或从基部具少数分枝，分枝细长，斜展，中部的节间长1.8-4厘米。叶具柄，柄长0.8-4毫米，被微柔毛或近无毛；叶片膜质，卵圆状三角形或三角形，长0.5-2.4厘米，宽2.5-12毫米，先端钝或圆形，基部浅心形或截状心形，在边缘两侧下部有1-3个不规则的浅而钝的牙齿或几全缘，上面被极稀疏的微柔毛，下面仅在脉上被微柔毛，边缘被极短的缘毛。花单生于茎中部或下部的叶腋内，初向上斜展，其后下垂；花梗长度超过叶柄，长2-3毫米，被紧贴的微柔毛，基部有成对长0.75毫米的针状小苞片。花萼开花时长1.8-2毫米，脉纹稍凸出，边缘及脉上被小毛，盾片高约1毫米，果时花萼长4毫米，盾片高2毫米。花冠白色或下唇带淡紫色，长5-6.5毫米，外面被微柔毛，内面仅下唇中部具疏柔毛余无毛；冠筒基部前方不膨大，微弯；冠檐2唇形，上唇短，直伸，2裂，下唇中裂片向上伸展，梯形，长约1.5毫米，宽2-2.5毫米，顶端及两侧微凹，两侧裂片三角状卵圆形，稍长过上唇片。雄蕊4，前对较长，微露出，具能育半药，退化半药不明显，后对较短，内藏，具全药，药室裂口具髯毛；花丝扁平，无毛或被极细的微柔毛。花柱细长，先端明显2裂。花盘厚，扁圆形，前方微微平伸，子房柄短或几无，与子房之间具泡状毛。子房4裂，等大。小坚果黄褐色，卵球形，长约0.7毫米，径约0.5毫米，具瘤状突起，腹面略隆起，近基部具果脐。花果期6-9月。
+
+产黑龙江，辽宁，吉林，内蒙古及山东；生于溪畔或落叶松林中湿地上，海拔250米以下。苏联，朝鲜，日本也有分布。模式标本采白黑龙江。

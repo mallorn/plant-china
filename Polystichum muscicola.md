@@ -1,0 +1,15 @@
+伴藓耳蕨",
+190.**Polystichum muscicola** Ching ex W. M. Chu & Z. R. He, sp. nov. sp. nov. <br><small>[**sp. nov.**]</small>",
+
+> *Polystichum muscicola* Ching ex W. M. Chu &amp; Z. R. He was not validly published because the herbarium in which the type is conserved was not specified (*Melbourne Code*, Art. 40.7).*Polystichum muscicola* is similar to *P. atkinsonii* in habit and lamina texture, but its rachis lacks proliferous bulbils and its lower pinnae below the middle of the lamina are gradually contracted and attached at right angles to the rachis or slightly angled basiscopically.Type: China. Sichuan: Luding County, Feiyueling, alt. 2800 m, 16 Nov 1934, *H. Smith 13456* (holotype, PE!).Validating Latin diagnosis: that of “*Polystichum muscicola* Ching ex W. M. Chu et Z. R. He” (Ching ex W. M. Chu &amp; Z. R. He in Kung et al., Fl. Reipubl. Popularis Sin. 5(2): 140-141, 228; t. 45: 1-2. 2001).Plants evergreen. Rhizome erect, short, together with persistent stipe base ca. 1.5 cm in diam. Fronds 10-20 cm; stipe stramineous, 2-6 cm, thinner than 1 mm in diam., whole stipe sparsely scaly; scales brownish yellow, broadly lanceolate or broadly ovate-lanceolate, thinly membranous, with a few long teeth. Lamina 1-pinnate, yellowish green when dry, narrowly elliptic-lanceolate or only linear-lanceolate, 7-13 × 1-2 cm, base slightly contracted or gradually contracted below middle, apex long acuminate; rachis stramineous, without proliferous bulbils, sparsely scaly; scales similar to basal stipe scales. Pinnae 10-23 pairs, attached at nearly right angles to rachis, ovate or ovate-oblong, apices acute, sessile, margins pinnatilobate or only sparsely toothed, teeth shortly spinulose, bases asymmetrical, acroscopic base ± auriculate, auricles of lower pinnae with 2 or 3 acute teeth, acroscopic margins mostly attached at acute angles to rachis and ascendant, basiscopic margins obliquely truncate, attached at nearly right angles to rachis and angled basiscopically, middle pinnae 5-9 × ca. 4 mm, basal pinnae often obviously contracted and ca. 3 mm long and wide; margins of lower lobes often with 2 or 3 acute teeth; frond texture thinly papery. Sori abaxial on veinlets, medial or closer to pinna margin, mostly 2-4 per pinna; indusia small, evanescent.
+
+> ● Wet moss-covered rocks in forests; 2000-2800 m. W Hubei (Badong), W Sichuan (Emei Shan, Luding).
+**131．伴藓耳蕨（新拟）图版45：1-2**
+
+Polystichum muscicola Ching ex W. M. Chu et Z. R. He, sp. nov. in Addenda.
+
+植株高10-20厘米。根状茎短而直立，连同残留的叶柄基部直径约1.5厘米。叶簇生；叶柄禾秆色，长2-6厘米，直径不足1毫米，通体疏被鳞片，鳞片棕黄色，阔披针形或卵状阔披针形，薄膜质，边缘有疏长齿。叶片狭长椭圆披针形或仅线状披针形，长7-13厘米，宽1-2厘米，顶端渐尖或长渐尖，基部略缩狭或中部以下渐缩狭，一回羽状，羽裂渐尖的顶部以下有近平展的侧生羽片10-23对；羽片卵形或卵状矩圆形，急尖头，无柄，边缘浅羽裂或仅有疏锯齿，齿端有短刺头，基部不对称，上侧具或多或少突起的耳状凸，大多与叶轴成狭角向上斜展，下侧斜截，与叶轴近垂直或成钝角向下斜展，中部羽片长5-9毫米，宽约4毫米，基部羽片常明显缩小，长宽约3毫米；下部裂片的边缘常有2-3个锐齿。叶薄革质，干后黄绿色；叶轴禾秆色，疏被与叶柄上相同的残留鳞片。孢子囊群生于小脉背部，中生或较近羽片中肋，每个羽片上大多有2-4个；囊群盖小，易脱落。
+
+产四川西部（泸定南，飞越岭）及湖北西部（巴东，小神农架）。生海拔2050-2800米的山谷林中多苔藓的潮湿岩石上。模式标本采自川西飞越岭。
+
+本种形体外貌及叶的质地与小芽胞耳蕨Polystichum atkinsonii Bedd. 近似，但叶轴不长芽胞，叶片中部以下的羽片渐缩小，平展或略向上斜展，不向下反折，容易区别。

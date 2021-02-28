@@ -1,0 +1,8 @@
+台湾新木姜子",
+27.**Neolitsea aciculata** (Blume) Koidzumi Bot. Mag. (Tokyo). 32: 258. 1918.",
+
+## Description
+Trees. Branchlets gray pubescent. Leaves alternate or clustered at apex of branchlet, subverticillate; petiole 0.5-1 cm, pubescent; leaf blade lanceolate or obovate-lanceolate, 6-9 × 2-3.2 cm, glaucous and appressed gray pubescent abaxially, glabrous adaxially, triplinerved, lateral veins 3 or 4 pairs, base acute or acuminate, apex caudate-acuminate or acuminate. Umbels axillary or lateral, 4-flowered; peduncles extremely short or lacking. Pedicel 2-3 mm, pubescent. Perianth segments 4, ovate or elliptic. Male flowers: fertile stamens 6; filaments pubescent at base, of 3rd whorls each with 2 sagittal glands at base; rudimentary pistil densely pubescent. Fruit obovate-ellipsoid, ca. 7 × 5-6 mm, seated on flat discoid perianth tube; fruiting pedicel 7-9 mm, gradually thickened at apex. Fr. Jun-Jul.
+  "Reference": "This species was treated in FRPS (31: 364. 1982) as *Neolitsea acutotrinervia*. However, the original description and type material of *Tetradenia acutotrinervia* show its characters to be quite similar to those of *N. aciculata*, from Japan, and so the two entities are here treated as conspecific.This species was treated in FRPS (31: 364. 1982) as *Neolitsea acutotrinervia*. However, the original description and type material of *Tetradenia acutotrinervia* show its characters to be quite similar to those of *N. aciculata*, from Japan, and so the two entities are here treated as conspecific.
+  "Statistics": "Evergreen broad-leaved forests; 1300-2000 m. Taiwan [Japan].
+  "Synonym": "*Litsea aciculata* Blume, Mus. Bot. 1: 347. 1851; *Neolitsea acutotrinervia* (Hayata) Kanehira &amp; Sasaki; *Tetradenia acutotrinervia* Hayata.

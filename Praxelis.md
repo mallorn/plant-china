@@ -1,0 +1,7 @@
+假臭草属",
+243.**Praxelis** Cassini in F. Cuvier Dict. Sci. Nat. 43: 261. 1826.",
+
+> Sixteen species: South America, one species adventive in E Asia and Australia; one species (introduced) in China.
+
+## Description
+Subshrubs or annual or perennial herbs, erect to decumbent. Leaves opposite or whorled; blade ovate to elliptic or filiform, subentire to sharply serrate. Synflorescences of solitary capitula on long erect peduncles or laxly thyrsoid or rather densely corymbose. Involucre usually campanulate; phyllaries 15-25, 3- or 4-seriate, unequal, gradate, outer phyllaries falling first; receptacle highly conical, glabrous. Florets 25-30; corollas white, blue, or lavender, narrowly funnelform or with cylindric throat and slightly narrower basal tube, outer surface mostly smooth, with a few glands; lobes 1.5-3 × as long as wide, outer surface usually with some projecting cells at tip, inner surface densely long papillose; antheropodia with enlarged bases, narrowed apically; anther appendages slightly longer than wide to distinctly longer than wide, often toothed at tip; style base not enlarged; style branches long, narrowly linear, more broadened in distal half, densely long papillose. Achenes slightly to strongly obcompressed, 3- or 4-ribbed, sparsely setuliferous; carpopodium distinct, broad, highly asymmetrical; pappus setae ca. 40, persistent, not or scarcely broadened distally. *x* = 10.

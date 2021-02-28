@@ -1,0 +1,15 @@
+粗壮秦艽",
+26.**Gentiana robusta** King ex J. D. Hooker",
+
+## Description
+Perennials 10-30 cm tall. Roots to 20 &amp;#215; 1.5 cm. Stems ascending, simple, glabrous. Basal leaves petiole 2-3 cm, membranous; leaf blade elliptic-lanceolate to ovate-elliptic, 8-23 &amp;#215; 2-4.5 cm, base narrowed, margin scabrous, apex acuminate, veins 3-5. Stem leaves 3-5 pairs; petiole ca. 2 cm, shorter toward apex, membranous; leaf blade lanceolate, 3.5-6.5 &amp;#215; 0.7-1.7 cm, base obtuse, margin scabrous, apex acuminate, veins 1-3; uppermost leaves sessile, spreading, surrounding flower cluster. Inflorescences crowded into terminal clusters, many flowered, sometimes also in few-flowered axillary whorls rarely subapical on pedunclelike branches. Flowers sessile. Calyx tube 1.2-2 cm, membranous, split on 1 side; lobes (3-)5, filiform, 0.5-5 mm, unequal. Corolla yellow-white, greenish white, or yellow-green, tubular-campanulate to campanulate, 3-3.5 cm; lobes ovate to ovate-triangular, 5-6 mm, margin entire, apex acute to obtuse; plicae triangular to truncate, 2-2.5 mm, oblique, margin denticulate. Stamens inserted at basal part of corolla tube; filaments 1-1.3 cm; anthers narrowly ellipsoid, 2.5-3 mm. Style 2-2.5 mm; stigma lobes oblong. Capsules ovoid-ellipsoid, 1.8-2 cm; gynophore 2-3 mm. Seeds dark brown, narrowly ellipsoid, 1.5-1.7 mm. Fl. and fr. Jul-Oct.
+
+> Edges of cultivated land, roadsides, hillsides, alpine meadows; 3500-4800 m. S and SE Xizang [Nepal, Sikkim].
+  "Synonym": "&lt;I&gt;Gentiana lhakangensis&lt;/I&gt; C. Marquand; &lt;I&gt;G&lt;/I&gt;. &lt;I&gt;pharica&lt;/I&gt; Burkill; &lt;I&gt;G&lt;/I&gt;. &lt;I&gt;tibetica&lt;/I&gt; King ex J. D. Hooker var. &lt;I&gt;robusta&lt;/I&gt; (King ex J. D. Hooker) Kusnezow.
+**20. 粗壮秦艽 粗壮龙胆（内蒙古大学学报）**
+
+Gentiana robusta King ex Hook. f. in Hook. Ic. pl. 15: 31. t. 1439. 1883: C. B. Clarke in Hook. f. Fl. Brit. Ind. 4: 734. 1885; W. W. Smith et G. H. Cave in Rec. Bot. Surv. Ind. 4: 223. 1911; D. Wilkei, Gentians 113. 1936;马毓泉, 内蒙古大学学报6(1): 44. 1964, excl. syn. G. dendrologi Marq. et spec. Sichuan; Hara, Chater et Williams, Enum. Fl. Pl. Nepal 3: 93. 1982. ——G. tibetica β. robusta (King) Kusnez. in Acta Hort. Petrop 15: 323. 1904. ——G. pharica Burk. in Journ. Asiat. Soc. Bengal. n. ser. 2: 310. 1906, syn. nov.——G. lhakengensis Marq. in Kew Bull. 1937: 184, 1937. syn nov.
+
+年生草本，高10-30厘米，全株光滑无毛，基部被枯存的纤维状叶鞘包裹。须根多条，向右扭转或粘结不扭转成一个圆柱形的根。枝少数丛生，粗壮，斜上升，黄绿色或上部紫红色，近圆形。莲座丛叶卵状椭圆形或狭椭圆形，长8-23厘米，宽2-4.5厘米，先端急尖或渐尖，基部渐狭，边缘微粗糙，叶柄宽，长2-3厘米，包被于枯存的纤维状叶鞘中；茎生叶披针形，长3.5-6.5厘米，宽0.7-1.7厘米，先端急尖，基部钝，边缘微粗糙，叶脉1-3条，在两面均明显，并在下面突起，无叶柄至叶柄长达2厘米，愈向茎上部叶愈小，柄愈短。花多数，无花梗，簇生枝顶呈头状或腋生作轮状；花萼筒膜质，黄绿色，长1.2-2厘米，一侧开裂呈佛焰苞状，先端钝，萼齿常5个，稀3-4个，极不整齐，丝状，长9.5-5毫米；花冠黄白色或黄绿色，筒状钟形，长2.1-3.8厘米，裂片卵形，卵状三角形，长5-6毫米，先端钝，全缘，褶偏斜，截形或三角形，长2-2.5毫米，边缘具几个不整齐锯齿；雄蕊着生于冠筒下部，整齐，花丝线状钻形，长10-13毫米，花药狭矩圆形，长2.5-3毫米；子房披针形或狭椭圆形，长12-15毫米，两端渐狭，柄极短，长仅1.5-2毫米，花柱线形，连柱头长2-2.5毫米，柱头2裂，裂片矩圆形。蒴果内藏，椭圆状披针形，长18-20毫米，两端渐狭，柄长2-3毫米；种子深褐色，有光泽，狭矩圆形，长1.5-1.7毫米，表面具细网纹。花果期7-10月。
+
+产我国西藏南部。生于山坡、地边、路旁及草甸，海拔3500-4800米。模式标本采自西藏亚东。尼泊尔、锡金及不丹也有分布。

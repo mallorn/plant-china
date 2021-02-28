@@ -1,0 +1,15 @@
+西藏嵩草",
+27.**Kobresia tibetica** Maximowicz Bull. Acad. Imp. Sci. Saint-Pétersbourg. 29: 219. 1883.",
+
+## Description
+Rhizomes short. Basal sheaths prominent, brown to dark brown, dull, not retaining dried leaf blades. Culms densely tufted, rigid and erect, subterete or upper part trigonous, 10-40 cm tall, 1-1.5 mm in diam. Leaves basal, erect, shorter than culms; blade filiform (tubular in section), 0.5-1 mm wide. Inflorescence spicate, brown or dark brown, broadly and densely cylindric, 1-2.5 × 0.3-0.4 cm; terminal spikelets male, lower ones bisexual; lowest involucral bract glumelike, apex aristate or not. Bisexual spikelets with a basal female flower and 2-4 distal male flowers. Glumes brown or dark brown, with pale midvein, oblong to ovate-oblong, 3.5-4.5 × 1.5-2.5 mm, obtuse, midvein narrow, margin narrowly hyaline or not. Prophylls pale colored to yellowish brown or occasionally brown, oblong-ovate, 2.1-3 × 1-1.4 mm, hyaline to very thinly membranous, usually without keels and veins, rarely obscurely keeled, margins free to base. Nutlets brown or dark brown, oblong or narrowly ovoid-oblong, flattened-trigonous, slightly shorter than prophylls, 1.5-2.5(-3) × 1-1.4 mm, very shortly stipitate, shortly beaked. Stigmas 3. Fl. and fr. May-Aug.
+  "Reference": "This species is distinguished from *Kobresia capillifolia* with difficulty: the culm is wider, and longer in relation to the leaves, and the spike is shorter in proportion to breadth, and much shorter in proportion to the length of the culm (resembling an *Eleocharis*).This species is distinguished from *Kobresia capillifolia* with difficulty: the culm is wider, and longer in relation to the leaves, and the spike is shorter in proportion to breadth, and much shorter in proportion to the length of the culm (resembling an *Eleocharis*).
+  "Statistics": "● Alpine swampy meadows, weedy plains, marshes, riversides; 2500-4600 m. Gansu, Qinghai, Sichuan, Xinjiang, Xizang.
+  "Synonym": "*Kobresia capillifolia* (Decaisne) C. B. Clarke var. *tibetica* (Maximowicz) Kükenthal.
+**31. 西藏嵩草（植物分类学报）图版6: 8-11**
+
+Kobresia tibetica Maxim. in Bull. Acad. Sci. St. Petersb. 29: 219, 1883; Ivan. in Journ. Bot. USSR, 24: 483, 1939, excl. syn. K. littedalei C. B. Clarke; T. V. Egorova in Grubov, Pl. Centr. Asia, 3: 34, 1967; Y. C. Yang in Acta Phytotax. Sin. 14 (1): 45, fig. 4, 1976; 中国高等植物图鉴5: 260, 图7350, 1976; 横断山区维管植物下册: 2349, 1994. ——Kobresia capillifolia (Decne.) C. B. Clarke var. tibetica (Maxim.) Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 36, 1909. ——Kobresia schoenoides auct. non Steud.: Kukenth., l. c. 35, 1909. p. p. quoad. Pl. Tongolo. Soulie no. 771; 西藏植物志5: 376, 图210, 1987.
+
+根状茎短。秆密丛生，纤细，高20-50厘米，粗1-1.5毫米，稍坚挺，钝三棱形，基部具褐色至褐棕色的宿存叶鞘。叶短于秆，丝状，柔软，宽不及1毫米，腹面具沟。穗状花序椭圆形或长圆形，长1.3-2厘米，粗3-5毫米；支小穗多数，密生，顶生的雄性，侧生的雄雌顺序，在基部雌花之上具3-4朵雄花。鳞片长圆形或长圆状披针形，长3.5-4.5毫米，顶端圆形或钝，无短尖，膜质，背部淡褐色、褐色至栗褐色，两侧及上部均为白色透明的薄膜质，具1条中脉。先出叶长圆形或卵状长圆形，长2.5-3.5毫米，膜质，淡褐色，在腹面边缘分离几至基部，背面无脊无脉，顶端截形或微凹。小坚果椭圆形，长圆形或倒卵状长圆形，扁三棱形，长2.3-3毫米，成熟时暗灰色，有光泽，基部几无柄，顶端骤缩成短喙；花柱基部微增粗，柱头3个。花果期5-8月。
+
+产于甘肃、青海、四川西部、西藏东部；生于河滩地、湿润草地、高山灌丛草甸，海拔3000-4600米。模式标本采自甘肃。

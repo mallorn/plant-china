@@ -1,0 +1,126 @@
+夹竹桃科",
+**Apocynaceae** A. L. Jussieu",
+
+> About 155 genera and 2000 species distributed primarily in the tropics and subtropics, poorly represented in the temperate regions. Of the 44 genera and 145 species present in China, one genus and 38 species are endemic, and nearly 95% of the taxa grow in the southern and southwestern portions of the country.&#x0D;\n&lt;p&gt;&#x0D;\nFruit type is highly diversified in the family, and it is diagnostic of many genera. Genera 1-4 produce 1, 2-celled berries from a flower; genus 5 produces 2, 1-celled berries from a flower; 6 and 7 produce mostly fleshy follicles containing deeply indented seeds with ruminate endosperm; 8 has follicles and winged seeds; 9 produces follicles and seeds with 2 comas; 10-12 have follicles with globose seeds; 13-18 have drupes mostly with fleshy mesocarp; 19 has samaroid fruit; 20 has spiny capsules with seeds winged all around; and 21-44 have free or fused follicles and comose seeds. Double flowers are known only from cultivated forms of *Nerium oleander*, *Tabernaemontana divaricata*, and *Wrightia religiosa*.&lt;p&gt;Plants of the Apocynaceae are often poisonous and are rich in alkaloids or glycosides, especially in the seeds and latex. Some species are valuable sources of medicine, insecticides, fibers, and rubber.  &lt;p&gt;Tsiang Ying &amp; Li Ping-tao. 1977. Apocynaceae. Fl. Reipubl. Popularis Sin. 63: 1-249.
+
+## Description
+Trees, shrubs, or vines, rarely subshrubs or herbs, with latex or rarely watery juice. Leaves simple, opposite, rarely whorled or alternate, pinnately veined; stipules absent or rarely present. Inflorescences cymose, terminal or axillary, with bracteoles. Flowers bisexual, 5- [or 4]-merous, actinomorphic. Calyx 5- or rarely 4-partite, quincuncial, basal glands usually present. Corolla 5- or rarely 4-lobed, salverform, funnelform, urceolate, or rarely rotate, lobes overlapping to right or left, rarely valvate. Stamens 5 or rarely 4; filaments short; anthers mostly sagittate, free or connivent into a cone adherent to pistil head, dehiscing longitudinally, base rounded, cordate, sagittate, or prolonged into an empty spur; pollen granular; disc ringlike or cup-shaped, 2&lt;I&gt;-&lt;/I&gt;5-lobed, or absent. Ovaries superior, rarely half-inferior, connate or distinct, 1- or 2-locular; ovules (1 or) 2-numerous per locule. Style 1; pistil head capitate, conical, or lampshade-shaped, base stigmatic, apex 2-cleft and not stigmatic. Fruit a berry, drupe, capsule, or follicle. Seeds with or without coma; endosperm thick and often horny, scanty, sometimes absent; embryo straight or nearly so, cotyledons often large, radicle terete.
+  "keylist": "
+1 Herbs, sometimes with a woody base.——(2)
+1 Trees, shrubs, or woody climbers.——(5)
+2(1) Plants with stolons; corolla violet[Vinca 蔓长春花属](Vinca.md)
+2 Plants without stolons; corolla mostly pink or white, sometimes bluish.——(3)
+3(2) Leaf blade with pale venation; corolla tube narrow, 2-3 cm[Catharanthus 长春花属](Catharanthus.md)
+3 Leaf blade without pale venation; corolla tube narrow or broad, up to 1 cm.——(4)
+4(3) Corolla salverform, lobes overlapping to left; all leaves alternate[Amsonia 水甘草属](Amsonia.md)
+4 Corolla campanulate or basin-shaped, lobes overlapping to right; usually some leaves opposite[Apocynum 罗布麻属](Apocynum.md)
+5(1) Shrubs or climbers with straight spines[Carissa 假虎刺属](Carissa.md)
+5 Plants without spines.——(6)
+6(5) Leaves alternate.——(7)
+6 Leaves opposite or whorled.——(9)
+7(6) Branchlets mostly 2-3 cm in diam.; flowers waxy; fruit a follicle; seeds winged[Plumeria 鸡蛋花属](Plumeria.md)
+7 Branchlets less than 1 cm in diam.; flowers not waxy; fruit a drupe; seeds wingless.——(8)
+8(7) Corolla white, often with a deep pink-red or yellow throat, tube cylindric or nearly so; fruit subglobose[Cerbera 海芒果属](Cerbera.md)
+8 Corolla yellow, tube funnelform; fruit rhomboid or nearly so[Thevetia 黄花夹竹桃属](Thevetia.md)
+9(6) Leaves whorled, at least toward tips of branches.——(10)
+9 All leaves opposite.——(16)
+10(9) Corolla yellow, tube at least 4 cm; fruit globose, prickly[Allamanda 黄蝉属](Allamanda.md)
+10 Corolla variously colored, usually not yellow, tube up to 2.2 cm; fruit globose or not, smooth.——(11)
+11(10) Corolla tube funnelform, 1.2-2.2 cm, with corona; leaves thick, lanceolate, with dark reticulate venation abaxially; fruit a united pair of follicles[Nerium 夹竹桃属](Nerium.md)
+11 Corolla tube almost cylindric, mostly up to 1 cm, if longer then without a corona; leaves often not very thick, variously shaped; fruit a pair of drupes or free follicle.——(12)
+12(11) Climbers, if erect shrubs then fruit moniliform with 1-4 drupelike articles.——(13)
+12 Erect trees or shrubs, fruit not moniliform.——(14)
+13(12) Leaves with hairy domatia; fruit follicular, constricted; seeds comose[Parameria 长节珠属](Parameria.md)
+13 Leaves without hairy domatia; fruit moniliform, sometimes globose, transversely constricted into 2-5 drupelike articles[Alyxia 琏珠藤属](Alyxia.md)
+14(12) Fruit slender follicles; seeds hairy; disc of 2 separate glands alternating with carpels, small annular, or absent; often big trees[Alstonia 鸡骨常山属](Alstonia.md)
+14 Fruit drupes; seeds not hairy; disc ringlike, cup-shaped, or absent; small trees or shrubs.——(15)
+15(14) Corolla lobes overlapping to right, often suberect; disc absent; drupes mostly more than 3 cm; mesocarp fibrous[Ochrosia 玫瑰树属](Ochrosia.md)
+15 Corolla lobes overlapping to left, spreading; disc ringlike or cup-shaped; drupes up to 2 cm; mesocarp fleshy[Rauvolfia 萝芙木属](Rauvolfia.md)
+16(9) Corolla lobes overlapping to left.——(17)
+16 Corolla lobes overlapping to right.——(51)
+17(16) Climbers.——(18)
+17 Trees or shrubs.——(21)
+18(17) Corolla tube cylindric or narrowed at throat; fruit berrylike.——(19)
+18 Corolla tube funnelform or nearly so, not narrowed at throat; fruit follicular.——(20)
+19(18) Disc absent; calyx without colleters inside; corolla with faucal corona scales, tube almost cylindric[Melodinus 山橙属](Melodinus.md)
+19 Disc cylindric, thick, fleshy; calyx with basal colleters inside; corolla without faucal corona scales, tube inflated at base, contracted at mouth[Bousigonia 奶子藤属](Bousigonia.md)
+20(18) Corolla tube 2-2.5 mm; follicles moniliform[Parameria 长节珠属](Parameria.md)
+20 Corolla tube ca. 12 mm; follicles narrowly fusiform[Parepigynum 富宁藤属](Parepigynum.md)
+21(17) Leaf blades with numerous parallel secondary veins; fruit samaroid follicles[Cameraria 鸭蛋花属](Cameraria.md)
+21 Leaf blades with secondary veins clearly separate from each other and usually with tertiary veins; fruit berries or wingless follicles.——(42)
+22 </td><td width=550>Stamens well exserted; corona usually present; fruit long dry follicles; seeds comose[Wrightia 倒吊笔属](Wrightia.md)
+22 Stamens included or barely exserted; corona absent; fruit mostly berrylike; seeds not comose.——(44)
+23 </td><td width=550>Inflorescences fascicled, axillary; fruit of united carpels[Acokanthera 长药花属](Acokanthera.md)
+23 Inflorescences corymbose, terminal, at branch forks, or sometimes axillary; fruit of at least partly separated carpels.——(46)
+24 </td><td width=550>Branching not dichotomous; submarginal leaf veins present; corolla tube ca. 7 as long as calyx[Hunteria 仔榄树属](Hunteria.md)
+24 Branching dichotomous; submarginal leaf veins absent or obscure; corolla tube long or short.——(48)
+25 </td><td width=550>Corolla tube slightly shorter or longer than calyx; calyx shed before fruit develops, lobes recurved[Voacanga 马铃果属](Voacanga.md)
+25 Corolla tube at least 4 as long as calyx; calyx persistent at fruit base, lobes erect in fresh flowers[Tabernaemontana 狗牙花属](Tabernaemontana.md)
+26 </td><td width=550>Trees or shrubs; corolla lobes not caudate.——(52)
+26 Climbers, if plants erect, corolla lobes caudate (<I>Strophanthus</I>).——(59)
+27 </td><td width=550>Corolla tube 2.3-5 cm, very narrow; fruit drupaceous; seeds not comose[Kopsia 蕊木属](Kopsia.md)
+27 Corolla tube up to 1.9 cm; fruit follicular; seeds comose.——(54)
+28 </td><td width=550>Peduncle 0.9-1.7 cm; sepals mostly pubescent outside; corolla tube 0.9-1.9 cm; seeds not beaked[Holarrhena 止泻木属](Holarrhena.md)
+28 Peduncle absent or to 0.8 cm; sepals glabrous or sparsely puberulent outside; corolla tube up to 1.3 cm; seeds beaked.——(55)
+29 </td><td width=550>Stamens exserted; pedicel 1.5-3 cm; corolla lobes 1.2-1.8 as long as tube; domatia mostly absent[Kibatalia 倒缨木属](Kibatalia.md)
+29 Stamens included; pedicel 2-8 mm; corolla lobes 0.4-0.9 as long as tube; domatia consisting of pits[Funtumia 丝胶树属](Funtumia.md)
+30 </td><td width=550>Corolla funnelform to subcampanulate and/or tube more than 2 cm, nearly urceolate (<I>Urceola</I>) or subrotate (<I>Vallaris</I>).——(60)
+30 Corolla salverform, tube up to 1.4 cm (1.5-2.5 cm in <I>Aganosmabenthamiana</I>).——(73)
+31 Corolla with corona, lobes caudate or sometimes (<I>S.gratus</I>) not; seeds beaked[Strophanthus 羊角拗属](Strophanthus.md)
+31 Corolla without corona, lobes not caudate; seeds mostly not beaked.——(62)
+32 </td><td width=550>Stamens exserted.——(63)
+32 Stamens included.——(66)
+33 </td><td width=550>Filaments long, without a dorsal gland; corolla broadly funnelform[Beaumontia 清明花属](Beaumontia.md)
+33 Filaments short, with a dorsal gland; corolla subrotate[Vallaris 纽子花属](Vallaris.md)
+34 </td><td width=550>Corolla tube 1-4 mm, nearly urceolate; inflorescences many flowered, lax[Urceola 水壶藤属](Urceola.md)
+34 Corolla tube at least 20 mm; inflorescences usually few flowered, not lax.——(68)
+35 </td><td width=550>Plants glabrous or nearly so[Mandevilla 文藤属](Mandevilla.md)
+35 Plants conspicuously hairy.——(70)
+36 </td><td width=550>Corolla tube cylindric, limb spreading horizontally, often very wide; follicles more than 5 as long as wide[Chonemorpha 鹿角藤属](Chonemorpha.md)
+36 Corolla tube clearly widened toward throat, limb probably not horizontal; follicles ca. 3 as long as wide[Amalocalyx 毛车藤属](Amalocalyx.md)
+37 </td><td width=550>Stamens exserted.——(74)
+37 Stamens included.——(77)
+38 </td><td width=550>Corolla tube 7-13 mm; filaments straight; follicles very slender, of separate carpels[Pottsia 帘子藤属](Pottsia.md)
+38 Corolla tube to 5 mm; filaments strongly twisted; follicles rather thick, of united carpels[Parsonsia 同心结属](Parsonsia.md)
+39 </td><td width=550>Anther apex with long soft hairs.——(78)
+39 Anther apex glabrous.——(81)
+40 </td><td width=550>Corolla tube 5-15 mm, 3-8.7 as long as sepals[Sindechites 毛药藤属](Sindechites.md)
+40 Corolla tube 1.6-2.5 mm, 1.3-2.3 as long as sepals[Cleghornia 金平藤属](Cleghornia.md)
+41 Disc divided into 5 erect segments or 5 free scales.——(82)
+41 Disc entire or shortly 5-lobed.——(87)
+42(21) Corolla tube ca. 5 as long as sepals, 1.5-1.7 cm; inflorescences terminal[Epigynum 思茅藤属](Epigynum.md)
+42 Corolla tube mostly to 3 as long as sepals, to 1.4 cm; inflorescences axillary and/or terminal.——(84)
+43 </td><td width=550>Corolla tube 4.5-14 mm, lobes 5-14 mm, forming in bud a large, rather narrowly ovoid, subacuminate head much wider than tube which is clearly widened around or above middle of stamens[Trachelospermum 络石属](Trachelospermum.md)
+43 Corolla tube 2.5-3 mm, lobes 3-5 mm, forming in bud a small subglobose or ovoid, rounded or blunt head not or slightly wider than tube which is &#177; barrel-shaped[Ichnocarpus 腰骨藤属](Ichnocarpus.md)
+44(22) Sepals more than twice as long as wide, acuminate or acute, often spreading and longer than corolla tube, if about half as long, then leaf blade with a submarginal vein (<I>A</I>.<I> marginata</I>)[Aganosma 香花藤属](Aganosma.md)
+44 Sepals less than twice as long as wide, acute to rounded, erect or apically slightly spreading, up to half as long as corolla tube.——(89)
+45 </td><td width=550>Corolla lobes neither twisted nor forming a head in bud; bud rounded, almost cylindric[Ichnocarpus 腰骨藤属](Ichnocarpus.md)
+45 Corolla lobes twisted in bud, forming a large ovoid head; bud subacute.——(91)
+46(23) Corolla tube bottle-shaped, clearly narrowed at apex; follicles cylindric[Chonemorpha 鹿角藤属](Chonemorpha.md)
+46 Corolla tube cylindric or nearly so; follicles very narrowly ovoid[Anodendron 鳝藤属",](Anodendron.md)
+**1．夹竹桃科——APOCYNACEAE**
+
+乔木，直立灌木或木质藤木，也有多年生草本；具乳汁或水液；无刺，稀有刺。单叶对生、轮生，稀互生，全缘，稀有细齿；羽状脉；通常无托叶或退化成腺体，稀有假托叶。花两性，辐射对称，单生或多杂组成聚伞花序，顶生或腋生；花萼裂片5枚，稀4枚，基部合生成筒状或钟状，裂片通常为双盖覆瓦状排列，基部内面通常有腺体；花冠合瓣，高脚碟状、漏斗状、坛状、钟状、盆状稀辐状，裂片5枚，稀4枚，覆瓦状排列，其基部边缘向左或向右覆盖，稀镊合状排列，花冠喉部通常有副花冠或鳞片或膜质或毛状附属体；雄蕊5枚，着生在花冠筒上或花冠喉部，内藏或伸出，花丝分离，花药长圆形或箭头状，2室，分离或互相粘合并贴生在柱头上；花粉颗粒状；花盘环状、杯状或成舌状，稀无花盘；子房上位，稀半下位，1-2室，或为2枚离生或合生心皮所组成；花柱1枚，基部合生或裂开；柱头通常环状、头状或棍棒状，顶端通常2裂；胚珠1至多颗，着生于腹面的侧膜胎座上。果为浆果、核果、蒴果或蓇葖；种子通常一端被毛，稀两端被毛或仅有膜翅或毛翅均缺，通常有胚乳及直胚。
+
+约250属，2000余种，分布于全世界热带、亚热带地区，少数在温带地区。我国产46属，176种，33变种，主要分布于长江以南各省区及台湾省等沿海岛屿，少数分布于北部及西北部。
+
+本科模式属为：Apocynum Linn.
+
+本科植物起源甚早，夹竹桃属Nerium Linn.化石发现于中生代上白垩纪的威斯发利亚地区，随后出现于法国和英国的始新统中，以后在新生代第三纪这个属继续生存在欧洲，而在上新统中已经发现现代的欧洲夹竹桃Nerium oleander Linn.。其他属也出现于第三纪。
+<p style='text-indent:28px'>本科只有毛药藤属 Sindechites Oliv.，乐东藤属Chunechites Tsiang，富宁藤属Parepigynum Tsiang et P. T. Li为我国特有属，其余各属均与世界热带和亚热带地区分布有联系，其中分布亚洲的有37个属占82%，非洲6个属，美洲7个属，欧洲3个属。在国内分布中心是在华南及西南地区，约占95%。分布最广的属为络石属Trachelospermum Lem.，分布有21个省区以上。云南分布有35属，占76%以上，其次是广东有34属、广西28属、台湾24属，越往北则分布越少（表1），分布范围北纬 18-45°，东经80-130°。
+<p style='text-indent:28px'>本科为热带植物区系的主要科。一般为木质攀援植物，有发达的缠绕茎，在热带雨林或季雨林中攀缠树上，如花皮胶藤属Ecdysanthera Hook. et Arn.，鹿角藤属Chonemorpha G. Don，杜仲藤属Parabarium Pierre等，很少直立或稀为多年生草本或乔木。大多数植物具有发达的无隔乳管，能流出丰富的白色乳汁，如花皮胶藤属，鹿角藤属，杜仲藤属，鸡蛋花属Plumeria Linn.，海杧果属Cerbera Linn. 等，或水液，如夹竹桃属Nerium Linn.，长春花属Catharanthus G. Don等。在潮湿的热带林中，有些植物还长有气根，如络石属，小花藤属Micrechites Miq. 等。除狗牙花亚科具有假托叶外，均无托叶。其托叶已演变成为在叶腋内或叶腋间的钻状或线状腺体，此特征是从外部区别夹竹桃科与萝藦科植物的最简易的方法。萝藦科植物的腺体丛生于叶柄的顶端（即叶片基部与叶柄连接处）。花很少单生，如蔓长春花属Vinca Linn.。一般是几朵或多朵组成的聚伞花序，其排列与叶序一致，如叶为对生之排列则花序为交互对生，叶若轮生则为伞状，如鸡骨常山属Alstonia R. Br. 在最终的分枝上发育出假二歧或单歧聚伞花序。花萼基部通常为筒状，顶端裂片2片在内，2片在外，1片一边在内另一边在外的双盖覆瓦状排列，内面基部的腺体着生在裂片的侧边或湾缺处。花冠裂片向左或向右旋转覆盖排列在各属中是稳定的。花冠裂片向左或向右覆盖和旋转，是夹竹桃科分亚科的主要特征之一。其覆盖和旋转方向，是从花蕾外面观，花开放后则观其裂片的基部。一般来说，在花蕾时花冠裂片基部向左覆盖的，其上部则向右旋转；反之，向右覆盖的则向左旋转，特别是花蕾顶部渐尖和花冠裂片狭长的，此特征十分明显，如络石属 Trachelospermum Lem.，鳝藤属Anodendron A. DC.，鹿角藤属Chonemorpha G. Don，狗牙花属Ervatamia Stapf等等。但是，凡花冠裂片短宽而厚的、花蕾顶端圆的，其覆盖和旋转方向是一致性，如鸡蛋花属Plumeria Linn.。雄蕊位置一般在花冠的喉部或演进花冠筒的中部至基部，花丝离生，花药与柱头分离，在夹竹桃亚科各属中其花药与柱头粘生，花药2室，花粉颗粒状，藏于室中。
+<p style='text-indent:28px'>花粉一般为颗粒状，稀四合花粉。花粉类型有：1．具散孔，排列不规则（Micrechites Miq．；Trachelospermum Lem．等）；2. 具3（-4）孔沟（Alstonia R．Br.; Rauvolfia Linn.等）；3. 具（1-）2-3（-4）萌发孔，在赤道上的分布往往不均匀（Parameria Benth.； Anodendron A. DC.；Ecdysanthera Hook. et Arn.）：4. 四合花粉（Apocynum Linn.； Poacynum Baill.）。此外，链珠藤属Alyxia Banks ex R. Br. 的花粉是一种独特的类型，大，圆筒形，两端各具一个大孔。
+<p style='text-indent:28px'>本科植物一般有毒，尤以种子和乳汁毒性最烈，如羊角拗属 Strophanthus DC.，海杧果属Cerbera Linn.，黄花夹竹桃属 Thevetia Linn.，夹竹桃属 Nerium Linn．等。含有多种类型的生物硷，如羊角拗精（Strophanthilin），黄花夹竹桃甙（Thevetin）黄花夹竹桃次甙（Peruvoiside，Neriifolin），夹竹桃甙（Neriocorin, Neriin, Oleanderin），萝芙木硷（Reserpine, Serpentine），长春花硷（Catharanthine），海杧果硷（Cerberin），软枝黄蝉甙（Hydragogue），止泻木硷（Holarrhenin）等，为重要的药物原料，可治疗多种病症，如高血压病、风湿痛、淋巴结核、伤寒和强心作用等，农业上用于杀虫防治。有些植物含有胶乳，如花皮胶藤属，杜仲藤属，鹿角藤属等，为一种野生橡胶植物，可提制一般日用橡胶制品。此外，还有优良的纤维植物，如罗布麻属Apocynum Linn.和白麻属Poacynum Baill.等，其茎皮纤维坚韧，是纺织、造纸及国防工业重要原料。
+
+## 检索表
+
+1 雄蕊离生或弛松地靠着在柱头上；花药长圆形或长圆状披针形，顶端钝，基部圆形；花冠裂片通常向左覆盖，稀向右覆盖。——(2)
+1 雄蕊彼此互相粘合并粘生在柱头上；花药箭头状，顶端渐尖，基部具耳，稀非箭头状；果为蓇葖；种子顶端具长种毛；花冠裂片通常向右覆盖，稀向左覆盖。——(20)
+2 假托叶呈针状或三角状，基部扩大而合生；蓇葖果；种子无种毛。（狗牙花族Trib. Ervatamieae）。——(19)
+2 无托叶；果为浆果、核果、蒴果或蓇葖；种子无毛或具膜翅或具小瘤状颗粒或一端被疏短缘毛或两端被长缘毛而另两侧只有一侧被短微毛。——(3)
+3 浆果或核果。——(4)
+3 蒴果或蓇葖。——(13)
+4 浆果。——(5)
+4 核果。——(8)
+5 无刺植物；萼片及花冠裂片5枚，花冠裂片向左覆盖。——(6)
+5 有刺植物；萼片及花冠裂片4-5枚，花冠裂片向右覆盖。 ——[仔榄树属](Carissa?t=z'%20 style='color:#0000ff'>假虎刺属</a><td>&nbsp;6</td><td width=500>乔木；子房由2枚离生或基部合生心皮组成。 ——[$3]($1%20$2.md)

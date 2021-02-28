@@ -1,0 +1,14 @@
+大桥蛇根草",
+18.**Ophiorrhiza filibracteolata** H. S. Lo in S. Y. Jin & Y. L. Chen Cat. Type Spec. Herb. China (Suppl.). 190. 1999.",
+
+## Description
+Herbs, apparently ascending, to 30 cm tall; stems mealy puberulent. Leaves in subequal pairs; petiole 1-5 cm; blade drying papery, dark brown, ovate to broadly ovate, 2.5-5.5 × 1.5-3.3 cm, glabrous, base obtuse or subrounded, margins entire, apex acute; secondary veins 7 or 8 pairs; stipules caducous, not seen. Inflorescence somewhat congested-cymose, many flowered; peduncle ca. 3 cm; axes up to 1 cm, helicoid; bracteoles filiform, fleshy, 2.5-3 mm. Flowers distylous, subsessile or pedicels to 2 mm. Calyx pilosulous; hypanthium subturbinate, ca. 1.4 mm, shallowly 5-ribbed; lobes triangular to narrowly lanceolate, ca. 0.7 mm, with 1 gland in each sinus. Corolla white, tubular-funnelform, outside pilosulous, inside with white villous ring at middle and scaly pilose from middle onto lobes; tubes 11-12 mm; lobes ovate-triangular, ca. 3 mm, dorsally narrowly winged and with very short horn. Capsules not seen. Fl. Apr.
+  "Reference": "The original description (H. S. Lo, Bull. Bot. Res., Harbin 10(2): 52-53. 1990, not validly published) described the flowers as distylous with the short-styled flowers as unknown; the putative long-styled flowers were described as having the anthers positioned just below the middle of the corolla tube and the stigmas in the throat. In FRPS (71(1): 153. 1999), H. S. Lo gave the plant height as 20 cm, but the original description said 30 cm. Much of the information on pubescence details here is taken from the figure in the original description.The original description (H. S. Lo, Bull. Bot. Res., Harbin 10(2): 52-53. 1990, not validly published) described the flowers as distylous with the short-styled flowers as unknown; the putative long-styled flowers were described as having the anthers positioned just below the middle of the corolla tube and the stigmas in the throat. In FRPS (71(1): 153. 1999), H. S. Lo gave the plant height as 20 cm, but the original description said 30 cm. Much of the information on pubescence details here is taken from the figure in the original description.
+  "Statistics": "● Forests. Guangdong (Ruyuan).
+**46. 大桥蛇根草（植物研究）图版37：6-10**
+
+Ophiorrhiza filibracteolata Lo in Bull. Bot. Res. 10 (2): 52, fig. 16. 1990.
+
+草本，高约20厘米，嫩枝、叶柄、叶下面、花序、花梗、花萼和花冠外面均被粉状微柔毛。叶纸质，卵形至阔卵形，长2.5-5.5厘米，宽1.5-3.3厘米，顶端短尖，基部阔楔形或稍圆，全缘，干时变暗褐色，上面无毛；侧脉纤细，两面均不很明显，每边7-8条；叶柄长1-5厘米；托叶早落。花序顶生，有花多朵，稍密集，总梗长约3厘米，分枝长不超过1厘米，螺状；花二型，花柱异长；长柱花：花梗极短或长达2毫米；小苞片丝状，肉质，长2.5-3毫米；萼管近陀螺状，小，长约1.4毫米，微有5棱，裂片5，三角状披针形或狭披针形，稍肉质，长约0.7毫米，裂片间有一腺体；花冠白色，漏斗状近管形，管长1.1-1.2厘米，基部宽约1.5毫米，里面中部有一环白色长毛，喉部被疏柔毛，裂片5，卵状三角形，长约3毫米，里面密被近膜质鳞片伏毛，背面有狭翅，顶部有角状附属体；雄蕊5，生冠管下部1/3处，花丝极短，花药线形，长2.2毫米；子房2室，每室有胚珠多数，花柱长1-1.1厘米，被疏毛，柱头2裂，裂片圆盘状，直径约1毫米；短柱花和果未见。花期4月。
+
+我国特有，产于广东乳源大桥；生于林下。

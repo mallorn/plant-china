@@ -1,0 +1,17 @@
+香港木兰",
+6.**Lirianthe championii** (Bentham) N. H. Xia & C. Y. Wu Fl. China. 7: 64. 2008.",
+
+## Description
+Shrubs or small trees. Young twigs, petiole adaxial surfaces, leaf blade abaxial surface of bases and midveins, and peduncles with pale brown appressed long trichomes but very soon glabrescent. Young twigs green. Stipular scar nearly reaching apex of petiole. Petiole 0.5-1.5 cm; leaf blade elliptic, narrowly oblong-elliptic, or narrowly obovate-elliptic, 7-14(-20) × 2-4.5(-6.5) cm, leathery, abaxially pale green, adaxially deep green and glossy, secondary veins 8-12 on each side of midvein, divergent near edge, and curving and circling apically, base cuneate to narrowly cuneate and slightly decurrent on petiole, apex acuminate, cuspidate, or rarely acute. Peduncle 1-1.5 cm, with pale yellow long trichomes; spathaceous bracts 3 or 4, apical-most bract scar ca. 1 cm basal to tepals. Flowers erect, very fragrant. Tepals 9; outer 3 tepals pale green, oblong-elliptic, 3.5-4 × ca. 2 cm; tepals of inner 2 whorls white, obovate, 2-2.5 × ca. 1.5 cm, fleshy, apex sometimes emarginate. Stamens 7-9 mm; connective exserted and forming a triangular mucro; anthers 6-7 mm, dehiscing introrsely. Gynoecium narrowly obovoid, 1-1.4 cm, white villous; carpels 8-9 mm, furrows abaxially reaching to base of style; ovules 2 per carpel, parallel. Fruit 3-4.5 cm; mature carpels ca. 1 cm, with ca. 2 mm apical beaks. Seeds narrowly ellipsoid or irregularly ovoid, 8-12 × 4-6 mm. Fl. Apr-Jun, fr. Sep-Oct.
+  "Reference": "*Magnolia bawangensis* Y. W. Law &amp; R. Z. Zhou (in Y. H. Liu, Magnolias China, 34. 2004) belongs here but was not validly published because no Latin description or diagnosis was provided and no type was indicated (*Vienna Code*, Art. 36.1 and 37.1).*Magnolia bawangensis* Y. W. Law &amp; R. Z. Zhou (in Y. H. Liu, Magnolias China, 34. 2004) belongs here but was not validly published because no Latin description or diagnosis was provided and no type was indicated (*Vienna Code*, Art. 36.1 and 37.1).
+  "Statistics": "Evergreen broad-leaved forests, sandy soil, hills, along riversides; near sea level to 1000 m. Guangdong, Guangxi, S Guizhou, Hainan [N Vietnam].
+  "Synonym": "Basionym: *Magnolia championii* Bentham, Fl. Hongk. 8. 1861 [*\"championi\"*]; *M. liliifera* Baillon var. *championii* (Bentham) Pampanini; *M. mulunica* Y. W. Law &amp; Q. W. Zeng; *M. paenetalauma* Dandy; *M. pumila* Andrews var. *championii* (Bentham) Finet &amp; Gagnepain; *M. shangsiensis* Y. W. Law et al.; *M. tenuicarpella* Hung T. Chang.
+**6. 长叶木兰（中国树木志） 水铁罗木（海南），长叶玉兰（中国树木分类学）**
+
+Magnolia paenetalauma Dandy in Journ. Bot. 68: 206. 1930, et in Sinensia 4: 12. 1933; 郑万钧, 中国植物杂志1: 288. 1934; 陈嵘, 中国树木分类学296. 1937; 海南植物志1: 224. 1964; 中国树木志1: 446. 1983.——Talauma gitingensis auct. non Elmer: Dandy in Lingnan Sci. Journ. 7: 142. 1929.——Magnolia tenuicarpa Chang in Acta Sci. Nat. Univ. Sunyatseni 1: 54. 1961. syn. nov.
+
+常绿小乔木，高达11米；小枝绿色；嫩枝、嫩叶下面、花梗及苞片被淡褐色色毛。老时毛脱落。叶薄革质，干时质坚脆，狭椭圆形，狭倒卵形或倒卵状披针形，长9-15（-30）厘米，宽2.5-4.5（-6）厘米，先端长渐尖，基部楔形，边缘起伏成波状；侧脉每边12-15条，叶柄长1.5-2厘米，托叶痕几达叶柄顶端，边缘显著隆起。花梗在开花时下弯，结果时近直立，长1.5-3厘米；花被片白色，芳香，9片，外轮3片近革质，淡，蓝绿色，长圆状椭圆形，长2.5-3.5厘米，内两轮白色，肉质，倒卵形或倒卵状匙形，长2-3厘米；雄蕊长6-10毫米，药室长5毫米，内向开裂，药隔伸出成三角形尖头，心皮被黄色直毛，狭椭圆形，顶端近三角形，干时背面具4-5行凸起瘤点。聚合果褐色，椭圆体形，长约5厘米；蓇葖具短而端截平的喙，成熟蓇葖背缝线开裂并反卷。花期4-6月，果期9-10月。
+
+产于贵州南部、海南、广西（东北部、中部及南部）。生于海拔1 000米的沙土、花岗岩山坑及丘陵山坡，溪旁，在肥力较高、微酸性的土壤生长良好。越南北部也有分布。模式标本采自海南。
+
+花期较其他木兰科种类迟而长，为庭园观赏的好树种。

@@ -1,0 +1,14 @@
+西藏马蓝",
+66.**Strobilanthes tibetica** J. R. I. Wood Edinburgh J. Bot. 51: 262. 1994.",
+
+## Description
+Subshrubs to 1.5 m tall, gregarious, probably pliestesial, nearly isophyllous. Stems slightly 4-angled, glabrous or obscurely bifariously pubescent. Petiole 1-3 cm, sparsely pilose; leaf blade ovate to elliptic, 7-14 × 3-9 cm, abaxially paler and subglabrous except for a few trichomes near base of midvein, adaxially green, subglabrous except for a few scattered short hispid trichomes, strigose or scurfy along midvein, and with conspicuous cystoliths, secondary veins 5 or 6 on each side of midvein, base narrowly cuneate and decurrent nearly to petiole base, margin strongly serrate, apex shortly acuminate and slightly falcate. Inflorescences axillary, spikes, 4-12 cm, secund, sometimes reduced to single axillary flowers; rachis finely puberulent to gland-tipped pilose, straight or obscurely zigzag, winged, wings 0.2-1 mm wide; bracts glabrous; basal bracts leaflike, with a petiole to 4 mm, ovate, 1.5-2.5 cm, apex acuminate; apical bracts sessile, narrowly oblong-elliptic, 1-1.2 cm, apex acuminate; bracteoles oblong, 2.5-4 mm, apex obtuse. Flowers to 1.5 cm apart on rachis. Calyx 0.9-2 cm, apparently not accrescent, subequally 5-lobed to ca. 1 mm above base; lobes almost colorless, linear, glabrous or sparsely gland-tipped pilose, apex obtuse. Corolla violet, 3.2-4 cm, outside pubescent but silky gray in bud, inside glabrous; tube strongly inflated from near base then widened to ca. 1.5 cm at middle and finally bent to ca. 90° but not narrowed at mouth; lobes ovate, ca. 5 × 7 mm, apex rounded to slightly emarginate. Stamens 4, included; filaments ca. 2.5 mm, all equal in length, glabrous; anther thecae oblong, ca. 1.5 mm. Ovary glabrous; style ca. 2 cm, glabrous or with a few trichomes. Capsule oblong, 1.1-1.2 cm, glabrous, 4-seeded, apex apiculate. Seeds oblong in outline, ca. 3 × 2 mm, covered with stiff white trichomes. Fl. Aug-Sep, fr. Oct-Nov.
+  "Statistics": "*Tsuga* forests; 2300-2700 m. Xizang (Zayü) [India].
+  "Synonym": "*Pteracanthus tibeticus* (J. R. I. Wood) C. Y. Wu &amp; C. C. Hu.
+**28．西藏马蓝（新拟）**
+
+Pteracanthus tibeticus (J. R. I. Wood) C. Y. Wu et C. C. Hu, comb. nov. ——Strobilanthes tibetica J. R. I. Wood in Edinb. Jour. Bot. 51(2): 262. 1994.
+
+林下灌木，高约1.5米，聚生并一次性结实，茎光滑无毛或明显被2列微柔毛，略4棱。叶近相等，卵形或椭圆形，短渐尖，稍镰刀状，长7-14厘米，宽3-9厘米，基部长楔形和下延至叶柄，边缘明显有锯齿，上面绿色，具明显钟乳体，除中脉散生短硬毛粗糙和糠秕状，几近光滑无毛，背面苍白色，叶柄长1-3厘米，稀被疏柔毛。花序为偏向一侧的穗状花序，腋生，长4-12厘米，有时退化成单花生于叶腋；花序轴被微毛至腺状长柔毛，直立或明显“之”字形曲折，具翅，翅宽0.25-1毫米。苞片光滑无毛，发育过程多变化；下部的叶状卵形，渐尖，具柄，长1.5-2.5厘米，柄长达4毫米；上部的狭矩圆状椭圆形，渐尖，无柄，长1-1.2厘米，小苞片矩圆形、钝，长2.5-4毫米；花萼长0.9-2厘米，明显不增大，近5等裂至基部0.1毫米以上处，裂片线形，钝，几具色，光滑无毛或稍被腺毛。花冠芽时绢灰色，开花时堇色、紫色，被微柔毛。长3.2-4厘米，基部稍上即扩大，宽1.5厘米上部作90度弯曲，喉部变狭，里面光滑无毛，冠檐裂片卵形，圆形或微凹，长5毫米，宽7毫米；雄蕊4，2强；花丝等长，长2.5毫米，光滑无毛，花药长1.5毫米，内藏，花粉椭圆形；花柱长2厘米，光滑无毛或稍被毛；子房光滑无毛。蒴果长1.1-1.2厘米，光滑无毛，矩圆形，突然收缩成短尖头，具4粒种子；种子矩圆形，长3毫米，宽2毫米，被白色硬毛。
+
+产西藏（墨脱）。聚生于海拔2650米的铁杉林下。印度东北部（那加山区）也有。模式标本采自西藏。

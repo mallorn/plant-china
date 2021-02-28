@@ -1,0 +1,7 @@
+喀拉昆仑嵩草",
+44.**Kobresia karakorumensis** Dickoré Stapfia. 39: 77. 1995.",
+
+## Description
+Rhizomes short. Basal sheaths pale brown to brown, dull, retaining dried leaf blades. Culms densely tufted, dwarf, erect and rigid, subterete in lower part, trigonous above, (2-)3-15(-20) cm tall, 0.5-0.7 mm in diam. Leaves basal, usually shorter than culms; blade V-shaped in section, recurved, 1-2.5 mm wide, midrib not distinct abaxially. Inflorescence spicate (rarely compound), brown or dark brown, densely and broadly cylindric, 0.5-1.2 × 0.2-0.4 cm; lowest involucral bract glumelike. Terminal spikelets of inflorescence male, lower ones bisexual with 1 basal female flower and (1 or)2(or 3) distal male flowers. Glumes brown or dark brown, with pale midvein, ovate, 2.5-3 × ca. 2 mm, midvein narrow, margin very narrowly or not hyaline, apex obtuse. Prophylls pale brown at upper part, narrowly elliptic, ca. 3.3 × 0.9 mm, membranous, glabrous, hyaline at base, obscurely 2-keeled, margins connate in lower 1/4(-1/2). Nutlets brown or pale brown, oblong-elliptic, flattened, body ca. 1.5 × 0.9 mm, stipe ca. 0.5 mm, very shortly beaked. Stigmas 2. Fl. and fr. Jul-Sep.
+  "Reference": "This is, perhaps, a western form of *Kobresia pusilla*, but it is also close to *K. myosuroides* subsp. *bistaminata*.This is, perhaps, a western form of *Kobresia pusilla*, but it is also close to *K. myosuroides* subsp. *bistaminata*.
+  "Statistics": "High alpine turf; (3100-)3800-5000 m. Xinjiang, Xizang [Afghanistan, India (Himachal Pradesh), Kashmir, ?Nepal, Pakistan, Tajikistan].

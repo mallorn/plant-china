@@ -1,0 +1,7 @@
+四川马蓝",
+8.**Strobilanthes szechuanica** (Batalin) J. R. I. Wood & Y. F. Deng Bot. J. Linn. Soc. 150: 375. 2006.",
+
+## Description
+Herbs to 20 cm tall, isophyllous. Stems decumbent, 4-angled, subglabrous, rooting at basal nodes. Petiole 3-5 mm, puberulent; leaf blade ovate to obovate, becoming suborbicular toward branch tips, 1-2 × 0.8-1 cm, glabrous or margin with a few scattered cilia, both surfaces densely covered with whitish cystoliths, secondary veins 3 or 4 on each side of midvein, base broadly cuneate and decurrent onto petiole, margin entire, apex obtuse to rounded. Flowers axillary, solitary; bracteoles oblanceolate, 5-7 × ca. 1 mm, pilose and with abundant cystoliths, margin thinly ciliate. Calyx 8-10 mm, with abundant cystoliths, 5-lobed almost to base; lobes linear to linear-lanceolate, margin ciliate, apex obtuse. Corolla pale lilac, funnel-shaped, 1.8-2.3 cm, outside pubescent; tube basally cylindric and narrow for ca. 5 mm then gradually widened to ca. 8 mm at mouth; lobes suborbicular, ca. 3 × 3 mm, margin ciliate. Stamens 4, included; shorter filament pair ca. 3 mm, glabrous; longer filament pair ca. 5 mm, pilose; anther thecae oblong, ca. 2 × 1.2 mm; pollen type 10 (requires confirmation). Ovary oblong, comose; style 1.4-1.8 cm, pilose. Capsule ca. 1 cm, pilose at tip, 4-seeded. Seeds ca. 2 mm in diam., pilose. Fl. Jul-Sep.
+  "Statistics": "● Streamsides, on rocks; 700-1500 m. Sichuan.
+  "Synonym": "*Hemigraphis szechuanica* Batalin, Trudy Imp. S.-Peterburgsk. Bot. Sada 13: 384. 1894.

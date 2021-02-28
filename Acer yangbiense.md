@@ -1,0 +1,9 @@
+漾濞枫",
+85.**Acer yangbiense** Y. S. Chen & Q. E. Yang",
+
+> This is a very rare, critically endangered species.
+
+## Description
+Trees deciduous, to 20 m tall; trunk to 20 cm d.b.h. Branchlets of present year greenish, pubescent; branchlets of previous year brown-green, pale gray pubescent; those more than 2 years old light brown or dark brown, glabrescent, with noticeable brown-yellow lenticels; winter buds dark brown, ovoid, imbricate scales ca. 9 pairs, outside tomentose, deciduous soon after flowers or leaves mature. Petiole 4-17 cm, pale gray pubescent; leaf blade abaxially pale green, adaxially deep green, 10-20 × 11-25 cm, usually broader than long, papery, primary veins 5, prominent abaxially, impressed adaxially, shallowly 5-lobed, base cordate, abaxially very densely pubescent on veins and veinlets, adaxially glabrous; basal lobes usually smaller, apex acuminate, or occasionally absent; middle and lateral lobes triangular-ovate, margin entire or remotely toothed with a few sinuous teeth, apex acuminate; central lobe with 7-9 pairs of parallel lateral veins. Racemes pendulous, glabrous, arising from leafless lateral buds of 2- or 3-year-old branchlets. Flowers hermaphroditic, yellow-green. Sepals 5, yellow-green, ovate-oblong, ca. 4.5 × 4 mm, glabrous. Petals 5, yellow-green, ovate, base narrow. Intrastaminal disk glabrous. Stamens 8; filaments 2-3 mm; anthers ovoid, ca. 1 mm. Styles 2, base united, free portion curved downward; stigmas simple. Infructescence pendulous, 9-32 × ca. 7 cm. Fruit 9-17 per raceme, red-green when young, brown-yellow when mature; wing including nutlet 4.7-5.5 × 1.4-1.7 cm, strongly veined, wings spreading at acute or nearly right angle; fruiting pedicel 2.7-3.4 cm, glabrous; nutlets ca. 7 mm in diam., middle convex, globose, villous. Fl. Apr, fr. Sep.
+
+> ● Mixed forests, valleys; ca. 2400 m. W Yunnan (Yangbi).

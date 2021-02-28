@@ -1,0 +1,7 @@
+天蓝续断",
+1.**Dipsacus azureus** Schrenk in Fischer & C. A. Meyer Enum. Pl. Nov. 1: 53. 1841.",
+
+## Description
+Herbs, perennial, 0.6-1.5 m tall. Stems glabrous, nearly spineless. Basal leaves long petiolate, undivided; cauline leaves opposite, ca. 6-paired, glabrous, sessile or petiole up to 10 cm; leaf blade 6-26 × 3-10 cm, pinnatifid to pinnatisect; terminal segment lanceolate, margin coarsely serrate; lateral segments 4-7-paired, lanceolate to elliptic, 1.2-7 × 1-3 mm. Heads 3 or 4, subspherical; terminal one 2-2.5 × 3-4.5 cm; peduncles 30-60 cm, glabrous or pubescent above; involucral bracts 2-layered; 5 or 6 in outer layer, ovate; 7-9 in inner layer, elliptic or lanceolate; bracts obovate-lanceolate or oblanceolate, 5-14 × 4-5 mm, rostra 1.5-3 mm; involucels 4-ribbed, 3-4 mm. Calyx disciform, 0.5-1 mm; lobes irregular. Corolla purple-blue, funnelform, 8-15 mm, outside villous; lobes elliptic or oblong, 3-4 × 1.5-2.5 mm. Stamens exserted. Style strongly exserted; stigma clavate. Achenes 4-angular, ca. 3.5 mm, totally enveloped in involucel. Fl. and fr. Aug-Sep.
+  "Statistics": "1900-2000 m. Xinjiang (Huocheng, Tekes) [Kazakhstan, Kyrgyzstan].
+  "Synonym": "*Cephalaria beijiangensis* Y. K. Yang, J. K. Wu &amp; A. Sayit; *C. dipsacoides* Karelin &amp; Kirilov; *Dipsacus dipsacoides* (Karelin &amp; Kirilov) V. I. Bochantsev; *D. xinjiangensis* Y. K. Yang, J. K. Wu &amp; T. Abdulla.

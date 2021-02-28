@@ -1,0 +1,7 @@
+秦岭海桐",
+25.**Pittosporum qinlingense** Y. Ren & X. Liu",
+
+## Description
+Shrubs ca. 2 m tall. Young branchlets glabrous; old branchlets lenticellate. Leaves clustered at branchlet apex; petiole 6–11 mm; leaf blade yellow-green abaxially, turning yellow-brown after drying, green adaxially, narrowly lanceolate, falcate, 10–23 × 0.7–1.8(–2.2) cm, thinly leathery, lateral veins 7–18-paired, slightly convex abaxially, slightly indistinct adaxially, sometimes very indistinct on both surfaces, base narrowly cuneate, margin slightly undulate, apex acuminate. Inflorescences in leaf axils, umbellate, 3–5-flowered; peduncle very short; scalelike leaves present, ovate, abaxially and at margin densely brown pubescent; pedicels slender, unequal, 6–8 mm; bracts ovate-lanceolate, ca. 2 mm, deciduous. Flowers ca. 3.5 mm in diam. Sepals ovate, ca. 3 mm, base slightly connate, margin shortly ciliate. Petals connate proximally, yellow, ca. 12 mm, free part ovate-orbicular, margin irregularly and shortly ciliate. Stamens unequal; filaments filiform, 6–8 mm; anthers ca. 2 mm. Ovary ovoid, ca. 4 mm; carpels 2; placentas 2; ovules 6 per placenta; styles 4–5 mm; stigma inflated. Capsule ovoid, ca. 3 cm, glabrous, dehiscing by 2 valves; pericarp woody, less than 1 mm thick. Seeds 10–12 per capsule, red, turning black-brown after drying, ca. 3.5 mm; funicle ca. 4 mm. Fl. Apr–Jun, fr. Jun–Aug.
+
+> Forests, thickets; 1000--1300 m. S Gansu (Kang Xian), S Shaanxi (Foping Xian).

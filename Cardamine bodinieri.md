@@ -1,0 +1,10 @@
+博氏碎米荠",
+6.**Cardamine bodinieri** (H. Léveillé) Lauener",
+
+> Although the type of &lt;I&gt;Cardamine bodinieri&lt;/I&gt; was collected from Guizhou (\"Kouy-Yang\" (Guiyang), May 1910, Bodinier s.n. (holotype, E)), the species was not mentioned in FRPS or in Fl. Guizhou. (vol. 7. 1989). The above record from Guizhou is also based on C. Z. Dang &amp; P. Dang 335 (PE).&lt;P&gt;&lt;I&gt;Cardamine bodinieri&lt;/I&gt; is related to &lt;I&gt;C. fragariifolia&lt;/I&gt;, from which it differs by having 3-lobed, simple leaves (vs. trifoliolate, compound leaves with distinctly petiolulate leaflets), a broadly winged (vs. slender or narrowly winged) petiole, an amplexicaul (vs. entire) petiolar base, and petals without (vs. with) well-developed claws.&lt;P&gt;
+
+## Description
+Herbs perennial, ca. 60 cm tall, rhizomatous. Stems erect, simple or branched above, glabrous except for leaves. Basal leaves withered by flowering. Cauline leaves 5-8, simple, deeply 3-lobed; petiole 0.5-5 cm, with a broad wing 2-6 mm wide and extending along entire length, base amplexicaul; auricles broadly oblong or ovate, to 6 × 4 mm; terminal leaf lobe ovate to ovate-lanceolate, 4-8 × 2-4 cm, sparsely hirsute with stout trichomes to 0.4 mm, sessile and base decurrent with lateral lobes, margin serrate-crenate, ciliolate with trichomes less than 0.1 mm, teeth mucronate, apex acute or acuminate; lateral lobes similar to terminal but smaller. Fruiting pedicels divaricate-ascending, 5-10 mm, straight, glabrous. Sepals ovate-oblong, 2-3 × ca. 1.5 mm, glabrous, lateral pair subsaccate. Petals purple, obovate, ca. 7 × 3 mm, not clawed. Median filaments pairs 2.5-3 mm, lateral pair 1.5-2 mm; anthers ca. 0.6 mm. Ovules 8-12 per ovary. Fruit linear, 0.8-1.2 cm × 1-1.2 mm; gynophore ca. 0.5 mm; valves glabrous, smooth; style 0.5-2 mm. Seeds dark brown, oblong, 1.3-1.7 × 0.7-0.9 mm, wingless. Fl. May, fr. Jul.
+
+> * About 1100 m. Guizhou.
+  "Synonym": "&lt;I&gt;Dentaria bodinieri&lt;/I&gt; H. Léveillé, Repert. Spec. Nov. Regni Veg. 8: 452. 1910.

@@ -1,0 +1,17 @@
+小扁豆",
+19.**Polygala tatarinowii** Regel",
+
+## Description
+Herbs annual, erect, 5-15 cm tall. Stems simple or much branched, longitudinally angular, glabrous. Petiole 5-10 mm, narrowly winged; leaf blade green, ovate or elliptic to broadly elliptic, 8-25 × 6-15 mm, papery, sparsely pubescent, penniveined, base cuneate, decurrent, margin entire, ciliate, apex acute. Racemes terminal, after anthesis to 6 cm; bracteoles 2, caducous, lanceolate, ca. 1 mm. Sepals 5, caducous after anthesis, green; outer sepals 3, ovate or elliptic, small, ca. 1 mm; inner sepals 2, petaloid, narrowly obovate, ca. 2 mm, apex retuse-rounded. Petals 3, connate in lower 2/3, red to purple-red; keel slightly shorter than lateral petals, tuberculate, apex rounded, without appendage. Stamens 8; filaments lower 3/4 united, forming an open staminal sheath; anthers ovoid. Ovary globose, ca. 0.5 mm in diam.; style curved, ca. 2 mm, apex funnelform, with oblique lobes; stigma on lower lobe. Capsule compressed-orbicular, ca. 2 mm in diam., sparsely pubescent, narrowly winged, apex mucronate. Seeds black, suboblong, ca. 1.5 mm, ca. 1 mm in diam., white pubescent; strophiole cucullate, small. Fl. Aug-Sep, fr. Sep-Nov.
+
+> Grasslands on slopes, thickets, roadsides ; (500-)1300-3000(-3900) m. Anhui, Fujian, Gansu, Guangdong, Guangxi, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Nei Mongol, Ningxia, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Taiwan, Xinjiang, Xizang, Yunnan, Zhejiang [Bhutan, India, Japan, Kashmir, N Myanmar, Philippines; Malesia].
+  "Synonym": "*Salomonia martini* H. Léveillé; *Semeiocardium hamiltonii* Hasskarl.
+**19. 小扁豆（植物名实图考）小远志（东北草本植物志），野豌豆草（云南红河），天星吊红（广东植物志）**
+
+Polygala tatarinowii Regel in Pl. Radd. 1: 278, t. 7, fig. 10-11. 1861 [Bull. Soc. Nat. Moscou 34 (2): 523. 1861]; French. Pl. David. 45. 1884; Forbes et Hemsl in Journ. Linn. Soc. Bot. 23: 62. 1886; Chodat in Mem. Soc. Phys. Hist. Nat. Geneve 31: (1): 41. 1893, pro syn. ; Komarov. in Ast. Hort. Petrop. 22: 678. 1904; Craib in Not. Bot. Gard. Edinb. 2: 187. 1918; Gagnep. in Lecomte, Fl. Gen. Indo-Chine, Suppl. 1: 226, fig. 22: 1-6. 1939, excl. syn; Adema in Blumea 14 (2): 253. fig 1. 1966; 中国高等植物图鉴2: 679, 图2888. 1972;东北草本植物志 6: 30, 图版11: 4-7. 1977;台湾植物志3: 560, 图版727. 1977; Ohwi, Fl. Japan 831. 1978; Hara in Hara et Williams, Enum. Flow. Pl. Nep. 2: 51. 1979; 云南植物志3: 278. 1983; 云南种子植物名录, 上册213. 1984; 陈书坤, 植物分类学报29 (3): 214. 1991; 广东植物志2: 54. 1991;——Semeiocardium hamiltonii Hassk. in Ann. Mus. Bot. Lugd. -Bat. 1: 151. 1863, excl. specim. Novog. Zippel. excl. syn. P. triphylla Buch. -Ham. ex D. Don.——Salomonia martinii Levl. in Bull. Soc. Bot. France 51: 290. 1904, et Fl. Kouy-Tcheou 317. 1915,——Polygala triphylla auct. non Buch. -Ham. ex D. Don, nec Burm f.: Royle, III. t. 19D. 1839; Merr. Enum. Pl. Philip. 2: 384. 1923.
+
+一年生直立草本，高5-15厘米；茎不分枝或多分枝，具纵棱，无毛。单叶互生，叶片纸质，卵形或椭圆形至阔椭圆形，长0.8-2.5厘米，宽0.6-1.5厘米，先端急尖，基部楔形下延，全缘，具缘毛，两面均绿色，疏被短柔毛，具羽状脉；叶柄长5-10毫米，稍具翅。总状花序顶生，花密，花后延长达6厘米；花长1.5-2.5毫米，具小苞片2枚，苞片披针形，长约1毫米，早落；萼片5，绿色，花后脱落，外面3枚小，卵形或椭圆形，长约1毫米，内面2枚花瓣状，长倒卵形，长约2毫米，先端钝圆；花瓣3，红色至紫红色，侧生花瓣较龙骨瓣稍长，2/3以下合生，龙骨瓣顶端无鸡冠状附属物，圆形，具乳突；雄蕊8，花丝3/4以下合生成鞘，花药卵形；子房圆形，径约0.5毫米，花柱长约2毫米，弯曲，向顶端呈喇叭状，具倾斜裂片，柱头生于下方的短裂片内。蒴果扁圆形，径约2毫米，顶端具短尖头，具翅，疏被短柔毛；种子近长圆形，径约1毫米，长约1.5毫米，黑色，被白色短柔毛，种阜小，盔形。花期8-9月，果期9-11月。
+
+产东北、华北、西北、华东、华中及西南地区；生于山坡草地、杂木林下或路旁草丛中，海拔（540-）1 300-3 000（-3 900）米。分布于日本及热带东南亚（马来西亚及菲律宾的吕宋和棉兰老）。模式标本采自北京附近。
+
+本种全草可药用，用于治疟疾和身体虚弱。

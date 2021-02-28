@@ -1,0 +1,14 @@
+对叶杓兰",
+23.**Cypripedium debile** H. G. Reichenbach Xenia Orchid. 2: 223. 1874.",
+
+## Description
+Plants 10-30 cm tall, with a rather short rhizome. Stem erect, slender, glabrous, with 2 or 3 tubular sheaths at base and 2 leaves at apex. Leaves spreading horizontally, opposite or subopposite; blade broadly ovate, triangular-ovate, or cordate, 2.5-7 × 2.5-7 cm, herbaceous, glabrous, minutely ciliate, with 3-5 palmate veins and inconspicuous reticulate veinlets, base subcordate or broadly cuneate, apex acute or shortly acuminate. Inflorescence terminal, pendulous, with 1 flower; peduncle arching, usually 2-5 cm, slender, glabrous; floral bracts linear, 1.5-3 cm, glabrous; pedicel and ovary 8-14 mm, glabrous. Flower small, often hidden under leaves; sepals and petals pale green or yellowish green, with maroon spots or markings at base; lip white with maroon spots inside and sometimes stripes toward its mouth. Dorsal sepal narrowly ovate-lanceolate, 1-2 × 0.5-0.7 cm, glabrous, apex acuminate; synsepal similar to dorsal sepal, often slightly smaller, apex nearly unlobed. Petals lanceolate, 1-2 × 0.3-0.5 cm, apex acute, often ± enfolding lip; lip deeply pouched, subellipsoid, 1-1.5 cm, with a broad mouth, inner bottom hairy. Staminode orbicular to ovate, 1-2 mm. Capsule narrowly ellipsoid, 1-1.8 cm × 5-6 mm. Fl. May-Jul, fr. Aug-Sep. 2*n* = 20.
+  "Statistics": "Humus- and litter-rich places in forests, grassy slopes; 1000-3400 m. Chongqing, S Gansu, W Hubei, W Sichuan, N Taiwan [Japan].
+  "Synonym": "*Cypripedium cardiophyllum* Franchet &amp; Savatier.
+**23.对叶杓兰（植物学通报）图版5：4**
+
+Cypripedium debile Rchb. f. , Xenia Orch. 2: 223. 1874; Schltr. in Fedde Repert. Sp. Nov. Beih. 4: 80. 1919; S. Y. Hu in Quart. J. Taiwan Mus. 26(1-2): 144. 1973;台湾兰科植物彩色图鉴1: 131. 1977, et 2: 418. 1990 ;台湾植物志5: 951. 1978; 台湾兰科植物3: 54-55(图). 1987; S. C. Chen et Y. Z. Xi in Proc. 12th World Orch. Conf. 145. 1987; K. Y. Lang et Z. H. Tsi in Bot. Res Inst. Bot. 6: 50. 1992;横断山区维管植物2: 2513. 1994; Cribb, Genus Cypripedium 248. fig. 45. pl. 8, 49, 50. 1997; Z. H. Tsi, S. C. Chen et K. Mori, Wild Orch. China 16. pl. 8. 1997;中国兰花全书106.图6-1 (7). 彩图6-1. 1998. ——Gypripedium cardiophyllum Franch. et Sav., Enum. Pl. Jap. 2: 39. 1876.
+
+植株高10-30厘米，具较短的根状茎。茎直立，纤细，无毛，基部具2-3枚筒状鞘，顶端生2枚叶。叶对生或近对生，平展；叶片宽卵形、三角状卵形或近心形，长2.5-7厘米，宽亦相近，先端急尖或短渐尖，基部近心形或宽楔形，草质，两面无毛，边缘略有细缘毛，具3-5条主脉及不甚明显的网状支脉。花序顶生，下垂或俯垂，具1花；花序柄纤细，弯曲，无毛，长度变化较大，通常为2-5厘米；花苞片线形，常多少弧曲而呈镰刀状，长1.5-3厘米，无毛；花梗和子房长8-14毫米，无毛；花较小，常下弯而位于叶之下方；萼片和花瓣淡绿色或淡黄绿色，在基部有栗色斑，唇瓣白色并有栗色斑；中萼片狭卵状披针形，长1-2厘米，宽5-7毫米，先端渐尖，无毛；合萼片与中萼片相似，常略小，先端几不裂；花瓣披针形，长1-2厘米，宽3-5毫米，先端急尖，常多少围抱唇瓣；唇瓣深囊状，近椭圆形，长1-1.5厘米，有较宽的囊口和宽阔的内折侧裂片，囊底有细毛；退化雄蕊近圆形至卵形，长1-2毫米。蒴果狭椭圆形，长1-1.8厘米，宽5-6毫米。花期5-7月，果期8-9月。
+
+产台湾北部（宜兰）、甘肃南部（文县）、湖北西部（兴山）和四川东北部至西部（城口、汶川、金川、理县、茂汶、南坪、米易、宝兴、石棉、沪定、康定）。生于海拔1000-3400米的林下、沟边或草坡上。日本也有分布。模式为根据日本植物所绘的图。

@@ -1,0 +1,9 @@
+短序组",
+4.**Bulbophyllum sect. Corymbosa** (Blume) Averyanov Opred. Orkhid. Vetnama. 261. 1994.",
+
+> Seventy-six provisionally accepted species: Himalayas to the Philippines and Sulawesi; 14 species (six endemic) in China.
+
+## Description
+Rhizome creeping or straggling with roots sprouting mainly below pseudobulbs, or rhizome spreading to pendulous, with roots growing backward over or alongside rhizome until they reach substrate; new shoots arising from basal node of pseudobulb. Pseudobulbs distinct, apex with 1 leaf. Leaves persistent, thick. Inflorescences solitary, arising along length of rhizome or near pseudobulbs, with 3 to many flowers in a contracted to subumbellate raceme (an elongate raceme in *Bulbophyllum reptans* and *B. polyrrhizum*). Pedicel with base ± coinciding with attachment of subtending bract. Sepals free, margins glabrous, 1-3-veined; lateral sepals ca. as long as dorsal sepal or somewhat longer, not twisted inward near base (twisted inward in *B. ledungense*). Petals: margins glabrous, 1-3-veined; lip: margins without auricles or lateral lobes, otherwise ± glabrous, adaxially usually glabrous (with glandular hairs in *B. odoratissimum*). Column: stigma not protruding at its base, foot distinct; anther: front margin not projecting or projecting into a rounded beak, abaxially with or without a rounded crest; pollinia 4, inner more than 1/2 as long as outer, all without appendages.
+  "Reference": "*Bulbophyllum reptans* and *B. polyrrhizum* may not belong here. The first has spiral vessels in its flower parts similar to Continental African species such as *B. pumilum* (Swartz) Lindley.*Bulbophyllum reptans* and *B. polyrrhizum* may not belong here. The first has spiral vessels in its flower parts similar to Continental African species such as *B. pumilum* (Swartz) Lindley.
+  "Synonym": "*Diphyes* sect. *Corymbosae* Blume, Bijdr. 315. 1825 [*\"Corymbosia\"*].

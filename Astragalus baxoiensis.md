@@ -1,0 +1,6 @@
+八宿黄耆",
+157.**Astragalus baxoiensis** Podlech & L. R. Xu Novon. 17: 241. 2007.",
+
+## Description
+Plants 6-12 cm tall, densely caespitose, furnished with appressed hairs. Stems up to 6 cm, slender, glabrous. Leaves 1.5-4.5 cm; stipules often reflexed, 2-3 mm, nearly free from petiole, distinctly connate behind stem, sparsely hairy to some-times glabrous; petiole 0.5-1 cm, like rachis glabrous or with scattered hairs up to 0.3 mm; leaflets in 5-8(or 9) pairs, elliptic, 2-3 × 1-1.5 mm, abaxially especially at midvein sparsely covered with appressed hairs up to 0.3 mm, adaxially glabrous, apex subobtuse. Racemes short, rather densely 4-8-flowered; peduncle 2-3.5 cm, glabrous; bracts whitish membranous, ovate to narrowly triangular, 1-2 mm, sparsely white and black hairy. Calyx campanulate, ca. 3 mm, loosely covered with appressed white and black hairs 0.1-0.3 mm; teeth 1-1.5 mm. Petals pale purple; standard widely elliptic to orbicular, ca. 8 × 4.5 mm, apex emarginate; wings ca. 7 mm; keel ca. 6 mm. Legumes with a stipe ca. 1 mm, ellipsoid, ca. 5 mm, ca. 2 mm high and ca. 2.5 mm wide, keeled ventrally, grooved dorsally, acute with hooked persistent style, 1-locular; valves glabrous.
+  "Statistics": "● About 4200 m. Sichuan, Xizang.

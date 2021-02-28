@@ -1,0 +1,7 @@
+湖北猕猴桃",
+40.**Actinidia hubeiensis** H. M. Sun & R. H. Huang",
+
+## Description
+Climbing shrubs, large, deciduous. Branches reddish, glabrous, lenticels linear or punctiform, conspicuous; buds densely ferruginous tomentose; pith brownish, lamellate. Petiole purplish, 1.5-3 cm, densely velutinous when young and glabrous when mature; leaf blade abaxially pale green, adaxially dark green, narrowly ovate to broadly ovate to broadly orbicular-obovate, 6-14 × 5-13 cm, papery, abaxially very sparsely stellate tomentose with hairs easily rubbing off, adaxially glabrous, midvein and lateral veins conspicuous abaxially, sulcate adaxially, lateral veins 6-9 pairs, reticulate veinlets subconspicuous with distinct and prominent parallel cross-bars abaxially, base mostly cordate, margin ciliate-serrulate, apex abruptly acute to rounded, rarely emarginate. Female flowers solitary, puberulent; pedicels 0.7-1.5 cm. Sepals 3-6, ovate, 3-5 mm, margin densely brown tomentose. Petals 5 or 6, white to purplish, and then yellowish at base, obovate, 7-9 mm. Ovary conical, ca. 4.5 mm in diam., densely grayish tomentose; styles 4-5 mm. Sterile stamens numerous; filaments 4-5 mm; anthers yellow, reniform, 1-1.5 mm. Male flowers unknown. Fruit dark brown, ovoid to conical to subglobose, 2-3 cm, glabrescent when mature, densely lenticellate, lenticels brownish; persistent sepals reflexed. Seeds ca. 2 mm. Fl. Apr-May, fr. Oct. 2*n* = 58*.
+
+> ●  Hubei (Yichang).

@@ -1,0 +1,14 @@
+松穗卷柏",
+42.**Selaginella laxistrobila** K. H. Shing Acta Phytotax. Sin. 31: 569. 1993.",
+
+## Description
+Plants terrestrial, evergreen, main stem shortly decumbent, 1-4(-6) cm, producing a few upright stems over a short distance. Rhizophores restricted to lower part of stem. Main stems branched from near base upward, stramineous, 0.3-0.4 mm in diam. in lower part, angulate, sulcate, repeatedly once or twice forked, branchlets sparse, leafy branches and stems dorsiventrally flattened, ultimate branches 3.2-4.2 mm wide including leaves. Axillary leaves on branches symmetrical, elliptic, 1-1.8 × 0.3-0.7 mm, base exauriculate, margin slightly denticulate. Dorsal leaves ± symmetrical, those on branches not approximate, ovate, 1.2-1.8 × 0.6-0.8 mm, not carinate, base subcordate or obtuse, margin ciliolate, apex acuminate. Ventral leaves asymmetrical, those on branches spreading, ovate-triangular, 1.8-2.3 × 0.8-1.2 mm, apex acute; acroscopic base enlarged, broader, slightly overlapping stem and branches, margin ciliolate. Fertile branches erect. Strobili solitary or forked, terminal, lax, dorsiventrally complanate, 10-20 × 3-5 mm; sporophylls dimorphic, similar to sterile leaves in form and arrangement, non-resupinate; dorsal sporophylls like dorsal sterile leaves, not white-margined, ovate-lanceolate, margin shortly ciliolate, apex acuminate, without sporophyll-pteryx; ventral sporophylls ovate, margin shortly ciliolate; megasporophylls in basal portion on lower side of strobilus; sporangia only distributed on lower side; microsporangia orbicular; microspores orange-red, megaspores orange or yellowish orange.
+
+> Damp places in mixed forests, under *Quercus* shrubs, on rocks, soil banks, rare; 2500-3600 m. Sichuan, Yunnan [India, Nepal].
+**61.松穗卷柏（植物分类学报）图版64：1-5**
+
+Selaginella laxistrobila K. H. Shing in Acta Phytotax. Sin. 31: 569, f. 1. 1993. ——S. nipponica var. foliis longius ciliatis O. C. Schmidt in Acta Horti Gothob. 5: 52. 1930. ——S. laxisporophylla K. H. Shing in W. T. Wang et al., Vasc. Pl. HengduanMts. 1: 10. 1993, nom. nud. ——S. jugorum auct. non Hand. -Mazz. : Vasc. Pl. Hengduan Mts. 1: 10. 1993, p. p. ——Lycopodioides jugorum (Hand. -Mazz.) H. S.Kung in Acta Bot. Yunnan. 17: 420. 1995, p. p.
+
+土生，短匍匐，向上生出几个直立能育枝，高1-4 (-6)厘米，无游走茎。根托只生于茎的下部，长0.7-2厘米，纤细，直径0.1毫米，根多分叉，光滑。主茎自近基部开始分枝，通常重复1-2次等二叉分枝，禾秆色，主茎下部直径0.3-0.4毫米，具沟槽，无毛，维管束1条，分枝稀疏，叶状分枝和主茎无毛，背腹压扁，末回分枝连叶宽3.2-4.2毫米。叶全部交互排列，二形，草质或膜质，表面光滑，边缘不为全缘，不具白边（或边缘微透明），二形。分枝上的腋叶对称，椭圆形，1.0-1.8毫米×0.3-0.7毫米，边缘具微齿。中叶多少对称，分枝上的卵圆形，1.2-1.8毫米×0.6-0.8毫米，相互排列不是非常近，背部不呈龙骨状，先端外展或与轴平行，先端渐尖，基部近心形或钝，边缘具睫毛。侧叶不对称，侧枝上的侧叶卵状三角形，外展，1.8-2.3毫米×0.8-1.2毫米，先端急尖；下侧基部扩大，略覆盖小枝，上侧边缘具短缘毛，基部具睫毛。孢子叶穗疏松，背腹压扁，单生于小枝末端或分叉，10-20毫米×3.0-5.0毫米；孢子叶二形，正置，和营养叶形状，排列一致；孢子囊只生下侧孢子叶基部，叶不具白边，上侧的孢子叶卵状披针形，边缘具短睫毛，先端渐尖，无孢子叶翼，下侧的孢子叶卵圆形，边缘具短睫毛；大孢子叶分布于孢子叶穗下部的下侧。大孢子橘红色或橘黄色；小孢子橘红色。
+
+产四川（丹巴、康定、马尔康）、云南（宾川、大姚、鹤庆、丽江）。生于林下潮湿处或岩石上，海拔2500-3575米。也分布到尼泊尔。模式标本采自四川。

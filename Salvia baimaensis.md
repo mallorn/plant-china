@@ -1,0 +1,7 @@
+白马鼠尾草",
+69.**Salvia baimaensis** S. W. Su & Z. A. Shen",
+
+## Description
+Plants perennial. Stems erect, few, 40-60 cm, densely retrorse pubescent and pilose. Leaves mostly simple, rarely lower stem leaves ternate; petiole of basal leaves 2-8 cm, petioles of lower stem leaves (0.5-)1-4.5 cm, sessile in upper ones; leaf blades of basal leaves ovate to oblong-ovate, 3-9.5 &amp;#215; 1.5-7 cm, abaxially glandular pubescent, margin irregularly crenulate; stem leaves (1-) or 2- or 3-paired, blade obovate to elliptic-obovate, (2.5-)4-13 &amp;#215; 2-8 cm. Verticillasters 6-flowered, widely spaced, in racemes or panicles to 30 cm; rachis densely retrorse white pubescent; bracts lanceolate, 3-10(-20) &amp;#215; 1-1.5(-2) mm. Pedicel 2-3 mm, densely pubescent. Calyx green, tubular, 6-7 mm, sparsely pubescent on veins, yellowish glandular; upper lip semicircular-triangular, 0.5-1 mm, 3-denticulate; lower lip 1.5-2 mm, teeth triangular. Corolla white, reddish adaxially on middle lobe of lower lip, ca. 1.1 cm, pubescent or glandular pubescent; tube obliquely pilose annulate inside, ca. 8 mm, straight, 1.5-2 mm wide at base; upper lip ca. 2 mm; middle lobe of lower lip ca. 2 &amp;#215; 3.5-4 mm, obcordate; lateral lobes subcircular, ca. 1 mm. Stamens somewhat exserted; filaments ca. 0.7 mm; connectives slightly curved, ca. 3.5 mm, upper arms ca. 3 mm, lower arms very short. Nutlets unknown. Fl. May-Jun.
+
+> * Hillsides; 600-1400 m. Anhui (Jinzhai Xian).

@@ -1,0 +1,14 @@
+曲之黄耆",
+266.**Astragalus anfractuosus** Bunge Mém. Acad. Imp. Sci. Saint Pétersbourg, sér. 7. 11(16): 125. 1868.",
+
+## Description
+Plants 7-18 cm tall, vegetative parts covered with medi-fixed white hairs 0.3-1 mm, stipules and nodes also with some black hairs. Stems mostly several, slender, prostrate to ascending or rarely erect, loosely appressed hairy. Leaves 2-4.5 cm; stip-ules 2-4 mm, nearly free from petiole, rather densely hairy; petiole 1-1.5 cm, like rachis slender, rather densely appressed hairy; leaflets in 2-4 pairs, remote, linear to narrowly elliptic, 4-10 × 1-2 mm, abaxially rather densely appressed hairy, adax-ially loosely appressed hairy, apex obtuse to subacute. Racemes short, rather loosely (2-)4-7-flowered; peduncle 2-11 cm, slen-der, rather loosely hairy; bracts 1-2 mm, white or black and white hairy. Calyx 11-13 mm, densely or more rarely loosely covered with appressed white hairs 0.8-1 mm and with mostly shorter black hairs; teeth 1.5-2 mm. Petals purplish or dirty yellowish violet, rarely pale yellowish; standard rhombic-ellip-tic to obovate, 20-21 × 7.5-9 mm, slightly constricted below middle, apex truncate to slightly retuse; wings 18-20 mm; keel 15-17 mm. Legumes (unripe) sessile, linear, erect to horizon-tally spreading, ca. 20 mm, ca. 2 mm high, shortly attenuate; valves densely covered with appressed to subappressed, ± sym-metrically to strongly asymmetrically bifurcate, often flexuous, partly distinctly flattened, white hairs 1-1.5 mm and with much fewer and shorter black hairs.
+  "Reference": "The Chinese record of *Astragalus gladiatus* Boissier (FRPS 42(1): 306. 1993) is referable to *A. anfractuosus*.The Chinese record of *Astragalus gladiatus* Boissier (FRPS 42(1): 306. 1993) is referable to *A. anfractuosus*.
+  "Statistics": "Gravelly areas; 2700-3700 m. Xinjiang, Xizang [Kashmir].
+**239. 歧枝黄耆（西藏植物志）剑叶黄芪（植物研究） 图版80: 24-31**
+
+Astragalus gladiatus Boiss. Diagn. Pl. Orient. Nov. ser. 1. 2: 45. 1843; 西藏植物志 2: 809. 1985——A. subuliformis auct. non DC.: Ali in Kew Bull. 1958: 316. 1958 et 28 (2): 303. 1973, pro parte; id. in Nasir et Ali, Fl. W. Pakist. 100: 211. pl. 28. 1977; S. B. Ho in Bull. Bot. Res. 3 (1): 62. 1983. ——A. subulatus auct. non M. Bieb. : Baker in Hook. f. Fl. Brit. 2: 136. 1872. ——A. subulatus auct. non Desf.: Pall. Spec. Astrag. 22. t. 20 D. 1800.
+
+多年生草本，高25-30厘米。茎纤细，多分枝，被白色伏贴毛，灰绿色。羽状复叶有5-13片小叶，长3-6厘米；叶柄较叶轴短；纤细，被白色伏贴的细毛；托叶基部连合，上部三角形，长1-2毫米，被白色或混生少量黑色毛；小叶狭线状剑形，长3-15毫米，宽0.5-1.5毫米，上面疏被白色毛，下面毛较密。总状花序的花序轴短，生6-9花；总花梗为叶长的1-2倍或与其等长，腋生，较细弱，被白色伏贴毛；苞片小，披针形，较花梗稍短，被黑、白混生毛；花萼管状，长8-10毫米，被黑、白混生伏贴毛，萼齿短，钻状，长约为筒部的1/6；花冠灰绿色，干时变黄，旗瓣长18-20毫米，倒卵形，先端微凹，中部以下收狭为瓣柄，翼瓣长14-18毫米，瓣片狭长圆形，较瓣柄稍短，龙骨瓣较翼瓣稍短，瓣片钝圆，长为瓣柄的2/3；子房线形，有短柄。荚果线状钻形，斜向上直立，长2.5-3厘米，宽1-1.5毫米，密被白色绒毛，成熟时常平展，稍呈弧形弯曲。花期6-7月，果期7-8月。
+
+产新疆南部、西藏（阿里扎达）。生于海拔3400米左右的山坡砾石地。原苏联、巴基斯坦、印度都有分布。

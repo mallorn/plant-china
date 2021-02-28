@@ -1,0 +1,15 @@
+沙滩黄芩",
+86.**Scutellaria strigillosa** Hemsley",
+
+## Description
+Herbs perennial. Rhizomes producing stolons from nodes. Stems purplish, erect to slightly curved, 8-24(-35) cm tall, sparsely and upwardly curved strigose-pubescent to hirsute especially on nodes and angles. Petiole 5-6.5 mm basally, 1-2 mm upward, hirsute; leaf blade elliptic, rarely narrowly elliptic, 1-2.5 cm × 3-15 mm, thin, papery, densely appressed strigose-hirsute, abaxially densely impressed glandular, base shallowly cordate to subtruncate, margin shallowly obtuse dentate, sometimes serrate to subentire, apex obtuse to rounded. Racemes poorly defined, terminal; bracteoles needlelike, ca. 1 mm, inserted on basal 1/4 of pedicels. Flowers axillary. Pedicel 2.5-3.5(-5) mm, densely appressed pubescent. Calyx 3-3.5 mm, densely strigose-hirsute, to 6 mm in fruit; scutellum incon-spicuous, less than 1 mm, ca. 1.5 mm in fruit. Corolla purple, 1.6-1.8(-2.4) cm, glandular pubescent outside, glabrous inside; tube slightly saccate in front at base, 1.5(-2.5) mm wide at middle, gradually dilated upward, to 5(-6) mm wide at throat; middle lobe of lower lip longer than upper lip, broadly ovate, ca. 8 mm wide, apex emarginate; lateral lobes shorter than upper lip, narrowly ovate, apex subtruncate. Nutlets yellow-brown, subglobose, ca. 1.25 mm in diam., densely tuberculate, adaxially umbonate. Fl. and fr. May-Oct.
+
+> Beaches. Hebei, Jiangsu, Liaoning, Shandong, Zhejiang [Japan, Korea, Russia].
+  "Synonym": "&lt;I&gt;Scutellaria schmidtii&lt;/I&gt; Kudo; &lt;I&gt;S. scordifolia&lt;/I&gt; Fischer ex Schrank var. &lt;I&gt;hirta&lt;/I&gt; F. Schmidt; &lt;I&gt;S. taquetii&lt;/I&gt; H. Léveillé &amp; Vaniot.
+**86．沙滩黄芩 瓜子兰（河北）**
+
+Scutellaria strigillosa Hemsl. in Journ. Linn. Soc. Bot. 26: 297. 1890; Palibin in Act. Hort. Petrop. 21: 226. 1903; Komarov in ibid. 25: 347. 1907; Dunn in Notes Bot. Gard. Edinburgh 6: 176. 1915; Kudo in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 265. 1929; Kitagawa, Lineam. Fl. Mansh. 386. 1939——Scutellaria scordifolia var. hirta Fr. Schmidt, Reisen Amurl. 165. 1868——Scutellaria schmidtii Kudo in Journ. Coll. Sci. Univ. Tokyo 43 (8): 13. 1921——Scutellaria taquetii Levl. et Vaniot in Fedde, Repert. Sp. Nov. 8: 402. 1910; Juz. in Fl. URSS 20: 100. t. 5, f. 4. 1954.
+
+多年生草本；根茎极长，横行或斜行，在节上生须根及匍枝。茎直立或稍弯，高8-24（35）厘米，基部粗1-1.8毫米，四棱形，具小条纹，疏被上曲的糙毛状短柔毛至长硬毛，在棱及节上稍密，不分枝，或多自基部分枝，常带紫色，矮小的茎中部节间长6-8毫米，但高大的茎中部节间长2-3厘米。叶大多具短柄，茎中部以上者长1-2毫米，下部者长5-6.5毫米，腹凹背凸，被近伸展的长硬毛；叶片多为椭圆形，稀狭椭圆形，长1-2（2.5）厘米，宽0.3-1.3（1.5）厘米，先端钝或圆形，基部浅心形或近截形，边缘有钝的浅牙齿，有时为锯齿，有时近全缘，薄纸质，两面密被紧贴的糙毛状长硬毛，下面密生凹点，侧脉4-5对，与中脉在上面凹陷下面凸起。花单生于茎或分枝上部的叶腋中；花梗长2.5-3.5（5）毫米，密被紧贴的短柔毛，向基部1/4处有1对长约1毫米的针状小苞片。花萼开花时长3-3.5毫米，外密被糙毛状长硬毛，后片小，不明显，高不及1毫米，果时花萼长6毫米，盾片高1.5毫米。花冠紫色，长1.6-1.8（2.4）厘米，外面被具腺短柔毛，内面无毛；冠筒基部微囊状膨大，宽1.5（2.5）毫米，向上渐宽，至喉部宽达5（6）毫米；冠檐2唇形，上唇盔状，先端微缺，下唇中裂片长过上唇，宽卵圆形，先端微缺，最宽处8毫米，2侧裂片短过上唇，狭卵圆形，先端近截平。雄蕊4，前对较长，具能育半药，退化半药不明显，后对较短，具全药，药室裂口具髯毛；花丝扁平，前对内侧后对两侧下部具小疏柔毛。花柱丝状，先端锐尖，微裂。花盘环状，前方隆起，后方延伸成短粗的子房柄。子房4裂，裂片等大。小坚果黄褐色，近圆球形，径1.25毫米，密生钝顶的瘤状突起，腹面中部稍下具果脐。花果期5-10月。
+
+产辽宁（大连），山东（青岛、烟台、崂山），河北（北戴河、山海关、秦皇岛），江苏北部（云台山）；生于海边沙地上。苏联，朝鲜，日本也有。等模式标本采自辽宁的大连及山东的烟台二地。

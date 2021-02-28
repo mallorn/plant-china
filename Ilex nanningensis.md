@@ -1,0 +1,14 @@
+南宁冬青",
+88.**Ilex nanningensis** Handel-Mazzetti",
+
+## Description
+Trees evergreen, ca. 20 m tall. Young branchlets dark brown, subterete, longitudinally angular, densely pubescent; third year’s branchlets straight, longitudinally obscurely fissured, with semicircular leaf scars, pubescent; terminal buds small. Leaves on first to fourth year’s branchlets; stipules falcate-deltoid, pubescent at base, apically acute; petiole 7-10 mm, pubescent, adaxially sulcate, distal half narrowly winged by decurrent leaf base; leaf blade abaxially greenish, adaxially green, shiny, gray-brown when dry, elliptic, rarely lanceolate or ovate-elliptic, 5-8 × 1.5-3.5 cm, thickly leathery, midvein impressed and pubescent adaxially, lateral veins 7 or 8 pairs, distinct abaxially, obscure adaxially, reticulate veins distinct only abaxially, base obtuse or cuneate, margin crenate-serrate, slightly recurved when dry, apex shortly acuminate, acumen broadly deltoid, 2-12 mm. Male flowers not known. Female inflorescences: 1-flowered cymes, fasciculate, fascicles 2-5-flowered, axillary on second year’s branchlets; bracts ovate-reniform, apex cuspidate or mucronate, ciliate; flowers fragrant, 4-merous; pedicels 6-8 mm, pubescent; bracteoles 2, narrowly deltoid, pubescent; calyx patelliform, ca. 3 mm in diam., 4-lobed, lobes orbicular, ca. 0.5 × 1.5 mm, sparsely minutely puberulent, ciliate; corolla rotate, ca. 8 mm in diam., petals ca. 3 × 2 mm, apex ciliate; staminodes 4, slightly shorter than petals, sterile anthers sagittate; ovary ovoid, ca. 3 mm, ca. 2.5 mm in diam., apex truncate, stigma discoid. Fruit subglobose, ca. 8 mm, ca. 1 cm in diam.; fruiting pedicel ca. 8 mm; persistent calyx orbicular, explanate, ca. 3 mm in diam.; persistent stigma discoid, ca. 2 mm in diam., mesocarp fleshy; pyrenes 4, oblong, ca. 6.5 mm, ca. 5.5 mm in diam., abaxially broadly depressed, rugose, reticulately striate, endocarp woody, thin. Fl. Apr-May, fr. Oct-Nov.
+
+> ● Forests, mixed forests, hills; 600-800 m. Guangdong (Xinfeng), Guangxi, Hainan (Baoting).
+**88．南宁冬青**
+
+Ilex nanningensis Hand.-Mazz. in Sinensia 5: 2. 1934; Chun in Sunyat. 4: 225. 1940; S. Y. Hu is Journ. Arn. Arb. 30 (3): 373. 1949.
+
+常绿乔木，高可达20米；幼枝近圆柱形，具纵棱角，暗棕色，密被短柔毛，三年生枝挺直，具不明显的纵裂缝及半圆形叶痕，被短柔毛；顶芽小，裸露，被短柔毛。叶互生，可见于1-4年生枝上，叶片厚革质，椭圆形，罕披针形或卵状椭圆形，长5-8厘米，宽1.5-3.5厘米，先端短渐尖，尖头宽三角形，长2-12毫米，基部钝或楔形，叶缘具圆齿状锯齿，干时稍外弯，叶面亮绿色，背面淡绿色，干时灰褐色，主脉在叶面凹陷，被短柔毛，在背面隆起，侧脉每边7-8条，在背面明显，上面模糊，网状脉仅在背面明显；叶柄长7-10毫米，被短柔毛，上面具沟槽，上端具由叶基下延的狭翅；托叶胼胝质，三角形，镰刀状，急尖，基部被短柔毛。花序簇生于二年生枝的叶腋内，每束具2-5花；苞片卵状肾形，先端骤尖或具短尖头，具缘毛；花4基数，芳香。雌花：束的单个分枝具单花，花梗长6-8毫米，被短柔毛，近中部具2长三角形、被短柔毛的小苞片；花萼盘状，直径约3毫米，4浅裂，裂片圆形，长约0.5毫米，宽约1.5毫米，疏被小微柔毛及缘毛；花冠辐状，直径约8毫米，花瓣长3毫米，宽2毫米，先端部分具缘毛；退化雄蕊4，略短于花瓣，败育花药箭头状；子房卵球形，长约3毫米，直径约2.5毫米，顶端截形，柱头盘形。雄花不详。果近球形，长约8毫米，直径约1厘米，宿存柱头圆形，扁平，直径约2毫米，基部具伸展的圆形，直径约3毫米的宿存萼；外果皮薄，中果皮肉质；果柄长约8毫米。分核4，轮廓长圆形、长约6.5毫米，宽约5.5毫米，背面多皱，具网状条纹，平滑而具宽凹陷，内果皮木质。花期4-5月，果期10-11月。
+
+产于广东（新丰）、广西（十万大山）和海南（保亭）。生于海拔600米的山地林中或山坡混交林中。模式标本采自广西南部十万大山（秦仁昌8082）。

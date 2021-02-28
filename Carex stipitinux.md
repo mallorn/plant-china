@@ -1,0 +1,14 @@
+柄果薹草",
+451.**Carex stipitinux** C. B. Clarke ex Franchet Bull. Soc. Philom. Paris, sér. 8. 7: 31. 1895.",
+
+## Description
+Rhizome short, ligneous, without stolons. Culms tufted, slightly slender, 60-100 cm tall, triquetrous, smooth, clothed with dark brown and bladeless sheaths at base, most up to 15 cm. Leaves shorter than or nearly equaling culm, blades 4-5 mm wide, ± stiff, scabrous on midrib of abaxial surface and margins, long sheathed; sheaths most up to 11 cm, membranous part of sheaths eventually disintegrating into reticulate fibers. Involucral bracts sheathed, lowest involucral bract blade leaflike, upper blades needle-shaped or setaceous, shorter than inflorescence, scabrous near apex. Spike numerous, 1-3 in an involucral bract sheath, usually 2 or 3 racemes composed of several spikes borne in lower involucral bract sheaths, terminal spike male, remaining spikes androgynous, male part much shorter than female part, densely many flowered, linear-cylindric, 10-28 mm, thinly pedunculate. Female glumes yellowish brown, broadly ovate, ca. 2.5 mm, membranous, green 1-costate, white hyaline on apex, apex obtuse or acute, muticous. Utricles green-yellow, suberect, longer than glume, elliptic, plano-convex, ca. 3 mm, white hispidulous on upper part, thinly 9-11-veined, base abruptly contracted into a short stipe, apex abruptly contracted into a short beak less than 1 mm, orifice slightly splitting into 2 teeth. Nutlets brown, tightly enveloped, elliptic, compressed biconvex, ca. 2 mm, base estipitate; style base slightly thickened; stigmas 2. Fl. and fr. Jun-Sep.
+  "Statistics": "● Lax or dense forests or thickets on mountain slopes or valleys, shady places at roadsides; 200-1500 m. Anhui, Gansu, Guangxi, Guizhou, Hubei, Hunan, Jiangxi, Shaanxi, Sichuan, Zhejiang.
+  "Synonym": "*Carex brunnea* Thunberg var. *stipitinux* (C. B. Clarke ex Franchet) Kükenthal.
+**413. 柄果薹草 图版91: 11-14**
+
+Carex stipitinux C. B. Clarke apud Franch. in Bull. Soc. Philom. Paris 8 ser 7: 31, 1895 et in Nouv. Arch. Mus. Paris 3 ser 8: 246 et in Journ. Linn. Soc. Bot. 36: 312, 1904; Diels in Bot. Jahrb. 24: 230, 1901; 中国高等植物图鉴5: 321, 图7471, 1976. ——C. brunnea Thunb. var. stipitinux (C. B. Clarke) Kukenth. in Engl., Pflanzenr. Heft 38 (IV.20): 602, 1909; 秦岭植物志1: 262, 1970.
+
+根状茎短木质，无地下匍匐茎。秆丛生，稍细，高65-100厘米，三棱形，平滑，基部为深褐色无叶片的鞘所包裹，最长可达15厘米。叶短于秆或几与秆等长，宽4-5毫米，质坚挺，叶片背面中脉上和边缘均粗糙，具长鞘；鞘最长达11厘米，膜质部分后期撕裂成网状纤维。苞片最下面一片为叶状，上面的为针状或刚毛状，短于花序，近顶部粗糙。小穗多数，1-3个出自同一苞片鞘内，下面的鞘内常具2-3个由几个小穗组成的总状花序，最顶端1个小穗纯雄性，其余全为雄雌顺序，上部为雄花，下部为密生的雌花，雄花部分较雌花部分短得多，小穗线状圆柱形，长10-28毫米，具细柄。雄花鳞片卵状披针形，长约4.5毫米，顶端急尖，膜质，黄棕色，背面具1条中脉；雌花鳞花宽卵形，长约2.5毫米，顶端钝或急尖，无短尖，膜质，背面具1条绿色的中脉，黄棕色，顶端常为白色透明。果囊近于直立，长于鳞片，椭圆形，平凸状，长约3毫米，绿黄色，背面具9-11条细脉，上部被白色短硬毛，基部急缩成短柄，顶端急缩成短喙，喙长不及1毫米，顶端浅裂成两齿。小坚果紧包于果囊内，椭圆形，扁双凸状，长约2毫米，褐色，无柄；花柱基部稍膨大；柱头2个。花果期6-9月。
+
+产于广西、江西、浙江、安徽、湖北、湖南、贵州、四川、陕西、甘肃；生于山坡、山谷的疏密林下或灌木丛中或路旁阴处，海拔180-1500米。模式标本采自湖北巴东。

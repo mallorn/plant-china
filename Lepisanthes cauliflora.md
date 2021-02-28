@@ -1,0 +1,10 @@
+茎花赤才",
+7.**Lepisanthes cauliflora** C. F. Liang & S. L. Mo",
+
+## Description
+Shrubs to small trees, 2-6 m tall. Branches few, reddish brown to brown, grayish yellow tomentose, glabrescent, shallowly furrowed. Leaves paripinnate, alternate, 25-40 cm with petioles; axis and petioles grayish yellow tomentose; leaflets usually 4 pairs, opposite; petiolules 3-4 mm, densely tomentose; blades adaxially deep green, oblong or ovate-oblong, 13-30 × 5-11 cm, papery, abaxially sparsely tomentose along midveins and lateral veins, adaxially sparsely tomentose along midveins, or glabrous on both sides, lateral veins 17-22 pairs, prominent on both sides when dry, base slightly cordate, margin entire, apex caudate-acuminate. Inflorescence racemose or thyrsoid, on stems and old branches, 1.5-4 cm, densely grayish yellow to grayish brown pubescent. Flowers polygamous, small; pedicels 2-3 mm, bracteolate. Sepals 5. Petals 5. Stamens 8. Bisexual flowers: sepals elliptic or boat-shaped, 3-4 × 1.5-3 mm, puberulent abaxially; petals oblong or ovate-oblong, 4-5 × 1.5-4 mm, abaxially puberulent, adaxially with hairy scales on middle; scales with a coroniform appendage at apex; stamens 3-4 mm; filaments puberulent; ovary subglobose, 3-locular, ca. 2 mm in diam., densely grayish yellow pubescent; styles ca. 1.5 mm, puberulent; stigma capitate; disk disklike. Male flowers: sepals and petals larger, oblong. Fruit globose to compressed globose, with 3 obtuse angles; pericarp thin, rigid, densely grayish yellow pubescent abaxially. Seeds 1-3, subglobose or semiglobose; testa membranous, reticulate veined, with ca. 1.5 × 0.6-0.7 cm spatulate scars on outer side. Fl. Sep-Oct.
+
+> ●  Forests. Guangxi (Longzhou).
+  "keylist": "
+1 Leaflets blades hairy adaxially along midveins and abaxially along midveins and lateral veins.——<a href='/info/Lepisanthes cauliflora var. cauliflora?t=foc'>var. *cauliflora* 茎花赤才(原变种)
+1 Leaflets glabrous on both surfaces.——<a href='/info/Lepisanthes cauliflora var. glabrifolia?t=foc'>var. *glabrifolia* 光叶茎花赤才",

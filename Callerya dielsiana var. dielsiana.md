@@ -1,0 +1,8 @@
+香花鸡血藤(原变种)",
+18a.**Callerya dielsiana var. dielsiana**",
+
+## Description
+Leaflet blades lanceolate to narrowly oblong, 5-10(-12) × 1.5-3.5 cm, papery, abaxially glabrous or sparsely puberulent, adaxially glabrous and shiny. Panicles 10-15 cm. Flowers 1.2-1.8 cm. Legume linear, 7-9 × ca. 1.5 cm, valves subwoody. Seeds oblong.
+  "Reference": "Although P. K. L?c attempted to make the combination *Callerya dielsiana* (Bot. Zhurn. (Moscow &amp; Leningrad) 81(10): 99. 1996), it was not validly published because he did not provide a full bibliographic ref-erence to the basionym (*Vienna Code*, Art. 33.4). Consequently (Art. 43.1), the two varietal combinations made below were not validly pub-lished by X. Y. Zhu (in X. Y. Zhu et al., Legumes China, 452. 2007).Although P. K. L?c attempted to make the combination *Callerya dielsiana* (Bot. Zhurn. (Moscow &amp; Leningrad) 81(10): 99. 1996), it was not validly published because he did not provide a full bibliographic ref-erence to the basionym (*Vienna Code*, Art. 33.4). Consequently (Art. 43.1), the two varietal combinations made below were not validly pub-lished by X. Y. Zhu (in X. Y. Zhu et al., Legumes China, 452. 2007).
+  "Statistics": "● Mixed woodlands and thickets on slopes; 800-2500 m. Anhui, Fujian, S Gansu, Guangdong, Guangxi, Guizhou, Hainan, Hubei, Hu-nan, Jiangxi, S Shaanxi, Sichuan, Yunnan, Zhejiang.
+  "Synonym": "Basionym: *Millettia dielsiana* Harms, Bot. Jahrb. Syst. 29: 412. 1900; *M. argyraea* T. C. Chen; *M. blinii* H. Léveillé; *M. champutongensis* Hu; *M. cinerea* Bentham var. *yunnanensis* Pampanini; *M. duclouxii* Pampanini; *M. dunniana* H. Léveillé; *M. fragrantissima* H. Léveillé; *M. obtusifoliolata* Hu.

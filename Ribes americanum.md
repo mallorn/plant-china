@@ -1,0 +1,15 @@
+美洲茶(藨)子",
+16.**Ribes americanum** Miller",
+
+## Description
+Shrubs 1-2 m tall. Branchlets slender, pubescent, yellow glandular, unarmed. Buds brown, ovoid, 2.5-5 mm, pubescent and glandular, apex obtuse. Petiole 2-5 cm, pubescent and sparsely yellow glandular, sometimes plumose hairy near base; leaf blade broadly ovate to suborbicular, 2.5-6 × 3-7(-8) cm, abaxially pubescent along veins, adaxially glabrous, yellow glandular on both surfaces, base cordate or subtruncate; lobes 3-5, ovate to triangular-ovate, margin deeply serrate or doubly serrate, apex acute; terminal lobe slightly longer than lateral ones. Racemes pendulous, (4-)5-8 cm, 8-20-flowered or more; rachis and pedicels pubescent; bracts lanceolate to linear, 6-10 mm, pubescent, rarely sparsely glandular. Flowers bisexual; pedicel 2-4 mm. Calyx yellowish white, pubescent; tube campanulate to shortly cylindric, 3-5 mm; lobes spreading then reflexed, oblong to ligulate, 3.5-6 mm. Petals yellowish white, ligulate, 2.5-4.5 mm. Stamens subequaling petals; anthers oblong, apex with nectary. Ovary glabrous. Style equaling or slightly longer than stamens, entire or stigma 2-lobed. Fruit black, subglobose, 0.8-1 cm, glabrous. Fl. May, fr. Jun-Jul.
+
+> Forests along river banks in mountain regions, grasslands. N China (precise distribution unknown) [native to North America].
+  "Synonym": "&lt;I&gt;Coreosma americana&lt;/I&gt; (Miller) Nieuwland; &lt;I&gt;C. florida&lt;/I&gt; (L'Héritier) Spach; &lt;I&gt;Ribes floridum&lt;/I&gt; L'Héritier; &lt;I&gt;R. recurvatum&lt;/I&gt; Michaux.
+**25. 美洲茶藨子（经济植物手册）**
+
+Ribes americanum Mill. Gard. Dict. Abridg. ed. 8. 1768; Berger, Taxon. Rev. Curr. Gooseb. 33. 1924; Rehd. Man. Cult. Trees ＆ Shrubs 306. 1927.——R. floridum L'Herit. Stirp. Nov. 4: 1785; Jancz. in Mem. Soc. Phys. Hist. Nat. Geneve 35. 3: 350. fig. 81. 82. 1907.——R. nigrum Linn. var. pennsylvanicum Marsh. Arbust.Am. 132. 1785. ——R. campanulatum Moench, Meth. Pl. 683. tab. 6. 1795. ——R. recurvatum Michaux, Fl. Bor. -Am. 1: 109. 1803. ——Coreosma florida Spach in Ann. Sci. Nat. Bot. ser. 2, 4: 22. 1835.——R. intermedium Tausch in Flora 21: 720. 1838, non Berch. ＆ Presl 1823.——R. floridum L'Herit. var. grandiflorum et var. parviflorum Loud. Arb. Brit. 2: 986. 1838.——R. missouriense Hort. ex Bean, Trees ＆ Shrubs Brit. Isl. 2: 398. 1914, pro syn, non Torrey ＆ Gray 1840.——Coreosma americana Nieuwl. in Am. Midland Nat. 4: 60. 1915.
+
+落叶直立灌木，高1-2米；枝细瘦，小枝灰紫色或灰褐色，微具棱角，皮稍剥裂，嫩枝灰褐色至灰棕色，具短柔毛和黄色腺体，无刺；芽卵圆形，长2.5-5毫米，宽1.5-2.5毫米，先端圆钝，具数枚褐色或棕褐色鳞片，外面具短柔毛和腺体。叶近圆形或宽卵圆形，长2.5-6厘米，宽3-7 (8) 厘米，基部心脏形或近截形，两面均被黄色腺体，上面暗绿色，无毛，下面浅绿色，沿叶脉具短柔毛，掌状3-5裂，裂片卵圆形或三角状卵圆形，先端急尖，顶生裂片稍长于侧生裂片，边缘具粗锯齿或重锯齿；叶柄长2-5厘米，具短柔毛和稀疏黄色腺体，有时近基部有少数羽状毛。花两性；总状花序长 (4) 5-8厘米，具花8-20余朵，下垂；花序轴和花梗具短柔毛；花梗长2-4毫米；苞片披针形至线形，长6-10毫米，宽1.5-2毫米，先端渐尖，具短柔毛，偶尔混生少数腺体；花萼浅黄白色，外面具短柔毛；萼筒钟状短圆筒形，长3-5毫米，宽2.5-4毫米；萼片长圆形或舌形，长3.5-6毫米，宽1.5-3毫米，先端圆钝，初期开展，后反折；花瓣舌形，浅黄白色，长2.5-4.5毫米，宽1.5-2.5毫米，先端圆钝，无毛；雄蕊几与花瓣近等长，花丝长于花药，花药长圆形，顶端具蜜腺；子房无毛；花柱较雄蕊稍长或几等长，不分裂或仅柱头2裂。果实近球形，直径8-10毫米，黑色，无毛。花期5月，果期6-7月。
+
+原产北美洲。生于石灰岩山地河岸边林下或草地。我国辽宁和河北等地庭园中长期栽植。总状花序下垂多花，花大，黄白色，为北方绿化树种，果实也供生食及加工用。日本也普遍栽培。模式标本采自美国东北部宾夕法尼亚州。

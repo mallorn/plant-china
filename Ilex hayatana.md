@@ -1,0 +1,7 @@
+早田氏冬青",
+179.**Ilex hayatana** Loesener",
+
+## Description
+Trees evergreen, ca. 12 m tall; bark pale gray-black. Branchlets slender, puberulent; second to third year’s branchlets with numerous large raised lenticels and leaf scars; current year’s branchlets longitudinally ridged and sulcate; terminal buds conical, puberulent, apically acute. Stipules narrowly deltoid, apically acute; petiole 4-7 mm, pubescent, longitudinally shallowly sulcate adaxially, narrowly winged by decurrent leaf base on distal half; leaf blade adaxially olivaceous when dry, elliptic or ovate-elliptic, 3-5 × 1-2 cm, leathery, adaxially glabrous except on midvein, midvein raised on both surfaces, puberulent adaxially, lateral veins 7 or 8 pairs, obscure on both surfaces, base obtuse or acute, margin entire, apex long acuminate, acumen 5-10 mm, tip obtuse or retuse. Flowers not known. Infructescences: 1-fruited cymes, fasciculate or pseudofasciculate, axillary on second year’s branchlets; central axis ca. 4 mm; bracts narrowly deltoid, pubescent; fruiting pedicels 5-7 mm, longitudinally striate and sulcate, pubescent; bracteoles 2, median. Fruit red, globose, 4(-7) mm in diam.; persistent calyx horizontally stretched, subexplanate-patelliform, ca. 2 mm in diam., quadrangular, 4-lobed, lobes orbicular, ciliate; persistent stigma capitate; pyrenes 4, ellipsoidal, ca. 4 mm, 1.5-2 mm in diam., abaxially convex, longitudinally 3-striate, laterally smooth, endocarp leathery. Fl. summer, fr. autumn to Feb.
+
+> Forests; 200-300 m. Taiwan (Nantou, Taizhong, Yilan) [Japan].

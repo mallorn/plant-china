@@ -1,0 +1,19 @@
+硬叶槲蕨",
+1.**Drynaria rigidula** (Swartz) Beddome Ferns Brit. India. t. 314. 1869.",
+
+> *Drynaria rigidula* differs from all other species of *Drynaria* by the pinnate fronds. It is the sole member of *D.* sect. *Poronema* J. Smith, to appropriately show its isolated position.
+
+## Description
+Rhizome shortly creeping, 1-2 cm in diam.; scales brown to dark brown, with a lighter margin, spreading, peltate, 5-13 × 0.5-1.5 mm, margin ciliate, apex acute to acuminate; fronds dimorphic, rachises persistent; basal fronds 10-30 × 5-15 cm, lobed from 1/3-4/5, margin irregularly and finely denticulate; foliage fronds stalked, stipe up to 40 cm, not winged, with 2 rows of nectaries; lamina pinnate, 25-100(-200) × 12-50 cm, apex aborted; pinnae articulate to rachis, all equally long or smaller toward apex, 8-25(-30) × 0.5-1.5 cm, base narrowly cuneate, margin crenate to serrate, apex obtuse to acuminate, free veinlets simple or absent, hydathodes absent. Sori in 1 row between costa and margin, costal, single between veins, orbicular, sunken. Spores with short, blunt spines and globules.
+
+> Epiphytic, encircling tree trunks many times, rarely epilithic; sea level to 2000(-2400) m. Hainan, SW Yunnan [Malaysia, Myanmar, Thailand, Vietnam; tropical Australia, Pacific islands (Polynesia)].
+  "Synonym": "*Polypodium rigidulum* Swartz in Schrader, J. Bot. 1800(2): 26. 1801; *Drynaria baudouinii* E. Fournier; *D. diversifolia* (R. Brown) J. Smith; *D. gaudichaudii* (Bory) Gaudichaud; *D. pinnata* Fée; *D. rigidula* var. *koordersii* Alderwerelt; *Goniophlebium rigidulum* (Swartz) T. Moore; *Phymatodes gaudichaudii* (Bory) C. Presl; *Polypodium baudouinii* (E. Fournier) Baker; *P. diversifolium* R. Brown (Mar 1810), not Willdenow (Jun 1810); *P. gaudichaudii* Bory; *P. rigidulum* var. *vidgeni* F. M. Bailey; *P. speciosum* Blume.
+**1. 硬叶槲蕨 (海南植物志) 图版63**
+
+Drynaria rigidula (Sw.) Bedd., Ferns Brit. Ind. t. 314. 1869: Suppl. Ferns S. Ind. et Brit. Ind. 24. 1876; Handb. Ferns Brit. Ind. 344, f. 192. 1883; Diels in Engl. et Prantl, Nat. Pfl. 1 (4): 330, f. 34B. 1902; Copel., Dept. Int. Bur. Govern. 28: 135. 1905; C. Chr., Ind. Fil. 249. 1906; Christ in J. Bot. (Paris) ser. 2 (1): 238. 1908; Alderw., Malaya Ferns 699. 1908; Bull. Jard. Bot. Buit. ser. 2 (1): 6. 1911; Copel., Fil. J. Sci. (Bot.). 6 (2): 91. 1911; Alderw., Malaya Ferns Suppl. 415. 1917; Backeret Posth., Varenfl. Java 233, f. 54. 1939; Tardieu et C. Chr. Fl. Indo-Chine 7 (2): 421. 1941; Holttum, Fl. Mal. 2: 183. 1954; Copel., Fern Fl. Philipp. 3: 497. 1960: Ching et al. in W. Y. Chun et al., Fl. Hainan. 1: 192, f. 91. 1964: Jones et Clemesha, Austr. Ferns 182, f. 144. Pl. 48. 1976; Brownlie, Nova Hedw. (Pterid. Fiji) 55: 363. 1977; M. C. Roos, Phylog. Syst. Drynar. Polyp. [Utrecht]274. 1985; Tagawa et K. Iwats., Fl. Thailand 3 (4): 550. Pl. 4. photo 5. 1989. ——Polypodium speciosum Blume, Enum. Pl. Jav. Fil. 132. 1828. Auct. non Christ (1897). ——Polypodium glaucistipes Wall., List no. 298. 1828. nom. nud.
+
+通常附生树干上，多圈攀绕，偶有生岩石上者。根状茎分枝，直径约1厘米，密被鳞片; 鳞片上部线状钻形，下部阔卵形，长约5-13毫米，宽0.5-1.5毫米，基部盾状着生，向上渐狭，尖头。长卵形或卵形，质薄，中部深红棕色而有光泽，边缘淡棕色而有睫毛。基生不育叶长卵形，长10-30厘米或更长，宽5-15厘米，上部稍狭，基部心脏形而有耳，浅裂达由叶缘至主脉的1/3或过之，裂片顶端钝或短尖，叶脉全部明显，两面均隆起，深棕色; 叶厚膜质，透明，锈棕色，幼时两面被金黄色的星芒状柔毛; 正常能育叶的叶柄长可达15-30 (-40)厘米，无狭翅，有远离的褐色小瘤状体；为羽片退化的痕迹。叶片卵形，长25-100 (-200) 厘米，宽12-25 (-50) 厘米，一回羽状；羽片10-20 (-40) 对，狭线形，长8-25 (-30) 厘米，宽0.8-1.4厘米，顶端渐尖，基部渐狭而呈楔形，为柄，与叶轴相连处有关节，干后脱落，边缘有浅钝锯齿；小脉明显，两面稍隆起，网眼细小，不整齐，叶革质，幼时叶柄、叶轴及主脉两面均疏被星芒状灰黄色的长柔毛，以后两面变无毛，干后淡棕色。孢子囊群圆形，直径约1.5毫米，在主脉两侧各有1行，稍接近主脉，每对侧脉之间有1个，着生于小脉连接处，下陷，在叶片上面形成明显的突点。孢子囊群中有隔丝。
+
+产海南、云南西南部。生长在山地密林中，通常附生树上，多圈攀绕，偶生岩石上而平铺生长，海拔0-2000 (-2400)米。泰国、缅甸、越南、老挝、柬埔寨、马来西亚、印度尼西亚至波利尼西亚及澳大利亚均有分布。模式标本采自爪哇。染色体2n=74。
+
+本种在槲蕨属中是一个孤立的种，它以彼此分离的基部以关节与叶轴相连、干后易脱落的狭披针形的羽片和幼时被淡灰色分叉的毛、下陷的孢子囊群中有隔丝等特征而同槲蕨属其他种类关系较疏远。为离羽组Sect. Poronema J. Sm.的唯一成员。

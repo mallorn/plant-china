@@ -1,0 +1,16 @@
+大猪屎豆",
+15.**Crotalaria assamica** Bentham London J. Bot. 2: 481. 1843.",
+
+## Description
+Herbs, erect, to 1.5 m tall. Branches terete, sericeous. Stip-ules linear, minute. Leaves simple; petiole 2-3 mm; leaf blade oblanceolate to narrowly elliptic, 5-15 × 2-4 cm, thin, abax-ially sericeous, adaxially glabrous, base cuneate, apex obtuse and mucronate. Racemes terminal or leaf-opposed, to 30 cm, 20-30-flowered; bracts linear, 1-2 mm. Bracteoles similar to bracts but shorter. Calyx 2-lipped, 1-1.5 cm, pubescent; lobes lanceolate-triangular, ± as long as tube. Corolla deep golden yellow; standard suborbicular to elliptic, 1.5-2 cm, base with 2 appendages, apex retuse; wings 1.5-1.8 cm; keel rounded through 90°, narrowed apically from middle and extended into a long twisted beak exserted beyond calyx. Ovary glabrous. Legume oblong, 4-6 × ca. 1.5 cm, 20-30-seeded; stipe ca. 5 mm. Fl. May-Sep, fr. Aug-Dec.
+  "Reference": "Baker (Fl. Brit. India 2: 75. 1876) suggested that *Crotalaria sericea* N. L. Burman (Fl. Indica, 156. 1768) might be conspecific with this species. If this was the case, then Burman’s name would have priority, but there seems to be too much doubt as to the exact identity of Burman’s species to justify displacing a well-established name. Some authors have cited Burman’s name as a synonym of *C. assamica* in the apparent belief that *C. sericea* N. L. Burman was a later homonym of *C. sericea* Retzius (1788), following Candolle who published the replace-ment name *C. burmanii* Candolle, but this is not correct as Burman’s name has priority.Baker (Fl. Brit. India 2: 75. 1876) suggested that *Crotalaria sericea* N. L. Burman (Fl. Indica, 156. 1768) might be conspecific with this species. If this was the case, then Burman’s name would have priority, but there seems to be too much doubt as to the exact identity of Burman’s species to justify displacing a well-established name. Some authors have cited Burman’s name as a synonym of *C. assamica* in the apparent belief that *C. sericea* N. L. Burman was a later homonym of *C. sericea* Retzius (1788), following Candolle who published the replace-ment name *C. burmanii* Candolle, but this is not correct as Burman’s name has priority.
+  "Statistics": "Montane grasslands, along trails; below 100-3000 m. Guangdong, Guangxi, Guizhou, Hainan, Taiwan, Yunnan [India, Laos, Myanmar, Philippines, Thailand, Vietnam].
+**13. 大猪屎豆（中国高等植物图鉴）大猪屎青（中国主要植物图说·豆科）、凸尖野百合（海南植物志）图版90: 8-15**
+
+Crotalaria assamica Benth. in London Journ. Bot. 2: 481. 1843; Baker in Hook. f. Fl. Brit. Ind. 2: 75. 1876; 中国主要植物图说·豆科170. 图160. 1955; 海南植物志2: 248. 1965; 台湾植物志3: 221. 1977; J, Q. Li in Journ. Wuh. Bot. Res. 6 (3): 221. 1988.——C. burmanni DC. Prodr. 2: 126. 1825.——C. sericea Burm. f. Fl. Ind. 156. t. 48. f. 1. 1768 non Retz. 1789.
+
+直立高大草本，高达1.5米；茎枝粗状，圆柱形，被锈色柔毛。托叶细小，线形，贴伏于叶柄两旁；单叶，叶片质薄，倒披针形或长椭圆形，先端钝圆，具细小短尖，基部楔形，长5-15厘米，宽2-4厘米，上面无毛，下面被锈色短柔毛；叶柄长2-3毫米，总状花序项生或腋生，有花20-30朵；苞片线形，长2-3毫米，小苞片与苞片的形状相似，通常稍短；花萼二唇形，长10-15毫米，萼齿披针状三角形，约与萼筒等长，被短柔毛；花冠黄色，旗瓣圆形或椭圆形，长15-20毫米，基部具胼胝体二枚，先端微凹或圆，翼瓣长圆形，长15-18毫米，龙骨瓣弯曲，几达90度，中部以上变狭形成长喙，伸出萼外；子房无毛。荚果长圆形，长4-6厘米，径约1.5厘米，果颈长约5毫米；种子20-30颗。花果期5-12月间。
+
+产台湾、广东、海南、广西、贵州、云南。生山坡路边及山谷草丛中。海拔50-3000米。中南半岛、南亚等地区也有分布。本种模式标本采自印度。
+
+本种可供药用，可祛风除湿、消肿止痛，治风湿麻痹，关节肿痛等症。近年来试用于抗肿瘤有效，主要对鳞状上皮癌，基底细胞癌疗效较好。

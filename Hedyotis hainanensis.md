@@ -1,0 +1,15 @@
+海南耳草",
+28.**Hedyotis hainanensis** (Chun) W. C. Ko Fl. Hainan. 3: 580. 1974.",
+
+## Description
+Shrubs, erect, to 30 cm tall; stems terete, densely puberulent to pilosulous. Leaves subsessile to petiolate; petiole to 2 mm, densely puberulent to pilosulous; blade drying papery, subelliptic, broadly elliptic, or ovate, 1-2.5 × 0.8-1.5 cm, adaxially glabrous, abaxially densely puberulent at least along midrib, base obtuse to cuneate, margins sometimes thinly revolute when dry, apex obtuse, acute, or shortly acuminate; secondary veins ca. 3 pairs but indistinct; stipules fused to petiole bases, triangular or ovate, ca. 0.5 mm, puberulent to pilosulous, with 3 short narrow lobes. Inflorescences terminal and also in axils of uppermost leaves, capitate or 2-flowered, sessile. Flowers sessile. Calyx sparsely puberulent; hypanthium portion ovoid, ca. 2 mm; limb lobed nearly to base; lobes 5, narrowly lanceolate, 3-3.5 mm. Corolla blue or white, funnelform, outside glabrous; tube ca. 8 mm, bearded in throat; lobes 5, oblong-lanceolate, ca. 4 mm. Anthers 5, included, ca. 1.8 mm. Stigmas not seen. Fruit not seen. Fl. May-Jun.
+  "Reference": "The protologue did not describe the fruit; these were described by W. C. Ko (in FRPS 71(1): 62. 1999, modified to format here) as \"Fruit capsular, globose, laterally flattened, ca. 2 mm in diam., sparsely hispidulous, septicidally dehiscent then loculicidally dehiscent, with persistent calyx lobes\" with the same fruiting period as the flowers. However, this description exactly matches the fruit of a group of plants that have been included in *Hedyotis hainanensis* but do not match the type and are provisionally separated here.The protologue did not describe the fruit; these were described by W. C. Ko (in FRPS 71(1): 62. 1999, modified to format here) as \"Fruit capsular, globose, laterally flattened, ca. 2 mm in diam., sparsely hispidulous, septicidally dehiscent then loculicidally dehiscent, with persistent calyx lobes\" with the same fruiting period as the flowers. However, this description exactly matches the fruit of a group of plants that have been included in *Hedyotis hainanensis* but do not match the type and are provisionally separated here.
+  "Statistics": "● Dense forests. Hainan (Ding’an).
+  "Synonym": "*Oldenlandia hainanensis* Chun, Sunyatsenia 1: 311. 1934, based on *Hedyotis oligantha* Merrill, Philipp. J. Sci. 23: 266. 1923, not Merrill (1921).
+**44. 海南耳草（海南植物志）**
+
+Hedyotis hainanensis (Chun) Ko in Fl. Hainanica 3: 305, 580. 1974. ——H. oligantha Merr. in Philip. Journ. Sci. 23: 266. 1923, non H. oligantha Merr. op. cit. 17: 431. 1921. ——Oldenlandia hainanensis Chun in Sunyatsenia 1: 311. 1934.
+
+直立灌木，高约30厘米；枝和小枝圆柱形，被暗污色短柔毛。叶对生，纸质，近椭圆形或卵形，长1-2.5厘米，宽8-15毫米，顶端锐尖，基部阔楔形，边缘干后微背卷，两面无毛或下面中脉有不明显柔毛；侧脉每边约3条，极纤细，不明显，与中脉成锐角弯拱向上斜伸；叶柄长约2毫米，被暗褐色柔毛；托叶被毛，卵形，长约0.5毫米，基部合生，顶部3裂，裂片短而狭窄。花5数，顶生或生于上部叶腋，通常单生或成对，无梗；萼管卵形，长约2毫米，被微柔毛，萼檐裂片狭披针形，长3-3.5毫米；花冠蓝至白色，管长约8毫米，外面无毛，里面被髯毛，花冠裂片长圆状披针形，长约4毫米；雄蕊生于冠管喉部，花丝短，花药内藏，狭长圆形，长1.8毫米。蒴果球形，直径2毫米，疏被短硬毛，顶部平，有宿存萼檐裂片，成熟时开裂为2果爿，果爿腹部直裂，内有种子数粒。花期5-6月。
+
+产于海南定安县五指山；生于密林内，极少见。

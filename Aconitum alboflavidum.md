@@ -1,0 +1,7 @@
+淡黄乌头",
+85.**Aconitum alboflavidum** W. T. Wang",
+
+## Description
+Caudex narrowly obconical, ca. 3 cm, ca. 1 cm in diam. Stem ca. 80 cm, basally sparsely pubescent, apically and petioles retrorse pubescent. Distal leaves shortly petiolate; petiole ca. 2 cm; leaf blade pentagonal, ca. 7 × 9 cm, herbaceous or papery, abaxially sparsely pubescent at veins, adaxially sparsely appressed pilose, base broadly cordate, 3-parted; central lobe rhombic, apex long acuminate, pinnatifid, ultimate lobes triangular; lateral lobes obliquely flabellate, unequally 2-parted. Inflorescence terminal, 35--50 cm, 14--22-flowered; rachis and pedicels retrorse pubescent; proximal bracts leaflike, distal ones narrowly lanceolate or narrowly linear, 1--2 cm. Pedicels 1.8--10 cm, with 2 bracteoles at middle or above; bracteoles narrowly linear or subulate, 3--9 mm, pubescent. Sepals yellowish, abaxially appressed pubescent; lower sepals oblong or narrowly oblong, ca. 9 × 2--3.5 mm; lateral sepals obliquely broadly obovate, ca. 1.4 × 1.2 cm; upper sepal galeate, 1.7--1.9 cm, ca. 1.5 cm from base to beak, lower margin ca. 3 mm, concave. Petals ca. 1.9 cm; claw ca. 1.5 cm, sparsely pubescent; limb ca. 7 mm; lip ca. 3.8 mm, sparsely pubescent, 2-lobed at apex; spur circinate, ca. 3.5 mm, glabrous. Stamens glabrous. Carpels 4 or 5, appressed pubescent. Fl. Aug.
+
+> * Abies forests, grasslands; 3400--3800 m. NW Yunnan (Dêqên Xian).

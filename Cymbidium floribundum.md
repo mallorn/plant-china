@@ -1,0 +1,14 @@
+多花兰",
+7.**Cymbidium floribundum** Lindley Gen. Sp. Orchid. Pl. 162. 1833.",
+
+## Description
+Plants epiphytic, autotrophic. Pseudobulbs subovoid, slightly bilaterally flattened, 2.5-3.5 × 2-3 cm, enclosed in leaf bases and surrounded by several green sheaths. Leaves usually 5 or 6, lorate, 22-50 × 0.8-1.8 cm, papery, with midvein usually raised more than 2 lateral veins abaxially (especially toward base), articulate 2-6 cm from base, apex obtuse or acute. Inflorescence arising from within sheaths at base of pseudobulb, suberect, 16-28(-35) cm; rachis usually densely 10-40-flowered; floral bracts 2-10 mm. Flowers usually not scented, 3-4 cm in diam.; pedicel and ovary 15-30 mm; sepals and petals reddish brown or occasionally greenish yellow, very rarely grayish brown; lip white, mottled purplish red on lateral lobes and mid-lobe. Sepals narrowly oblong, 16-18 × 4-7 mm, apex obtuse. Petals narrowly elliptic, 14-16 × 4-7 mm, apex obtuse; lip subovate in outline, 16-18 mm, not fused to basal margins of column, 3-lobed; lateral lobes erect; mid-lobe slightly recurved; disk minutely papillate, with 2 longitudinal lamellae nearly convergent at their apices. Column slightly arcuate, 11-14 mm; pollinia 2, deltoid. Capsule suboblong, 3-4 × 1.3-2 cm. Fl. Apr-Aug, fr. Oct-Dec. 2*n* = 40*.
+  "Statistics": "Trees in forests or at forest margins, rocks and cliffs along streamsides or valleys; 100-3300 m. N Fujian, Guangdong, Guangxi, Guizhou, Hubei, Hunan, Jiangxi, E Sichuan, Taiwan, Xizang, NW and SE Yunnan, Zhejiang [Vietnam].
+  "Synonym": "*Cymbidium chawalongense* C. L. Long, H. Li &amp; Z. L. Dao; *C. floribundum* var. *pumilum* (Rolfe) Y. S. Wu &amp; S. C. Chen; *C. illiberale* Hayata; *C. pumilum* Rolfe.
+**4.多花兰（中国高等植物图鉴）图版34: 1-2**
+
+Cymbidium floribundum Lindl. , Gen. Sp. Orch. Pl. 162. 1833; Schltr. in Fedde Repert. Sp. Nov. Beih. 4: 267. 1919; S. Y. Hu in Quart. J. Taiwan Mus. 26 (1, 2): 136. 1973; 中国高等植物图鉴5: 748.图8325. 1976; Y. S. Wu et S. C. Chen in Acta Phytotax. Sin. 18 (3): 301. fig. 3 (3, 4). 1980; Du Puy et Cribb, Genus Cymbidium 105. pl. 10. phot. 78, 79. fig. 22 (4). 1988;浙江植物志7: 526.图7-703-1993; 横断山区维管植物2: 2600.1994; 福建植物志6: 619. 1995; 中国兰花全书. 80.彩图5-4. 1998. ——Cymbidium pumilum Rolfe in Kew Bull. 103. 1907; 台湾植物志5: 947. 1978.——Cymbidium illiberale Hayata, Icon. Pl. Formos. 4: 78. 1914. ——Cymbidium floribundum Lindl. Var. pumilum (Rolfe) Y. S. Wu et S. C. Chen in Acta Phytotax. Sin. 18 (3): 301. 1980.
+
+附生植物；假鳞茎近卵球形，长2.5-3.5厘米，宽2-3厘米，稍压扁，包藏于叶基之内。叶通常5-6枚，带形，坚纸质，长22-50厘米，宽8-18毫米，先端钝或急尖，中脉与侧脉在背面凸起（通常中脉较侧脉更为凸起，尤其在下部），关节在距基部2-6厘米处。花葶自假鳞茎基部穿鞘而出，近直立或外弯，长16-28（-35)厘米；花序通常具10-40朵花；花苞片小；花较密集，直径3-4厘米，一般无香气；萼片与花瓣红褐色或偶见绿黄色，极罕灰褐色，唇瓣白色而在侧裂片与中裂片上有紫红色斑，褶片黄色；萼片狭长圆形，长1.6-1.8厘米，宽4-7毫米；花瓣狭椭圆形，长1.4-1.6厘米，萼片近等宽；唇瓣近卵形，长1.6-1.8厘米，3裂；侧裂片直立，具小乳突；中裂片稍外弯，亦具小乳突；唇盘上有2条纵褶片，褶片末端靠合；蕊柱长1.1-1.4厘米，略向前弯曲；花粉团2个，三角形。蒴果近长圆形，长3-4厘米，宽1.3-2厘米。花期4-8月。
+
+产浙江、江西、福建、台湾、湖北、湖南、广东、广西、四川东部、贵州、云南西北部至东南部。生于林中或林缘树上，或溪谷旁透光的岩石上或岩壁上，海拔100-3300米。无模式标本，后选模式图藏英国园艺学会（伦敦）。

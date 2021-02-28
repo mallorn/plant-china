@@ -1,0 +1,14 @@
+滇南蛇根草",
+4.**Ophiorrhiza austroyunnanensis** H. S. Lo Bull. Bot. Res., Harbin. 10(2): 30. 1990.",
+
+## Description
+Herbs, generally procumbent; stems pilosulous or tomentose. Leaves in equal to somewhat unequal pairs; petiole 0.5-1.5 cm, densely pilosulous or tomentose; blade drying thinly papery, usually grayish with veins brown abaxially, ovate, elliptic, elliptic-oblong, or lanceolate, 2-5(-7) × 0.8-2.2 cm, adaxially sparsely pilose, multicellular pilose along principal veins abaxially, base cuneate to subrounded, margins sometimes undulate, apex obtuse; secondary veins 7-9 pairs; stipules persistent, ovate, 5-7 mm, glabrescent, ciliate, long acuminate. Inflorescences congested-cymose to subcapitate, several flowered, glabrescent; peduncles 2-3 cm; bracts elliptic-oblong, 5-6 × 1.5-2 mm, obtuse. Flowers distylous, subsessile. Calyx glabrous; hypanthium subturbinate, 0.8-1 mm, 5-ribbed; lobes triangular, ca. 0.4 mm. Corolla tubular-salverform, outside glabrous; tube ca. 2.6 mm, with white villous ring in throat; lobes subtriangular, ca. 1.3 mm, dorsally smooth, obtuse. Infructescences with axes expanded, lax. Capsules oblate-ellipsoid, ca. 1.5 × 3.5 mm, glabrous, shortly white striate. Fl. May.
+  "Reference": "The protologue figure, reprinted in FRPS (71(1): 133, t. 32, f. 1-10. 1999), shows a remarkable dimorphism in the shape and internal pubescence of the corollas (salverform and densely barbate in the throat in the long-styled form vs. funnelform and glabrous internally in the short-styled form), but the protologue description said only that the corollas of both forms are similar; thus, this figure may deserve re-checking.The protologue figure, reprinted in FRPS (71(1): 133, t. 32, f. 1-10. 1999), shows a remarkable dimorphism in the shape and internal pubescence of the corollas (salverform and densely barbate in the throat in the long-styled form vs. funnelform and glabrous internally in the short-styled form), but the protologue description said only that the corollas of both forms are similar; thus, this figure may deserve re-checking.
+  "Statistics": "● Thickets; ca. 1500 m. Yunnan.
+**18. 滇南蛇根草（植物研究）图版32：1-10**
+
+Ophiorrhiza austroyunnanensis Lo in Bull. Bot. Res. 10 (2): 30, fig. 8. 1990.
+
+草本，通常下部卧地，节上生须状根；茎和分枝均被柔毛或绒毛。叶薄纸质，卵形或椭圆形，有时长圆形或披针形，长通常2-5厘米，有时达7厘米，顶端钝，基部楔形至近圆形，边全缘或浅波状，干时常变浅灰色，上面散生柔毛，下面沿中脉和侧脉被长而分节的疏毛；侧脉每边7-9条，稍明显，下面干时变褐色，网脉不很明显；叶柄长0.5-1.5厘米，密被绒毛或柔毛；托叶卵形，长5-7毫米，顶端长渐尖，有长缘毛。花序顶生，紧缩呈头状，结果时变疏松，总梗纤细，长2-3厘米，无毛或近无毛；花二型，花柱异长；长柱花：花梗极短或近无梗；苞片膜质，椭圆状长圆形，长5-6毫米，宽约1.5毫米或稍过之，小苞片稍小；萼管近陀螺状，长0.8-1毫米，有5棱，无毛，萼裂片5，长三角形，长约0.4毫米；花冠管状，长约4毫米，里面喉部有一环白色长毛，裂片5，近三角形，长约1.3毫米，背部无棱；雄蕊5，生冠管近基部，伸至冠管的中部，花药线形；花柱伸至喉部，柱头肥厚，浅2裂，裂片头状；短柱花：花萼和花冠同长柱花；雄蕊生冠管中部稍上，伸至喉部；花柱伸至冠管中部，柱头薄，卵形。蒴果长约1.5毫米，宽约3.5毫米，无毛，在放大镜下可见白色的短条纹。花期5月。
+
+我国特有，产于云南西双版纳、沧源、瑞丽和马关等地；生于海拔约1500米处的丛林中。模式标本采自云南西双版纳。

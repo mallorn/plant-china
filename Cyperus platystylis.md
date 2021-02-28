@@ -1,0 +1,6 @@
+宽柱莎草",
+3.**Cyperus platystylis** R. Brown Prodr. 214. 1810.",
+
+## Description
+Perennials. Roots ± thick. Rhizomes very short. Culms 1(-3 and tufted), 30-90 cm tall, stout, triquetrous, scabrid on apical angles, leaved at basal part. Leaves equaling culm; sheath brownish, basal ones bladeless; leaf blade 5-12 mm wide, ± stiff, ± flat plicate, margin scabrous. Involucral bracts 5-12, longer than inflorescence, basal few to 60 cm, spreading to deflexed after anthesis. Inflorescence a compound or decompound anthela; rays many (to 17), 2-8 cm, ± slender, each with 4-16 raylets; raylets 1-4 cm, each with 3-7 spikelets. Spikelets digitately arranged at apex of raylets, narrowly oblong-ovoid, 5-8 × ca. 2.5 mm, oblique or spreading, densely 15-35-flowered; rachilla straight, wingless. Glumes broadly ovate, 2-2.5 mm, thickly membranous, inconspicuously 3-veined, keel abaxially greenish, apex acute to obtuse and mucronate. Stamens 3, short. Style long, flattened, margin pilose; stigmas 3, short. Nutlet brownish glaucous, ellipsoid to ovoid-ellipsoid, compressed 3-sided, with concave sides, shiny, angles pale brown and markedly spongy-thickened.
+  "Statistics": "Ponds, lakes; below 500 m. Taiwan, SE Xizang [Bangladesh, India, Indonesia, Malaysia, Myanmar, Nepal, Papua New Guinea, Sri Lanka, Thailand, Vietnam; Australia].

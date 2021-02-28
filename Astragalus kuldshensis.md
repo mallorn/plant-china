@@ -1,0 +1,6 @@
+伊宁黄耆",
+287.**Astragalus kuldshensis** Bunge Trudy Imp. S.-Peter-burgsk. Bot. Sada. 7: 374. 1880.",
+
+## Description
+Plants 16-20 cm tall, only white hairy. Stems several, branched at base, ascending, very densely covered with ± medi-fixed hairs 0.6-0.8 mm. Leaves 5-12 cm; stipules 7-8 mm, adnate to petiole for ca. 3 mm, rather densely covered with strongly asymmetrically bifurcate hairs ca. 1 mm, hairs also basifixed at margins; petiole 1.5-4 cm, with rachis hairy like stem; leaflets in 7-10 pairs, 8-12 × 3-4 mm, both surfaces loosely covered with appressed, ± medifixed hairs 0.8-1.2 mm. Racemes ellipsoid, densely many flowered; peduncle sparsely hairy like stem; bracts 5-7 mm, with ± spreading, strongly asymmetrically bifurcate to basifixed hairs. Calyx 12-13 mm, slightly inflated, rather densely covered with strongly asym-metrically bifurcate to basifixed, ascending hairs 1.2-1.5(-2) mm; teeth 3-3.5 mm. Petals yellow; standard narrowly oblong-ovate, ca. 20 × 4.5 mm, apex retuse; wings ca. 17 mm, limbs laterally and unequally incised; keel ca. 15 mm. Legumes ses-sile, included in calyx; valves villous with ascending, strongly asymmetrically bifurcate to basifixed hairs 0.6-0.8 mm.
+  "Statistics": "● NW Xinjiang.

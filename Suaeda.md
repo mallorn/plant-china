@@ -1,0 +1,93 @@
+碱蓬属",
+28.**Suaeda** Forsskål ex J. F. Gmelin",
+
+## Description
+Herbs annual, subshrubs, or shrubs, sometimes glaucous, glabrous, rarely pubescent. Stem erect, obliquely spreading, or prostrate. Leaves usually sessile and linear, terete or semiterete, rarely clavate or slightly compressed, fleshy, margin entire. Flowers small, bisexual, sometimes also female, usually 3 to numerous in glomerules, these axillary or on dwarf, axillary branchlets, sometimes dwarf branchlet base fused to leaf base and glomerule thus appearing to arise from petiole; bractlets 2 per flower, white, scale-like, membranous. Perianth subglobose, hemispheric, or urceolate, 5-parted or -lobed, slightly fleshy or herbaceous; segments abaxially thickened or becoming winglike or hornlike, rarely not modified, adaxially concave or cucullate. Stamens 5; filaments short, flattened; anthers cylindric, ellipsoid, or subglobose, without an appendage. Ovary ovoid or globose; stigmas 2 or 3(-5), usually recurved, papillate throughout. Utricle enclosed by perianth; pericarp membranous, free from seed. Seed horizontal or vertical, lenticular, reniform, ovoid, or globose; testa thinly leathery or membranous; embryo green or whitish, planospiral, slender; perisperm scant or absent.
+  "Statistics": "About 100 species: Asia, Europe, North America, and seashores worldwide: 20 species (two endemic) in China.
+  "keylist": "
+1 Glomerule borne on dwarf, axillary branchlet, dwarf branchlet base fused with petiole and thus glomerule appearing to be borne on petiole.——(2)
+1 Glomerule borne in leaf axil or on dwarf, axillary branchlet, dwarf branchlet base not fused with petiole.——(7)
+2(1) Subshrubs.——(3)
+2 Herbs annual.——(4)
+3(2) Leaves usually 3-5 mm, abruptly contracted at base; perianth parted to middle.[*S*. *microphylla* 小叶碱蓬](Suaeda microphylla.md)
+3 Leaves usually 5-15 mm, attenuate into short petiole at base; perianth parted to base.[*S*. *dendroides* 木碱蓬](Suaeda dendroides.md)
+4(2) Seed horizontal or oblique, ca. 2 mm in diam.; perianth appearing star-shaped in fruit.[*S*. *glauca* 碱蓬](Suaeda glauca.md)
+4 Seed vertical, not exceeding 1.5 mm in diam.; perianth not star-shaped in fruit.——(5)
+5(4) Leaves filiform, semiterete, to 1 mm wide; seed sublustrous, without granular processes.[*S*. *altissima* 高碱蓬](Suaeda altissima.md)
+5 Leaves linear, slightly compressed, 1.5-3 mm wide; seed not lustrous, with granular processes.——(6)
+6(5) Flowers 3 or 4 per glomerule; perianth hemispheric to cupular, about as long as wide, 5-parted, segments slightly spreading at anthesis.[*S*. *paradoxa* 奇异碱蓬](Suaeda paradoxa.md)
+6 Flowers mostly solitary, rarely 2 or 3 per glomerule; perianth cylindric to obovoid, longer than wide, 5-lobed, segments remaining closed at anthesis.[*S*. *linifolia* 亚麻叶碱蓬](Suaeda linifolia.md)
+7(1) Inflorescence ± a terminal panicle; perianth saccate inflated in fruit.[*S*. *physophora* 囊果碱蓬](Suaeda physophora.md)
+7 Inflorescence not a terminal panicle; perianth not inflated in fruit.——(8)
+8(7) Perianth segments distinctly veined; stigmas 3-5; seed extremely convex, scarcely pitted.——(9)
+8 Perianth segments veinless; stigmas 2; seed slightly depressed, ± pitted.——(12)
+9(8) Perianth segments with a longitudinal, winglike keel abaxially.——(10)
+9 Perianth segments without a keel abaxially.——(11)
+10(9) Leaf apex with a bristle; perianth segments keeled near apex, keel protruding beyond apex.[*S*. *acuminata* 刺毛碱蓬](Suaeda acuminata.md)
+10 Leaf apex without a bristle; perianth segments keeled throughout length.[*S*. *pterantha* 纵翅碱蓬](Suaeda pterantha.md)
+11(9) Glomerules numerous flowered; stigmas 3, plumose; plants large, woody.[*S*. *rigida* 硬枝碱蓬](Suaeda rigida.md)
+11 Glomerules 3-6-flowered; stigmas 3-5, not plumose; plants small, slender, herbaceous.[*S*. *arcuata* 五蕊碱蓬](Suaeda arcuata.md)
+12(8) Leaves obovate, succulent, apex rounded or obtuse; glomerules mostly borne on dwarf, axillary branchlets.——(13)
+12 Leaves not obovate, apex subobtuse or acute; glomerules all axillary.——(14)
+13(12) Perianth with a transverse, narrow, winglike process; seed distinctly pitted.[*S*. *przewalskii* 阿拉善碱蓬](Suaeda przewalskii.md)
+13 Perianth with a more developed transverse wing; seed obscurely pitted.[*S*. *kossinskyi* 肥叶碱蓬](Suaeda kossinskyi.md)
+14(12) Seed obscurely pitted; anthers 0.3-0.5 mm.——(15)
+14 Seed distinctly pitted; anthers ca. 0.2 mm.——(17)
+15(14) Herbs annual; leaf base not articulate; stigmas divaricate or slightly curved, filiform.——(16)
+15 Shrubs small; leaf base articulate; stigmas erect, subulate.[*S*. *australis* 南方碱蓬](Suaeda australis.md)
+16(15) Leaves usually sickle-shaped, apex obtuse.[*S*. *crassifolia* 镰叶碱蓬](Suaeda crassifolia.md)
+16 Leaves straight or irregularly curved, apex acute.[*S*. *salsa* 盐地碱蓬](Suaeda salsa.md)
+17(14) Perianth segments appearing unequally cornate.[*S*. *corniculata* 角果碱蓬](Suaeda corniculata.md)
+17 Perianth segments not as above.——(18)
+18(17) Leaf apex obtuse or acute, not mucronate; plants usually prostrate.[*S*. *prostrata* 平卧碱蓬](Suaeda prostrata.md)
+18 Leaf apex usually distinctly mucronate; plants erect.——(19)
+19(18) Perianth segments each with a developed transverse wing, wings together appearing dish-shaped and 2.5-3.5 mm in diam.[*S*. *heterophylla* 盘果碱蓬](Suaeda heterophylla.md)
+19 Perianth segments each with a triangular, short, winglike process, processes together appearing star-shaped and not more than 2 mm in diam.[*S*. *stellatiflora* 星花碱蓬",](Suaeda stellatiflora.md)
+**25.碱蓬属——Suaeda Forsk. ex Scop.**
+
+Forsk. ex Scop. Intr. Hist. Nat. 333. 1777.
+
+一年生草本、半灌木或灌木，无毛，较少有短柔毛，有时有蜡粉。茎直立、斜升、或平卧。叶通常狭长，肉质，圆柱形或半圆柱形，较少为棍棒状或略扁平，全缘，通常无柄。花小型，两性，有时兼有雌性，通常3至多数集成团伞花序；团伞花序生叶腋或腋生短枝上，有时短枝的基部与叶的基部合并，外观似着生在叶柄上，有小苞；小苞片鳞片状，膜质，白色；花被近球形、半球形、陀螺状或坛状，5深裂或浅裂，稍肉质或草质，裂片内面凹或呈兜状，果时背面膨胀、增厚、或延伸成翅状或角状突起，较少无显著变化；雄蕊5，花丝短，扁平，半透明，花药矩圆形、椭圆形、或近球形，不具附属物；子房卵形或球形，柱头2-3，较少4-5，通常外弯，四周都有乳头突起。胞果为花被所包覆；果皮膜质，与种皮分离。种子横生或直立，双凸镜形、肾形、卵形，或为扁平的圆形；种皮薄壳质或膜质；胚为平面盘旋状，细瘦，绿色或带白色；胚乳无或很少。
+
+本属共100余种，分布于世界各处，生于海滨、荒漠、湖边及盐碱土地区。我国共20种及1变种，主产于新疆及北方各省。
+
+## 检索表
+
+1 团伞花序着生叶腋，或着生在腋生短枝上，短枝的基部与叶基部不合并。——(7)
+1 团伞花序着生在叶片基部，其总花梗与叶柄合并成短枝状，外观似花序着生在叶柄上。——(2)
+2 半灌木。——(3)
+2 一年生草本。——(4)
+3 叶通常长5-15毫米，基部渐狭，着生处稍膨大；花被裂至近基部（新疆）.——[木碱蓬](Suaeda%20dendroides.md)
+3 叶通常长3-5毫米，基部骤缩，着生处不膨大；花被裂至中部（新疆）.——[小叶碱蓬](Suaeda%20microphylla.md)
+4 种子直立，直径不超过1.5毫米；花被果时不呈星状（新疆、青海）。——(5)
+4 种子横生或斜生，直径约2毫米；花被果时呈五角星状（黑龙江、内蒙古、河北、山东、江苏、浙江、河南、山西、陕西、宁夏、甘肃、青海、新疆）.——[碱蓬](Suaeda%20glauca.md)
+5 叶条形，略扁平，宽1.5-3毫米；种子表面具颗粒状凸点，无光泽。——(6)
+5 叶丝形，半圆柱状，宽不超过1毫米；种子表面无颗粒状凸点，稍有光泽（新疆）。——[高碱蓬](Suaeda%20altissima.md)
+6 花多单生，稀2-3成簇；花被圆柱形至倒卵形，长度显著大于宽度，5浅裂，裂片闭合（新疆）。——[亚麻叶碱蓬](Suaeda%20linifolia.md)
+6 花3-4成簇；花被半球形至杯形，长宽度几相等，5深裂，裂片稍张开（新疆、青海） ——[奇异碱蓬](Suaeda%20paradoxa.md)
+7 花序非顶生圆锥状花序；花被非囊状。——(8)
+7 花序近于典型的顶生圆锥状花序；花被果时囊状膨胀；半灌木 (2.囊果组Sect. Physophora Iljin) （新疆、甘肃）。——[囊果碱蓬](Suaeda%20physophora.md)
+8 花被裂片有明显的脉；柱头3-5;种子极凸，几无点纹。——(9)
+8 花被裂片无脉；柱头2;种子略扁，表面多少有点状网纹。——(12)
+9 花被裂片的背面无纵隆脊。——(11)
+9 花被裂片的背面具翅状纵隆脊。——(10)
+10 叶先端具易脱落的刺毛；翅状纵隆脊仅位于花被裂片的近先端，并向前倾（新疆）。——[刺毛碱蓬](Suaeda%20acuminata.md)
+10 叶先端无刺毛；翅状纵隆脊纵贯花被全长（新疆）。——[纵翅碱蓬](Suaeda%20pterantha.md)
+11 团伞花序含3-6花；柱头3-5，非羽状；细弱的小草本（新疆)。——[五蕊碱蓬](Suaeda%20arcuata.md)
+11 团伞花序含多数花；柱头3，羽状；植物体高大，茎木质化（新疆）。——[硬枝碱蓬](Suaeda%20rigida.md)
+12 叶（至少枝上部的叶）呈倒卵形，肥大，先端钝圆；团伞花序大多生于叶腋两侧的短枝上。——(13)
+12 叶非倒卵形，先端尖或微钝；团伞花序全部腋生。——(14)
+13 花被果时具较发达的横翅；种子表面的点纹不清晰（新疆）。——[肥叶碱蓬](Suaeda%20kossinskyi.md)
+13 花被周围果时仅具狭的翅环；种子表面具清晰的蜂窝状点纹（甘肃、宁夏）。——[阿拉善碱蓬](Suaeda%20przewalskii.md)
+14 种子表面的点纹清晰；花药长约0.2毫米。——(15)
+14 种子表面的点纹不清晰；花药长0.3-0.5毫米。——(18)
+15 花被裂片非上述情况。——(16)
+15 花被裂片呈不等长的角状（黑龙江、吉林、辽宁、内蒙古、河北、宁夏、甘肃、青海、新疆、西藏）。——[角果碱蓬](Suaeda%20corniculata.md)
+16 叶先端通常有明显的芒尖；植物体直立。——(17)
+16 叶先端钝或急尖，无芒尖；植物体通常平卧（内蒙古、河北、江苏、山西、陕西、宁夏、甘肃、新疆）。——[平卧碱蓬](Suaeda%20prostrata.md)
+17 花被裂片的横翅发达，并彼此并成圆盘形，总直径2.5-3.5毫米，花簇排列成有叶的细长穗状花序（宁夏、甘肃、青海、新疆、西藏）。 ——[盘果碱蓬](Suaeda%20heterophylla.md)
+17 花被裂片仅具三角形的短翅突，并彼此并成五角星形，总直径不超过2毫米（甘肃、新疆）。——[星花碱蓬](Suaeda%20stellatiflora.md)
+18 一年生草本；叶基部无关节；柱头丝形，叉开或稍弯曲。——(19)
+18 小灌木；叶基部有关节；柱头锥状，直立（广东、广西、福建、台湾及江苏沿海）。——[盐地碱蓬](Suaeda%20salsa.md)
+19 叶通常呈镰刀状弯曲，先端钝（新疆南部）。 ——[镰叶碱蓬](Suaeda%20crassifolia.md)
+19 叶直或不规则弯曲，先端尖或急尖（黑龙江、吉林、辽宁、内蒙古、河北、山东、江苏、浙江、山西、陕西、宁夏、甘肃、青海、新疆）。——[盐地碱蓬](Suaeda%20salsa.md)

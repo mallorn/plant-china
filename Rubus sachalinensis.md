@@ -1,0 +1,23 @@
+库页悬钩子",
+18.**Rubus sachalinensis** H. Léveillé",
+
+## Description
+Shrubs 0.6–2 m tall. Branches purplish brown; branchlets brownish or brown, soft hairy when young, gradually glabrescent, with dense yellow, brownish, or purplish red straight prickles and stalked glands. Leaves imparipinnate, usually 3(–5)-foliolate; petiole 2–5 cm, petiolule of terminal leaflet 1–2 cm, lateral leaflets subsessile, petiolules and rachis with soft hairs and needle-like prickles or glandular hairs; stipules linear, 5–8 mm, with soft hairs or sparse, glandular hairs; blade of leaflets ovate, ovate-lanceolate, or narrowly obovate, 3–7 × 1.5–4(–5) cm, abaxially densely gray tomentose, adaxially glabrous or slightly hairy, base rounded, sometimes shallowly cordate on terminal leaflet, margin irregularly roughly serrate or incised-serrate, apex acute, but usually acuminate on terminal leaflet. Inflorescences terminal and axillary, corymbose, 5–9-flowered, rarely flowers solitary in leaf axils; rachis, pedicels, and abaxial surface of calyx pubescent, with glandular hairs, with needle-like prickles; bracts linear, 3–5 mm, pubescent, with stalked glands. Pedicel 1–2 cm. Flowers ca. 1 cm in diam. Sepals erect, triangular-lanceolate, 7–10 × 2.5–5 mm, margin often gray tomentose, apex long caudate. Petals white, ligulate or spatulate, shorter than sepals, base clawed. Stamens numerous, slightly shorter than or nearly as long as petals. Pistils many, nearly as long as stamens; ovary and base of style tomentose. Aggregate fruit red, ovoid-globose, ca. 1 cm in diam., tomentose; pyrenes rugose. Fl. Jun–Jul, fr. Aug–Sep. 2n = 14*, 24, 28*.
+
+> Forests, forest margins, thickets, grasslands, ravines, valleys, rock crevices, slopes; 400--3100 m. Gansu, Hebei, Heilongjiang, Jilin, Nei Mongol, Qinghai, Xinjiang [Japan, Korea, Mongolia, Russia; Europe].
+  "keylist": "
+1 Pedicel and abaxial surface of calyx  without glandular hairs; flowers and  fruit less than 1 cm in diam.——<a href='/info/Rubus sachalinensis var. eglandulatus?t=foc'>var. eglandulatus 无腺里白悬钩子
+1 Pedicel and abaxial surface of calyx  with glandular hairs; flowers and  fruit 0.9–1.5 cm in diam.——(2)
+2(1) Flowers and fruit ca. 1 cm in  diam.; aggregate fruit densely  tomentose.——<a href='/info/Rubus sachalinensis var. sachalinensis?t=foc'>var. sachalinensis 库页悬钩子(原变种)
+2 Flowers and fruit more than  1 cm, to 1.5 cm in diam.;  aggregate fruit sparsely  hairy or subglabrous.——<a href='/info/Rubus sachalinensis var. przewalskii?t=foc'>var. przewalskii 甘肃悬钩子",
+**19.库页悬钩子（东北木本植物图志）**
+
+Rubus sachalinensis Levl. in Fedde, Repert. Sp. Nov. 6: 332. 1909 et in Bull. Acad. Geog. Bot. 20: 134. 1909; Juzep. in Fl. URSS 10: 19. 1941;东北木本植物图志308. 图版107.图220.1955; Heslop-Harrison in Fl. Europ. 2: 10. 1968. ——R. idaeus L. var. aeuleatissimus Regel ＆ Tiling in Nouv. Mem. Soc. Nat. Mosc. 11: 87 (Fl. Ajan. 87. 1858) 1858. ——R. idaeus β. strigosus Maxim. in Mel. biol. 8: 394. 1872. P. P.non Michx. 1803. ——R. matsumuranus Levl. et Vant. in Bull. Soc. Agric. Sci. Arts Sarthe　40: 66. 1905 et in Fedde, Repert. Sp. Nov. 2: 176. 1906. ——R. idaeus L. subsp. sachalinensis (Levl.) Focke, Bibl. Bot. 72(2): 210. 1911; Koidz. in Journ. Coll. Sci. Univ.　Tokyo 34 (Art. 2): 136. 1913; ——R. idaeus L. subsp. melanolasius Focke var. matsurnziranus (Levl. ＆ Vant.) Koidz. in Journ. Coll. Sci. Univ. Tokyo 34 (Art. 2): 135.　1913. ——R. idaeus L. var. matsumuranus (Levl.＆ Vant.) Koidz. in l. c. 135 (Consp.　Ros. Jap.). 1913. ——R. strigosus Michx. ex Koidz. in Fl. Symb. Or.-As. 55. 1930. quoad. syn. R. sachalinensis Levl.
+
+灌木或矮小灌木，高0.6-2米；枝紫褐色，小枝色较浅，具柔毛，老时脱落，被较密黄色、棕色或紫红色直立针刺，并混生腺毛。小叶常3枚，不孕枝上有时具5小叶，卵形、卵状披针形或长圆状卵形，长3-7厘米，宽1.5-4(5）厘米，顶端急尖，顶生小叶顶端常渐尖，基部圆形，顶生小叶基部有时浅心形，上面无毛或稍有毛，下面密被灰白色绒毛，边缘有不规则粗锯齿或缺刻状锯齿；叶柄长2-5厘米，顶生小叶柄长1-2厘米，侧生小叶几无柄，均具柔毛、针刺或腺毛；托叶线形，有柔毛或疏腺毛。花5-9朵成伞房状花序，顶生或腋生，稀单花腋生；总花梗和花梗具柔毛，密被针刺和腺毛；花梗长1-2厘米；苞片小，线形，有柔毛和腺毛；花直径约1厘米；花萼外面密被短柔毛，具针刺和腺毛；萼片三角披针形，长约1厘米，顶端长尾尖，外面边缘常具灰白色绒毛，在花果时常直立开展；花瓣舌状或匙形，白色，短于萼片，基部具爪；花丝几与花柱等长；花柱基部和子房具绒毛。果实卵球形，较干燥，直径约1厘米，红色，具绒毛；核有皱纹。花期6-7月，果期8-9月。
+
+产黑龙江、吉林、内蒙古、河北、甘肃、青海、新疆。生山坡潮湿地密林下、稀疏杂木林内、林缘、林间草地或干沟石缝、谷底石堆中，海拔1000-2500米。日本、朝鲜、苏联及欧洲也有分布。
+
+果供食用及制果酱。
+
+本种适应性强，在干寒及湿润生境下均能生长，但植株上针刺和腺毛的数量随环境条件而变异，在干寒的石砾坡地、谷底石堆、干沟中生长的植株，往往具稠密而长大针刺，腺毛也较多，而在密林下、潮湿的林缘或山谷阴处的植株，所具针刺和腺毛均较稀疏。本种和欧洲、亚洲、北美分布的复盆子R. idaeus L.很相近，Focke在Bibl. Bot. 72(2): 210. 1911中把库页悬钩子作为复盆子的亚种, Rehder在Journ. Arn. Arb. 18:53.1937一文中把库页悬钩子列为R. idaeus L. var. aculeatissimus Regel ＆ Tiling的异名。但Juzepczuk在《苏联植物志》和Heslop-Harrison在《欧洲植物志》中仍把库页悬钩子作为独立种。根据我国东北、华北地区大量标本观察，复盆子的枝、叶柄、总花梗、花梗和花萼外面具稀疏针刺或几无刺，无腺毛；小叶常3-7枚，花枝上有时为3小叶；果实多汁液；而库页悬钩子的枝、叶柄、总花梗、花梗和花萼外面均有较密针刺和腺毛；小叶常3枚，稀花枝上有5小叶；果实较干燥。两者可以区分，但在黑龙江、内蒙古、山西、河北地区，存在过渡类型，进一步说明了两者之间的亲缘关系。

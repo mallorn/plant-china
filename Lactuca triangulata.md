@@ -1,0 +1,14 @@
+翼柄翅果菊",
+5.**Lactuca triangulata** Maximowicz Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans. 9: 177. 1859.",
+
+## Description
+Herbs to 1 m tall or more, biennial or perennial. Roots ramose. Stem solitary, usually purplish red, erect, branched in apical half or third, glabrous. Lower and middle stem leaves ± glabrous, margin with unequal and triangular teeth; basal portion winged petiole-like, 6-13 cm, base broadly auriculately to hastately clasping stem; apical portion triangular, broadly ovate, or broadly ovate-cordate, 8.5-13 × 9-16 cm. Upper stem leaves similar to middle stem leaves or basally shortly cuneate or winged petiole-like and auriculately or sagittately clasping and apically elliptic to rhombic. Uppermost leaves with semiamplexicaul base. Synflorescence rather narrowly paniculiform, with numerous capitula. Capitula with 10-16 florets. Involucre cylindric, 1-1.1 cm at anthesis, to 1.5 × 0.5-0.6 cm in fruit. Outer phyllaries narrowly triangular to lanceolate, longest ca. 7 × 1 mm, apex acute; inner phyllaries 8, usually purplish red, apex acute to obtuse. Florets yellow. Achene 4-6 mm; body blackish, reddish, or dark brown, ellipsoid, compressed, broadly winged, 2-2.5 mm wide, with 1(or 2) prominent rib on either side, apically contracted into an apically pale stout 0.1-0.5 mm beak. Pappus 6-8 mm, caducous. Fl. and fr. Jun-Sep. 2*n* = 18.
+  "Statistics": "Grasslands on mountain slopes, mountain forests, forest margins, trailsides; 700-1900 m. Hebei, Heilongjiang, Jilin, Liaoning, Shanxi [Japan, Korea, SE Russia].
+  "Synonym": "*Lactuca triangulata* var. *sachalinensis* Kitamura; *Pterocypsela triangulata* (Maximowicz) C. Shih.
+**3.翼柄翅果菊 翼柄山莴苣（中国高等植物图鉴）图版1: 10**
+
+Pterocypsela triangulata (Maxim.) Shih in Act. Phytotax. Sin. 26: 386. 1988.——Lactuca triangulata Maxim. in Mem. Acad. Sci. St. Petersb. Sav. Etrag. 9: 177. 1859, et in Bull. Acad. Sc. St. Petersb. 19: 527. 1874 et in Mel. Biol. 9: 358. 1874; Kom. in Act. Hort. Petrop. 25: 277. 1907; Ling in Contr. Inst. Bot. Nat. Acad. Peiping 3: 187. 1935; Kitag., Lineam. Fl. Manchur. 456. 1939; Kitam. in Mem. Coll. Sci. Univ. Kyoto Ser. B 23: 138. 1953; 刘慎谔等, 东北植物检索表436, 1959; Kirp. in Fl. URSS 29: 293. 1964; S. Y. Hu in Qaurt. Journ. Taiwan Mus. 20(1-): 31. 1967; 中国高等植物图鉴4: 692.图6797.1975.——Lactuca triangulata Maxim. var. sachalinensis Kitam. in Act, Phytotax. et Geobot. 11: 126. 1942.
+
+二年生草本或多年生草本，根有粗壮分枝。茎直立，单生，通常紫红色，上部圆锥花序状分枝，全部茎枝无毛。中下部茎叶三角状戟形、宽卵形、宽卵状心形，长8.5-13厘米，宽9-16厘米，边缘有大小不等的三角形锯齿，叶柄有狭或宽翼，长6-13厘米，柄基扩大或稍扩大，耳状半抱茎；向上的茎叶渐小，与中下部茎叶同形或椭圆形、菱形，基部楔形或宽楔形渐狭成短翼柄，柄基耳状或箭头状扩大半抱茎；全部叶两面无毛。头状花序多数，沿茎枝顶端排列成圆锥花序。总苞果期卵球形，长1.4厘米，宽约6毫米；总苞片4层，外层长三角形或三角状披针形，长2.5-3毫米，宽约1毫米，顶端急尖，中内层披针形或线状披针形，长1.4厘米，宽1.8-2.5毫米，顶端钝或急尖，通常染红紫色或边缘染红紫色。舌状小花16枚，黄色。瘦果黑色或黑棕色，椭圆形，压扁，长3.8毫米，宽约2毫米，边缘有宽翅，每面有1条高起的细脉纹，顶端急尖成长0.1毫米的粗短之喙。冠毛2层，几单毛状，白色，长7毫米。
+
+分布黑龙江（伊春）、吉林（安图）、河北（易县）、山西（五台县）。生于山坡草地、林缘、路边，海拔700-1 900米。日本及俄罗斯远东地区有分布。模式标本采自阿穆尔地区。

@@ -1,0 +1,13 @@
+环荚黄耆",
+6.**Astragalus contortuplicatus** Linnaeus Sp. Pl. 2: 758. 1753.",
+
+## Description
+Plant hairs thin, often bent, white, in inflorescence also black, 1-2 mm. Stems mostly several, prostrate to ascending, 2-50 cm, spreading hairy. Leaves 5-15 cm; stipules greenish, 5-10 mm, hairy; petiole 1-2 cm, with rachis slender, often flex-uous, hairy like stem; leaflets in 6-11 pairs, elliptic to obovate, 4-15 × 2-8 mm, adaxially sparsely to loosely and abaxially to densely covered with appressed to spreading hairs, apex deeply incised. Racemes 5-15(-20)-flowered; peduncle 1-4 cm, hairy like stem; bracts green, linear-acute, 2-3 mm, hairy. Flowers subsessile. Calyx 5-6.5 mm, shortly campanulate, densely covered with white or white and black hairs; teeth very unequal, 3 lower ones filiform, 3-5 mm, 2 upper ones only 2-2.5 mm. Petals whitish or yellowish; standard elliptic, 5-7.5 × 2.5-3.5 mm, apex deeply incised; wings 4-5.5 mm; keel 5-6.5 mm. Legumes linear, strongly falcate to screwlike twisted and often forming a complete circle of less than 1 cm in diam., 1-2 cm, 3-3.5 mm high and 2.5-3 mm wide, with a minute beak, com-pletely 2-locular; valves thinly membranous, nearly blackish brown when ripe, rugulose to pitted or warty, loosely to rather densely covered with spreading hairs.
+  "Statistics": "Riversides, saline meadows. Xinjiang [Kazakhstan, Mongolia, Pakistan, Russia, Tajikistan, Turkmenistan, Uzbekistan; SW Asia (Azerbaijan), Europe].
+**174. 环荚黄耆（西北植物研究）图版58：13-20**
+
+Astragalus contortuplicatus Linn. Sp. Pl. 758. 1753; DC. Prodr. 2: 290. 1825; Ledeb. Fl. Alt. 3: 312. 1831; Bunge in Mem. Acad. Sci. St. Petersb. VII. 11 (16): 18 1868 et 15 (1): 20. 1869; Baker in Hook. f. Fl. Brit. Ind. 2: 122. 1876; Gontsch. et Popov in Kom. Fl. USSR 12: 281. t. 20 (3). 1946; Golosk. in Pavl. Φπ. Казахст. 5: 53. 1961; Ali in Nasir et Ali, Fl. W. Pakist. 100: 149. 1977; K. T. Fu in Acta Bot. Bor. -Occ. Sinica, add. ser. 3 (3): 18. 1983; 中国沙漠植物志2: 263. 图版94 (6-). 1987.
+
+一年生草本，通常由基部分枝，被开展或半开展的白色长柔毛。茎平卧或上升，稀近直立，长5-45厘米。羽状复叶有13-21片小叶，长5-15厘米；叶柄长2-2.5厘米；托叶分离，基部与叶柄合生，卵形至长圆状披针形，长5-6毫米，先端渐尖；小叶长圆状卵形或宽椭圆形，长5-12毫米，宽3-4.5毫米，先端微缺或微浅裂状，基部宽楔形。总状花序呈头状花序式，生5-10花，密集，长2.5-3.3厘米；总花梗长1.5-2厘米，连同花序轴披白色柔毛，较叶短；苞片狭线形，长2.5-3毫米，具缘毛；花梗很短；花萼钟状，长4.5-5.5毫米，萼筒长1.5-2.5毫米，萼齿狭线形，长2.5-4毫米，内面有毛；花冠黄色，旗瓣倒卵状椭圆形，长5.5-7.5毫米，宽2.5-3.5毫米，先端微缺，基部渐狭，翼瓣长4.5-6.5毫米，瓣片狭长圆形，长3.5-4毫米，宽0.4-1.2毫米，先端钝或尖，基部耳向内弯，瓣柄长2-3毫米，龙骨瓣长5.5-7毫米，瓣片半圆形，长3.5-4.5毫米，宽1.5-2.2毫米，先端钝，瓣柄长2-3毫米；子房近无柄，被开展、白色长柔毛。荚果线状长圆形密集，长1-2厘米，宽2-3毫米，弯成镰刀状或环形，稍扁，半2室，含20余颗种子。近无果梗。种子红棕色，具淡黄色花纹，肾形，长不及1毫米，宽约1毫米，平滑。花期5-9月，果期6-10月。
+
+产新疆西部（尉犁、轮台）及北部（阿勒泰）。生于海拔550米的农田中。中亚、巴基斯坦及中欧均有分布。

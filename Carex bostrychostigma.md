@@ -1,0 +1,13 @@
+卷柱头薹草",
+253.**Carex bostrychostigma** Maximowicz Bull. Acad. Imp. Sci. Saint-Pétersbourg. 31: 118. 1886.",
+
+## Description
+Rhizome elongate, ligneous, clothed with sheaths eventually disintegrating into dark brown fibers. Culms densely tufted, 20-50 cm tall, slightly slender, obtusely trigonous, smooth. Leaves shorter than or nearly equaling culm, blades 3-4 mm wide, flat, scabrous on 2 lateral veins of adaxial surface and costa of abaxial surface, sheathed. Lowermost 1 or 2 involucral bracts leaflike, upper ones setaceous, slightly scabrous, sheathed. Spikes 5-8, solitary in an involucral bract sheath; terminal spike male, linear-cylindric, 2-4 cm, peduncle slender; lateral spikes female, space up to 6 cm, rather short near top, narrowly cylindric, 2-4 cm, loosely many flowered; peduncles rather short and thin, enclosed in involucral bract sheath. Female glumes brownish yellow, ovate-lanceolate, 4.5-5 mm, membranous, 3-veined, 2 lateral veins inconspicuous, costa scabrous, margins broadly white hyaline, apex acute. Utricles yellowish green, suberect, longer than glume, narrowly lanceolate, trigonous, ca. 7 mm, membranous, base attenuate, apex gradually narrowed to a long beak, orifice obliquely truncate, white hyaline on margins, sometimes shortly 2-toothed. Nutlets yellow-brown, tightly enveloped, narrowly oblong, trigonous, ca. 3.5 mm, base shortly stipitate; style much longer than utricle; stigmas 3. Fl. and fr. May-Jul.
+  "Statistics": "Meadow moors, watersides, wet places at roadsides; 200-1000 m. Jilin, Liaoning, Shaanxi, Zhejiang [Japan, Korea, Russia (Far East)].
+**228. 卷柱头薹草 图版55: 10-12**
+
+Carex bostrychostigma Maxim. in Mel. Biol. 12: 568, 1887; Franch. in Nouv. Arch. Mus. Paris 3 ser. 10: 58, 1897; Kom. Fl. Mansh. 1: 374, 1901; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 593, 1909; V. Krecz. in Kom., Fl. URSS 3: 334, 1935; Ohwi, Cyper. Japon. 1: 444, 1936; 东北草本植物志11: 92, 图版40, 1976; 秦岭植物志1 (1): 259, 1970. ——C. stenantha C. B. Clarke in Journ. Linn. Soc. Bot. 36: 311, 1904, excl. syn., non Franch. et Savat.
+
+根状茎长，木质，外被分裂成纤维状的黑褐色老叶鞘。秆密丛生，高20-50厘米，稍细弱，钝三棱形，平滑。叶短于秆或有的几与秆等长，宽3-4毫米，平张，上面两侧脉，背面中脉及边缘均粗糙，具鞘，鞘口下部常为干膜质。苞片下面的1-2个为叶状，上面的呈刚毛状，稍粗糙，具鞘。小穗5-8个，单生于苞片鞘内，顶生小穗为雄小穗，线状圆柱形，长2-4厘米，具细的小穗柄；侧生小穗为雌小穗，间距长可达6厘米，近顶端较短，狭圆柱形，长2-4厘米，具多数疏生的花，小穗柄细而较短，常包于苞片鞘内。雄花鳞片披针状长圆形，顶端钝圆或急尖，长5-5.5毫米，膜质，淡黄色，具宽的白色半透明的边，背面具1条中脉；雌花鳞片卵状披针形，顶端急尖，长4.5-5毫米，膜质，淡褐黄色，具宽的白色半透明的边，背面具3条脉，两侧脉不很明显，中脉上粗糙。果囊近于直立，长于鳞片，狭披针形，三棱形，长约7毫米，膜质，淡黄绿色，基部渐狭，上部渐狭成长喙，喙口斜截形，边缘干膜质，有时具两短齿。小坚果紧包于果囊内，狭长圆形，三棱形，长约3.5毫米，黄褐色，具很短的柄；柱头3个，较果囊长得多。花果期5-7月。
+
+产于吉林、辽宁、浙江、陕西；生于沼泽地、水沟边、路边湿地，海拔220-1000米。分布于日本、朝鲜、俄罗斯远东地区。

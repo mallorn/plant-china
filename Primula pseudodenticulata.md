@@ -1,0 +1,15 @@
+滇海水仙花",
+274.**Primula pseudodenticulata** Pax",
+
+## Description
+Herbs perennial, lacking basal bud scales, sometimes producing stolons from base. Leaves forming a rosette; petiole broadly winged, indistinct to nearly as long as leaf blade; leaf blade oblanceolate to narrowly obovate-oblong, 3--10 X 0.5--2.5 cm, glabrous, abaxially minutely glandular, base attenuate, margin erose-denticulate, apex rounded or obtuse and obscurely apiculate. Scapes 6--35 cm, pale yellow farinose toward apex; umbel capitate, many flowered; bracts ovate to ovate-lanceolate, 2--5 mm, farinose, base slightly gibbous. Pedicel 1--10 mm, farinose. Flowers heterostylous. Calyx campanulate, 4--5 mm, farinose outside, parted nearly to middle; lobes narrowly ovate to oblong, apex obtuse. Corolla pink to lavender-blue, with a yellow eye; limb 7--12 mm wide; lobes obovate, deeply 2-lobed. Pin flowers: corolla tube nearly as long as calyx; stamens in lower 1/2 of corolla tube; style ca. as long as tube. Thrum flowers with positions reciprocal. Capsule elliptic, nearly as long as calyx. Fl. Dec-Feb.
+
+> * Ditches, near water, wet pastures; 1500--3300 m. SW Sichuan, Yunnan
+  "Synonym": "&lt;I&gt;Primula auriculata&lt;/I&gt; Lamarck var. &lt;I&gt;polyphylla&lt;/I&gt; Franchet; &lt;I&gt;P. denticulata&lt;/I&gt; Smith subsp. &lt;I&gt;stolonifera&lt;/I&gt; (I. B. Balfour) W. W. Smith &amp; Forrest; &lt;I&gt;P. polyphylla&lt;/I&gt; (Franchet) Petitmengin; &lt;I&gt;P. pseudodenticulata&lt;/I&gt; Pax subsp. &lt;I&gt;polyphylla&lt;/I&gt; (Franchet) W. W. Smith &amp; Forrest; &lt;I&gt;P. stolonifera&lt;/I&gt; I. B. Balfour.
+**269.滇海水仙花（植物名实图考）图版52：5**
+
+Primula pseudodenticulata Pax in Engl. pflanzenr. 22 (IV-237): 91. 1905 Hand. -Mazz. Symb, Sin. 7: 744. 1936; W. W. Smith et Flecher in Trans. Roy. Soc. Bot. Edinb. 61:476. 1946;中国高等植物图鉴3: 794.1974; 云南种子植物名录2:1509.1984. ——Primula auriculata Lam. var. polyphylla Franch. in. Bull. Soc. Bot. France 32: 271. 1885; Pax. in Bot. Jahrb. 10: 191. 1889. Forbes et Hemsl. in Journ. Linn. Soc. Bot. 26: 36. 1889. ——Primula polyphylla (Franch.) Petitm., in Le Monde des Plantes 10 (49): 6. 1908. ——Primula stolonifera Balf. f. in Not. Roy. Bot. Gard. Edinb. 9: 47. 1915.——Primula denticulata Smith subsp. stolonifera (Balf. f.) W. W. Smith et Forr. in Not. Roy. Bot. Gard. Edinb. 16: 21. 1928. ——Primula pseudodenticulata Pax subs. polyphylla (Franch.) W. W. Smith et Forr. in ibid. 16: 22. 1928. ——Primula pseudod enticulata Pax var. monocola Hand.-Mazz. Symb. Sin. 7: 744. 1936, P. P. quoad Forrest 12529, 23061.
+
+多年生草本，全株无毛。根状茎极短，具成丛之长根，有时自顶端生出匍匐枝。叶丛基部无芽鳞；叶通常多数，倒披针形至狭倒卵状矩圆形，长3-10厘米，宽0.5-2.5厘米，先端圆钝或微具短尖头，基部渐狭窄，边缘具小牙齿，上面绿色，下面淡绿色，被粉质腺体，中肋宽扁，侧脉纤细，在下面明显；叶柄极短或与叶片近等长，具宽翅。花葶高6-35厘米，顶端被淡黄色粉：伞形花序近头状，多花；苞片卵形至卵状披针形，长2-5毫米，被淡黄色粉，基部稍膨大或微呈耳状；花梗长1-10毫米，被淡黄色粉；花萼钟状，长4-5毫米，外面被粉，分裂几达中部，裂片狭卵形至矩圆形，先端钝：花冠粉红色至淡紫蓝色，冠筒口周围黄色，冠檐直径7-12毫米，裂片倒卵形，先端2深裂；长花柱花：冠筒与花萼近等长，雄蕊着生于冠筒中下部，花柱长达冠筒口；短花柱花：冠筒长于花萼约0. 5倍，雄蕊着生于冠筒中上部，顶端接近冠筒口，花柱长1-1.5毫米。蒴果与宿存花萼近等长，5瓣裂。花期12月至翌年2月，果期3-4月。
+
+产于云南（蒙自、昆明、大理、丽江）和四川（木里）。生于沟边、水旁和湿草地，海拔1500-2300(3300)米。模式标本采自云南蒙自。

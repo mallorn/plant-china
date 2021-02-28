@@ -1,0 +1,16 @@
+光茎栓果菊",
+1.**Launaea acaulis** (Roxburgh) Babcock ex Kerr in Craib Fl. Siam. 2: 299. 1936.",
+
+## Description
+Herbs 10-35 cm tall, perennial, subacaulescent or caulescent, rosulate, glabrous. Rootstock thick, woody, with shoot-bearing roots. Stems few to some, slender, ascending-erect, sparsely branched or simple, leafless or rarely with a few leaves near base. Rosette leaves (sometimes a few extended to basal portion of flowering shoot) spatulate to lanceolate, 5-14 × 0.5-1 cm, base cuneate, margin denticulate and subentire to shallowly sinuate-dentate, apex acute, obtuse, or rounded. Synflorescence sparsely corymbiform, with 1 to a few capitula. Capitula with usually 10-14 florets. Involucre cylindric, 1.2-1.5 cm at anthesis, to 1.7 cm in fruit. Phyllaries with narrow or indistinct scarious margin; outer phyllaries triangular-ovate to lanceolate, longest ca. 1/2 as long as inner phyllaries; inner phyllaries 5-9. Achene whitish, homomorphic, columnar, cylindric, or subfusiform, 4-7 mm, with 5 main ribs, apex truncate. Pappus 6-8 mm, persistent. Fl. and fr. Apr-May. 2*n* = 18.
+  "Statistics": "Roadsides on mountain slopes, wastelands, sparsely forested steppes; 300-3600 m. Guangxi, Guizhou, Hainan, Sichuan, Yunnan [Bangladesh, Bhutan, India, Kashmir, Laos, Myanmar, Nepal, N Thailand, N Vietnam].
+  "Synonym": "*Prenanthes acaulis* Roxburgh, Fl. Ind., ed. 1832, 3: 403. 1832; *Crepis acaulis* (Roxburgh) J. D. Hooker; *Lactuca glabra* Candolle; *Launaea glabra* (Candolle) Franchet; *Microrhynchus glaber* Wight; *Youngia acaulis* (Roxburgh) Candolle.
+**1.光茎栓果菊 图版38: 3-4**
+
+Launaea acaulis (Roxb.) Babcock ex Kerr. in Craib, Fl. Siam. Enum. 2: 299. 1936; S. Y. Hu in Quart. Journ. Taiwan Mus. 22 (1-2): 34. 1967; Kitam. in J. Coll. Art. Sci. Chiba Univ. 5: 86. 1967, in Acta Phytotx. et Geobot. 23: 143. 1969 et Fl. E. Him. 2: 138. 1971; 中国高等植物图鉴4: 685.图6783. 1975; Kitam. et Gould in Hara et al., Enum. Flowering Plant Nepal 3: 32. 1982; 贵州植物志9: 357. 1989.——Prenanthes acaulis Roxb., Hort. Beng. 60. 1814. nom. nud. et Fl. Ind. ed. 2. 3: 403. 1832.——Youngia acaulis (Roxb.) DC., Prodr. 7: 193. 1838.——Lactuca glabra DC. in Wight, Contrib. 26. 1834 et Prodr. 7: 135. 1838; C. B. Clarke, Comp. Ind. 272, 1876. ——Microrhynchus glaber Wight, Icon. t. 1145. 1846.——Crepis acaulis (Roxb.) Hook. f. Fl. Brit. Ind. 3: 396. 1882. ——Launaea glabra (Wight) Franch. in Nouv. Arch. Mus. Hist. Nat. Paris 10: 42. (Pl. David. 2: 80. 1888) 1887; Chang in Sunyatsenia 3: 302. 1937; S. Y. Hu in Quart. Journ. Taiwan Mus. 20 (1-2): 34. 1967: 海南植物志, 3: 429. 1974.
+
+多年生草本，低矮，高25-35厘米。根粗，垂直直伸，圆柱状，木质。无茎或几无茎，自根颈或茎基发出少数花葶，花葶自中部以下或上部伞房花序状少分枝，分枝纤细，全部葶枝光滑无毛。基生叶多数，莲座状，匙形，长卵形、匙状倒长卵形、线形或线状倒披针形，长5-14厘米，宽0.5-1厘米，稍厚，顶端急尖、钝或圆形，边缘有细尖齿或浅波状细齿或近全缘，向基部渐狭成短柄或无柄；花序分枝枝叉上的叶极小，极退化，苞片状；全部叶两面无毛。头状花序多数或少数在葶枝顶端排成伞房状或不规则伞房状花序。总苞圆柱状，长13-15毫米；总苞片3-4层，外层及最外层极小，卵形、三角形或披针形，长2-4毫米，宽0.6-0.8毫米，顶端急尖，内层及最内层披针形，长13-15毫米，宽约2毫米，顶端急尖；全部总苞片外面无毛。舌状小花黄色，约14枚。瘦果披针形或椭圆无喙。冠毛纤细，白色，单毛状，长8毫米。花果期4-5月。
+
+分布广西（百色、隆林）、海南（定安、琼中、乐东、保亭、崖县、陵水）、贵州（安龙、望谟、罗甸）、四川（普格）、云南（中甸、屏边、蒙自、勐海）。生于山坡旱田、山坡路旁、荒地、稀树草原，海拔500-3 600米。印度、阿富汗、巴基斯坦、不丹、缅甸、泰国有分布。
+
+A. Franchet在Launaea glabra (Wight) Franch.种名之下, 发表了一个新变种, 即var. rufescens Franch. in Nouv. Arch. Mus. Hist. Nat. Paris 10: 42 (Pl. David. 2: 80. 1888）1887.冠毛红色。产于四川，我们没见到标本。

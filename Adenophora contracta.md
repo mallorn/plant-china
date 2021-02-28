@@ -1,0 +1,7 @@
+缢花沙参",
+13.**Adenophora contracta** (Kitagawa) J. Z. Qiu & D. Y. Hong Acta Phytotax. Sin. 28: 399. 1990.",
+
+## Description
+Stems 1-3 from a rootstock, 15-100 cm tall, glabrous to densely hispidulous. Basal leaves petiolate; blade reniform, base cordate, margin irregularly serrate. Cauline leaves sessile; blade ovate or lanceolate, sometimes linear-lanceolate, 1.5-8 × 0.5-3 cm, glabrous or sparsely hispidulous, margin serrate with teeth remote. Flowers in a pseudoraceme or with short branches forming a narrow panicle; pedicels usually less than 1 cm. Hypanthium obconic, densely or sparsely hispidulous, sometimes papillose, rarely glabrous; calyx lobes triangular-lanceolate, margin entire. Corolla purple or dark blue, campanulate, 1.2-2.2 cm, strongly constricted at throat (ratio of greatest in diam. to throat in diam. = 1.36); lobes only ca. 1/6 as long as tube, erect at first but later reflexed. Disk tubular, 2-4 mm, often puberulent. Style commonly exserted somewhat, less often equaling or shorter than corolla. Capsule obovoid, ca. 7 × 5 mm. Seeds ovoid-ellipsoid, ca. 1 mm. Fl. and fr. Aug-Oct. 2*n* = 34*.
+  "Statistics": "● Open grassy slopes. W Liaoning, Nei Mongol.
+  "Synonym": "*Adenophora polyantha* var. *contracta* Kitagawa in S. Tokunaga, Rep. First Sci. Exped. Manchoukuo 4(2): 112. 1935; *A. kulunensis* Y. Z. Zhao; *A. urceolata* Y. Z. Zhao (2002), not C. Y. Wu (1965).

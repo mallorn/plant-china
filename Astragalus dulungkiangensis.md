@@ -1,0 +1,6 @@
+独龙江黄耆",
+87.**Astragalus dulungkiangensis** P. C. Li Acta Bot. Yunnan. 11: 298. 1989.",
+
+## Description
+Plant hairs appressed to subappressed, white, in inflores-cence also black, 0.1-0.3 mm or even shorter and inflated sub-globose. Stem prostrate, branched, slender, 40-60 cm, loosely hairy, soon glabrescent. Leaves 3-6 cm, subsessile; stipules greenish, 2-2.5 mm, glabrous, lower ones shortly connate be-hind stem; rachis slender, sparsely covered with very short inflated subglobose hairs; leaflets in 7-10 pairs, elliptic, 4-9 × 2-4 mm, abaxially sparsely to loosely covered with appressed hairs, adaxially subglabrous, apex retuse to emarginate. Ra-cemes short, rather loosely 4- or 5-flowered; peduncle 1.5-3.5 cm, loosely to densely hairy; bracts greenish membranous, ca. 1.5 mm, subglabrous. Calyx 3-3.5 mm, loosely covered with white hairs and at teeth also with black hairs; teeth 1.5-2 mm. Petals pale purplish; standard widely ovate to suborbicular, 9-10 × ca. 6 mm, apex emarginate; wings ca. 7 mm; keel ca. 10 mm, limbs ca. 5.5 × 3 mm. Legumes nodding, with a stipe ca. 3 mm, oblong, slightly curved, 8-10 mm, ca. 2 mm high and wide, keeled ventrally, deeply grooved dorsally, with a short beak, nearly fully 2-locular; valves thin, loosely to rather densely covered with very short white hairs.
+  "Statistics": "● Yunnan.

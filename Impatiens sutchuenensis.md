@@ -1,0 +1,7 @@
+四川凤仙花",
+173.**Impatiens sutchuenensis** Franchet ex J. D. Hooker",
+
+## Description
+Plants annual, 30-50 cm tall, glabrous. Stem erect, robust; branches and branchlets elongate, slender. Leaves alternate. Lower and middle leaves long petiolate; petiole 3-5 cm; leaf blade ovate or oblong, 4-5 cm, membranous, base obtuse or rounded, apex obtuse. Upper leaves sessile or shortly petiolate; leaf blade pale green abaxially, green adaxially, oblong, glabrous, lateral veins 6-8 pairs, base cordate, margin coarsely crenate or crenate, teeth mucronulate. Inflorescences in upper leaf axils, 2- or 3-flowered; peduncles erect, ca. 1/2 as long as leaves, 2-2.5 cm, slender. Pedicels ca. 1 cm, slender, bracteate at middle; lowest pedicels without bracts. Flowers yellow-white, 1.5-2 cm deep. Lateral sepals 2, orbicular or broadly ovate, 6-8 mm, membranous, reticulate veined, apex mucronulate. Lower sepal funnelform, ca. 3 cm deep, gradually narrowed into an incurved long spur; mouth slightly oblique, ca. 1.5 cm, tip acute. Upper petal orbicular or obovate, 1-1.2 cm wide, apex cuspidate, abaxial midvein slightly thickened; lateral united petals not clawed, 2-3 cm, 2-lobed; basal lobes oblong or orbicular, apex retuse; distal lobes broadly or narrowly dolabriform, slightly curved, ca. 2 × as long as basal lobes, sometimes setose apically; auricle narrow. Filaments short, broad; anthers acute. Ovary erect, fusiform. Capsule linear. Fl. Aug-Sep.
+
+> ●  Forests on slopes, along canals, moist places; 1200-1900 m. W Hubei, Shaanxi, Sichuan.

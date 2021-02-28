@@ -1,0 +1,14 @@
+尖齿木蓝",
+38.**Indigofera argutidens** Craib Notes Roy. Bot. Gard. Edin-burgh. 8: 65. 1913.",
+
+## Description
+Shrubs or shrublets, 30-80 cm tall, many branched. Stems terete toward base, angular when young, with dense spreading long stiff brown trichomes and some short and submedifixed 2-branched trichomes. Stipules linear, 8-10 mm, persistent, with dense long spreading white or brown stiff trichomes. Leaves 3.5-8 cm, 7-13(or 15)-foliolate; petiole and rachis with dense spreading long stiff brown trichomes; petiole 3-5 mm; rachis adaxially grooved; stipels absent; petiolules ca. 1 mm; leaflet blades opposite, elliptic, oblong, obovate, or obovate-oblong, 0.7-2(-2.5) × 0.4-0.9(-1.3) cm, papery, both surfaces with sparse ± spreading white or gray and long basifixed to sub-basifixed trichomes, abaxially with long stiff brown basifixed trichomes along midvein, midvein adaxially obviously de-pressed, secondary veins not visible, base cuneate to rounded, apex obtuse to emarginate and with a 1.5-3 mm mucro. Ra-cemes ca. 3.5 cm; peduncle and rachis with dense spreading long stiff white trichomes; peduncle ca. 1.2 cm; bracts linear, 7-8 mm, abaxially with long white trichomes. Pedicel 2-2.5 mm but to 4 mm in fruit, with long stiff white trichomes. Calyx ca. 5 mm, outside with long stiff spreading white trichomes; tube ca. 1.5 mm; teeth narrowly triangular, 2-3(-4) mm. Corolla pur-plish red; standard broadly elliptic, 9-11 × ca. 5 mm, outside with spreading white long soft trichomes; wings ca. 9 mm, base auriculate, margin ciliate; keel 0.9-1.1 cm, outside apically hairy, margin ciliate, spur minute. Stamens 9-10 mm; anthers ovoid-globose, glabrous or base very sparsely hairy. Ovary gla-brous, with more than 10 ovules. Legume cylindric, 2-3 cm, glabrescent; endocarp blotched. Seeds 8 or 9 per legume. Fl. May-Jul, fr. Sep.
+  "Statistics": "● Grasslands, thickets, *Pinus* forests; 2000-3000 m. NW Yunnan.
+  "Synonym": "*Indigofera canocalyx* Gagnepain; *I. leptosepala* Diels (1912), not Nuttall (1838).
+**39.尖齿木蓝（中国主要植物图说·豆科）图版84：5-9**
+
+Indigofera argutidens Craib in Not. Bot. Gard. Edinb. 8: 65. 1913; Hand.-Mazz. Symb. Sin. 7: 547. 1933;中国主要植物图说·豆科230. 1955.——I. leptosepala Diels in Not. Bot. Gard. Edinb. 5: 245. 1910, et 7: 150. 1912, non Nutt. 1838.
+
+矮小灌木，高30-80厘米，多分枝。茎下部圆柱形，幼嫩部分具棱，密被棕褐色开展绒毛。总状花序长3.5-8厘米；叶柄长3-5毫米，叶轴圆柱形，上面具槽，与叶柄均密被棕褐色长软毛；托叶线形，长8-10毫米，被白色或棕褐色长绒毛，反曲，宿存；小叶3-6（-7）对，对生或近互生，椭圆形、长圆形、倒卵形至倒卵状椭圆形，长7-20 (-25)毫米，宽4-9 (-13)毫米，先端圆钝或截平，微凹，具长1.5-3毫米小尖头，基部楔形至圆形，上面绿色，下面淡绿色，两面均被白色平贴而两端稍卷曲的长丁字毛，中脉上面凹入，下面隆起，侧脉两面均不显著；小叶柄长约1毫米；小托叶不明显。总状花序长达3.5厘米，有5-12朵花；总花梗长约1.2厘米，与花序轴均密被棕褐色长绒毛；苞片线形，长7-8毫米；花梗长2-2.5毫米，与苞片均被白色长绒毛；花萼杯状，长约5毫米，外面被白色或间生棕褐色长软毛，萼筒长约1毫米，萼齿线形或线状披针形，不等长，最下萼齿长约4毫米；花冠紫红色，旗瓣阔椭圆形，长9-10毫米，宽约5毫米，基部有瓣柄，外面被平贴毛，翼瓣长约9毫米，基部有耳状附属物，边缘有睫毛，龙骨瓣与旗瓣近等长，先端及边缘有毛，基部具短瓣柄，距短小；花药卵球形，顶端有小突尖头，两端疏生髯毛；子房无毛，有胚珠10余粒。荚果圆柱形，长2-3厘米，疏被白色丁字毛，内果皮有紫色斑点。有种子8-9粒；果梗长约4毫米，直立或斜举。花期5-7月，果期9月。
+
+产云南（邓川、洱源、鹤庆、丽江、中甸）。生于林缘草地、杂木林或松林下，海拔2000-3000米。

@@ -1,0 +1,16 @@
+峨眉荚蒾",
+32.**Viburnum omeiense** P. S. Hsu Acta Phytotax. Sin. 11: 67. 1966.",
+
+## Description
+Shrubs, deciduous, ca. 75 cm tall. Bark unknown. Branchlets of current year gray-yellowish, with dispersed, raised lenticels; branchlets of previous year gray-yellowish, terete, glabrous, with dispersed, small, raised lenticels. Winter buds oblong, with 2 pairs of separate scales; scales reddish brown, glabrous, apex acute. Leaves always opposite, not clustered at apices of branchlets; stipules absent; petiole reddish, robust, 5-10 mm, glabrous; leaf blade purplish green when young, oblong, 3-7 × 1.5-3 cm, thickly papery, both surfaces glabrous, midvein raised on both surfaces, lateral veins ca. 4-jugate, pinnate, arched, rarely branched, anastomosing near margin, slightly raised abaxially, inconspicuous or slightly impressed adaxially, veinlets transverse, inconspicuous or slightly impressed on both surfaces, not lobed, base cuneate, without glands, margin remotely crenulate except at base, apices of teeth slightly mucronate, apex acute. Flowers appearing with leaves; inflorescence paniculate, terminal or at apices of short lateral branchlets with 1 pair of leaves, ca. 3.5 × 4.5 cm; rays opposite, decussate; first node of inflorescence with 2 rays, dense, glabrous, without large sterile radiant flowers; peduncle 2-3 cm; bracts caducous, leaflike, green, oblong or linear, ca. 1.8 × 0.8 mm, midvein red at base, lateral veins inconspicuous, apex obtuse, sparsely stellate-pubescent or sometimes sparsely ciliate; bracteoles scalelike. Flowers on rays of 1st and 2nd orders, not fragrant, sessile. Calyx reddish; tube tubular-obconical, ca. 1.8 mm, glabrous; lobes broadly ovate, short, ca. 0.8 mm, glabrous, apex acute. Corolla white, hypocrateriform, less than 5 mm in diam., glabrous; tube ca. 3.5 mm; lobes ?spreading, broadly ovate, ca. 1 mm, 1 slightly larger than others, apex rounded, margin entire. Stamens shorter than corolla, inserted at apex of corolla tube; filaments very short; anthers yellow-whitish, elliptic-oblong, ca. 1 mm. Styles slightly exceeding calyx lobes or not; stigmas 3-lobed. Fruit unknown. Fl. Nov-May.
+  "Reference": "This species is represented by the type collection, which appears to have a premature inflorescence, and an additional collection with old flowers. Field work is needed to determine the identity of these plants.This species is represented by the type collection, which appears to have a premature inflorescence, and an additional collection with old flowers. Field work is needed to determine the identity of these plants.
+  "Statistics": "● Mountains; ca. 1300 m. Sichuan (Emei Shan).
+**25. 峨眉荚蒾（植物分类学报）**
+
+Viburnum omeiense Hsu in Acta Phytotax. Sinica 11: 67. 1966.
+
+落叶灌木，高75厘米左右，全株几无毛；小枝与枝灰黄色，散生圆形、凸起的小皮孔。冬芽有1对鳞片。叶厚纸质，矩圆形，长3-7厘米，顶端短尖，基部楔形，边缘除基部外疏生波状浅齿，齿端微凸尖，无毛，两面中脉均凸起，侧脉约4对，近叶缘前弯拱而互相网结，上面不明显或略凹陷，下面稍凸起；叶柄长5-10毫米，微红色，上面有沟。圆锥花序长约3.5厘米，宽约4.5厘米，具极稠密的无梗小花，总花梗长约2厘米；苞片绿色，叶质，矩圆形或条形，长1.8毫米，宽0.8毫米，顶端钝，有时具少数缘毛，中脉基部红色，散生少数簇状毛，侧脉不明显，小苞片鳞片状；萼筒长约1.8毫米，萼齿宽卵形，长0.8毫米，顶稍尖；花冠白色，高脚碟形，筒长约3.5毫米，裂片宽卵形，长约1毫米，顶圆形，其中1枚较余者稍大；雄蕊花丝极短，花药黄白色，椭圆状矩圆形，长约1毫米；柱头浅2裂，略高出萼齿或否。果实不详。花期11月。
+
+特产四川峨眉山。生于海拔1300米的山地。
+
+这是一个非常特殊的种，其绿色的叶状苞片，极其稠密的花序，甚小的花以及花冠的裂片之一较余者稍大等特征，与同组内的其他种颇不相同。

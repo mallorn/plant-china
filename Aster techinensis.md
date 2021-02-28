@@ -1,0 +1,16 @@
+德钦紫菀",
+98.**Aster techinensis** Y. Ling Fl. Reipubl. Popularis Sin. 74: 359. 1985.",
+
+## Description
+Herbs, perennial, 15-25 cm tall, caespitose; rhizomes robust, without stolons. Stems ascending, simple, proximally villosulous, distally sparsely so, densely minutely stipitate glandular, more densely so distally. Leaves basal and cauline, thin, sparsely villous to glabrate, more densely villous on veins, minutely stipitate glandular, margin serrate to serrulate (teeth mucronate), villous-ciliate, 3-veined, veins abaxially prominent, apex rounded to acute, mucronate; basal leaves withered at anthesis, marcescent, broadly winged petiolate (petiole to 4 cm); blade oblanceolate, 1.5-4.5 × 0.5-2 cm, base attenuate; lower cauline leaves winged petiolate to sessile, oblanceolate to lanceolate, 1.5-4.4 × 0.5-1.5 cm, base cuneate or attenuate to rounded, clasping; upper leaves sessile, lanceolate, base rounded, clasping. Capitula terminal, solitary, 3.5-4.5 cm in diam. Involucres hemispheric, 1.3-1.4 × 1.8-2.5 cm, often overtopping disk; phyllaries 2-seriate, unequal, multiveined, margin ciliate, apex slightly spreading, both surfaces densely minutely stipitate glandular; outer phyllaries oblong-lanceolate to lanceolate, 13-16 × 3-5 mm, abaxially sparsely villosulous on veins, leaflike, apex acuminate, green or purple tinged, tip villosulous; inner phyllaries narrowly lanceolate, 9-15 × 1.2-1.5 mm, membranous, margin broadly scarious, glabrate. Ray florets ca. 80 or more, blue-purple, tube hairy, lamina 15-18 × 1-1.5 mm, eglandular; disk florets yellow, ca. 7 mm, tube and basal limb hairy, limb funnelform, ca. 4 mm, lobes erect to spreading, purple-black, triangular, ca. 1 mm, glabrous, tip sparsely minutely stipitate glandular. Achenes (immature) oblanceolate, compressed, ca. 2.5 mm, sericeous, densely minutely stipitate glandular, 2-ribbed. Pappus 4-seriate, reddish based, whitish above, bristles few, barbellate throughout; outermost series of slender bristles or scales 0.5-1 mm; outer bristles slender, 2-5 mm; inner bristles 5-5.5 mm, acute; innermost bristles 6-7 mm, weakly clavate. Fl. Aug.
+  "Reference": "*Aster techinensis* is closely related to *A. himalaicus* but differs in its stems, leaves, and phyllaries sparsely villosulous and its pappus reddish.*Aster techinensis* is closely related to *A. himalaicus* but differs in its stems, leaves, and phyllaries sparsely villosulous and its pappus reddish.
+  "Statistics": "● About 3500 m. NW Yunnan (Dêqên).
+**69. 德钦紫菀 图版56：1-3**
+
+Aster techinensis Ling in Addenda 359.
+
+多年生草本，根状茎粗壮，被枯叶残片，有密集丛生的花茎和莲座状叶丛。茎下部常弯曲，从莲座状叶丛的基部斜升，高15-25厘米，细或粗壮，被开展的疏毛，上部稍有腺毛，全部有较密的叶。莲座状叶倒卵圆形、倒披针形或匙形，长1.5-4厘米，宽0.5-1.5厘米，下部渐狭成具宽翅的柄，有2-4对小尖头状齿或近全缘，顶端圆形或钝，有小尖头；茎基部叶在花期枯萎，下部以上叶长圆状匙形、长圆形或狭卵形，长2-5.5厘米，宽0.5-1.5厘米，基部稍狭或圆形，半抱茎，全缘或有1-2对小尖头状齿；全部叶质薄，有腺，上面被疏毛，或近无毛，下面沿脉及边缘有长疏毛，有密缘毛；中脉及离基三出脉在下面稍凸起。头状花序在茎端单生，径3.5-4.5厘米。总苞半球形，径1.8-2.5厘米；总苞片2层，长圆披针形，长13-15毫米，宽3-5毫米，渐尖，草质，绿色或带紫色，有腺，外层沿中脉和内层上部被疏长毛，有缘毛。舌状花约80个；管部长2毫米，舌片兰紫色，长约15毫米，宽约1.5毫米。管部长2毫米，裂片长1.5毫米，紫黑色；花柱附片三角形。冠毛带红色，长约7毫米，有不等长的微糙毛。子房长圆形，长2.5毫米，被绢毛。花期8-？月。
+
+产于云南西北部（德钦）。海拔3500米。
+
+此种与须弥紫菀 (A. himalaicus C. B. Clarke) 显然接近，仅以茎、叶和总苞片较宽且被较少的长柔毛、冠毛带红色而非白色与后者区别。宽苞紫菀 (A. latibracteatus Franch.) 及线舌紫菀 (A. bietii Franch) 都与此种接近，但冠毛的构造也不相同。

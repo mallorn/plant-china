@@ -1,0 +1,9 @@
+狭锥花佩菊",
+7.**Faberia faberi** (Hemsley) N. Kilian Z. H. Wang & J. W. Zhang, Fl. China. 20-21: 214. 2011.",
+
+## Description
+Herbs 1.2-2.5 m tall, perennial. Rhizomes horizontal, 1-2 cm in diam. Stem solitary, erect, ± glabrous, leafy, apically with or without branches as leafy as main stem. Stem leaves with petiole 2-6 cm; leaf blade triangular-ovate to pentagonal, 8-15 × 5-12 cm, glabrous or very sparsely with stiff hairs, base hastate to cordate, margin shallowly sinuately mucronately dentate and mucronulately denticulate, apex acute to acuminate; lower stem leaves rarely with a single pair of small, elliptic, entire, and subopposite to opposite lateral lobes. Synflorescences contracted paniculiform, with some to many capitula; branches short, wiry, often pilose. Capitula rather clustered, each with ca. 5 florets; peduncle 0-2 mm. Involucre ca. 10 × 3 mm. Phyllaries green, ± shortly white ciliate; outer phyllaries broadly ovate-triangular, longest 2.5-3(-5) mm, apex acute; inner phyllaries 5, apex obtuse. Florets pale purple. Achene brown, 3.5-4 mm. Pappus 6-8 mm. Fl. and fr. Jun-Aug.
+  "Reference": "Molecular phylogenetic analyses by N. Kilian et al. (in prep.) fully confirm the morphological affinity to *Faberia* of *F. faberi*, previously classified under *Prenanthes* (e.g., FRPS 80(1): 189. 1997).Molecular phylogenetic analyses by N. Kilian et al. (in prep.) fully confirm the morphological affinity to *Faberia* of *F. faberi*, previously classified under *Prenanthes* (e.g., FRPS 80(1): 189. 1997).
+  "Statistics": "● Mountain slopes, forest margins; 1800-3000 m. Chongqing, Guizhou, Sichuan, Yunnan.
+  "Synonym": "Basionym: *Prenanthes faberi* Hemsley, J. Linn. Soc., Bot. 23: 486. 1888 [*\"Faberii\"*]; *Lactuca hemsleyi* Franchet, nom. illeg. superfl.; *P. vitifolia* Diels.
+  "frpsdesc": "",

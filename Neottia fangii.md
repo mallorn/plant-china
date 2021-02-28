@@ -1,0 +1,7 @@
+扇唇对叶兰",
+31.**Neottia fangii** (Tang & F. T. Wang ex S. C. Chen & G. H. Zhu) S. C. Chen S. W. Gale & P. J. Cribb, Fl. China. 25: 193. 2009.",
+
+## Description
+Plants autotrophic, to 29 cm tall. Rhizome with a few elongate, filiform roots. Stem ca. 10.5 cm, slender, with 1 tubular sheath more than 2 cm toward base. Leaves 2, opposite, borne below middle of plant, subsessile, ovate-orbicular, 2.4-2.8 × 2.8-3 cm, adaxially minutely puberulent, base cuneate-subcordate, apex acute-rounded. Peduncle ca. 15 cm, pubescent; rachis ca. 4.5 cm, pubescent, 11-flowered; floral bracts subovate-oblong, 1.5-2.5 × ca. 0.8 mm, sparsely pubescent on both surfaces. Flowers erect or spreading, resupinate; pedicel 3.5-4.5 mm, pubescent; ovary ca. 2 mm, sparsely pubescent or glabrescent; sepals and petals spreading. Sepals ovate-oblong, ca. 2 × 0.8 mm, 1-veined, apex obtuse; lateral sepals slightly oblique. Petals similar to dorsal sepal but slightly narrower; lip spreading forward to suberect, spatulate-obovate, ca. 5 × 3 mm, contracted below middle into a claw, dilated apical portion fan-shaped, ca. 2 × 3 mm, apex deeply 2-lobed; lobes diverging at an acute angle, subquadrate, ca. 2 mm, apices truncate; sinus with a small tooth between lobes; claw ca. 2.8 × 0.8 mm, with a pair of broadly ovate-deltoid auricles ca. 0.8 mm at base. Column ca. 2 mm. Fl. Jul.
+  "Statistics": "&amp;#9679; Forests; 800-1000 m. NW Sichuan.
+  "Synonym": "Basionym: *Listera fangii* Tang &amp; F. T. Wang ex S. C. Chen &amp; G. H. Zhu, Novon 12: 438. 2002.

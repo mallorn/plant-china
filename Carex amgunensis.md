@@ -1,0 +1,14 @@
+球穗薹草",
+69.**Carex amgunensis** F. Schmidt Mém. Acad. Imp. Sci. Saint Pétersbourg, sér. 7. 12(2) [Reis. Amur-Land., Bot.]: 69. 1868.",
+
+## Description
+Rhizome slender, creeping or obliquely ascending, with slender stolons. Culms densely tufted, 15-35 cm tall, slender, triquetrous, smooth, scabrous on angles of upper part, with few brown and bladeless sheaths at base, sheaths eventually disintegrating into fibers. Leaves shorter than or nearly equaling culm, blades 1-2 mm wide, flat, slightly soft, scabrous on upper surface and margins, slightly long sheathed, eventually split at membranous side. Lowermost involucral bract green, leaflike, rather thin, longer than spike, upper ones scalelike, brownish, not sheathed. Spikes 2 or 3, rarely 4, congregated at top of culm; terminal spike male, lanceolate, 5-10 mm, subsessile; lateral spikes female, subglobose or broadly ovoid, 5-6 mm, 6-10-flowered, sessile. Female glumes yellowish brown, ovate, ca. 3 mm, 1-veined, margins hyaline, apex acute. Utricles yellow-brownish, obliquely patent, slightly longer than glume, oblong-obovate, plano-convex-trigonous, 3-3.5 mm, herbaceous, densely hispidulous on upper part, indistinctly veined, base cuneate, margins hyaline, apex abruptly contracted into a short beak, orifice obliquely truncate or emarginate. Nutlets stramineous, tightly enveloped, elliptic, trigonous, ca. 2.5 mm, base shortly stipitate; style base not thickened; stigmas 3. Fl. and fr. May-Jun.
+  "Statistics": "Shady places on mountain slopes, swamps; ca. 2000 m. Hebei, Heilongjiang [Mongolia, Russia; E Europe (Ukraine)].
+  "Synonym": "*Carex amgunensis* var. *chloroleuca* (Meinshausen) Kükenthal; *C. chloroleuca* Meinshausen.
+**62. 球穗薹草（东北草本植物志）图版22: 1-4**
+
+Carex amgunensis Fr. Schmidt in Mem. Acad. St. Petersb. III Ser., 12, 69, tab. 1, fig 4-5, 1868; Meinsh. in Act. Hort. Petrop. 18: 399, 1901; V. Krecz. in Kom., Fl. URSS 3: 319, 1935; Kitag., Lineam. Fl. Mansh. 97, 1939; Akiyama, Caric. Far East. Reg. Asia 227, pl. 234, fig. 2, 1955; 东北植物检索表, 528, 1959; T. Koyama in joum. Fac. Sci. Univ. Tokyo Sect. III. 8 (4): 180, 1962; 东北草本植物志11: 110, 1976. ——Carex amgunensis Fr. Schmidt var. chloroleuca (Meinsh.) Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 447, 1909. ——Carexchloroleuca Meinsh. in Bot. Centralbl. 55: 196, 1893; Kom., Fl. Mansh. 1: 397, 1901.
+
+根状茎细长，匍匐或斜升，具细的地下匍匐茎。秆密丛生，高15-35厘米，纤细，三棱形，平滑，上部棱上稍粗糙，基部具少数褐色无叶片的鞘，老叶鞘常细裂成纤维状。叶短于秆或近等长于秆，宽1-2毫米，平张，质较柔软，上面和边缘均粗糙，具稍长的叶鞘，老叶鞘膜质部分常开裂。苞片最下面的1枚为叶状，绿色，纤细，长于小穗，其余为鳞片状，淡褐色，无苞鞘。小穗2-3个，少数4个，密集于秆的上端，顶生小穗为雄小穗，披针形，长5-10毫米，近于无柄；其余小穗为雌小穗，近球形或宽卵形，长5-6毫米，具6-10朵花，无柄。雄花鳞片披针形，长约4.5毫米，顶端渐尖，膜质，淡褐黄色，边缘白色，具1条中脉；雌花鳞片卵形，长约3毫米，顶端急尖，淡黄褐色，边缘白色，具1条中脉。果囊斜展，稍长于鳞片，长圆状倒卵形，平凸状三棱形，长约3.5毫米，草质，淡黄褐色，上部密被短硬毛，无明显的脉，基部渐狭为狭楔形，顶端急缩成短喙，喙口斜截形或有时微凹，边缘为白色薄膜质。小坚果紧包于果囊内，椭圆形，三棱形，长约2.5毫米，麦秆黄色，基部具很短的柄；花柱基部不增粗，柱头3个。花果期5-6月。
+
+产于黑龙江、河北等地；生于山坡阴处或潮湿沼泽地，海拔2000米左右。也分布于蒙古、俄罗斯、乌克兰。

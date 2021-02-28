@@ -1,0 +1,16 @@
+假大青蓝",
+34.**Indigofera galegoides** Candolle Prodr. 2: 225. 1825.",
+
+## Description
+Shrubs or shrublets, 1-2 m tall. Young branches angular, with appressed white or grayish brown medifixed symmetri-cally 2-branched trichomes, glabrescent. Stipules linear, 3-4 mm. Leaves ca. 20 cm, 11-25-foliolate; petiole and rachis with appressed white mixed brownish gray medifixed trichomes; petiole 1.5-3 cm; rachis adaxially grooved; stipels subulate, 0.5-1 mm; petiolules ca. 2 mm, with brown trichomes; leaflet blades opposite or subopposite, oblong to oblanceolate-oblong, 2-4 × 0.7-1.6 cm, membranous, both surfaces with appressed brown and white medifixed trichomes, midvein abaxially prominent and adaxially impressed, secondary veins 11 on each side of midvein, base broadly cuneate to rounded, apex rounded to acute and mucronate. Racemes 5-12 cm, densely flowered; peduncle and rachis with appressed white medifixed trichomes; peduncle 7-10 mm; bracts subulate, 1-2 mm. Pedicel as long as bracts, with appressed medifixed trichomes. Calyx campanu-late, ca. 2 mm, with slightly appressed trichomes; tube 1-1.5 mm; teeth triangular, ca. 0.5 mm. Corolla pink; standard ovate-oblong, 8-9 × ca. 5 mm, outside with dense appressed brown trichomes; wings ca. 8 mm, margin ciliate; keel as long as wings, outside with dense appressed brown trichomes at apex, spur ca. 1.5 mm. Stamens 5-7 mm; anthers ovoid-ellipsoid, glabrous. Ovary glabrous, with 20 ovules. Legume cylindric, ascending to erect, 6-9 cm, with slightly appressed brown trichomes when young, glabrescent; endocarp blotched. Seeds 15-18 per legume. Fl. Apr-Aug, fr. Sep-Oct.
+  "Statistics": "Open places, valleys; 600-1700 m. Guangdong, Guangxi, Guizhou, Hainan, Taiwan, S Yunnan [Bangladesh, Cambodia, India, Indonesia, Laos, Malaysia, Myanmar, Philippines, Sri Lanka, Thailand, Vietnam].
+  "Synonym": "*Indigofera finlaysoniana* Graham ex Ridley; *I. mansuensis* Hayata; *I. uncinata* Roxburgh.
+**24.假大青蓝（中国主要植物图说·豆科）图版81：1-3**
+
+Indigofera galegoides DC. Prodr. 2: 225. 1825; Miq. Fl. Ind. Bat. 1: 310. 1855, et Suppl. 114. 1860; Baker in Hook. f. Fl. Brit. Ind. 2: 100. 1876; Craib in Not. Bot. Gard. Edinb. 8: 71. 1913; Gagnep. in Lecomte, Fl. Gen. Indo-Chine 2: 433. 1916; Merr. Enum. Philip. Fl. Pl. 2: 274. 1923, et in Lingnan Sci. Journ. 5: 92. 1927; 中国主要植物图说·豆科260. 1955; 海南植物志2: 256. 1965; 台湾植物志3: 302. 1977; de Kort et Thijsse in Blumea 30: 118. 1984; Sanjappa in Reiwardtia 10: 222. 1985.——I. uncinata Roxb. Hort. Beng. 57. 1809, nom. nud. et Fl. Ind. 3: 382. 1832; Craib, Fl. Siam. Enum. 1: 382. 1928.——I. mansuensis Hayata, Ic. Pl. Formos. 9: 19. f. 13. 1920.
+
+灌木或亚灌木，高1-2米。嫩枝有棱，被白色或灰褐色平贴丁字毛，后变无毛。羽状复叶长达20厘米；叶柄长1.5-3厘米，叶轴上面有浅槽，和叶柄均被白色或褐灰色短丁字毛；托叶线形，长3-4毫米；小叶5-12对，对生或近对生，膜质，长圆形或倒披针状长圆形，长2-4厘米，宽0.7-1.6厘米，先端圆形或急尖，有小尖头，基部阔楔形或圆形，上面深绿色，下面淡绿色，两面有棕褐色并间生白色平贴丁字毛，中脉上面凹下，下面隆起，侧脉约11对，下面较上面明显；小叶柄长约2毫米，被棕褐色毛；小托叶钻形，长0.5-1毫米。总状花序长6-10厘米，花密集；总花梗短，长7-10毫米， 花序轴和总花梗均有白色平贴柔毛；苞片针形，长1-2毫米；花梗与苞片近等长，有平贴丁字毛；花萼钟状，长约2毫米，薄被绒毛，萼齿短，三角形；花冠淡红色，旗瓣卵状椭圆形，长8-9毫米，宽达5毫米，外面密生棕黄色并间生白色平贴毛，翼瓣长约8毫米，有缘毛，龙骨瓣与翼瓣等长，先端密生棕色绢丝状毛，距长1.5毫米；花药卵状长圆形，两端无毛；子房无毛，有胚珠20余粒。荚果长圆柱形，紧挤，直立向上，长达9厘米，顶端具长尖喙，早期薄被棕褐色粗短丁字毛，后变无毛，种子15-18粒。花期4-8月，果期9-10月。
+
+产台湾、广东、海南、广西、云南（东南部）。生于旷野或山谷中，海拔1000-1700米。印度、中南半岛、泰国、印度尼西亚也有。
+
+叶可提取蓝靛染料。

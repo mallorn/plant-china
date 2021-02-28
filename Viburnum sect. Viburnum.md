@@ -1,0 +1,8 @@
+裸芽组",
+1.**Viburnum sect. Viburnum**",
+
+> About 20 species: mostly in temperate Asia and Europe; 13 species (seven endemic) in China.
+
+## Description
+Winter buds naked. Inflorescence a compound umbel-like cyme, without large sterile radiant flowers, pedunculate. Corolla rotate, hypocrateriform or tubular. Fruit initially turning red, maturing black; pyrenes with 2 dorsal grooves and 3 ventral grooves; albumen solid.
+  "Reference": "This section was divided into three subsections by H. Hara (Ginkgoana 5: 204-213. 1983): *Viburnum* subsect. *Solenolantana* (Nakai) H. Hara for *V. carlesii*, *V.* subsect. *Urceolata* Nakai for *V. urceolatum*, and *V.* subsect. *Viburnum* for the remaining species. Recent phylogenetic work shows that *V.* subsect. *Urceolata* may be separated from the remainder of *V.* sect. *Viburnum*. *Viburnum *subsect. *Lantana* and *V.* subsect. *Solenolantana* form a monophyletic group, and the recognition of *V.* subsect. *Solenolantana* makes *V.* subsect. *Lantana* paraphyletic.This section was divided into three subsections by H. Hara (Ginkgoana 5: 204-213. 1983): *Viburnum* subsect. *Solenolantana* (Nakai) H. Hara for *V. carlesii*, *V.* subsect. *Urceolata* Nakai for *V. urceolatum*, and *V.* subsect. *Viburnum* for the remaining species. Recent phylogenetic work shows that *V.* subsect. *Urceolata* may be separated from the remainder of *V.* sect. *Viburnum*. *Viburnum *subsect. *Lantana* and *V.* subsect. *Solenolantana* form a monophyletic group, and the recognition of *V.* subsect. *Solenolantana* makes *V.* subsect. *Lantana* paraphyletic.

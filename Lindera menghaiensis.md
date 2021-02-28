@@ -1,0 +1,6 @@
+勐海山胡椒",
+16.**Lindera menghaiensis** H. W. Li Acta Phytotax. Sin. 16(4): 64. 1978.",
+
+## Description
+Trees, up to 15 m tall, ca. 20 cm d.b.h. Branchlets angular, densely ferruginous tomentose when young, later gradually glabrate and red-brown. Leaves alternate; petiole ca. 1.5 cm, densely ferruginous pubescent, later gradually glabrate; leaf blade gray-brown abaxially, shiny and slightly brown when dry adaxially, usually ovate-oblong, 11-18 × 4-7 cm, thinly leathery, densely tomentose abaxially, laxly ferruginous tomentose adaxially when young, pinninerved, lateral veins 9 or 10 pairs, midrib and lateral veins not convex adaxially, lateral veins convex abaxially, base cuneate, margin revolute, apex acute or acuminate. Umbels 1-5, inserted at axillary and densely ferruginous pubescent short branch, ca. 13-flowered; peduncles 0.6-1 cm, densely ferruginous pubescent. Male flowers not seen. Female flowers 4.5-5 mm; tepals 6, oblong, equal in size, 3-4 mm, slightly pubescent outside, glabrous inside, acute at apex; reduced stamens 9 or fewer; filaments pubescent, 2-glandular at base in 3rd whorl; glands rounded-reniform, subsessile; anthers fasciated; pistil clavate, ca. 5 mm; ovary and style densely pubescent; style angular; stigma disciform, trifid. Fruits not seen.
+  "Statistics": "● Shady places in evergreen broad-leaved forests; ca. 1300 m. S Yunnan.

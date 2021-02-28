@@ -1,0 +1,6 @@
+毛萼爵床",
+41.**Justicia poilanei** Benoist Notul. Syst. (Paris). 5: 125. 1936.",
+
+## Description
+Shrubs to 2 m tall. Stems ± 4-angled, sulcate, glabrous. Petiole 1-6 cm, flat, sulcate, margin ciliate; leaf blade ovate to ovate-lanceolate, 10-20 × 4-8 cm, glabrous, secondary veins 6-10 on each side of midvein, base attenuate and decurrent onto petiole, margin entire or undulate, apex acute. Spikes terminal or rarely axillary, 7-15 cm, usually trifurcately branched or rarely unbranched; peduncle 1-3 cm; rachis 4-angled, glabrous, with 1 flower per node; bracts triangular, 2-2.5 × ca. 2 mm, both surfaces glabrous, margin ciliate; bracteoles similar to bracts. Calyx 3-4 mm, both surfaces puberulent especially distally on inner surface, 5-lobed almost to base; lobes lanceolate, margin ciliate, apex acute. Corolla ca. 1 cm, outside pubescent; tube as long as limb; lower lip 3-lobed, lobes subequal, ovate, and apex rounded; upper lip subtriangular, erect, apex emarginate. Staminal filaments ca. 4 mm, glabrous; anther thecae unequal, superposed, lower one spurred at base. Ovary glabrous; style ca. 8 mm, glabrous. Capsule not seen. Fl. Dec-Feb.
+  "Statistics": "Limestone hills; 1000-2400 m. Yunnan [Vietnam].

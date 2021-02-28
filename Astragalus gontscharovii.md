@@ -1,0 +1,6 @@
+半灌黄耆",
+270.**Astragalus gontscharovii** Vassilczenko in Komarov Fl. URSS. 12: 887. 1946.",
+
+## Description
+Plants subshrubby, up to 100 cm tall, vegetative parts with appressed, medifixed, white hairs. Stems ligneous in lower part, branched, parts of current year up to 30 cm, densely covered with hairs 0.5-0.8 mm. Leaves 3-8 cm, subsessile; stipules 3-4 mm, nearly free from petiole, hairy, at margins with short basi-fixed hairs; rachis rather densely hairy; leaflets in 3-5 pairs, 7-20(-25) × 1.5-4(-7) mm, abaxially loosely to rather densely and adaxially sparsely to loosely covered with hairs up to 1.3 mm. Racemes capitate, densely many flowered; peduncle 7-12 cm, erect, densely hairy; bracts 2.5-4 mm, with black and white hairs. Calyx 10-15 mm, sparsely to densely covered with sub-basifixed to basifixed, subappressed to ascending, white hairs 0.6-1.8 mm and with ± medifixed, appressed, black hairs 0.3-0.6 mm; teeth 2-5 mm. Petals pale violet to white; standard elliptic, 16-18 × ca. 7 mm, slightly constricted in lower 1/3, in upper 1/3 tonguelike narrowed, emarginate; wings 14-16 mm; keel 10-11 mm. Legumes subsessile, obliquely ascending, 20-30 mm, 2.5-3 mm in diam., with a breakable beak 3-5 mm; valves covered with appressed black and scattered white hairs.
+  "Statistics": "Mountain meadows. Xinjiang [Kazakhstan, Kyrgyzstan, Uzbeki-stan].

@@ -1,0 +1,13 @@
+总序山柑",
+17.**Capparis assamica** J. D. Hooker & Thomson in J. D. Hooker Fl. Brit. India. 1: 177. 1872.",
+
+## Description
+Shrubs 2-3 m tall. Twigs tan-colored when dry, glabrous or new branches with distant appressed short pubescence but immediately glabrescent, with cataphylls at base, without stipular spines or sometimes with ascending ca. 1 mm spines. Petiole 5-8 mm, stout, axil often with subulate bracts on sterile twigs; leaf blade oblong to oblong-lanceolate, 12-26 × 3.5-8.5 cm, subleathery, midvein abaxially raised and adaxially deeply impressed, secondary veins 10-12 on each side of midvein and adaxially impressed, reticulate veins obvious, base cuneate, apex often acuminate. Inflorescences terminal or nearly so, racemes, 1- or 2-fascicled, 10-25 cm, 15-30-flowered; peduncle ca. 1 cm, base covered by dense subulate bracts; rachis slender, with decurrent vertical ribs, with dense appressed short rust-colored pubescence, apex with many fascicular subulate scales. Pedicel 1-2.5 cm, pubescent like rachis; bracts subulate, 1.5-2 mm, with scattered simple trichomes especially distally. Sepals ca. 3.5 × 1.5-2 mm, outside sparsely shortly pubescent; sepals of outer whorl ovate, inside concave to navicular; sepals of inner whorl elliptic. Petals white, 3-4 × 1.5-2 mm; anterior 2 petals elliptic, slightly smaller, basally and margin often shortly pubescent; posterior 2 petals ovate, slightly larger, basally with speckles. Stamens 12-18; filaments 5-6 mm; anthers ca. 1.2 mm. Gynophore 6-8[-11] mm; ovary ovoid, ca. 1.5 × 1 mm, glabrous, 1-loculed; placentae 2, each with several ovules. Fruit red, globose, 6-9 mm in diam. Seeds 1 or 2 per fruit, 4-5 mm. Fl. (Jan-)Mar-Apr, fr. Aug-Sep.
+  "Statistics": "Valley forests; 500-1200 m. Guangdong, Hainan, Xizang, S and SE Yunnan [Bhutan, NE India (Assam), Laos, Myanmar, Thailand].
+**15．总序山柑（云南植物志）**
+
+Capparis assamica Hook. f. et Thoms. in Hook. f., Fl. Brit. Ind. 1: 177. 1872; Jacobs in Blumea 12 (3): 434. 1965;云南植物志2: 56. 1979; Griers. et Long, Fl. Bhutan 1 (2): 415. 1984.
+
+灌木，高2-3米，无毛或新生枝有很稀疏平贴短柔毛，立即变无毛。小枝圆柱状，干后黄褐色，基部周围有钻形苞片状小鳞片，无刺或有时有上举约1毫米的小刺。叶近革质，长圆形或长圆状披针形，长12-26厘米，宽3.5-8.5厘米，顶端常渐尖，基部急尖，中脉表面深凹，背面凸起，侧脉10-12对，在表面微凹，网状脉明显；叶柄粗壮，长5-8毫米，叶腋内常有具钻形苞片的不育性枝。总状花序顶生或近顶生，单出或2个簇生，长10-25厘米；总花梗短或花序近无柄，基部为密集钻形苞片所覆盖；序轴纤细，有下延纵肋，密被平贴锈色短柔毛，顶端有簇生多数钻形鳞片；花小，多数，在序轴上着生的疏密度不均匀；花梗长1-2.5厘米，丝状，单生于苞片腋内，被毛与序轴同；苞片钻形，长约2毫米，近无毛；萼片长约3.5毫米，宽约1.5-2毫米，背部有稀疏短柔毛，外轮卵形，内凹成舟形，内轮椭圆形；花瓣白色，长约3-4毫米，宽约1.5-2毫米，上面2个稍大，卵形、相邻一侧基部有斑点，下面2个略小，椭圆形，在近基部及边缘常有短柔毛；雄蕊12-18，花丝长8-10毫米；雌蕊柄长6-8毫米，无毛；子房卵球形，约1.5×1毫米，无毛，1室，胎座2，每胎座有胚珠数个。果球形，直径6-9毫米，成熟后红色；果柄纤细，全长1.7-2厘米。种子1-2粒。花期3-4月，果期8-9月。
+
+产云南南部及东南部，生于海拔1000米以下的沟谷林中。锡金、不丹、印度东北部、缅甸、老挝都有。

@@ -1,0 +1,6 @@
+双角厚唇兰",
+11.**Epigeneium forrestii** Ormerod Taiwania. 52: 307. 2007.",
+
+## Description
+Rhizome terete, 2-2.5 cm, ca. 2.5 mm in diam., occasionally branching, covered in tightly tubular sheaths. Pseudobulbs borne 6-9.5 cm apart, subcylindric-fusiform, 30-58 × 7-8 mm, 2-leaved. Leaf blade oblong-ligulate, 5-9.5 × 1.7-2.35 cm, subleathery, minutely and obtusely bilobed. Inflorescence 1-flowered; peduncle short, hidden by sheathing bracts ca. 2.5 cm. Flowers deep purplish maroon; pedicel and ovary terete, ca. 2.8 cm. Dorsal sepal broadly ovate-lanceolate, ca. 21.5 × 8 mm, subacute; lateral sepals broadly ovate-lanceolate, 20.5-25 × 9-10 mm, acute; mentum ca. 9 mm. Petals linear-ligulate, 20-21 × 2.5-3 mm, acute; lip 20-22 mm, 3-lobed, medially with subsimilar laminate carinae terminating on base of epichile, outer 2 keels divided in lower 3/4 before fusing in apical quarter, apices biangulate; hypochile obdeltate-obcordate, ca. 8 mm medially, ca. 10.5 mm wide across lateral lobes, free portion of lateral lobes obliquely elliptic, ca. 3 mm medially, obtuse; epichile suborbicular, ca. 12 × 12.5-13 mm. Column subcylindric, 9-10 mm, foot 6-7 mm. Fl. Sep.
+  "Statistics": "&amp;#9679; Lithophytic, epiphytic on trees beside streams; 1800-1900 m. W Yunnan (N’mai Hka-Nu Jiang divide).

@@ -1,0 +1,8 @@
+垂丝石楠",
+40.**Photinia komarovii** (H. Léveillé & Vaniot) L. T. Lu & C. L. Li",
+
+## Description
+Shrubs deciduous, to 3 m tall. Branchlets reddish brown or dark brown, gray villous when young, glabrous when old; buds reddish brown, narrowly ovoid, glabrous. Petiole 1–2 mm, initially slightly villous, later glabrous; leaf blade elliptic or rhomboidal-ovate to ovate-lanceolate, 2–5 × 1–2.2 cm, veins 4–6 pairs, raised abaxially and impressed adaxially, both surfaces glabrous or slightly gray villous along veins when young, glabrescent, base broadly cuneate or ± rounded, margin sharply serrate, apex acuminate to caudate. Inflorescences 2- or 3-fascicled or flowers solitary, without peduncle. Pedicel (2–)3–5 cm, slender, glabrous, sparsely minutely lenticellate. Flowers 6–8 mm in diam. Hypanthium glabrous abaxially. Sepals triangular-ovate, 1–1.5 mm. Petals white, suborbicular, 3–3.5 mm in diam., glabrous, apex obtuse. Stamens 15–20, shorter than or nearly as long as petals. Ovary densely gray villous apically; styles 2, connate from base nearly to middle or apex, glabrous. Fruit red, ellipsoid or oblong-ovate, 6–7 × 5–6 mm, glabrous; sepals incurved; fruiting pedicels 3–5 mm, lenticellate. Fl. Jun.
+
+> Slopes, roadsides, sparse woods, forests; 400--1500 m. Fujian, Guizhou, Hubei, Jiangxi, Sichuan, Zhejiang.
+  "Synonym": "*Viburnum komarovii* H. Léveillé &amp; Vaniot, Repert. Spec. Nov. Regni Veg. 9: 78. 1910; *Crataegus cavaleriei* H. Léveillé (1915), not H. Léveillé &amp; Vaniot (1908); *P. parvifolia* (E. Pritzel) C. K. Schneider var. *tenuipes* (P. S. Hsu &amp; L. C. Li) P. L. Chiu; *P. villosa* (Thunberg) Candolle var. *tenuipes* P. S. Hsu &amp; L. C. Li; *P. wuyishanensis* Z. X. Yu.

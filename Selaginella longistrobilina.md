@@ -1,0 +1,7 @@
+长穗卷柏",
+45.**Selaginella longistrobilina** P. S. Wang X. Y. Wang & Li Bing Zhang, Novon. 22: 260. 2012.",
+
+## Description
+Plants epilithic, evergreen, to 15 cm. Stem prostrate, stramineous, terete, slightly sulcate, 2.5-4 mm wide including leaves, 1-4 times branched; ultimate branches 2-3 mm wide including leaves. Rhizophores borne throughout. Ventral leaves patent, ovate, 1.5-1.8 × 1-1.5 mm, base slightly cordate, margin white, ciliate, apex mucronate or cuspidate; dorsal leaves ovate, 0.8-1.3 × 0.4-0.7 mm, base rounded, margin white, ciliate, apex shortly aristate; axillary leaves ovate to lanceolate, 0.7-1.5 × 0.3-0.5 mm, base rounded, apex acuminate, often disappearing with development of rhizophores at approximate positions. Strobili compact, (3-)10-15(-25) mm, solitary or paired, strongly dimorphic, non-resupinate. Ventral sporophylls sunken adaxially, broadly lanceolate, adaxially navicular, base rounded, margin ciliate, apex acuminate; dorsal sporophylls broadly lanceolate to narrowly ovate, adaxially flattened, base rounded, margin ciliate, apex acuminate. Macrosporangia 1-5, at basal portion of strobili, elsewhere with more than 15 microsporangia; microspores ocher, sculpturing verrucate with irregularly sized verrucae, colpi twisted, usually not forked at ends, and reaching equatorial plane of spore; macrospores 4 in each macrosporangium, light orange.
+
+> ● Weathered crust of limestone rocks and among crevices under secondary mixed forests; ca. 1500 m. C Guizhou (Anshun).

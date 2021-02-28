@@ -1,0 +1,15 @@
+大花醉鱼草",
+2.**Buddleja colvilei** J. D. Hooker & Thomson",
+
+## Description
+Shrubs or small trees, 2--6 m tall. Branchlets subquadrangular to subterete, with scattered stellate and glandular hairs, glabrescent. Leaves sessile or with petiole to 1 cm and with same indumentum as branchlets; leaf blade narrowly elliptic to subelliptic, 7--16 X 2--6 cm, covered with stellate and scattered glandular hairs when young, glabrescent, base cuneate to rounded or decurrent, margin serrate, apex acuminate. Inflorescences terminal and in axils of upper leaves, paniculate or thyrsoid cymes, 7--23 X 4--6 cm. Calyx campanulate, 6--8 X 4--8 mm, tube 4--5 mm; lobes ovate to triangular, 1.5--3 X 1.5--3 mm, outside densely stellate tomentose with glandular hairs or with glandular and more or less scattered stellate hairs, inside with glandular hairs. Corolla purple to wine red, 2.3--3 cm; tube broadly cylindrical, (1.2--)1.7--2.1 cm, base 5--8 mm in diam., throat to 9 mm in diam.; lobes suborbicular, 5--10 X 5--10 mm, outside with some stellate and glandular hairs but soon glabrescent, inside pilose at throat, margin crenate. Stamens inserted 2--6 mm below mouth; anthers oblong, 2.5--5 mm, apex obtuse to apiculate. Ovary ovoid, 5--8 mm, stellate tomentose. Style long, thick, glabrous or basally stellate tomentose; stigma capitate. Capsules ellipsoid, 1--1.6 X 0.6--0.8 cm, glabrous or stellate tomentose. Seeds oblong, 1--1.5 mm, unwinged. Fl. Jun-Sep.
+
+> Open forests, thickets, open places; 1600--4200 m. S Xizang, Yunnan (Mojiang Hanizu Zizhi Xian, Luxi Xian) [Bhutan, India, Nepal, Sikkim].
+  "Synonym": "&lt;I&gt;Buddleja sessilifolia&lt;/I&gt; B. S. Sun ex S. Y. Pao.
+**10．大花醉鱼草（云南植物研究）尼泊尔醉鱼草（西藏植物志）**
+
+Buddleja colvilei Hook. f. & Thoms. in Hook. Illistr. Himal. Pl. tab. 18. 1855; C. B. Clarke in Hook. f. Fl. Brit. Ind. 4: 81. 1883 et Curtis's Bot. Mag. 121: tab. 7449. 1895; Marq. in Kew Bull. 1930: 187. 1930: Yamazaki in Hara, Fl. East. Himal. 253. 1966, 2: 106. 1971; Leeuwenberg in Meded. Landbouwhogeschool Wageningen 79-6: 103, fig. 26. 1979; Chater in Hara & al. , Enum. Fl. Pl. Nepal 3: 89. 1982; P. T. Li in Acta Bot. Yunnan, 4 (3): 232. 1982 et in Journ. South China Agr. Univ. 9 (1): 51 . 1988; 西藏植物志3: 896. 1986. ——Buddleja sessilifolia B. S. Sun ex S. Y . Pao in Fl. Yunnanica 3: 465, Pl. 134, 1-4. 1983.
+
+灌木或小乔木，高2-6米。枝条近圆柱形，幼时被锈色星状短绒毛和腺毛，老渐无毛或近无毛。叶对生，叶片纸质，长圆形或椭圆状披针形，长7-16厘米，宽2-6厘米，顶端渐尖，基部圆、宽楔形至楔形，有时下延至叶柄基部，边缘具有细锯齿，幼时被星状短绒毛，下面较密，老渐近无毛；侧脉每边15-20条，上面扁平，干后凹陷，下面凸起；叶柄较短或几无柄。花较大，张开直径约2厘米，多朵组成腋上生和顶生的宽圆锥状聚伞花序，花序长7-23厘米，宽4-6厘米，被锈色星状柔毛；花序梗长1-5厘米；花梗短；苞片短小；小苞片线形，长5毫米；花萼钟状，长6-8毫米，宽4-8毫米，外面密被星状柔毛，内面无毛或有时有腺毛，花萼管长4-5毫米，花萼裂片卵状三角形，长和宽1.5-3毫米，全缘；花冠紫红色或深红色，长2.3-3厘米，花冠管圆筒状钟形，长17-21毫米，直径6-8毫米，喉部宽达9毫米，外面无毛，内面被柔毛，花冠裂片近圆形，长和宽5-10毫米，边缘浅波状；雄蕊着生于花冠管喉部，花丝短，花药长圆形，长2.5-5毫米，宽1.3-2毫米，顶端钝或突尖，基部心形；雌蕊长18-22毫米，子房卵形，约与花萼裂片等长，无毛或基部有时疏被星状毛，花柱丝状，柱头头状，2裂，绿色。蒴果椭圆状，长10-16毫米，直径6-8毫米，初时被星状毛，后变无毛，基部有宿存花萼；种子长圆形，长1-1.5毫米，无翅。花期6-9月，果期9-11月。
+
+产于云南墨江、泸西和西藏南部等地。生海拔1 600-4 200米山地疏林中或山坡灌木丛中。分布于印度、尼泊尔、锡金、不丹等地。模式标本采自锡金。

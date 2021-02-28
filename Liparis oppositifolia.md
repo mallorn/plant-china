@@ -1,0 +1,6 @@
+对叶羊耳蒜",
+2.**Liparis oppositifolia** Szlachetko Fragm. Florist. Geobot. 38(2): 458. 1993.",
+
+## Description
+Herbs, terrestrial. Pseudobulbs clustered, ovoid to conic, 1.6-2.4 × 1-1.3 cm, probably partly or wholly subterranean. Leaves 2, broadly ovate-elliptic, 5.5-12.5 × 4.5-11 cm, base subcordate, apex acute to subacute, inner leaf much larger than outer leaf, lying on ground, sessile. Inflorescence to 32 cm; peduncle ca. 15 cm; peduncular bracts 7, deflexed, lanceolate, to 8 mm, acute; rachis to 18 cm, successively many flowered; floral bracts lanceolate, 4-11 mm, apex acute. Flowers green; pedicel and ovary 5-6 mm. Dorsal sepal oblong, ca. 6.5 × 1.8 mm, 5-veined, obtuse; lateral sepals obliquely ovate-lanceolate, ca. 6 × 2.6 mm, 5-veined, apex subacute. Petals linear-oblanceolate, ca. 6.5 × 0.6 mm, 1-veined, obtuse; lip suborbicular-subquadrate from a narrower subquadrate base, ca. 6.5 × 6.5 mm, margin entire to shallowly erose, apex truncate to shallowly emarginate, shortly apiculate, base with a fleshy bilobed callus. Column partly deflexed near apex, to 3.5 mm, with narrow subquadrate wings. Fl. Aug.
+  "Statistics": "Dense woods; ca. 1100 m. Yunnan [Cambodia, Laos, ?Vietnam].

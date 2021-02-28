@@ -1,0 +1,13 @@
+异穗薹草",
+363.**Carex heterostachya** Bunge Enum. Pl. China Bor. 69. 1833.",
+
+## Description
+Rhizome with long stolons. Culms 20-40 cm tall, triquetrous, smooth on lower part, scabrid on upper part, clothed with red-brown and bladeless sheaths at base, rudimentary sheaths usually disintegrating into fibers. Leaves shorter than culm, blades 2-3 mm wide, flat, ± stiff, scabrous on margins, slightly long sheathed. Involucral bracts awn-shaped, usually shorter than spike, sometimes lowermost slightly longer than spike, not sheathed or lowermost one shortly sheathed. Spikes 3 or 4, congregate on top of culm; terminal 1 or 2 spikes male, oblong or clavate, 1-3 cm, sessile; remaining spikes female, ovate or oblong, 0.8-1.8 cm, densely many flowered, nearly sessile, sometimes lowermost one very shortly pedunculate. Female glumes brown laterally, yellowish brown at middle, orbicular-ovate or ovate, ca. 3.5 mm, membranous, 3-veined, green costate, margins white hyaline, sometimes upper margin erose, apex acute, mucronate. Utricles brown, obliquely patent, slightly longer than glume, broadly ovate or ovoid, obtusely trigonous, 3-4 mm, leathery, glabrous, slightly shiny, indistinctly veined, base subrounded, apex abruptly narrowed to a slightly broad and short beak, orifice shortly 2-toothed. Nutlets rather tightly enveloped in utricle, broadly obovate or broadly elliptic, trigonous, ca. 2.8 mm, base shortly stipitate, apex mucronate; style base not thickened; stigmas 3. Fl. and fr. Apr-Jun.
+  "Statistics": "Dry mountains, grasslands, roadsides; 300-1000 m. Hebei, Heilongjiang, Henan, Jilin, Liaoning, Shaanxi, Shandong, Shanxi [N Korea].
+**327. 异穗薹草 图版77: 9-13**
+
+Carex heterostachya Bge., Enum. Pl. Chin. Bor. 69, 1832; C. B. Clarke in Journ. Linn. Soc. Bot. 36: 289, 1903; Kukenth. in Engl., Pflanzenr. Heft 38 (IV. 20): 741, 1909; Kitag., Lineam. Fl. Mansh. 102, 1939; Ohwi, Cyper, Japon. 1: 488, 1936; Akiyama, Caric. Far East. Reg. Asia 152, pl. 144, fig. 1, 1955; 刘慎谔等, 东北植物检索表538, 图版199, 图1, 1959; T. Koyama in Journ. Fac. Sci. Univ. Tokyo, Ser.III, 8 (4): 247, 1962; 秦岭植物志1 (1): 272, 图242, 1970; 东北草本植物志11: 82, 图版35, 图6-10, 1976. ——Carex nutans auct. non Host. : Kom. Fl. Mansh. 1: 384, 1901.
+
+根状茎具长的地下匍匐茎。秆高20-40厘米，三棱形，下部平滑，上部稍粗糙，基部具红褐色无叶片的鞘，老叶鞘常撕裂成纤维状。叶短于秆，宽2-3毫米，平张，质稍硬，边缘粗糙，具稍长的叶鞘。苞片芒状，常短于小穗，或最下面的稍长于小穗，无苞鞘或最下面的具短鞘。小穗3-4个，常较集中生于秆的上端，间距较短，上端1-2个为雄小穗，长圆形或棍棒状，长1-3厘米，无柄；其余为雌小穗，卵形或长圆形，长8-18毫米，密生多数花，近于无柄，或最下面的小穗具很短的柄。雄花鳞片卵形，长约5毫米，膜质，褐色，具白色透明的边缘，具3条脉；雌花鳞片圆卵形或卵形，长约3.5毫米，顶端急尖，具短尖，上端边缘有时呈啮蚀状，膜质，中间淡黄褐色，两侧褐色，边缘白色透明，具3条脉，中脉绿色。果囊斜展，稍长于鳞片，宽卵形或圆卵形，钝三棱形，长3-4毫米，革质，褐色，无毛，稍有光泽，脉不明显，基部急缩为钝圆形，顶端急狭为稍宽而短的喙，喙口具两短齿。小坚果较紧地包于果囊内，宽倒卵形或宽椭圆形，三棱形，长约2.8毫米，基部具很短的柄，顶端具短尖；花柱基部不增粗，柱头3个。花果期4-6月。
+
+产于黑龙江、吉林、辽宁、河北、山西、陕西、山东、河南等省；生于干燥的山坡或草地，或道旁荒地，海拔300-1000米左右。也分布于朝鲜。模式标本采自北京。

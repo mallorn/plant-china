@@ -1,0 +1,19 @@
+头花龙胆",
+31.**Gentiana cephalantha** Franchet",
+
+## Description
+Perennials (10-)20-50 cm tall. Stems glabrous or copiously glandular toward apex; vegetative stems short; flowering stems simple, ascending, base usually woody, basally horizontal, with a basal rosette. Basal leaves with petiole 0.7-3 cm, membranous; leaf blade 3.5-10 &amp;#215; 0.8-2.2 cm, narrowly elliptic to elliptic-lanceolate, uppermost leaves oblanceolate, base narrowed, margin slightly revolute and scabrous, apex acuminate to obtuse, veins 1-3. Stem leaves 4-10 pairs, distinctly larger toward apex, apically crowded and subtending terminal flower cluster; petiole 5-12 mm; leaf blade 3-7 &amp;#215; 1.2-2.2 cm. Inflorescences terminal clusters, (3-)5-12-flowered, occasionally also subapical axillary clusters on pedunclelike branches. Flowers sessile. Calyx obconic, 1.5-2 cm, tube membranous; lobes very unequal, herbaceous, base narrowed, margin &amp;#177; scabrous, apex acuminate, midvein distinct; larger 2 lobes, spatulate, 7-9 mm, apex obtuse; smaller 3 lobes linear-lanceolate, 5.5-6.5 mm. Corolla blue, tubular-campanulate to funnelform, 2.5-3.5 cm; lobes ovate to triangular, 4-5 mm, margin entire, apex acute; plicae triangular, 1-1.5 mm, oblique, margin entire, apex acute. Stamens inserted at basal part of corolla tube; filaments 1.3-1.5 cm; anthers ellipsoid, 2.5-3 mm. Style 2-3 mm; stigma lobes linear. Capsules ellipsoid, 1.2-1.5 cm; gynophore to 1.7 cm. Seeds light brown, ellipsoid to subglobose, 0.4-0.6 mm. Fl. and fr. Aug-Nov.
+
+> 1800-4500 m. Guangxi, Guizhou, Sichuan, Yunnan [Myanmar, Thailand, Vietnam]
+  "keylist": "
+1 Stems completely glabrous——<a href='/info/Gentiana cephalantha var. cephalantha?t=foc'>var. cephalantha 头花龙胆 (原变种)
+1 Stems copiously glandular toward apex——<a href='/info/Gentiana cephalantha var. vaniotii?t=foc'>var. vaniotii 腺龙胆",
+**56．头花龙胆（中国高等植物图鉴）图版3：2**
+
+Gentiana cephalantha Franch. ex Hemsl. in Journ. Linn. Soc. Bot. 26: 125. 1890: Kusnez. in Acta Hort. Petrop. 15: 274. 1898; Forrest in Not. Bot. Gard. Edinb. 4: 72. 1907; Levl. Fl. Kouy-tcheou 171. 1914-1915 et Cat. Pl. Yunnan 113. 1916; D. Wilkie, Gentians 49. f. 63. 1936; H. Smith in Hand. -Mazz. Symb. Sin. 7: 976. 1936: Marq. in Kew Bull. 1937: 163. 1937: S. Nilsson in Grana Palyn. 7(1): 100. 1967; 中国高等植物图鉴3: 391. 1974.——G. melandriifolio × rigescens Kusnez. l. c. 13: 61. 1893. syn. nov.——G. rigescens var. violacea H. Smith, l. c. 976: Marq. l. c. 163. syn. nov. ——G. vaniotii Levl. in Fedde, Rep. Sp. Nov. 12: 182. 1913, p. p. quoad Bodinier 31, Fl, Kouy-tcheou 172. 1914-1915 et Cat. Pl. Yunnan 115. 1916; H. Smith. l. c. 976; Marq. l. c. 163. pro syn. sub G. rigescens Franch. ; S. Nilsson, l. c. 101. syn. nov.——Gentianodes cephalantha (Franch. ) A. et D. Love in Bot. Not. 125: 256 1972. ——G. vaniotii (Levl. ) A. et D. Love, l. c. 258.
+
+多年生草本，高10-30厘米。须根略肉质。主茎粗壮，发达，长达10厘米，平卧呈匍匐状，分枝多，较粗而长，斜升；花枝多数，丛生，斜升，紫色或黄绿色，中空，近圆形，光滑或在上部密被紫红色乳突。叶狭椭圆形、椭圆状披针形至最上部叶为倒披针形，先端渐尖或钝，基部渐狭，边缘微外卷，有乳突或光滑，叶脉1-3条，在两面均明显，并在下面突起；莲座丛叶长3.5-10厘米，宽0.8-2.2厘米，叶柄膜质，长0.7-3厘米；茎生叶多对，长3-7厘米，宽1.2-2.2厘米，叶柄长0.5-1.2厘米，愈向茎上部叶愈大，柄愈短。花多数，簇生枝端呈头状，偶有腋生，被包被于最上部的苞叶状的叶丛中；无花梗；花萼倒锥形，长1.5-2厘米，萼筒膜质，全缘，不开裂，裂片绿色，不整齐，2个大，椭圆状匙形，长7-9毫米，3个小，线状披针形，长5.5-6.5毫米，先端渐尖或钝，基部狭缩成爪，边缘有乳突或光滑，中脉在背面明显，裂片间弯缺截形；花冠蓝色或蓝紫色，冠檐具多数深蓝色斑点，漏斗形或筒状钟形，长2.5-3.5厘米，裂片卵形，长4-5毫米，先端具尾尖，全缘，褶偏斜，三角形，长1-1.5毫米，先端急尖，全缘；雄蕊着生于冠筒下部，整齐，花丝线状钻形，长13-15，毫米，花药矩圆形，长2.5-3毫米；子房线状椭圆形，长10-12毫米，两端渐狭，柄长7-10毫米，花柱线形，连柱头长2-3毫米，柱头2裂，裂片线形，外卷。蒴果内藏或微外露，椭圆形，长1.2-1.5厘米，两端钝，柄长至1.7厘米；种子黄褐色，有光泽，矩圆形或近圆形，长0.4-0.6毫米，表面具蜂窝状网隙。花果期8-11月。
+
+产云南、四川、贵州、广西。生于山坡草地，山坡路边、灌丛中、林缘、林下，海拔1800-4450米。模式标本采自云南洱源。
+
+Leveille（1913）曾依据云南昆明的标本（Bodinier 31）及贵州木冈的标本（Esquirol 701）发表了G. vaniotii Levl.，认为茎的分枝方式及花枝顶端具腺毛与G. scabra Bunge及G. rigescens Franch. 不同。我们看到了Bodinier 31及云南、贵州一带的标本，与本种完全相同。但值得指出的是花枝顶端的乳突（即Leveille所说的毛）时有时无，变化无常，没有分类价值。H. Smith（1936）以云南大理苍山标本为模式建立的G. rigescens var. violacea H. Smith，叶披针形，先端渐尖至钝，也与本种无区别。故此一起予以归并。

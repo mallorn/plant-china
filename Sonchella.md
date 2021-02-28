@@ -1,0 +1,8 @@
+小苦苣菜属",
+75.**Sonchella** Sennikov Bot. Zhurn. 92: 1753. 2007.",
+
+> Two species: N China, Mongolia, E Russia; two species in China.
+
+## Description
+Herbs, perennial, of ± saline habitats. Stem erect, ± leafy. Synflorescence narrowly racemiform or paniculiform. Capitula with ca. 10 florets. Involucre cylindric. Outer phyllaries imbricate, gradually longer centripetally with longest ca. 1/3 of inner ones, glabrous; inner phyllaries linear-lanceolate, equal in length, margin scarious. Receptacle naked. Florets yellow. Achene cylindric to fusiform, subcompressed, with 5 main ribs alternating with (1 or)2 slender secondary ribs, apex truncate. Pappus white, caducous.
+  "Reference": "*Sonchella* unites *Youngia stenoma*, the single species of Babcock and Stebbins’s (not validly published) *\"Y.* sect. *Stenophytum\"* (Publ. Carnegie Inst. Washington 484: 42. 1937), and a species formerly treated as *Prenanthes angustifolia* or *Crepis pratensis*. They are strikingly similar to each other except for their different synflorescence shape. *Sonchella* has been confirmed in the molecular phylogenetic analyses of subtribe Crepidinae by J. W. Zhang et al. (in prep.) as being rather distant from *Youngia*.*Sonchella* unites *Youngia stenoma*, the single species of Babcock and Stebbins’s (not validly published) *\"Y.* sect. *Stenophytum\"* (Publ. Carnegie Inst. Washington 484: 42. 1937), and a species formerly treated as *Prenanthes angustifolia* or *Crepis pratensis*. They are strikingly similar to each other except for their different synflorescence shape. *Sonchella* has been confirmed in the molecular phylogenetic analyses of subtribe Crepidinae by J. W. Zhang et al. (in prep.) as being rather distant from *Youngia*.

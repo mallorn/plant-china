@@ -1,0 +1,16 @@
+类早熟禾亚属",
+1.**Poa subg. Arctopoa** (Grisebach) Probatova",
+
+> The Chinese species all belong to *Poa* sect. *Aphydris* (Grisebach) Tzvelev. *Poa eminens* C. Presl, the only member of *P.* sect. *Arctopoa* (Grisebach) Tzvelev, was reported for Heilongjiang and Nei Mongol in FRPS (9(2): 93. 2002). We have seen no vouchers from China, and the distribution seems improbable given its otherwise strictly coastal and generally more northern distribution. However, it might yet be found in the upper Tumen River delta.&lt;p&gt;&lt;p&gt;The lower and middle margins of the lemma are distinctly scabrid to long ciliate, unlike other *Poa* species. DNA data suggest the subgenus arose from hybridization between an ancient lineage of *Poa* and an ancient lineage outside the genus that today includes *Arctophila* (Ruprecht) Andersson and *Dupontia* R. Brown, and it could alternatively be recognized as a separate genus, *Arctopoa*.
+
+## Description
+Perennials, stoutly rhizomatous; shoots mostly extravaginal. Culms stout, mostly 2–4 mm in diam., smooth. Lowermost leaf sheath retrorsely strigose at base, uppermost sheaths closed 1/6–1/3 of length; blade grayish green, flat, folded, or involute, papery, 2–8 mm wide, abaxially smooth, adaxially nearly smooth to densely scabrid along prominent veins, apex slender prow-tipped; ligule white or off white to brownish or yellowish, membranous-papery. Panicle contracted or open; branches stout; vivipary absent; rachilla smooth or scabrid. Glume veins prominent, margins smooth or scabrid to ciliate or villous, elsewhere smooth, lower glume 1- or 3-veined; lemmas 5–7-veined, veins faint, abaxial surface smooth or scabrid, glabrous or keel and marginal veins villous, outer margins scabrid to ciliate in part; callus obliquely angled, obtuse or pointed, glabrous or nearly so, or with sinuous hairs around the base of the lemma (*P. eminens*); palea scabrid, keels medially hairy, distally scabrid. Anthers 1.6–3.1 mm.
+  "Statistics": "Four or five species: C to E Asia and North America, in high alpine areas to steppes and taiga, and on subarctic sea coasts, generally on subsaline, subalkaline, or saline moist to wet ground; three species in China.
+  "Synonym": "*Glyceria* sect. *Arctopoa* Grisebach in Ledebour, Fl. Ross. 4: 392. 1852; *Arctopoa* (Grisebach) Probatova.
+  "keylist": "
+1 Callus usually with a crown of sinuous hairs to 2 mm long, slightly pointed; lemmas membranous- papery, glumes subequal to lowest lemma, lateral veins prominent; plants of coastal habitats (*P.* sect. *Arctopoa*).——<a href='/info/Poa?t=foc'>*P. eminens* (see note above) 早熟禾属
+1 Callus glabrous, blunt; lemmas ± papery; glumes generally distinctly shorter than lowest lemma, lateral veins indistinct at least on lower glumes; plants of inland habitats (*P.* sect. *Aphydris*)——(2)
+2(1) Panicle branches smooth; panicle contracted, branches erect.[*P. tibetica* 西藏早熟禾](Poa tibetica.md)
+2 Panicle branches scabrid angled; panicle open or only slightly contracted——(3)
+3(2) Lemma keels glabrous or sparsely pilulose near base; panicle open.[*P. subfastigiata* 散穗早熟禾](Poa subfastigiata.md)
+3 Lemma keels villous; panicle slightly contracted or open.[*P. ×schischkinii* 希斯肯早熟禾",](Poa x_schischkinii.md)

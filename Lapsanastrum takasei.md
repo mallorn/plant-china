@@ -1,0 +1,7 @@
+台湾稻槎菜",
+2.**Lapsanastrum takasei** (Sasaki) Pak & K. Bremer Taxon. 44: 20. 1995.",
+
+## Description
+Herbs to 10 cm tall, short-lived perennial, rosulate. Taproot with lateral shoot-bearing roots producing secondary leaf rosettes. Stems few, flagelliform, very slender, creeping to 50 cm above ground, sparsely pilose; nodes 5-10 cm apart, with adventitious roots and a single leaf. Flowering stems from rosettes and leaf axils of creeping stems, to 7 cm, very slender, ascending, simple or more rarely 2-parted, ± leafless. Rosette leaves oblanceolate, 4-9 × 1-2 cm, pinnatisect, rachis winged or not, pilose, base attenuate into a petiole-like portion, margin sinuate-dentate; lateral lobes 4-7 pairs, ovate, triangular, or rhombic, gradually smaller toward petiole-like base, apex rounded to acute and mucronulate; terminal lobe broadly ovate to suborbicular, much larger than lateral ones. Leaves of creeping stems similar to rosette leaves. Capitula 1 or 2 per flowering stem, with ca. 10 florets. Involucres cylindric, ca. 7 mm, in fruit ca. 4 mm wide. Outer phyllaries ca. 5, lanceolate, longest ca. 1 mm; inner phyllaries 8. Achene without hooked apical projections of main ribs. Fl. and fr. Jun-Aug. 2*n* = 16*.
+  "Statistics": "● Moist mountain slopes; 1800-2800 m. Taiwan.
+  "Synonym": "*Lactuca takasei* Sasaki, Trans. Nat. Hist. Soc. Formosa 21: 224. 1931; *Lapsana takasei* (Sasaki) Kitamura.

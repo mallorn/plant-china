@@ -1,0 +1,6 @@
+博罗红豆",
+18.**Ormosia boluoensis** Y. Q. Wang & P. Y. Chen J. Trop. Subtrop. Bot. 3: 29. 1995.",
+
+## Description
+Shrubs or small trees, 2-4 m. Branchlets glabrous. Leaves simple, alternate; petiole 1.8-3 cm; leaf blade oblong-elliptic, 5-9 cm, leathery, glabrous, base cuneate, apex acuminate; mid-vein raised abaxially, impressed adaxially. Inflorescence panic-ulate (terminal) or racemose (axillary), 3-13 cm, densely yel-low pubescent. Flowers 1.2-1.5 cm; pedicels 1-3 mm. Calyx bilateral, broader toward base, narrowing toward mouth, 0.6-0.7 mm, densely yellow pubescent; teeth 0.3-0.4 mm, apex acute. Corolla white; standard broadly ovate, 1-1.2 × 1.3-1.5 cm, base truncate-rounded to broadly cuneate, apex rounded, claw thickened, ca. 1 mm; wings narrowly obovate to broadly spatulate, 1-1.2 × 0.5-0.6 cm, oblique, claw ca. 1 mm; keel narrowly ovate to elliptic, 1-1.2 × 0.5-0.6 cm, base cuneate, 1- or 2-auriculate, apex blunt to obliquely narrowly rounded, claw ca. 1 mm. Stamens unequal, free, 0.9-1.5 cm, curved; anthers well developed on 5, poorly developed and infertile on 5. Ovary ovate-elliptic, yellow pubescent; style curved. Legumes unknown. Fl. May.
+  "Statistics": "● Sparse riverine forests; 800-900 m. Guangdong.

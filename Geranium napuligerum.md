@@ -1,0 +1,16 @@
+萝卜根老鹳草",
+26.**Geranium napuligerum** Franchet",
+
+> This dwarf plant is well characterized by its short, thickened, and napiform roots. The short rootstock is usually covered by the roots. In this feature it resembles *Geranium dahuricum*, but the latter has roots in a fascicle and they are appreciable longer. Glandular trichomes seem to be restricted to stipules, sepal and bracteole bases, mericarps, and the abaxial side of leaves. More rarely there are glandular trichomes on the stem, peduncles, and pedicels.
+
+## Description
+Perennials. Rootstock ± vertical, 2-3.3 mm in diam., not tuberculate, with thickened and napiform roots along rootstock. Stem 4-17(-25) cm tall, erect, not rooting at nodes, with 0.2-0.6 mm retrorse appressed nonglandular trichomes and rarely 0.3-0.7 mm patent glandular trichomes. Stipules lanceolate to ovate, distinct. Leaves opposite; petiole with 0.3-0.7 mm retrorse ± appressed nonglandular trichomes and usually 0.4-0.7 mm patent glandular trichomes; leaf blade 0.7-2.1 cm, palmately cleft, ratio of main sinus/middle segment length = 0.79-0.85, pilose with appressed nonglandular trichomes and adaxially with ± patent glandular trichomes; segments 5, obtriangular, 1-2 mm wide at base, 3- or 4(-7)-lobed in distal half, ratio of second sinus/middle segment length = 0.28-0.47. Cymules solitary, 2-flowered; peduncle 1.3-6.9 cm. Pedicel 1.1-4.2 cm, with 0.3-0.6 mm retrorse appressed nonglandular trichomes and rarely 0.2-0.3 mm patent glandular trichomes; bracteoles lanceolate. Sepals 6-7.6 mm, mucro 0.6-0.8 mm, ratio of mucro/sepal length = 0.09-0.11, outside with 0.2-0.7 mm antrorse ± appressed nonglandular trichomes and 0.7-1.6 mm patent glandular trichomes, inside glabrous. Petals deep pink, 1.1-1.4(-1.5) cm, erect to patent, both surfaces basally with trichomes, margin basally ciliate, apex rounded or slightly retuse with a 0.1-0.3 mm notch. Staminal filaments yellowish, lanceolate, abaxially pilose and proximal half ciliate, trichomes 0.4-1.1 mm; anthers yellowish, 1.4-1.7 mm. Nectaries 5, hemispheric, glabrous. Stigma red. Fruit 1.7-2 cm, reflexed when immature; mericarps smooth, with a basal callus, with 0.4-0.8 mm ± patent nonglandular trichomes and sometimes 0.4-0.5 mm glandular trichomes; rostrum 1-1.2 cm, with a 2.1-2.8 mm narrowed apex; stigmatic remains 3.1-3.8 mm. Seeds 1.8-1.9 mm. Fl. Jul-Aug, fr. Sep-Oct. 2*n* = 28*.
+
+> ● Forests, scrub, alpine meadows; 1800-4500(-5000) m. S Gansu, S Qinghai, W Sichuan, NW Yunnan.
+**38.萝卜根老鹳草（中国高等植物图鉴）**
+
+Geranium napuligerum Franch. Pl. Delav. 115. 1889; R. Knuth in Engl. Pflanzenr. 53. 4 (129): 143. 1912; 云南植物志5: 81. 1991; H. Koba, S. Akiyama. Y. Endo and H. Ohba, Name List Fl. Pl. Gymnosp. Nepal, 1026. 1994;中国高等植物图鉴2: 527. 图2783. 1972; 四川植物志 9: 28. 1989; Yeo in Edinb. -Journ. Bot. 49 (2): 158. 1992.
+
+多年生草本，高8-20厘米。根茎短缩不明显，具一束纺锤形或长卵形肉质块根和纤维状须根。茎细弱，仰卧，被倒向短柔毛，中部以上假二叉状分枝。叶对生；托叶披针形，长3-4毫米，外被短柔毛；基生叶具长柄，柄长为叶片的4-5倍，茎生叶柄较短；叶片近圆形或肾圆形，基部心形，直径约1.5厘米，掌状5深裂近基部，裂片倒卵状楔形，下部全缘，上部近掌状3-5深裂，小裂片近条状矩圆形，两面被糙伏毛或背面被毛较密。花序顶生，明显长于叶，被短柔毛和疏腺毛，果期下折，总花梗具2花；花梗与总花梗相似，花期下垂；萼片条状矩圆形，长5-7毫米，宽2.5-3.5毫米，先端急尖，具短尖头，背面被短柔毛和开展的腺毛；花瓣紫红色，倒长卵形，长约为萼片的2倍，先端圆形或截平状圆形，基部渐狭成爪，被短糙毛；雄蕊与萼片近等长，花丝棕色，下部扩展，边缘被毛达中部以上，花药棕褐色；子房密被短柔毛，花柱分枝暗棕褐色。蒴果长1.5-2厘米，被短柔毛和开展的腺毛，种子细小，具蜂巢状皱纹。花期7-8月，果期9-10月。
+
+分布于云南西北部、四川西南部和西部、甘肃南部和陕西秦岭。通常生于海拔1 800米以上的林下、亚高山和高山草甸、灌丛。模式标本产于云南（洱源）。

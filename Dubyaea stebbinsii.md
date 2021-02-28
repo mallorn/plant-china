@@ -1,0 +1,6 @@
+朗县厚喙菊",
+12.**Dubyaea stebbinsii** Ludlow Bull. Brit. Mus. (Nat. Hist.), Bot. 2: 74. 1956.",
+
+## Description
+Herbs, perennial. Caudex subglobose. Stem to 1 m tall, glabrous or apically sparsely hairy. Basal leaves unknown. Lower and middle stem leaves with margin coarsely mucronulately sinuate-dentate; terminal lobe to 15 × 12 cm, basally cordate to shortly cuneate then contracted into an unwinged petiole-like rachis to 7 cm with apically 1 or 2 pairs of elliptic to obovate lateral lobes 1-3 × 0.5-2 cm, apex acute. Upper stem leaves similar to middle stem leaves but gradually smaller and without lateral lobes. Synflorescence corymbiform, with 1-4 capitula. Capitula nodding, with numerous florets; peduncle 12-22 cm, apically pubescent. Involucre campanulate, 1.3-1.5 × 1-1.5 cm. Phyllaries blackish green, with a ciliate margin especially apically otherwise glabrous; outer phyllaries ovate to lanceolate, largest 8-10 × 3-4 mm; inner phyllaries many, 3-5 mm wide, apex acute to obtuse. Florets reddish mauve to bluish purple. Achene not seen when mature, glabrous, with ca. 8 ribs, apex truncate. Pappus brownish, 8-10 mm.
+  "Statistics": "Grassy slopes, [woodlands]; [3500-]3700-3800 m. SE Xizang (Nangxian) [Bhutan].

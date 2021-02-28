@@ -1,0 +1,7 @@
+慕索凤仙花",
+220.**Impatiens mussotii** J. D. Hooker",
+
+## Description
+Plants annual, small, glabrous. Stem erect, robust, often virgately branched; branchlets 10-20 cm, leafy. Leaves alternate, shortly petiolate with petiole 3-5 mm in lower leaves; leaf blade ovate, 2-5 cm, with basal glands, lateral veins 4-6 pairs, fine, base rounded or cuneate, attenuate into petiole, margin crenate or crenulate, teeth mucronulate, apex acute; blades of upper leaves ovate or oblong, base subcordate, margin with stipitate glands. Inflorescences 1- or 2-flowered; peduncles 5-10 mm. Pedicels short, bracteate at middle; bracts ovate, apex acuminate or aristate. Flowers ?white, 1.5-2 cm wide. Lateral sepals 2, orbicular, ca. 8 mm in diam., apex mucronulate, abaxial midvein narrowly cristate. Lower sepal funnelform, limb 2-2.5 cm deep, base narrowed into an incurved spur; spur slender, 2-lobed; mouth vertical, tip acute. Upper petal orbicular, ca. 1.4 cm in diam., abaxial midvein broadly cristate; lateral united petals broadly clawed, 3-3.5 cm, 2-lobed; basal lobes ovate, small, apex with a filamentous long hair; distal lobes dolabriform, very large, curved, apex rounded; auricle inflexed, long. Filaments linear, short; anthers obtuse. Ovary erect, fusiform. Capsule subsessile, narrowly linear-oblong, ca. 3 cm. Seeds many, oblong, 4-4.5 mm, rugose. Fl. and fr. Jul-Oct.
+
+> ●  Shaded moist places by canals; 1400-3000 m. Sichuan (Kangding).

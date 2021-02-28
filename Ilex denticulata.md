@@ -1,0 +1,16 @@
+细齿冬青",
+84.**Ilex denticulata** Wallich ex Wight",
+
+## Description
+Trees evergreen, ca. 12 m tall, glabrous throughout. Young branchlets subterete, longitudinally ridged, second year’s branchlets brownish or gray, minutely fissured, with flat deltoid leaf scars; terminal buds narrowly conical; bud scales papery, glabrous, not ciliate. Leaves on first to second year’s branchlets; petiole 1-1.3 cm, glabrous, abaxially rugose, adaxially narrowly sulcate or flat; leaf blade green, ovate-elliptic or elliptic-oblong, rarely obovate-oblong, 5-10 × 2.5-4 cm, leathery, both surfaces glabrous, midvein narrowly sulcate adaxially, lateral veins 6-9 pairs, and reticulate veins distinct abaxially, obscure adaxially, base obtuse or cuneate, margin densely irregularly denticulate-serrate, teeth black, apex obtuse or abruptly shortly acuminate. Male inflorescences: cymes of order 1 or 2, 1-3-flowered, pseudopaniculate, axillary on second year’s branchlets; rachis 4-14 mm; peduncles ca. 2 mm; bracts obovate, ca. 4 × 2-5 mm, apex acute; pedicels 2-3 mm; 1-flowered pedicels ca. 5 mm; bracteoles 2, median, deltoid; flowers 4-merous; calyx patelliform, ca. 2.5 mm in diam., 4-lobed, lobes deltoid, margin entire, apex acute or acuminate; corolla rotate, ca. 7 mm in diam., petals reflexed, oblong, ca. 3 × 1.5 mm, basally connate; stamens 4, ca. as long as petals, anthers ovoid, ca. 0.75 mm; rudimentary ovary globose, apex rounded and impressed. Female flowers not known. Infructescences: 1-fruited cymes, fasciculate or pseudoracemose; central axis 5-10 mm; fruiting pedicels 6-10 mm, glabrous or slightly puberulent. Fruit globose or depressed globose, 6-7 mm in diam., smooth; persistent stigma navel-like, often impressed, 4-lobed; persistent calyx explanate; pyrenes 4, oblong or ellipsoidal, ca. 4 mm, ca. 3 mm in diam., abaxially irregularly 3-striate and 2-sulcate, laterally rugose and pitted, endocarp stony. Fl. unknown, fr. Jul.
+
+> Mixed forests; ca. 2000 m. S Yunnan (Menghai) [India].
+**84.细齿冬青（云南植物志）图版18：8-9**
+
+Ilex denticulata Wall. List 4333. 1830, nom. nud.; Wight. Ill. Ind. Bot. 2: 147. pl. 149. 1850 descr; Beddome. Fl. Sylv. 1: 142. 1896; Hook. f. Fl. Brit. Ind. 1: 600. 1875; Maxim. in Mem. Acad. St. Petersb. VII. 29 (3): 29. 1881; Loes. in Nov. Act. Acad. Caes. Leop.-Carol. Nat. Cur. 78: 320 (Monog. Aquif. 1: 320). 1901; S. Y. Hu in Journ. Arn. Arb. 30 (3): 377. 1949; Y. R. Li in C. Y. Wu, Fl. Yunnm. 4: 244. 1986. ——I. nilagirica Miq. ex Hook. f. Fl. Brit. Ind. 1: 600. 1875.
+
+常绿乔木，高达12米，全株无毛；幼枝近圆柱形，具纵棱，二年生枝具小纵裂缝，无皮孔，具平的三角形叶痕，淡褐色或灰色。顶芽狭圆锥形，芽鳞坚韧，无毛及缘毛。叶生于1-2年生枝上，叶片革质，卵状椭圆形或椭圆状长圆形，稀倒卵状长圆形，长5-10厘米，宽2.5-4厘米，先端钝或具骤然短渐尖，基部钝或楔形，边缘具密而不规则的细齿状锯齿，齿尖黑色，叶面绿色，背面淡绿色，两面无毛，主脉在叶面狭的凹陷，在背面隆起，侧脉每边6-9条，与网状脉在叶面不明显，背面明显；叶柄长1-1.3厘米，无毛，上面具狭槽或平坦，背面具皱纹；托叶无或很小，变黑色。雄花：假圆锥花序生于二年生枝的叶腋内，花序轴长4-14毫米，每分枝（聚伞花序）具1-3花，总花梗长约2毫米，苞片倒卵形，长约4毫米，宽2-5毫米，急尖；花梗长2-3毫米，单花花梗长约5毫米，中部具2枚三角形小苞片；花4基数；花萼盘状，直径约2.5毫米，4裂，裂片三角形，急尖或渐尖，全缘；花冠辐状，直径约7毫米，花瓣长圆形，长约3毫米，宽约1.5毫米，反折，基部合生；雄蕊4，与花瓣等长，花药卵球形，长约0.75毫米；退化子房球形，先端圆形微凹。雌花未见。果序簇生或假总状，中轴长5-10毫米，单个分枝具1果，果柄长6-10毫米，无毛或稍被微柔毛。果球形或扁球形，直径6-7毫米，平滑，顶端宿存柱头脐状，常凹陷，4裂，基部具伸展的宿存花萼；分核4,轮廓长圆形或椭圆形，长约4毫米，宽约3毫米，背面具不整齐的3棱和2沟，侧面具棱沟交织的窝穴，内果皮骨质。果期7月。
+
+产于云南南部（勐海）；生于海拔2000米的混交林中。分布于印度。模式标本采自印度(Nilghiri Hills, Wight 437) 。
+
+本种与大叶冬青 (Ilex latifolia Thunb.) 相似，它们在果实具脐状宿存柱头，分核具不规则的皱纹和窝穴及石质内果皮方面相似，但后者的叶片厚革质，较大，长8-17厘米，宽4.5-7厘米，雄花序的单个分枝具3-9花，易于区别。

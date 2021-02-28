@@ -1,0 +1,14 @@
+疏穗嵩草",
+2.**Kobresia laxa** Nees in Wight Contr. Bot. India. 119. 1834.",
+
+## Description
+Rhizomes shortly elongated. Basal sheaths few, pale to dark brown, dull, retaining dried leaf blades or not. Culms loosely tufted, obscurely trigonous, (4-)13-35 cm tall, slender, ca. 1 mm in diam. Leaves sub-basal, shorter than culms; blade flat, 1.4-4 mm wide, midrib distinct abaxially. Inflorescence a loose or sometimes slightly compact panicle, reddish brown, linear or oblong, 3.5-8 × 1-1.5 cm; inflorescence branches all similar in length, curving outward, lower branches again branched; lowest involucral bract leaflike, sometimes surpassing inflorescence. Inflorescence branches usually androgynous in upper part of inflorescence, those in lower part usually female, sometimes whole inflorescence composed of primarily male or primarily female spikelets; spikelets unisexual; glumes reddish brown, with green midvein, narrowly ovate or oblong, 3.5-5 × 1-1.4 mm, midvein narrow, margin broadly hyaline, apex aristate, acute, or rounded. Prophylls pale green, utriculiform, linear or linear-lanceolate, sometimes slightly curved, (3.5-)4.5-6.6 × 0.5-0.8 mm, membranous, 2-keeled, keels slightly scabrid, margins fused to apex or free in upper half. Nutlets pale yellow or brown, narrowly oblong or elliptic-oblong, trigonous, 2.5-3 × 0.4-0.6 mm, slightly beaked. Rachilla in female spikelets longer than nutlet, exserted from or included in prophyll, green, flat, margins scabrid. Stigmas 3. Fl. and fr. May-Jul.
+  "Statistics": "Moist meadows, on wet rocks; 2200-3700 m. Xizang [Afghanistan, India (Himachal Pradesh, Sikkim), Kashmir, Nepal, Pakistan, Tajikistan].
+  "Synonym": "*Elyna laxa* (Nees) Kunth; *Hemicarex laxa* (Nees) Bentham; *Kobresia pseudolaxa* C. B. Clarke; *Schoenoxiphium laxum* (Nees) K. V. Ivanova.
+**4. 疏穗嵩草（西藏植物志）图版2: 5**
+
+Kobresia laxa Nees in Wight, Contrib. Bot. Ind. 119, 1834; Steud., Syn. Pl. Cyper. 246, 1855; Bocklr. in Linnaea 39: 6, 1875; C. B. Clarke in Hook. f., Fl. Brit. Ind. 6: 698, 1894; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20 ): 47, t. ll, 1909; T. Koyama in Ohashi, Fl. East. Himal. 3: 128, 1975 et in Hara et L. H. J. Williams, Enum. Flow. Pl. Nepal, 1: 113, 1978; 西藏植物志5: 391, 1987.——Schoenoxiphium laxum (Nees) Ivan. in Journ. Bot. USSR, 24: 501, 1939.
+
+根状茎稍延长。秆疏丛生，纤细，高40-60厘米，粗约1毫米，柔软，三棱形，光滑，基部具少数淡褐色的宿存叶鞘。叶基生和秆生，平张，宽2-2.5毫米，光滑，柔软。圆锥花序开展，长7-10厘米，具6-10枚排列稀疏的小穗；苞片叶状，线形，宽约2毫米，最下部的1枚长于或等长于花序，上部的渐短；枝先出叶囊状，内具1朵雌花；小穗雄雌顺序，线形，长1.2-2厘米，含少数疏生的支小穗，下部的数枚通常具4.5-5.5毫米长之短柄；支小穗单性，顶生的雄性，侧生的雌性；雄花鳞片披针形，长约4毫米，褐色，膜质，有光泽，具3枚雄蕊；雌花鳞片披针形，长4-4.5毫米，顶端渐尖，纸质，两侧褐色，有光泽，边缘白色膜质，中脉绿色；先出叶囊状，线状长圆形，长5-5.5毫米，褐色，膜质，平滑，在腹面，边缘连合至顶部，背面具粗糙的2脊，基部无柄，上部渐狭成长喙，喙口白色，斜裂。小坚果线状长圆形，三棱形，长2.7-3毫米，淡黄褐色，顶端具长喙；花柱甚长，基部不增粗，柱头3个，甚长。退化小穗轴刚毛状，伸出或不伸出先出叶之外。花果期5-7月。
+
+产于西藏南部；生于铁杉林下之水沟边，海拔2600-2700米；克什米尔地区、印度北部、尼泊尔、锡金也有分布。模式标本采自喜马拉雅山。

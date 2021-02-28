@@ -1,0 +1,13 @@
+长冠紫堇",
+209.**Corydalis lathyrophylla** C. Y. Wu Acta Bot. Yunnan. 6: 254. 1984.",
+
+## Description
+Herbs, perennial, 20-50 cm tall, glabrous; stems and petioles of radical leaves attenuate to filiform underground base. Storage roots spindle-shaped to almost round, 5-15 × 3-4 mm, sessile. Stems few, erect, slender, upper 1/2 with 2 or 3 leaves, simple or rarely branched, but often with an axillary raceme in upper leaf. Radical leaves: petiole 5-15 cm; blade ternate, pinnate, or biternate, thin; pinnae elliptic to lanceolate, 10-30 × 4-13 mm. Cauline leaves sessile; blade gray-glaucous abaxially, green-glaucous adaxially, ovate, 2-10 × 1.5-8 cm, imparipinnate; pinnae 2-4 pairs, broadly to very narrowly lanceolate, (1-)2-4(-9) cm × (1-)3-5(-10) mm, with 3 obvious parallel veins. Raceme spikelike, 8-25-flowered, 3-9 cm (to 15 cm and 40-flowered in garden conditions), at fruiting to 20 cm; bracts narrowly lanceolate to linear, 5-7(-20) mm, entire or with a few narrow teeth or laciniae. Pedicel 4-6(-10) mm, slender, soon arcuate, recurved in fruit. Flowers after opening downcurved. Sepals white, 0.5-1.5 × 1-1.5 mm, dentate. Corolla lavender to blue, often with pinkish tinge, veins distinct, fragrant; upper petal 11-14 mm, limb rhombic, abaxial crest from petal apex extended to spur end, ca. 2 mm wide, undulate to dentate; spur conical-obtuse, 5-7 mm, thick; nectary ca. 1/2 as long as spur; lower petal rhombic, ca. 9 mm, crest short; inner petals 7-8 mm. Stigma square; marginal papillae: median 2 distinct, lateral broad, indistinct; geminate papillae lateral and in basal corners. Fruit oblong, 5-10 × 2-2.5 mm, 2-4-seeded; style ca. 3 mm. Seeds 1.8-2 mm, smooth; caruncle small. Fl. Jul-Sep.
+  "Statistics": "● Wet meadows, snow patches, rarely in shrubs, open herb-rich subalpine dwarf forests; 3500-4700 m. SW and W Sichuan, NW Yunnan.
+**122．长冠紫堇（云南植物研究）图版51：6-7**
+
+Corydalis lathyrophylla C. Y. Wu in Act. Bot. Yunn. 6 (3): 254, fig. 6: 3-4. 1984; 横断山区维管植物, 上册: 607. 1993.
+
+无毛草本，高20-40厘米。须根多数成簇，纺锤状肉质增粗，长1-1.5厘米，粗约3毫米，干时黄褐色。茎通常不分枝，上部具叶，下部裸露，基部丝状。基生叶少数，叶柄长达13厘米，叶片与茎生叶相同；茎生叶约3枚，于茎上部疏离互生，具短柄或近无柄，叶片轮廓卵形，长3.5-6.5（-11）厘米，宽3-5（-8）厘米，一回奇数羽状全裂，裂片2-4对，疏离，通常对生，无柄或下部者具短柄，披针形至狭披针形，长1.5-1.7（-7）厘米，宽3-6(-10)毫米，表面绿色，背面具白粉，明显具3条纵脉。总状花序顶生，多花，长3-6厘米，果时达20厘米；苞片狭披针形至线形，全缘，有时最下部者分裂；花梗纤细，短于苞片，花开后向下弯曲。萼片鳞片状，半圆形，白色，膜质，边缘撕裂状；花瓣淡蓝色，上花瓣长约1厘米，花瓣片菱状卵形，背部鸡冠状突起自花瓣先端延伸至距末，高约2毫米，在距上逐渐变矮，距圆筒形，长约4毫米，粗约3毫米，下花瓣狭卵形，长约9毫米，背部鸡冠状突起半圆形，高约2毫米，内花瓣提琴形，长6-7毫米，花瓣片先端圆，具1侧生囊，爪狭楔形，与花瓣片近等长；雄蕊束长5-6毫米，花药极小，花丝披针形，蜜腺体贯穿距的1/3；子房椭圆形，长约3毫米，胚珠数枚，排成2列，花柱长约3毫米，先端弯曲，柱头近肾形，上端具2乳突。果未见。花期7月前后。
+
+产四川西南部（稻城）和云南西北部（德钦、中甸），生于海拔（3500-)4100-4700米的高山灌丛中或山坡。模式标本采自德钦。此种为金沙江上游高海拔地区特有。

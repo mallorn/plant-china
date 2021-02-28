@@ -1,0 +1,14 @@
+纳雍耳蕨",
+206.**Polystichum nayongense** P. S. Wang & X. Y. Wang Acta Bot. Yunnan. 19: 41. 1997.",
+
+## Description
+Plants evergreen. Rhizome erect, short, together with stipe base ca. 2 cm in diam. Fronds sparsely caespitose, 30-60 cm; stipe stramineous, 5-17 cm, 1-2 mm in diam., basal stipe scales denser, slightly spreading, brown, broadly ovate, thickly membranous, with irregular fine teeth or subentire, caudate; distal stipe scales sparser, similar to basal stipe scales but smaller, mostly appressed, brown, membranous. Lamina 1-pinnate, grayish when dry, adaxially darker, lanceolate or narrowly elliptic-lanceolate, 20-44 × 3-5 cm at middle, 2-4 cm wide at base, base truncate and slightly contracted or not, apex caudate and long acuminate; rachis stramineous, without proliferous bulbils. Pinnae 25-38 pairs, alternate or nearly opposite, lower pairs remote, attached at right angles with rachis, basal pinnae rarely slightly angled basiscopically, upper pairs contiguous or slightly imbricate, slightly angled acroscopically, falcate or oblong-falcate, 1-2.5 cm × 4-8 mm at middle, apices slightly angled upward, with aristate tip, bases obviously asymmetrical, acroscopic base auriculate, auricles deltoid or nearly semicircular, apex of auricles acute and aristate, proximal margins of auricles truncate or slightly curved, parallel to rachis or slightly overlapping rachis, acroscopic margins substraight or slightly recurved, with regular, acute, curved upward, aristate teeth, basal basiscopic margins narrowly cuneate, truncate, margins entire, distal basiscopic margins curved upward from middle upward, with regular, acute, often incurved, and aristate teeth; adaxially glabrous, abaxially sparsely scaly; microscales appressed, light brown, ovate, thinly membranous; frond texture papery or thickly papery. Sori terminal on shorter veinlets, in 1 row on each side of midrib, nearly medial, often 5-9 above midrib, 1-4 below midrib and on upper part only; indusia present, light brown, entire or slightly repand, evanescent.
+
+> ● Limestone sinkholes; ca. 1500 m. W Guizhou (Nayong).
+**133．纳雍耳蕨（云南植物研究）**
+
+Polystichum nayongense P. S. Wang et X. Y. Wang in Acta Bot. Yunnan. 19 (1): 41, f. 1. 1997.
+
+植株高30-60厘米。根状茎短而直立，连同叶柄基部直径约2厘米。叶少数簇生；叶柄禾秆色，上面有沟槽，长5-17厘米，直径1-2毫米，基部被较多略开展、阔卵形、尾尖头、边缘有不整齐细齿或近全缘的棕色厚膜质鳞片，向上至叶轴疏被同形而较小、大多向上伏贴的棕色膜质鳞片；叶片披针形或长椭圆披针形。顶端尾状长渐尖，基部平截不缩狭或略缩狭，长20-44厘米，中部宽3-5厘米，基部宽2-4厘米，一回羽状；羽片25-38对，互生或近对生，下部的有间距，平展，基部的偶见略向下斜展，上部的接近或略呈覆瓦状密接，略向上斜展，镰刀形或矩圆状镰刀形，长1-2.5厘米，中部宽4-8毫米，顶端略向上弯，芒状锐尖头，两侧显著不对称，上侧基部耳状凸起呈三角形或近半圆形，其顶端锐尖并具芒刺，外侧平截或略凸起呈弧形，与叶轴平行或略覆盖叶轴，基部以上近平直或略呈内凹的弧形，边缘有整齐而开展、顶端具芒刺的锐锯齿，下侧基部狭楔形，平截，全缘，中部以上向上弯曲呈弧形，边缘有整齐而常向内弯、顶端也具芒刺的锐锯齿；叶脉羽状，上面可见，下面明显，侧脉几达边缘，在主脉上侧的自下而上羽状、二叉状至单一，在主脉下侧的单一或二叉状。叶纸质或厚纸质，干后灰绿色，上面色较深；叶轴禾秆色，上面有沟槽；羽片上面光滑，下面疏被浅棕色、卵形、贴生的细小薄膜质鳞片。孢子囊群生于较短的小脉顶端，在主脉两侧各有1行，近中生，上侧的较多，通常5-9个，下侧1-4个，生于上部，下部不育；圆盾形的囊群盖浅棕色，全缘或边缘略呈波状，易脱落。
+
+产四川南部（屏山）及北部（城口）、贵州西部（纳雍）及云南东南部（蒙自）。生于海拔750-1600米的山地阴湿处石上。模式标本采自贵州纳雍。

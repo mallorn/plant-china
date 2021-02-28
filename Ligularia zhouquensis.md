@@ -1,0 +1,6 @@
+舟曲橐吾",
+49.**Ligularia zhouquensis** W. D. Peng & Z. X. Peng Acta Phytotax. Sin. 33: 612. 1995.",
+
+## Description
+Stem erect, 70-85 cm tall, 5-10 mm in diam. at base, distally white arachnoid-puberulent. Basal leaves obovate, small; sheath ca. 7 × 1 cm. Stem leaves 3 or 4, obovate to elliptic, 12-20 × 4.5-7.5 cm, white arachnoid-puberulent, pinnately veined, base cuneate, sheath amplexicaul, margin remotely denticulate, apex rounded. Distal stem leaves smaller, elliptic to narrowly elliptic, base not amplexicaul, apex acuminate. Compound corymbs paniculate, 23-28 cm, white arachnoid-puberulent and shortly brown pilose; leaflike bracts linear to linear-lanceolate; supplementary bracts 2 or 3, smaller, linear; peduncles 1.5-3 cm. Capitula numerous. Involucre turbinate, ca. 7 × 6 mm, outside dark green, base sparsely white arachnoid-puberulent; phyllaries 10-12, in 2 rows, linear or oblanceolate, margin membranous, apex acute to acuminate. Outer florets female, 5-7, yellow, similar to tubular florets, limb 2-4-lobed to -divided, lobes 0.5-4 mm, unequal; tube 2-4 mm. Tubular florets 12-15, yellow, ca. 6 mm; tube ca. 2.5 mm. Achenes cylindric, with 7-10 ribs. Pappus white, as long as tubular corolla. Fl. and fr. Jul-Aug.
+  "Statistics": "● Alpine meadows; 2800-3600 m. SW Gansu.

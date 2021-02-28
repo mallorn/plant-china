@@ -1,0 +1,6 @@
+泽库棘豆",
+37.**Oxytropis zekogensis** Y. H. Wu Acta Phytotax. Sin. 35: 350. 1997.",
+
+## Description
+Herbs, 20-40 cm tall, caulescent, from a superficial cau-dex. Stems purplish, prostrate to erect-ascending, with sparsely spreading white pubescence. Stipules with an ovate-lanceolate to lanceolate free part, 5-7 mm, with sparse trichomes, basal ca. 1/3 connate. Leaves 3-8 cm, 13-21(-25)-foliolate; petiole of basal leaves 0.2-2 cm but apical leaves sessile; rachis with spreading long trichomes; leaflet blades ovate to lanceolate, 3-10 × 2-6 mm, both surfaces with appressed white trichomes, base rounded, apex acute. Racemes dense and remaining sub-capitate or shortly elongating in fruit, 5-12-flowered; peduncle 7-15 cm, erect, sparsely white pubescent but below inflores-cence densely pubescent; bracts ovate-lanceolate, 3-6 mm, with sparse trichomes. Calyx campanulate, ca. 6 × 3 mm, with blackish brown and white trichomes; lobes subulate, ca. 2 mm. Corolla violet to purple; standard 1-1.1 cm, lamina ovate, apex emarginate; wings ca. 9 mm, apex obliquely emarginate; keel ca. 8 mm, beak ca. 1 mm. Legume with a short pedicel; body elliptical to cylindric, 10-14 × 5-6 mm, inflated, with spreading white and brown short trichomes. Fl. and fr. Sep.
+  "Statistics": "● Riversides and alpine meadows; 2700-3400 m. Qinghai.

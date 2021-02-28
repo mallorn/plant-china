@@ -1,0 +1,7 @@
+广东含笑",
+24.**Michelia guangdongensis** Y. H. Yan et al. Ann. Bot. Fenn. 41: 491. 2004.",
+
+## Description
+Shrubs or small trees, 1-4 m tall, to 10 cm d.b.h. Bark grayish brown. Young twigs and buds densely reddish brown appressed pubescent. Petiole 0.5-1.5 cm, densely reddish brown villous, without a stipular scar; leaf blade obovate-elliptic to obovate, 4.5-9 × 2.5-4.5 cm, leathery, abaxially reddish brown appressed villous, adaxially dark green and glabrous, secondary veins 4-9 on each side of midvein, reticulate veins dense, base rounded to broadly cuneate, margin slightly revolute, apex rounded to shortly acute. Brachyblasts 1.5-2.8 × 0.3-0.5 cm; spathaceous bract 1. Flower buds long ovoid, densely reddish brown appressed villous. Flowers fragrant. Tepals 9-12, white, base slightly greenish; outer 3-5 tepals ovate-elliptic, 5.6-6.2 × 2.5-3 cm; middle 3 or 4 tepals elliptic to obovate-elliptic, 5.6-7 × 2.7-3 cm; inner 3 tepals elliptic, 5.4-7 × 1.9-2.5 cm. Stamens 50-70, pale green, 1.1-1.5 cm; filaments purplish red, ca. 3 mm; connective exserted and forming a ca. 1 mm triangular mucro; anthers 6-8 mm. Gynophore green, 6-8 mm, puberulous; gynoecium green, terete, 0.9-1.4 cm, reddish brown pubescent; carpels 13-20; ovules 4-6 per carpel; styles purplish red, 1-3 mm, curved outward. Fruit not seen. Fl. Mar.
+  "Reference": "This species is grown as an ornamental.This species is grown as an ornamental.
+  "Statistics": "● Thickets, forests; 1200-1400 m. Guangdong (Yingde).

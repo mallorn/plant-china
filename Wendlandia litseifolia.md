@@ -1,0 +1,14 @@
+木姜子叶水锦树",
+14.**Wendlandia litseifolia** F. C. How Sunyatsenia. 7(1-2): 46. 1948.",
+
+## Description
+Trees, ca. 10 m tall; branches terete to subquadrangular, densely brown hirtellous to glabrescent. Leaves opposite; petiole 0.5-1.2 cm, densely hirtellous to strigillose; blade drying subleathery, obovate, obovate-elliptic, or rarely elliptic, 6.4-11.5 × 3-6.5 cm, adaxially sparsely hispidulous to puberulent with pubescence denser along midrib, abaxially sparsely to moderately strigillose or hirtellous with pubescence denser along veins, base obtuse, apex acute to abruptly and shortly acuminate; secondary veins 6-8 pairs, plane to hardly visible abaxially; stipules generally persistent, pandurate, 3-5 × 1.5-2 mm, densely strigillose, apex suberect to spreading, subrounded. Inflorescences paniculate, 7-10 × 4-5 cm, branched to 2 or 3 orders, dark yellow- to reddish brown tomentose to -hirtellous, pedunculate; peduncle 0.5-0.8 cm; bracts linear to narrowly elliptic, 1-3 mm. Flowers sessile, densely grouped. Calyx densely hirtellous; hypanthium portion subglobose, ca. 0.8 mm; limb lobed nearly to base; lobes triangular to ovate, ca. 0.5 mm. Corolla pale yellow, tubular-funnelform, glabrous outside; tube 2.5-3 mm, sparsely pilose in throat; lobes ovate, ca. 1 mm. Anthers elliptic, ca. 0.7 mm, subsessile, partially exserted. Stigma 2-lobed, ca. 0.2 mm. Capsules subglobose to ovoid, ca. 2 × 2 mm, hirtellous. Fl. and fr. Jun.
+  "Reference": "This species was included by How (loc. cit.) and W. C. Chen (Acta Phytotax. Sin. 21: 391. 1983) in the group of *Wendlandia* species with erect, triangular, acute stipules; but examination of an isotype (MO!) and careful study of the protologue (including the figure) shows that the stipules are oblanceolate to pandurate, with the apex narrow but mostly not spreading from the stem on most nodes.This species was included by How (loc. cit.) and W. C. Chen (Acta Phytotax. Sin. 21: 391. 1983) in the group of *Wendlandia* species with erect, triangular, acute stipules; but examination of an isotype (MO!) and careful study of the protologue (including the figure) shows that the stipules are oblanceolate to pandurate, with the apex narrow but mostly not spreading from the stem on most nodes.
+  "Statistics": "● Forests on mountains or hills; ca. 800 m. Guangxi (Tianlin).
+**14. 木姜子叶水锦树（广西植物名录）**
+
+Wendlandia litseifolia How in Sunyatsenia 7 (1-2): 46, fig. 2. 1948; W. C. Chen in Acta Phytotax. Sinica 21 (4): 391. 1983.
+
+乔木，高约10米；小枝有褐色短柔毛或后变无毛。叶纸质，倒卵状椭圆形，少为椭圆形，长6.5-11.5厘米，宽3-6.5厘米，顶端骤尖，尖头钝，基部宽楔形，上面散生短硬毛，中脉上较密，稍粗糙，下面被疏柔毛，在脉上较密；侧脉6-8对，在下面明显；叶柄长0.5-1.2厘米，有短柔毛；托叶阔三角形，有柔毛，中部缢缩，顶端稍扩大成近圆形，直立，不反折。圆锥状聚伞花序顶生，长约10厘米，宽约5厘米，有暗黄色绒毛；花无花梗，密生；花萼被灰白色柔毛，长1.7毫米，萼管远较萼裂片长，萼裂片长0.5毫米；花冠管状，淡黄色，外面无毛，长4毫米，花冠裂片长1毫米；花药椭圆形，长0.7毫米，稍伸出，花丝很短；花柱伸出，柱头2裂。蒴果球形，有白色柔毛，径2毫米，顶冠以宿存的萼裂片。花、果期6月。
+
+产于广西田林；生于海拔约833米的山地林中。模式标本采自广西田林。

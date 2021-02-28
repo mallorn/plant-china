@@ -1,0 +1,17 @@
+蒙自虎耳草",
+18.**Saxifraga mengtzeana** Engler & Irmscher",
+
+> In FRPS, the names &lt;I&gt;Saxifraga mengtzeana&lt;/I&gt; and &lt;I&gt;S. aculeata&lt;/I&gt; were applied to taxa without and with foliar embryos, respectively. However, the holotype of &lt;I&gt;S. aculeata&lt;/I&gt; (Henry 10316B (E), which lacks foliar embryos) is an isosyntype and the designated lectotype (Gornall et al., Novon 10: 376. 2000) of the earlier name &lt;I&gt;S. mengtzeana&lt;/I&gt;, of which &lt;I&gt;S. aculeata&lt;/I&gt; is therefore a synonym. The taxon with foliar embryos is dealt with below as &lt;I&gt;S. epiphylla&lt;/I&gt;.
+
+## Description
+Plants 21-25 cm tall. Rhizomes rather short. Stem glandular piliferous. Basal leaves with petiole 1.1-1.2 cm, densely glandular piliferous; leaf blade peltate or ovate to broadly so, 1.5-7.6 × 1.2-6 cm, leathery, abaxially sparsely hispid and brown spotted, base ± cordate, without a foliar embryo in sinus, margin crenate, apex acute. Cauline leaves lanceolate, ca. 4.5 × 1 mm, margin glandular ciliate. Inflorescence paniculate, ca. 8.7 cm, 16-18-flowered; branches 2.4-5 cm, glandular pubescent, 2- or 3-flowered; pedicels slender, 1.3-3 cm, glandular pubescent. Sepals spreading to reflexed, narrowly ovate, ca. 3 × 1 mm, abaxially and marginally glandular hairy, veins 3, confluent into a verruca at apex. Petals 5, white; shortest 3 petals triangular-ovate, 3.2-3.4 × 2-2.2 mm, 3-veined, base rounded to cordate, with a claw ca. 1 mm, apex acute to shortly acuminate; longer petal narrowly ovate, ca. 9 × 2.2 mm, 3-veined, base with a claw ca. 1.4 mm, apex acuminate; longest petal sublanceolate, ca. 1.9 cm × 3.4 mm, 8-veined, base gradually contracted into a claw ca. 1.5 mm, margin sparsely denticulate. Stamens ca. 6 mm. Ovary ovoid, ca. 4 mm; styles divergent, ca. 1.8 mm. Fl. and fr. May-Oct.
+
+> * Forests, slopes; 1100-1900 m. Guangdong, SE Yunnan (Mengzi Xian, Yanshan Xian).
+  "Synonym": "&lt;I&gt;Diptera mengtzeana&lt;/I&gt; (Engler &amp; Irmscher) Losinskaja; &lt;I&gt;Saxifraga aculeata&lt;/I&gt; I. B. Balfour; &lt;I&gt;S. geifolia&lt;/I&gt; I. B. Balfour (1916), not Saint-Lager (1880); &lt;I&gt;S. henryi&lt;/I&gt; I. B. Balfour; &lt;I&gt;S. lancangensis&lt;/I&gt; Y. Y. Qian; &lt;I&gt;S. mengtzeana&lt;/I&gt; var. &lt;I&gt;cordatifolia&lt;/I&gt; Engler &amp; Irmscher; &lt;I&gt;S. mengtzeana&lt;/I&gt; var. &lt;I&gt;peltifolia&lt;/I&gt; Engler &amp; Irmscher; &lt;I&gt;S. ovatocordata&lt;/I&gt; Handel-Mazzetti.
+**11.蒙自虎耳草（云南种子植物名录）云南虎耳草（中国高等植物图鉴）图版15: 1-6**
+
+Saxifraga mengtzeana Engl. et Irmsch. in Notizbl. Bot. Gart. Berlin 6: 36. 1913, excl. var. cosdatifolia Engl. et Irmsch. et in Engl. Pflanzenr. 69 (IV. 117) : 647. f. 124E. 1919, p. p.;中国高等植物图鉴2:136. 1972; 云南种子植物名录上册; 241. 1984, p. p.——S. mengtzeana var. peltifolia Engl. et Irmsch. op. cit. 37. 1913. ——S. henryi Balf. f. in Trans. Bot. Soc. 27: 72. 1916.
+
+多年生草本，高21-25厘米。根状茎较短。茎被腺柔毛。基生叶具柄，叶片盾状着生，革质，卵形至阔卵形，长1.5-7.6厘米，宽1.2-5.9厘米，先端急尖，边缘有粗圆齿（圆齿边缘有不明显疏齿和腺睫毛），基部稍心形，腹面无毛，背面疏生粗毛并具褐色斑点，柄长1.1-12厘米，密被腺柔毛；茎生叶披针形，长约4.5毫米，宽约1毫米，边缘具腺睫毛。聚伞花序圆锥状，长约8.7厘米，具16-18花；花序分枝长2.4-5厘米，被腺柔毛，具2-3花；花梗纤细，长1.3-3厘米，被腺柔毛；花两侧对称；萼片在花期开展至反曲，狭卵形，长约3毫米，宽约1毫米，腹面无毛，背面和边缘具腺毛，3脉于先端汇合成1疣点；花瓣白色，5枚，其中3枚较小，三角状卵形，长3.2-3.4毫米，宽2-2.2毫米，先端急尖至短渐尖，基部圆形至心形，并具长约1毫米之爪，3脉，1枚较长，狭卵形，长约9毫米，宽约2.2毫米，先端渐尖，基部具长约1.4毫米之爪，3脉，另一枚最长，近披针形，长约18.5毫米，宽约3.4毫米，先端渐尖，基部渐狭成长约1.5毫米之爪，边缘疏生细齿，8脉；雄蕊长约6毫米，花丝棒状；2心皮中下部合生；子房近上位，卵球形，长约4毫米，花柱2，长约1.8毫米，叉开。花果期5-10月。
+
+产云南（砚山、蒙自）。生于海拔1100-1850米的林下或山坡。模式标本采自蒙自。

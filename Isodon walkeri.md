@@ -1,0 +1,15 @@
+长叶香茶菜",
+23.**Isodon walkeri** (Arnott) H. Hara",
+
+## Description
+Herbs perennial. Stems 40-60 cm tall, repent at base, ascending, unbranched or branched, puberulent or scaly pilose. Stem leaves opposite; petiole 2-12 mm; leaf blade narrowly lanceolate or lanceolate to elliptic-lanceolate, 2.4-7.5 &amp;#215; 0.6-2.1 cm, papery, adaxially olive green, glabrous, scaly hispidulous on veins, abaxially greenish, subglabrous, sparsely brown glandular, base narrowly cuneate, margin &amp;#177; remotely serrate above middle, apex acuminate. Panicles terminal, 4-30 &amp;#215; 2.5-6 cm; cymes 3-15-flowered, pedunculate, scaly pilose; floral leaves bractlike, ovate to lanceolate; bracteoles minute, linear, ca. 1 mm. Calyx campanulate, ca. 2 &amp;#215; 1.6 mm, conspicuously 10-veined, brown glandular, subglabrous or scaly pilose on veins, slightly 2-lipped; teeth ovate, lower 2 a little longer; fruiting calyx ca. 3 &amp;#215; 1.1 mm, lower lip much longer than upper. Corolla rose or white, 6-7 mm, tube 3-3.5 mm. Stamens and style much exserted. Nutlets ovoid, slightly compressed. Fl. Nov-Jan, fr. Dec-Jan.
+
+> Streambanks, wet areas in forests; 300-1300 m. Guangdong, Guangxi, Yunnan [India, Laos, Myanmar, Sri Lanka].
+  "Synonym": "&lt;I&gt;Plectranthus walkeri&lt;/I&gt; Arnott, Pug. Pl. Ind. Or. 36. 1836; &lt;I&gt;Isodon stracheyi&lt;/I&gt; (Bentham ex J. D. Hooker) Kudo; &lt;I&gt;P. brandisii&lt;/I&gt; Prain; &lt;I&gt;P&lt;/I&gt;. &lt;I&gt;stracheyi&lt;/I&gt; Bentham ex J. D. Hooker; &lt;I&gt;P&lt;/I&gt;. &lt;I&gt;veronicifolius&lt;/I&gt; Hance; &lt;I&gt;Rabdosia stracheyi&lt;/I&gt; (Bentham ex J. D. Hooker) H. Hara.
+**58.长叶香茶菜 四方草（广西）图版103: 11**
+
+Rabdosia stracheyi (Benth. ex Hook. f.) Hara in Journ. Jap. Bot. 47(7): 201. 1972——Plectranthus stracheyi Benth. ex. Hook. f. Fl. Brit. Ind. 4: 618. Aug. 1885; Dunn in Notes Bot. Gard. Edinburgh 8: 158. 1913; in ibid. 6: 136, 139. 1915; Merr. in Lingnan Sci. Journ. 5: 162. 1927; Hand.-Mazz. in Act. Hort. Gothob. 13: 366, in clavi, 378. 1939, excl. syn. Plectranthus tatei Hemsl. ——Plectranthus veronicifolius Hance in Journ. Bot. Brit. & For. 23: 327. Nov. 1885; Baker in ibid. 24: 119. 1886——Plectranthus brandisii Prain in Journ. Asiat. Soc. Bengal. 59: 296. 1890——Isodon stracheyi(Benth. ex Hook. f. )Kudo in Mem. Fac. Sci Agr. Taihoku Univ. 2: 136. 1929, cum var. veronicifolius(Hance)Kudo Plectranthus striatus auct. non Benth.: Dunn in Notes Bot. Gard. Edinburgh 8: 158. 1913
+
+多年生草本，常具匍匐茎。茎高40-60厘米，不分枝或具分枝，上升，基部近圆柱形，节间短，基部以上四稜形，二具浅槽，被栗色串珠状具节的短柔毛或鳞粃状短毛。茎叶对生，狭披针形，长2.4-7.5厘米，宽0.6-2.1厘米，先端渐尖，基部狭楔形，边缘自中部以上具疏或密的锯齿，纸质，上面榄绿色，脉上被鳞粃状短硬毛，其余部分无毛或多少粗糙，下面淡绿色，满布紫褐色腺点，脉上被鳞粃状短硬毛或近无毛；叶柄短，长0.2-1.2厘米，有时近无柄。圆锥花序生于主茎及侧枝顶端，长4-30厘米，宽2.5-6厘米，由聚伞花序组成，聚伞花序3-15花，极叉开，具梗，总梗长0.4-1.4（2.8)厘米；下部的苞叶叶状，向上渐变小而呈苞片状，苞片卵形，披针形或线形，远较长3-6毫米纤细的花梗为短。花萼小，钟形，花时长约2毫米，直径约1.6毫米，明显10脉，被褐色腺点，脉上被鳞粃状短毛或近无毛，萼齿5，略短于萼筒，二唇形，后3齿小，前2齿较大，均为卵形，果时花萼长约3毫米，略俯垂，下唇明显较上唇长，长约1.1毫米。花冠粉红或白色，长6-7毫米，冠筒直，长3-3.5毫米，基部直径约1毫米，向上增宽，至喉部直径约2毫米，冠檐上疏被红色腺点，二唇形，上唇具紫色斑点，长仅为冠筒长之半，具4圆裂，裂片卵形，极外反，下唇与冠筒近等长，狭卵形，伸展，扁平。雄蕊及花柱长长地伸出。小坚果极小，卵形，略扁。花期11月至翌年1月，果期12月至翌年1月。
+
+产广东，广西西南部，云南南部；生于水边或林下潮湿处。印度，缅甸也有。模式标本采自印度东北部。

@@ -1,0 +1,16 @@
+云南堇菜",
+35.**Viola yunnanensis** W. Becker & H. Boissieu",
+
+## Description
+Herbs perennial. Rhizome elongate, obliquely ascending or procumbent and stemlike, with adventitious roots at nodes. Stem absent or shorter, less than 2 cm. Stolon to 37 cm, slender, usually densely white puberulous, with clustered leaves at top and often producing a new plant. Leaves nearly basal or alternate on stolon; stipules mostly free, glaucous, lanceolate, 1-1.3 cm, membranous, margin fimbriate-dentate, apex narrowly long acuminate; petioles unequal in length, 3-8 cm, densely spreading white puberulous; leaf blade abaxially gray-green, adaxially deep or dark green, oblong or oblong-ovate, 3-8 × 2-4 cm, broadest near middle, both surfaces densely gray-white puberulous, more densely so on young leaves, base shallowly and narrowly cordate, margin large crenate, apex acute or acuminate. Flowers white, 1.5-1.7 cm, ca. 1.5 cm in diam.; pedicels of cleistogamous flowers produced from basal leaf axils much shorter than leaves, those on stolon much longer than leaves; pedicels densely puberulous, 2-bracteolate above middle; bracteoles opposite, linear, 8-10 mm. Sepals linear-lanceolate or lanceolate, 5-7 mm, basal auricles short, sparsely white puberulous along veins, 3-veined, margin densely ciliate. Upper petals oblong, 1.3-1.5 cm × 5-6.5 mm, lateral ones ca. 1 cm, usually shortly bearded, anterior one shorter, deeply veined, 8-9 mm (spur included), apex acute; spur saccate, very short, ca. 1.5 mm, slightly curved downward; spur of 2 anterior stamens very shortly angular. Ovary ovoid-globose, glabrous; styles clavate, base nearly erect, gradually thickened upward; stigmas narrowly margined, shortly beaked in front, beak straight, with a smaller stigma hole at tip. Capsule green, oblong or subglobose, small, 5-7 mm. Seeds globose. Fl. Feb-Jun, fr. May-Dec.
+
+> Mountain forests, grasslands along forest margins, moist places on rocks along streamsides and roadsides; 1300-2400 m. Hainan, S Yunnan [Indonesia, Malaysia, Myanmar, Vietnam].
+**82．云南堇菜（静生生物调查所汇报）滇堇菜（云南种子植物名称），拟柔毛堇菜（拉汉种子植物名称）图版19: 7-13**
+
+Viola yunnanensis W. Beck. et H. de Boiss. in Bull. Herb. Bioss. ser, 2. 8: 740. 1908; W. Beck. in Beih. Bot. Centralbl. 34 ( 2): 256. 1916 et l. c. 40 (2): 107. 1923; Chang in Bull. Fan Mem. lnst. Biol, n. s. 1 (3): 244. 260. 1949; Chun et al. in Acta Phytotax. Sin. 8: 261. 1963; 海南植物志1: 360. 1964; 中国高等植物图鉴 补编2: 253. 图8901. 1983; 云南种子植物名录 上册209. 1984.
+
+多年生草本。根状茎伸长，具长的节间，斜生或平卧地面呈茎状，节上有不定根。地上茎缺或较短，长不足2厘米。匍匐枝纤细，长可达37厘米，通常密被白色柔毛，顶端有簇生的叶丛且常形成新植株。叶近基生或互生于匍匐枝上；叶片长圆形或长圆状卵形，长3-8厘米，宽2-4厘米，近中部处最宽，先端尖或渐尖，基部呈浅而狭的心形，边缘具粗圆齿，两面密被灰白色柔毛，上面深绿或暗绿色，下面灰绿色，幼叶上毛较密；叶柄长短不等，长3-8厘米，密被开展的白色柔毛；托叶大部分离生，披针形，长1-1.3厘米，苍白色，膜质，先端狭长，渐尖，边缘具长流苏状齿。花淡红色或白色，长1.5-1.7厘米，直径约1.5厘米；自基生叶叶腋抽出的闭花受粉花的花梗远较叶短，匍匐枝上花梗远长于叶，花梗密被柔毛，中部以上有2枚对生的线形小苞片；萼片线状披针形或披针形，长5-7毫米，基部附属物短，具3脉，沿脉疏生白色毛，边缘密生缘毛；上方2枚花瓣长圆形，长1.3-1.5厘米，宽5-6.5毫米，侧方2枚花瓣长约1厘米，里面基部无须毛，下方1枚花瓣较短，连距长8-9毫米；距极短呈浅囊状，长1.5毫米，稍向下弯；下方2枚雄蕊具极短的角状距；子房卵球形，无毛，花柱棍棒状，基部近直立，向上逐渐增粗，柱头具窄而直展的缘边，前方具短而直伸的喙，喙端具较细的柱头孔。蒴果小，长圆形或近球形，长5-7毫米，绿色。种子球形。花期3-6月，果期8-12月。
+
+产四川（南川）、云南（勐海、景洪、屏边、蒙自）、海南。生于海拔1300-2400米的山地林下、林缘草地、沟谷或路旁岩石上较湿润处。模式标本采自云南蒙自。
+
+本种叶片长圆状卵形或卵形，近中部处最宽，密被白色柔毛，先端渐尖，基部狭浅心形，边缘具粗圆齿；花瓣淡红色或白色，侧瓣无须毛；花柱顶部有窄而直展的缘边，这些特征与本组的其他种极易区别。

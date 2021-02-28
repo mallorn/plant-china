@@ -1,0 +1,6 @@
+日本胡枝子",
+4.**Lespedeza thunbergii** (Candolle) Nakai Lespedeza Ja-pan Korea. 15. 1927.",
+
+## Description
+Shrubs, subshrubs, or perennial herbs, erect, 1-3 m tall, much branched, pilose. Leaves 3-foliolate; petiole 1-5 cm, pu-bescent; leaflets elliptic, oblong-elliptic, or ovate, rarely ter-minal one obovate, terminal one 2.5-6 × 1-3 cm, abaxially ad-pressed pubescent, adaxially puberulent or glabrescent, rarely glabrous, both ends slightly acute or obtuse. Racemes simple, axillary, longer than leaves, or branched in panicles, terminal; peduncle to 10 cm, pubescent. Pedicel short, hairy. Calyx 4-7 mm, 5-lobed; lobes oblong-lanceolate, 1-4 × as long as tube. Corolla reddish purple or more rarely white, 1-1.5 cm; standard nearly orbicular or slightly long, auriculate, clawed; wings obo-vate-oblong, 7-8 mm, auriculate, clawed; keel longer than or equal to standard, distinctly longer than wings, auriculate, clawed. Legume obovoid or obovoid-oblong, ca. 8 × 4 mm, pilose, reticulate veined. Fl. Jul-Sep, fr. Sep-Oct. 2*n* = 40*.
+  "Statistics": "Mountain slopes, forest margins, roadsides, thickets; below 2800 m. Anhui, Fujian, Gansu, Guangdong, Guangxi, Guizhou, Hebei, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Shaanxi, Shandong, Sichuan, Taiwan, Yunnan, Zhejiang [India, Japan, Korea].

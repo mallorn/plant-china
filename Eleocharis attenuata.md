@@ -1,0 +1,6 @@
+渐尖穗荸荠",
+17.**Eleocharis attenuata** (Franchet & Savatier) Palla Monde Pl. 12: 40. 1910.",
+
+## Description
+Perennials. Rhizomes decumbent or absent. Culms ± laxly to densely tufted, 20-50 cm tall or ± short, ca. 1 mm thick, terete, longitudinally sulcate. Leaf sheaths 2, basally blood-red to pale blood-red and apically pale brownish yellow, 2.5-7 cm, mouth truncate, apex shortly aristate to mucronate. Spikelet ovoid, narrowly ovoid, or ellipsoid-ovoid, 6-10 × ca. 3 mm or longer, densely many flowered, apex acute to obtuse. Basalmost glume empty, amplexicaul for whole spikelet base; fertile glumes pale to slightly rust-colored, tightly imbricate, oblong to suboblong, ca. 2.2 × 1 mm, margin hyaline, apex rounded. Perianth bristles 6, rust-colored, as long as nutlet or slightly shorter, densely to laxly retrorsely shortly spinulose. Stigmas 3. Nutlet dark yellow, obovoid, ca. 1.2 × 0.7 mm, 3-sided, sides convex, smooth; persistent style base depressed deltoid-pyramidal, 1/4-1/3 (to nearly 1/2) as long as nutlet, base cup-shaped and slightly narrower to as wide as nutlet, margin basally slightly involute, apex acute. Fl. and fr. May-Sep.
+  "Statistics": "Paddy fields, pond margins, riverbanks, moist soil; 100-600 m. Anhui, Fujian, Guangxi, Henan, Hubei, Hunan, Jiangsu, Shaanxi, Sichuan, Zhejiang [Japan, S Korea, Papua New Guinea, Russia (Far East), Vietnam].

@@ -1,0 +1,6 @@
+奇台棘豆",
+86.**Oxytropis qitaiensis** X. Y. Zhu H. Ohashi & Y. B. Deng, J. Jap. Bot. 74: 66. 1999.",
+
+## Description
+Herbs, 17-40 cm tall, acaulescent, from a short, multi-headed caudex. Stipules narrowly triangular, 8-10 × 2-3 mm, thickly leathery, with appressed dense trichomes, basally con-nate. Leaves 9-25 cm, 19-35-foliolate; petiole and rachis sub-glabrous or with appressed sparse trichomes; leaflet blades nar-rowly ovate to ovate, 1.9-2.8 × 0.4-1 cm, abaxially sometimes with dense glandular trichomes, adaxially subglabrous, apex cuspidate. Racemes capitate but becoming lax, many flowered; peduncle 17-40 cm, much longer than leaves; bracts narrowly triangular, 2.5-4 × ca. 0.6 mm, pubescent. Calyx campanulate, 5.3-6.5 mm, with whitish or blackish trichomes and sometimes with glandular trichomes; lobes linear-triangular, 2.3-3.5 mm, subequal, as long as tube. Corolla violet (when dry); standard ca. 1.6 cm, lamina orbicular, 8-10 × 6-8 mm, apex rounded and slightly retuse; wings 1.5-1.6 cm, apex emarginate; keel 1.5-1.6 cm, beak 1.5-2 mm. Legume stipitate; stipe 2-4 mm; body cylindric, ca. 1.8 × 0.4 cm, appressed short pubescent, apically attenuate to a long beak. Fl. Jun-Aug, fr. Jun-Aug.
+  "Statistics": "● Meadows, hillsides; 1900-2400 m. Xinjiang.

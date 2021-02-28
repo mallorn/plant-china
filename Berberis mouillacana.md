@@ -1,0 +1,7 @@
+变刺小檗",
+185.**Berberis mouillacana** C. K. Schneider in Sargent Pl. Wilson. 1: 371. 1913.",
+
+## Description
+Shrubs, deciduous, 1.5-3 m tall. Branches dark gray, sulcate; shoots sometimes reddish, not verruculose; spines simple, sometimes 3-fid or absent, pale yellow, terete, 3-18 mm. Petiole 2-5 mm, or leaf subsessile; leaf blade abaxially green, adaxially shiny, green, obovate or oblong-obovate, 1-6 × 0.5-3.5 cm, papery, abaxially not pruinose, not papillose, midvein slightly raised, lateral and reticulate veins conspicuous, adaxially with flat or slightly impressed midvein, lateral and reticulate veins inconspicuous, base cuneate, margin entire, occasionally inconspicuously 1-8-spinulose-serrate on each side, apex rounded, obtuse. Inflorescence usually a raceme with few fascicled flowers at base, or occasionally a subumbellate raceme with 4-12 flowers, 2-5 cm. Pedicels 3-15 mm, glabrous; bractlets lanceolate, ca. 3 × 1 mm, apex acuminate. Sepals in 2 whorls; outer sepals narrowly elliptic, 4-4.5 × 2-2.2 mm; inner sepals elliptic, 6-6.5 × 3-3.5 mm. Petals broadly elliptic, ca. 4.5 × 3 mm, base with separate glands, apex emarginate. Stamens ca. 3 mm; anther connective truncate. Ovules 2-4. Berry ovoid-ellipsoid, 9-10 × 5-6 mm, not pruinose, style persistent. Fl. Apr-May, fr. Jul-Sep.
+  "Statistics": "● Floodlands, forests, forest margins, roadsides on slopes; 2000-3500 m. Qinghai, Sichuan.
+  "Synonym": "*Berberis boschanii* C. K. Schneider.

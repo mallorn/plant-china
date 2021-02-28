@@ -1,0 +1,14 @@
+四花薹草",
+138.**Carex quadriflora** (Kükenthal) Ohwi Acta Phytotax. Geobot. 1: 74. 1932.",
+
+## Description
+Rhizome short, obliquely ascending. Culms densely tufted, lateral, 15-30 cm tall, not exceeding 1 mm thick, triquetrous, scabrous at upper part, purple-red sheathed at base. Leaves shorter than culm, nearly equaling culm after fruiting, blades 2-4 mm wide, soft, flat, smooth, purple-red and persistent sheathed. Involucral bracts red-brown, spathelike, membranous on margins, truncate at apex, involucral bract blade awn-shaped. Spikes 2 or 3, remote; terminal spike male, shorter than adjacent female spike, linear, 4.5-10 mm, 1-2 mm thick; lateral spikes 1 or 2, female, linear, 1-1.5 cm, 2-2.5 mm thick, loosely 2-4(-6)-flowered; peduncles filiform, 1-3 cm, soft; rachis tortuous. Female glumes ferruginous laterally, green at middle, obovate-oblong, ca. 3 mm, 1-veined, margins broadly white hyaline, apex rounded, mucronate. Utricles yellowish green, longer than glumes, obovate, obtusely trigonous, subplano-convex, 4-5 mm, loosely pubescent, 2-veined laterally, not distinctly thinly veined, base abruptly contracted into a short stipe, apex rounded and shortly beaked, beak ferruginous, truncate at orifice. Nutlets pale ferruginous at maturity, obovate, trigonous, 3.5-4 mm, base contracted into a short stipe, apex abruptly contracted into a short beak; style short, base not thickened; stigmas 3. Fl. and fr. May-Jun.
+  "Statistics": "*Xylosma* or *Pinus* forests; 800-1400 m. Hebei, Heilongjiang, Liaoning [Korea, Russia (Far East)].
+  "Synonym": "*Carex digitata* Linnaeus subsp. *quadriflora* Kükenthal in Engler, Pflanzenr. 38(IV. 20): 497. 1909; *C. digitata* var. *pallida* Meinshausen.
+**122. 四花薹草（东北植物检索表）**
+
+Carex quadriflora (Kukenth.) Ohwi in Acta. Phytotax. et Geobot. 1: 74, 1932 et Cyper. Japon. 1: 397, 1936; Kitagawa in Bot. Mag. Tokyo 68: 16, 1934; V. Krecz. in Kom., Fl. URSS 3: 361, 1935; Akiyarna, Caric. Far East. Reg. Asia231, pl. 238, fig. 1, 1955; 东北植物检索表534, 图版195, 图5, 1959; 东北草本植物志11: 123, 图版55, 图6-10, 1976; 北京植物志, 下册: 1308, 图1574, 1987; 河北植物志3: 425, 图2078, 1991.——Carex digitata L. var. pallida Meinsh. in Acta Hort. Petrop. 18: 401, 1901; T. Koyama in Journ. Fac. Sci. Univ. Tokyo III, 8 (4): 178, 1962.——Carex digitata L. subsp. quadrifloraKukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 497, 1909.——Carex digitata auct. non L.: Kom., Fl. Mansh. 1: 398, 1901.
+
+根状茎短，斜生。秆密丛生，侧生，高15-30厘米，纤细，粗不及1毫米，钝三棱柱形，上部粗糙，基部具紫红色的叶鞘。叶短于秆，但果后延伸与秆近等长，平张柔软，宽2-4毫米，光滑，基部具紫红色的宿存叶鞘。苞片佛焰苞状，红褐色，顶端斜截形，边缘膜质，具芒状苞叶。小穗2-3个，彼此稍疏远；顶生的1个雄性，常低于相邻雌小穗的基部或更低，线形，长4.5-10毫米，粗1-2毫米；侧生的1-2个为雌性小穗，线形，长1-1.5厘米，粗2-2.5毫米，具2-4 (6) 朵疏生的花；小穗柄纤细如丝状，长1-3厘米，柔软，小穗轴多次曲折。雄花鳞片倒卵状长圆形，长约3毫米，顶端钝，锈色，具宽的白色膜质边缘；雌花鳞片倒卵状长圆形，长约3毫米，顶端圆，通常具短尖，两侧锈色，具宽的白色膜质边缘，中间绿色，有1条中脉。果囊长于鳞片，倒卵形，钝三棱形，长4-5毫米，淡黄绿色，疏被短柔毛，背面平，腹面凸起，除2侧脉外，无明显细脉，基部急缩成短柄，顶端圆，具短喙，喙部锈色，喙口全缘。小坚果倒卵形，三棱形，长3.5-4毫米，成熟时淡锈色，基部收缩成短柄，顶端骤缩成短喙；花柱甚短，基部不增粗，柱头3个。
+
+产于黑龙江、辽宁、河北；生于山坡柞树或红松林下，海拔800-1400米；俄罗斯（远东地区）及朝鲜也有分布。模式标本采自黑龙江。

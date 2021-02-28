@@ -1,0 +1,10 @@
+溪生角蕨",
+10.**Cornopteris banajaoensis** (C. Christensen) K. Iwatsuki & M. G. Price S. E. Asian Stud. 14: 564. 1977.",
+
+> The species epithet is sometimes misspelled as *“banahaoensis.”*
+
+## Description
+Plants evergreen. Rhizome ascending, apex with ovate-lanceolate entire brown scales; fronds caespitose. Fertile fronds up to 1.2 m; stipe green-stramineous, almost as long as lamina, 20-60 cm or longer, ca. 3 mm in diam., base swollen, 3-ridged in cross section, sparsely scaly; lamina 2-pinnate with pinnatisect pinnules, or nearly 3-pinnate, up to 65 × 50 cm, broadly ovate, ovate-deltoid, or deltoid; pinnae 10-12 pairs, opposite or subalternate, ascending, nearly symmetrical, lower pinnae broadly elliptic-lanceolate, stalked, basal pinnae up to 30 × 10 cm, basal pinnules markedly smaller; pinnules up to 13 pairs, alternate, spreading, nearly symmetrical, lanceolate or elliptic-lanceolate, up to 8 × 2.5 cm, base subtruncate, shortly stalked or adnate, pinnatisect close to costule, basal acroscopic lobes smaller, close to costa, basiscopic lobe oblique, apex acuminate or acute; pinnule lobes oblong or elliptic, slightly oblique, margin dentate, apex truncate or rounded; veins visible abaxially, not prominent adaxially, veinlets 5-7 pairs per lobe, simple or forked, ascending. Lamina thinly herbaceous when dry, brown abaxially, dark brown adaxially, glabrous on both surfaces. Sori orbicular or suborbicular, medial or inframedial, or subcostular, 3-5 pairs per lobe. Spores reniform in equatorial view, perispore prominent, few rugate, inconspicuously granular. 2*n* = 80.
+
+> Wet forests; 800-2700 m. Taiwan [India (Sikkim), Japan, Nepal, Philippines].
+  "Synonym": "*Dryopteris banajaoensis* C. Christensen, Index Filic., Suppl. 1906-1912: 30. 1913, based on *D. tenerrima* Copeland, Philipp. J. Sci. Bot. 4: 111. 1909, not Rosenstock (1906); *Athyrium fluviale* (Hayata) C. Christensen; *A. nudum* Copeland; *A. tagawai* C. Christensen; *Cornopteris fluvialis* (Hayata) Tagawa; *C. tashiroi* Tagawa; *D. athyriiformis* Rosenstock; *D. fluvialis* Hayata; *Phegopteris banajaoensis* (C. Christensen) Alderwerelt.

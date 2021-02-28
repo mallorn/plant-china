@@ -1,0 +1,6 @@
+麻栗坡叉柱兰",
+13.**Cheirostylis malipoensis** X. H. Jin & S. C. Chen Acta Phytotax. Sin. 45: 797. 2007.",
+
+## Description
+Plants 10-12 cm tall. Rhizome creeping, 8-20 × 2-2.5 mm, fleshy, nodes slightly contracted. Stem erect, 5-30 mm, 1-4-leaved. Leaves green, often reticulated with dark green, ovate-cordate, 1.2-2 × 0.9-1.2 cm, apex acute to subacuminate; petiole-like base and sheath 0.6-0.8 cm. Inflorescence 6-9 cm, pubescent, with 2 or 3 sterile bracts; rachis short, usually less than 1 cm, 2-4-flowered; floral bracts ovate-lanceolate, 7-9 mm, apex acuminate. Flowers white; pedicel and ovary 4-6 mm, sparsely villous. Sepals 4-5 mm, basal 1/2 connate and forming a tube, sparsely villous on outer surface toward base; free apical lobes triangular-ovate, 2-2.5 mm, subobtuse. Petals appressed to dorsal sepal, narrowly lanceolate-oblong, 3.5-4 × ca. 1.5 mm; lip 6-9 mm, 3-partite; hypochile saccate, ca. 2 × 1.5 mm, divided by a longitudinal septum into 2 parts, each part with 2 horn-shaped calli (rarely with just 1 callus on each side); mesochile ca. 1 mm; epichile with 2 green or beige spots at base, deeply bilobed; lobes flabellate, ca. 4 × 4 mm, apical margin 3-5-toothed. Column 1-2 mm; stelidia ca. 1 mm, slightly longer than rostellum arms. Fl. Dec-Feb.
+  "Statistics": "&amp;#9679; Forests on limestone mountains, thickets; ca. 1100 m. SE Yunnan.

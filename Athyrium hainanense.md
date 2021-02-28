@@ -1,0 +1,14 @@
+海南蹄盖蕨",
+25.**Athyrium hainanense** Ching Acta Bot. Boreal.-Occid. Sin. 6(2): 101. 1986.",
+
+## Description
+Rhizomes ascending, apex densely clothed with dark brown, linear-lanceolate scales. Fronds caespitose; fertile fronds (30-)40-50 cm; stipe blackish brown at base, upward stramineous, 25-30 cm, ca. 3.5 mm in diam., base similarly scaly, slightly swollen, but not sharpened toward very base, upward glabrate; lamina 2-pinnate, deltoid-ovate, 16-24 × 12-20 cm at base, base almost not narrowed, rounded-truncate, apex abruptly narrowed; pinnae under abruptly narrowed apex 6 or 7 pairs, opposite or subopposite, slightly ascending, with short stalk ca. 1.5 mm or sessile; basal pinnae slightly shortened, oblong-lanceolate, up to 13 × ca. 4.5 cm, base abruptly narrowed, pinnate, apex acuminate; pinnules ca. 14 pairs, basal pinnae subopposite, upper pinnae alternate, spreading, approximate; basal 1 or 2 pairs of pinnules free, others adnate to costa; basal third to fifth basiscopic pinnules longest, oblong-lanceolate, ca. 2.8 cm × 8 mm at middle, pinnatilobate, apex acute or obtuse-rounded; pinnule segments toothed at margin, acroscopic pinnules slightly shorter, narrowly oblong, ca. 1.5 cm × 5 mm at middle, apex obtuse-rounded; second basal pinnae slightly longer than basal pinnae; third basal pinnae subequal to basal pinnae, but broader, not narrowed at base; veins inconspicuous adaxially, visible abaxially, pinnate in pinnules, lateral veins 10-13 pairs, basal veins forked, upper veins simple, but pinnate in basal acroscopic pinnule segments. Lamina thickly papery when dried, brown-green, glabrate on both surfaces; rachis and costae abaxially brown-stramineous, with dense brownish short glandular hairs. Sori oblong, on basal acroscopic veins, only 1 per segment, biseriate on both sides of midrib, single, occasionally double, inframedial; indusia brown, similar to sori in shape, membranous, entire, persistent. Perispore surface without folds, with granular ornamentation.
+
+> ● Forests on mountain slopes; 1500-1800 m. Hainan (Wuzhi Shan).
+**26. 海南蹄盖蕨（西北植物学报）图版32: 1-4**
+
+Athyrium hainanense Ching in Ching et Hsieh in Acta Bot．Bot. -Occ. Sin. 6 (2): 101. 1986．
+
+根状茎斜升，先端和叶柄基部密被深褐色、线状披针形的鳞片；叶簇生。能育叶长(30-)40-50厘米；叶柄长25-30厘米，基部直径3.5毫米，黑褐色，略膨大，向基部不尖削，向上禾秆色，光滑；叶片三角状卵形，长16-24厘米，基部宽12-20厘米，先端急狭缩，基部几不变狭，圆截形，二回羽状；急缩部以下有6-7对大羽片，对生或近对生，略斜展，有短柄（长约1.5毫米）或无柄，基部一对略缩短，长圆状披针形，长达13厘米，中下部宽约4.5厘米，先端渐尖，基部突变狭，一回羽状；小羽片14对，基部的近对生，向上的互生，平展，彼此接近，除基部1-2对与羽轴分离外，其余均与羽片合生，基部下侧第三对小羽片起较长，长圆状披针形，长2.8厘米，中部宽约8毫米，钝圆头或尖头，两侧浅羽裂，裂片边缘有锯齿，上侧小羽片较短，狭长圆形，长1.5厘米，中部宽5毫米，钝圆头，两侧浅裂，裂片边缘有钝齿；第二对羽片比基部一对略长，第三对羽片与基部一对几等大，基部不变狭，较阔。叶脉上面不显，下面可见，在小羽片上为羽状，侧脉10-13对，中下部的分叉，上部的单一，但基部上侧裂片上的为羽状。叶干后厚纸质，中部褐绿色，下面褐绿色，两面无毛；叶轴和羽轴下面褐禾秆色，密被浅褐色短腺毛。孢子囊群长圆形，生于基部上侧小脉，每裂片1枚，在主脉两侧各排成1行，略近主脉；囊群盖同形，褐色，膜质，全缘，宿存。少有孢子囊生于小脉两侧。孢子周壁表面无褶皱，有颗粒状纹饰。
+
+特产于海南（五指山）。生山坡林下，海拔1500-1800米。

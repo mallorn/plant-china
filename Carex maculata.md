@@ -1,0 +1,13 @@
+斑点果薹草",
+83.**Carex maculata** Boott Trans. Linn. Soc. London. 20: 128. 1846.",
+
+## Description
+Rhizome slender, ligneous. Culms tufted, 30-55 cm tall, slightly thin, triquetrous, smooth, few yellowish brown and bladeless sheathed at base. Leaves shorter than culm, blades 3-6 mm wide, flat, smooth, sheathed. Involucral bracts leaflike, longer than inflorescences, sheathed, sheath rather long in lowermost part and short in upper part. Spikes 3 or 4, lowermost spike remote, others congregated at top of culm; terminal spike male, linear-cylindric, (1.5-)2-6 cm, nearly sessile; lateral spikes female, oblong-cylindric to cylindric, (1-)2-4 cm, densely many flowered, lower spikes rather long pedunculate, upper shortly pedunculate. Female glumes yellowish brown, with short ferruginous striae, oblong-ovate or ovate, ca. 2 mm, membranous, 3-veined and green on veins, apex acute or obtuse, sometimes mucronate. Utricles yellow-brown, becoming dark purple, obliquely patent, longer than glume, broadly obovate or nearly broadly elliptic, trigonous, 2.2-2.5 mm, membranous, densely purple papillate, 3-5-veined, base gradually attenuate and cuneate, apex abruptly contracted into a very short beak, orifice subtruncate or emarginate. Nutlets yellowish brown, tightly enveloped in utricle, broadly obovate or broadly elliptic, trigonous, ca. 1.5 mm, base abruptly contracted into a short stipe, apex with inflected mucro; style base not thickened; stigmas 3.
+  "Statistics": "Wet places at ditch sides in valleys, forests, grasslands at the foot of mountains; 400-1300 m. Fujian, Guangdong, Hunan, Jiangsu, Jiangxi, Sichuan, Taiwan, Zhejiang [India, Indonesia, Sri Lanka].
+**75. 斑点果薹草 图版28: 1-4**
+
+Carex maculata Boott in Trans. Linn. Soc. 20: 128, 1846 et Illustr. Carex 1: 9, t. 26, 1858; C. B. Clarke in Hook. f., Fl. Brit. India 6: 735, 1894 et in Journ. Linn.Soc. Bot. 36: 297, 1904; Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 427, 1909 et in Fedde, Repert. 27: 315, 1911, incl. forma viridans Kukenth. ; Hayata, Icon. Plant Formos. 10: 60, 1921; Akiyarna, Consp. Caric. Japon. 125, f. 23, 1932; Ohwi in Cyper. Japon. 1: 435, 1936.
+
+根状茎较细而长、木质。秆丛生，高30-55厘米，稍细，三棱形，平滑，基部具少数淡黄褐色无叶片的鞘。叶通常短于秆，宽3-6毫米，平张，平滑，具鞘。苞片叶状，长于花序，具苞鞘，最下面的苞片具较长的鞘，上面的鞘比较短。小穗3-4个，最下面的一个稍远离，其余的均聚集生于秆的上端，顶生小穗为雄小穗，线状圆柱形，长（1.5) 2-6厘米，近于无柄，侧生的小穗为雌小穗，长圆状圆柱形至圆柱形，长 (1) 2-4厘米，密生多数花，下面的小穗具较长的柄，上面的具短柄。雄花鳞片长圆状披针形，长约4毫米，顶端钝，有的具短尖，膜质，淡黄褐色，具3条绿色的脉；雌花鳞片长圆状卵形或卵形，长约2毫米，顶端急尖或钝，有的具短尖，膜质，淡黄褐色，稍带锈色短条纹，具3条绿色的脉。果囊斜展，长于鳞片，宽倒卵形或近宽椭圆形，三棱形，长2. 2-2.5毫米，膜质，黄棕色，后期呈暗紫色，具3-5条脉，密生紫红色乳头状突起，基部渐狭成楔形，顶端骤缩成很短的喙，喙口近截形或微缺。小坚果紧包于果囊内，宽倒卵形或宽椭圆形，三棱形，长约1.5毫米，淡黄褐色，基部急缩成短柄，顶端具弯的短尖；花柱基部不增粗，柱头3个。
+
+产于江苏、浙江、江西、福建、台湾、广东、湖南、四川等省；生于山谷沟边湿地、林下湿地、山脚路边草地，海拔470-1250米。也分布于印度、印度尼西亚和斯里兰卡。

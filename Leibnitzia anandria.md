@@ -1,0 +1,15 @@
+大丁草",
+1.**Leibnitzia anandria** (Linnaeus) Turczaninow in Schtscheglow Ukaz. Otkryt. 8(1): 404. 1831.",
+
+## Description
+Herbs, perennial, dimorphic; rhizome covered by marcescent petiole. Vernal phase: leaves in basal rosette; petiole 2-4 cm, white lanuginous; leaf blade oblanceolate or obovate-oblong, 2-6 × 1-3 cm, papery, abaxially arachnoid lanate, adaxially subglabrous, base attenuate, obtuse, subtruncate, or shallowly cordate, margin denticulate, sinuate, runcinate, apex mucronate. Scapes 1 or tufted, 5-20 cm, arachnoid lanate; bracts many, subulate or linear, 6-7 mm. Capitula solitary, terminal, radiate, 1-1.5 cm in diam.; involucre obconic; phyllaries ca. 3-seriate, abaxially lanuginous, outer phyllaries linear, ca. 4 mm, inner phyllaries linear-lanceolate, ca. 8 mm. Marginal female florets bilabiate, outer lips oblong, adaxially white, abaxially pink, or both surfaces pink, 3-8 × 1-1.5 mm, inner lips filiform, 1.5-2 mm, coiled; central bisexual florets many, bilabiate, tubular, corolla 6-8 mm, outer lips oblong, ca. 3 mm, inner lips 2.5-3 mm. Achenes fusiform, 5-6 mm, hairy; pappus dark white, 5-7 mm. Fl. Mar-Jul. Autumnal phase: leaves in basal rosette; petiole 2.5-8.5(-25) cm, arachnoid lignose; leaf blade ovate or ovate-lanceolate, 6-15 × 4-6.5 cm, papery, abaxially arachnoid lanate, adaxially subglabrous, base attenuate, subtruncate, or shallowly cordate, margin denticulate or sinuate, apex mucronate. Scapes 1 or tufted, 15-35 cm, arachnoid lanate; bracts many, subulate or linear, 1-1.5 cm. Capitula solitary, terminal, radiate, 1.5-2 cm in diam.; involucre campanulate; phyllaries ca. 3-seriate, abaxially lanuginous, outer phyllaries linear, 5-6 mm, inner phyllaries linear, 15-16 mm. Florets cleistogamous, closed, marginal florets female, 1-seriate, bilabiate, tubular, corolla ca. 8 mm; central bisexual florets many, bilabiate, tubular, corolla ca. 7 mm. Achenes fusiform, ca. 7 mm, hairy; pappus dark white, 11-12 mm. Fl. Aug-Nov. 2*n* = 46.
+  "Reference": "This is a very variable species, especially in the leaf morphology.This is a very variable species, especially in the leaf morphology.
+  "Statistics": "Mountain slopes, summits, or valleys; 600-2600 m. Throughout China except Xinjiang and Xizang [Japan, Korea, Russia (Sakhalin, Siberia)].
+  "Synonym": "*Tussilago anandria* Linnaeus, Sp. Pl. 2: 865. 1753; *Anandria laevipes* Gandoger; *Gerbera anandria* (Linnaeus) Schultz Bipontinus; *G. anandria* var. *densifolia* Mattfeld; *G.* *anandria* var. *densiloba* Mattfeld; *G. anandria* var. *integripetala* (Hayata) Yamamoto; *G. bonatiana* (Beauverd) Beauverd f. *cavaleriei* (Vaniot &amp; H. Léveillé) H. Léveillé; *G. cavaleriei* Vaniot &amp; H. Léveillé; *G. integripetala* Hayata; *G. pterodonta* Y. C. Tseng; *Perdicium anandria* (Linnaeus) R. Brown; *P.** tomentosum* Thunberg.
+**7b.多裂大丁草**
+
+Gerbera anandria (Linn.) Sch. -Bip. var. densiloba Mattf. in Notizbl. Bot. Gart. Berlin 11: 110. 1931.
+
+本变种的叶较大，倒卵状披针形，长15-25厘米，多裂，裂片4-8对，整齐，近对生，顶裂大，卵形或阔心形，长5-8厘米，宽3-6.5厘米，花葶上的苞叶大，线形，长4.5-8厘米，宽2-3毫米而与原变种有别。
+
+产于四川（南川）和贵州（遵义金顶山）。生于疏林下或荒坡上。模式标本采自四川南川。

@@ -1,0 +1,15 @@
+三角鳞毛蕨",
+116.**Dryopteris subtriangularis** (C. Hope) C. Christensen Index Filic. 296. 1906.",
+
+## Description
+Rhizome ascending, 2-2.5 cm in diam., covered with scales at apex. Fronds caespitose. Stipes stramineous, 20-30 cm, 1-1.5 mm in diam., base dark brown and densely covered with scales; scales black or blackish brown, linear-lanceolate; scales upward smaller or subglabrous. Lamina deltoid-lanceolate, 30-35 × 20-25 cm, widest at base, bipinnate, with a somewhat caudate apex. Pinnae 5-7 pairs, broadly lanceolate; basal pinnae largest, up to 12-13 × 4-5 cm, stalked, other pinnae sessile. Pinnules distinct on lower part of lamina, usually 4-6 pairs on each pinna, oblong; pinnules on basiscopic side of lowest pinnae larger than those on acroscopic side, ca. 3 × 1 cm, truncate at base, pinnatifid, obtuse and toothed at apex. Veins pinnate; veinlets simple or forked, visible abaxially. Lamina herbaceous, dark green, glabrous adaxially, scaly abaxially; rachis subglabrous; pinna rachis and costa covered with bullate, brown scales. Sori orbicular, medial; indusia brown, reniform, entire.
+
+> Tropical, subtropical, or warm-temperate forests; 500-1500 m (in Taiwan). Guangxi, Guizhou, Hainan, Sichuan, Taiwan, Xizang, Yunnan [India, Myanmar, Philippines, Thailand, Vietnam].
+  "Synonym": "*Nephrodium subtriangulare* C. Hope, J. Bot. 28: 327. 1890; *Dryopteris acutidens* Ching (1959), not C. Christensen (1905); *D. caudifrons* Ching; *D. subassamensis* Ching; *D. uropinna* Price; *Lastrea filix-mas* (Linnaeus) C. Presl var. *subtriangularis* (C. Hope) Beddome.
+**110. 三角鳞毛蕨 图版36: 7**
+
+Dryopteris subtriangularis (Hope) C. Chr. Ind. Fil. 296. 1906; Ching in Bull. Fan Mem. Inst. Biol. Bot. 8: 485. 1938: Tard. -Blot et C. Chr. in Lecomte, Fl. Gen. Indo-Chine 7 (2): 315. Pl. 35. f. 1-2. 1940; Ching et Y. X. Ling in Acta Phytotax. Sin. 22 (3): 202. 1984; Fraser-Jenkins in Bull. Br. Mus. Nat. Hist. Bot. 18 (5): 430. f. 53. 1989. ——Nephralium subtriangulare Hope in Journ. Bot. Lond. 28. 327. 1890. ——Lastrea filix-mas var. subtriangularis (Hope) Bedd. Suppl. Ferns Brit. Ind. 56. 1892. ——Dryopteris subassamensis Ching in Bull. Fan Nem. Inst. Biol. Bot. 8: 451. 1938. ——Dryopteris uropinna Price in Gard. Bull. Sing. 30: 244. t. 1. 1977; C. M. Kuo in Taiwania 30: 31. 1985 (excl. syn). ——Drypteris erythrosora auct. non O. Kuntze, 1891: Wu, Wang et Pong in Bull. Dept. Bipl. Sun Yatsen Univ. 3: 38. t. 10. 1932. ——Dryopteris acutidens auct. non C. Chr. , 1905: Ching in Acta Phytotax. Sin. 8: 141. pl. 21. f. 24. 1959;海南植物志 1: 144. 1964. ——Dryopteris caudifrons Ching in Acta Phytotax. Sin. 8: 148. pl. 22. f. 25. 1959; 海南植物志 1: 144. 1964.
+
+植株高约40-50厘米。根状茎横卧或斜升, 粗约2-2. 5厘米。叶簇生; 叶柄长约20-30厘米，宽约1-1.5厘米，基部密被鳞片，向上近光滑，禾秆色；鳞片披针形，黑色或黑棕色；叶片三角形，长约30-35厘米，基部最宽，宽约20-25厘米，二回羽状；羽片约5-7对，基部一对羽片最大，长约12-13厘米，宽约4-5厘米，基部具柄，往上羽片逐渐变小，到第四对羽片其长度仅有基部羽片的一半；通常叶片基部的1-3对羽片的小羽片明显，小羽片约4-6对，矩圆形，基部羽片的下侧小羽片最大，长约3厘米，宽约1厘米，顶端圆，并具疏齿，基部截形；边缘具波状齿或羽状浅裂。叶脉上面不明显，下面可见，小羽片的侧脉羽状，小脉单一或二叉。叶纸质，干后灰绿色，叶轴近光滑，羽轴和小羽片中脉基部具有较多的棕色泡状鳞片。孢子囊群大，位于小羽片中脉与叶边缘之间；囊群盖圆肾形，棕色，全缘。
+
+产台湾、海南、广西、四川、贵州、云南、西藏。越南、菲律宾、泰国、缅甸和印度也有。模式标本采自印度东北部。

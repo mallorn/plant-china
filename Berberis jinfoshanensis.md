@@ -1,0 +1,6 @@
+金佛山小檗",
+96.**Berberis jinfoshanensis** T. S. Ying Acta Phytotax. Sin. 37: 316. 1999.",
+
+## Description
+Shrubs, evergreen, 1.5-2 m tall. Branches dark gray, terete, not verruculose; shoots stramineous, glabrous; spines 3-fid, concolorous, 1-3.5 cm, adaxially slightly sulcate. Petiole 2-4 mm; leaf blade abaxially grayish white or yellow-green, adaxially dark green, elliptic, 3-7 × 1.3-2.5 cm, leathery, abaxially slightly pruinose, midvein and lateral veins raised, adaxially with impressed midvein, lateral veins 5-7 pairs, slightly raised, both surfaces with indistinct reticulate veins, base cuneate, margin 3-10-spinose-serrate on each side, apex acute. Flowers 5-8-fascicled; bracts ovate-triangular, ca. 2 × 1 mm. Pedicels 1.5-2 cm, glabrous; bractlets ovate, ca. 2 × 2 mm. Sepals in 2 whorls; outer sepals obovate, ca. 5 × 3.5 mm; inner sepals oblong, ca. 5.5 × 4 mm. Petals obovate, 5-6 × 4-5.5 mm, base clawed, with approximate ovate glands, apex entire. Stamens 4.2-5 mm; anther connective slightly prolonged, obtuse. Ovules (2 or)3. Berry (immature) black, ellipsoid, 7-8 × 5-6 mm, densely white pruinose, style persistent. Fl. Mar-Apr, fr. May-Aug.
+  "Statistics": "● Mixed forests, weedy slopes; ca. 1600 m. Chongqing.

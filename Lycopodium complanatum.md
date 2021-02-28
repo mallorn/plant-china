@@ -1,0 +1,31 @@
+扁枝石松",
+10.**Lycopodium complanatum** Linnaeus Sp. Pl. 2: 1104. 1753.",
+
+> *Diphasiastrum wilceae*, described from Sichuan and with additional distribution in Guangdong, Guizhou, Taiwan, and Yunnan, is provisionally treated as a synonym of *Lycopodium complanatum* considering the wide distribution and morphological variation of the latter.
+
+## Description
+Plants small to medium-sized, terrestrial; stolons completely or mostly subterranean; leaves on stolon spatulate or ovate, membranous or thickly membranous, grayish brown or dark brown; aerial shoots creeping, up to 100 cm. Lateral branches suberect, up to 15 cm tall, dichotomously branched with well-differentiated lateral branchlets much branched, branchlets obviously flattened; sterile branchlets light green or grayish green abaxially. Leaves arranged in 4 rows, dense, triangular, 1-2 × ca. 1 mm, herbaceous, midrib indistinct, base appressed on branches, sessile, margin slightly involute, entire, apex acute. Strobili (1-)3-5(or 6), terminal on peduncles (10-20 cm), pale yellow, terete, 1.5-3 cm; sporophylls broadly ovate, imbricate, ca. 2.5 × 1.5 mm, margin membranous, with irregular teeth, apex acute, caudate. Sporangia enclosed.
+
+> Forests, shrubs, grasslands of mountain slopes; 700-2900 m. Anhui, Guangdong, Guangxi, Guizhou, Hainan, Hubei, Hunan, Jiangxi, Sichuan, Xinjiang, Xizang, Yunnan, Zhejiang [widespread in temperate and subtropical regions].
+  "Synonym": "*Diphasiastrum complanatum* (Linnaeus) Holub; *D. complanatum* var. *anceps* Ascherson; *D. wilceae* Ivanenko; *Diphasium anceps* Á. Löve &amp; D. Löve; *D. complanatum* (Linnaeus) Rothmaler; *Lepidotis complanata* (Linnaeus) P. Beauvois; *Lycopodium anceps* Wallroth (1840), not C. Presl (1825); *L. wilceae* X. C. Zhang; *Stachygynandrum complanatum* (Linnaeus) C. Presl.
+**1. 扁枝石松（云南植物研究）　地刷子（四川中药志）　图版17: 1-9**
+
+Diphasiastrum complantum (L.) Holub in Preslia 47: 108, 232. 1975; Ching inActa Bpt. Yunnan. 4(2): 127. 1982; Fl. Xizang. 1: 14. 1983: P. S. Wang et X. Y. Wang in Guizhou Sci. 1983 (2): 49. 1983; Dixit, Census Ind. Pterid. 10. 1984, et Ly-COP. Ind. 84, f. 22B, f. 47, Pl. V: f. 22. 1988; H. S. Kung, Fl. Sichuan. 6: 50, Pl. 14: 1-4. 1988; B. Ollg. Index Lycop. 6. 1989; Bir et al. in Ind. Fern J. 6: 33. 1989: J. Z. Wang in Bull. Bot. Res. (Harbin) 9(4): 74. 1989, et in Journ. Hebei Forest. Coll. 5(2): 116. 1990: P. S. Wang, Pterid. Fanjing Mt. 19. 1992: Fl. Xinjiang 1: 5, Pl. 1: 4-7. 1992: Fl. Dulongjiang Reg. 2. 1993; Fl. Jiangxi 1: 22, f. 6. 1993: F1. Zhejiang 1: 6, f. 1-5. 1993; Vasc. Pl. Hengduan Mts. 1: 5. 1993; C. Keys Vasc. Pl. Wuling Mts. 5. 1995; L. B. Zhang et H, S. Kung in Acta Phytotax. Sinica 38(3): 273. 2000. —— Lycopodium complanatum L. Sp. Pl. 2: 1104. 1753; C. B. Clarke in Trans. Linn. Soc. II. Bot. 1: 593. 1880: Baker, Handb. Fern Allies 28. 1887; Christ in Bull. Acad. Geogr. Bot. 11: 272. 1902: Alderw, Malay. Fern-allies 51. 1915; C. Chr. inMeddel. Fran. Goteb. Bot. Tradg. 109. 1924; Nessel, Baerlappge. 327. 1939: Alstonin Fl. Indo-Chine 7(2): 554. 1951; S. H. Fu, Ill. Important Chinese Pl., Pterid. 5, f. 7. 1957; Tagawa, Col. Ill. Jap. Pterid. 14, Pl. 3: 16. 1959; Wilce in Beih. Nova Hed-wigia 19: 133. 1965: Ic. Corm. Sin. 1: 109, f. 218. 1972; De Vol in H. L. Li, Fl. Taiwan 1: 38, Pl. 6. 1975; Y. L. Chang et al, Sporae Pterid. Sin. 38, f. 7: c-d. Pl. 2: 9-12. 1976; Fl. Fukien 1: 8, f. 4. 1982; Nakaike, N. Fl. Jap. Pterid. 18, f.18a-b. 1982; K. Iwats., S. K. Wu et al. in J. Fac. Sci. Univ. Tokyo III, 14: 12. 1986; B. Ollg. in Opera Bot. 92: 172. 1987, et l. c. 39; Fl. Fuj ian. rev. 1: 8, f. 4. 1991; K. Iwats., Ferns Fern Allies Jap. 48, Pl. 6: 2. 1992: J. L. Tsai et W. C. Shiehin T. C. Huang, Fl. Taiwan ed. 2, 1: 35, Pl. 5. 1994. —— Lepidotis complanata (L.) P. Beauv. in Prodr. Aeth. 108. 1805. —— Stachygymnandrum complanatum (L.) C. Presl in Abh: Koenigl. Boehm. Ges. Wiss. 3: 583. 1845. —— Diphasium complanatum (L.) Rothm. in Fedde, Repert. Sp. Nov. 54: 64. 1944, et in Fl. Europ. 1: 4. 1964; U. Sen et T. Senin Fern Gaz. 11(6): 424, f. 5: a-j. 1978. —— Lycopodium chamae-cyparissus A. Braun ex Mutel in Fl. Franc. 4: 192. 1837. —— L. complanatum L. var. chamaecyparissus (A. Braun ex Mutel) D. C. Eaton sensu Matsum. Ind. 358. 1904; Takeo, Ill. Formos. Pl. Suppl. 18, f. 18. 1928; Tagawa, Col. Ill. Jap. Pterid. 228. 1959; Davis, Fl. Turk. E. Aege. Isl. 35. 1965. —— Diphasium chamaecyparissus (A. Braun ex Mutel) L. Love et D. Love in Bot. Not. 114: 34. 1961. —— L. anceps Wallr. inLinnaea 14: 276. 1840; Iljin in Kom., Fl. URSS. 1: 121, t. 6. f. 13a-b. 1934; Herb. Pl. Northeast. China 1: 6, f. 8. 1958, non C. Presl 1825. —— Diphasiastrumcomplanatum (L.) Holub var. anceps (Wallr.) Aschers. Fl. Brand. 1: 894. 1864; Ching in Acta Bot. Yunnan. 4(2): 127. 1982; Fl. Intramong. 1: 51, Pl. 1: 1-3. 1985. —— Diphasium anceps (Wallr.) L. Love et D. Love in Nucleus 1(1): 7. 1958. ——L. multispicatum Wilce in Nova Hedwigia 3, 1: 103. 1961, et in Beih. NovaHedwigia 19: 148. 1965: De Vol et C. M. Kuo in Taiwania 24: 108, Pl. 1. 1979; C. M. Kuo in Taiwania 30: 12. 1985: B. Ollg. l. c. 57; J. L. Tsai et W. C. Shieh, l.c. —— L. yueshanense C. M. Kuo in Taiwania 30: 52. 1985; B. Ollg. in Opera Bot. 92: 172. 1987, et l. c. 78. —— Diphasiastrum yueshanense (C. M. Kuo) Holub in FoliaGeobot. Phytotax. 26: 92. 1991.
+
+小型至中型土生植物，主茎匍匐状，长达100厘米。侧枝近直立，高达15厘米，多回不等位二叉分枝，小枝明显扁平状。叶4行排列，密集，三角形，长1-2毫米，宽约1毫米，基部贴生在枝上，无柄，先端尖锐，略内弯，边缘全缘，中脉不明显，草质。孢子囊穗（1) 2-5 (6)个生于长10-20厘米的孢子枝顶端，圆柱形，长1.5-3.0厘米，淡黄色；孢子叶宽卵形，覆瓦状排列，长约2.5毫米，宽约1.5毫米，先端急尖，尾状，边缘膜质，具不规则锯齿；孢子囊生于孢子叶腋，内藏，圆肾形，黄色。
+
+本种可根据颜色分为两个变型。
+**1a. 扁枝石松（原变种）**
+
+var. complanatum
+
+小型至中型土生植物，主茎匍匐状，长达100厘米。侧枝近直立，高达15厘米，多回不等位二叉分枝，小枝明显扁平状，灰绿色或绿色。叶4行排列，密集，三角形，长1-2毫米，宽约1毫米，基部贴生在枝上，无柄，先端尖锐，略内弯，边缘全缘，中脉不明显，草质。孢子囊穗(1)2-5(6)个生于长10-20厘米的孢子枝顶端，圆柱形，长1.5-3.0厘米，淡黄色；孢子叶宽卵形，覆瓦状排列，长约2.5毫米，宽约1.5毫米，先端急尖，尾状，边缘膜质，具不规则锯齿；孢子囊生于孢子叶腋，内藏，圆肾形，黄色。
+
+产东北、华中、华南及西南大部分省区。生于海拔700-2900米的林下、灌丛下或山坡草地。广布于全球温带及亚热带。模式标本采自欧洲。
+**1b. 灰白扁枝石松（变种）（植物分类学报）**
+
+var. glaucum Ching in Acta Bot. Yunnan. 4(2): 128. 1982; L. B. Zhang et H. S. Kung in Acta Phytotax. Sin. 38(3): 273. 2000. 
+
+小型至中型土生植物，主茎匍匐状，长50-80厘米。侧枝近直立，高6-10厘米，多回不等位二叉分枝，小枝明显扁平状，灰白色。叶4行排列，密集，三角形，长1-2毫米，宽约1毫米，基部贴生在枝上，无柄，先端尖锐，略内弯，边缘全缘，中脉不明显，草质。孢子囊穗(1)2-5(6)个生于长6-15厘米的孢子枝顶端，圆柱形，长1.2-2.5厘米，淡黄色；孢子叶宽卵形，覆瓦状排列，长约2. 5毫米，宽约1.5毫米，先端急尖，尾状，边缘膜质，具不规则锯齿；孢子囊生于孢子叶腋，内藏，圆肾形，黄色。
+
+仅见于广西、云南、西藏。生于海拔1300-2100米的林下或林缘。

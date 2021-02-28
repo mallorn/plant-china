@@ -1,0 +1,6 @@
+小舌垂头菊",
+43.**Cremanthodium microglossum** S. W. Liu Novon. 6: 185. 1996.",
+
+## Description
+Stem solitary, erect, dark purple, 4-15 cm tall, proximally glabrous, distally white and black puberulent. Basal leaves petiolate; petiole purplish brown, 4-14 cm, glabrous; leaf blade ovate or broadly ovate, 1-3 × 0.7-2.4 cm, with 3-5 pinnate veins, both surfaces white and black puberulent, base rounded or truncate, margin entire, apex rounded. Stem leaves 3, petiolate or sessile, ovate to oblong-ovate, 1.5-4 × 1-2 cm, both surfaces white puberulent or only abaxially, base semiamplexicaul, apex obtuse. Capitulum solitary, erect. Involucre hemispheric, 1.5-2 × 2.5-3 cm, outside densely white and black puberulent; phyllaries 9-12, in 1 row, oblong to narrowly lanceolate, 3-7 mm wide, rectangular-spreading from middle, apex obtuse to acute. Outer florets white; corolla narrowly tubular, 3-6 mm, slender; limb apically truncate or a small linear lamina; style 6.5-11 mm. Central florets numerous, orange, tubular; limb 5-lobed. Achenes yellowish brown, cylindric, 4-6 mm, ribbed. Pappus white, 1-1.2 cm, as long as tubular corolla. Fl. and fr. Jul-Sep. 2*n* = 58*.
+  "Statistics": "● Grassy slopes in gravelly areas on mountains, alpine meadows, swamp meadows; 4000-5400 m. SW Gansu, Qinghai, SW Sichuan, NW Yunnan.

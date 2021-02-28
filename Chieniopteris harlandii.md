@@ -1,0 +1,15 @@
+崇澍蕨",
+1.**Chieniopteris harlandii** (Hooker) Ching Acta Phytotax. Sin. 9: 39. 1964.",
+
+## Description
+Rhizome long creeping, dark brown, 4-6 mm in diam., densely scaly; scales brown, lanceolate, 4-6 mm, membranous, margin entire or with few hairlike teeth. Fronds distant, subdimorphic with fertile lobes narrower than sterile lobes, 30-120 cm; stipe 12-80 cm, base dark brown, scaly; lamina simple, ternate, or deeply pinnatifid, gray-green or brown when dry, thickly papery or subleathery, glabrous; pinnae (or lobes) 1-4 pairs, opposite, 4-5 cm apart, lanceolate, base adnate to rachis and decurrent, margin entire or undulate, usually reflexed when dry, apex acuminate; basal pinnae 20-29 × 2-3 cm, upper pinnae shortened, terminal pinna similar to but longer and broader than lateral ones; rachis wing often very narrow or lacking between basal pinnae; veins anastomosing with 1 row of costal areoles, 2 or 3 rows of hexagonal areoles, marginal veins free. Sori linear, interrupted, 10-22 mm, borne along costal and costular areoles; indusia rufous when mature, papery.
+
+> Valleys, damp forests; 400-1300 m. Fujian, Guangdong, Guangxi, Guizhou (Libo), Hainan, S Hunan, Taiwan [Japan, Vietnam].
+  "Synonym": "*Woodwardia harlandii* Hooker, Fil. Exot. t. 7. 1857; *Lorinseria harlandii* (Hooker) J. Smith.
+**1. 崇澍蕨（植物分类学报）哈氏狗脊 图版36: 1-5**
+
+Chieniopteris harlandii (Hook.) Ching in Acta Phytotax. Sinica 9 (1): 39, pl. 4. 1964; Ching et al. in Fl. Hainan. 1: 134, f. 59. 1964; Jarrett, Ind. Fil. Suppl. 5: 36. 1985. ——Woodwardia harlandii Hook. Fil. Exot. pl. 7. 1857 et Sp. Fil. 3: 70. 1860; Benth. Fl. Hongkong. 445. 1861; Hook. et Bak. Syn. Fil. 180. 1874; Diels in Endl. u. Prantl, Nat. Pflanzenfam. 1 (4): 253. 1899; C. Chr. Ind. Fil. 658. 1905; Ching in Bull. Fan Mem. Inst. Biol. 1: 148. 1930, p. p.; ibid. 2: 2, 1932, p. p. et Icon. Fil. Sin. 2: pl. 52. 1934; Y. C. Wu et al. in Bull. Dept. Biol. Sun Yatsen Univ. No. 3. 208, pl. 95. 1932; Hayata, Icon. Pl. Form. 5: pl. 250. 1933; Tard. -Blot et C. Chr. in Fl. Indo-Chine 7 (2): 209, f. 26 (3-4). 1940; H. Ito, Fil. Jap. Illustr. t. 107. 1944; DeVol in Fl. Taiwan 1: 156. 1975; W. L. Chiou et al. in T. C. Huang, Fl. Taiwan, sec. ed. 1: 275, pl. 117. 1994. ——Lorinseria harlandii J. Sm. Hist. Fil. 311, 1875. ——Woodwardia harlandtii Nakai in Bot. Mag. Tokyo 39: 102. 1925. (err. script.)
+
+植株高达1.2米。根状茎部而横走，粗4-6毫米，黑褐色，密被鳞片；鳞片披针形，部达6毫米，部渐尖头，全缘或有少数睫毛，膜质，棕色，有光泽。叶散生；叶柄部短不一，部者可达90厘米，粗约4毫米，短者仅达15厘米，粗约1毫米，基部黑褐色并被与根状茎上同样的鳞片，向上为禾秆色或棕禾秆色，略被鳞片，后变光滑；叶片变异甚大，或为披针形的单叶，或为三出而中央羽片特大，而较多见者为羽状深裂，有时下部近于羽状；侧生羽片（或裂片）1-4对，对生，斜向上，相距4-5厘米，披针形，先端渐尖，基部与叶轴合生，并沿叶轴下延，彼此以阔翅相连，但下部1-2对间的叶轴往往无翅，基部一对羽片部达20-29厘米，宽2-3厘米，向上的渐短，顶生羽片则较部较阔，羽片边缘有软骨质狭边，干后略反卷，中部以上为全缘或为波状，上部往往有疏而细的锯齿。叶脉仅可见，主脉两面均隆起，沿主脉两侧各具1行狭部网眼，向外有2-3行斜部六角形网眼，近叶边的小脉分离。叶厚纸质至近革质，干后灰绿色或棕色，无毛。孢子囊群粗线形，长10-22毫米，紧靠主脉并与主脉平行，成熟时棕色，沿主脉两侧汇合成一条连续的线形，并往往在两个孢子囊群的接头处以三角状的形式伸出1对较短的孢子囊群；囊群盖粗线形，纸质，成熟时红棕色，开向主脉，宿存。
+
+产海南（吊罗山、尖峰岭）、广东、广西（瑶山、象县、上思、修仁、金秀）、湖南南部（宜章）、福建（武夷山、南靖、上杭）及台湾。生山谷湿地，海拔420-1 250米。也分布于越南北部及日本南部（琉球）。模式标本产地：广东（珠江口沿海岛屿）。

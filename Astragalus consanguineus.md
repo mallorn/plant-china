@@ -1,0 +1,6 @@
+亚黄耆",
+244.**Astragalus consanguineus** Bongard in Bongard & C. A. Meyer Verz. Saisang-nor Pfl. 22. 1841.",
+
+## Description
+Plants (20-)30-50 cm tall; hairs medifixed, appressed, 0.1-0.25 mm. Stems mostly several, erect, (15-)30-50 cm, weakly branched in lower part, sparsely to more rarely loosely white hairy or sometimes with scattered hairs only. Leaves 4-6 cm; stipules 2-3 mm, covered with scattered appressed hairs, lower ones shortly vaginate-connate, upper ones free from each other; petiole 0.5-1 cm, with rachis hairy like stem; leaflets in 6-9 pairs, narrowly elliptic, 6-12 × 2-3 mm, abaxially sparsely appressed hairy, adaxially glabrous, apex subobtuse to some-times slightly retuse. Racemes 1.5-3 cm, loosely few to many flowered, elongating in fruit; peduncle 1.5-7 cm, very sparsely white and black hairy or subglabrous; bracts ca. 1 mm, white and black ciliate. Calyx 2-2.5 mm, sparsely white hairy, some-times with a few black hairs mixed in; teeth 0.5-0.8 mm. Petals pale violet; standard elliptic to obovate, 6-8 mm, apex emar-ginate; wings 5.5-6.5 mm; keel 4.5-5 mm. Legumes sessile, slightly curved, 7-10 mm, 1.5-2 mm high, with a beak 0.5-1 mm, incompletely to nearly fully 2-locular; valves thin, loosely white hairy.
+  "Statistics": "Xinjiang [Kazakhstan, Russia (Siberia)].

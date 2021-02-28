@@ -1,0 +1,6 @@
+四川杓兰",
+30.**Cypripedium sichuanense** Perner Orchidee (Hamburg). 53: 89. 2002.",
+
+## Description
+Plants 10-12 cm tall, with a stout, sometimes branched rhizome. Stem 3-3.6 cm, glabrous, covered by a sheath, apex with a subopposite leaf and bract prostrate on substrate. Leaf blade green spotted with dark red-brown, broadly elliptic to suborbicular, 11.5-13.5 × 9.5-12 cm. Inflorescence terminal, 1-flowered, ebracteate; pedicel ca. 5.5 cm, glabrous; ovary ca. 1.7 cm, glabrous. Flower yellow to greenish yellow, ca. 4.5 cm in diam.; dorsal sepal spotted with maroon on adaxial veins and whole abaxial surface; synsepal with fewer maroon spots; petals and lip marked with maroon spots and stripes; staminode dark maroon. Dorsal sepal ovate-lanceolate, ca. 3.7 × 2.8 cm, both surfaces glabrous, ciliate, apex acute; synsepal similar to dorsal sepal, bidentate at apex. Petals curved forward, enfolding lip, oblong-lanceolate, ca. 4.3 × 1.6 cm, glabrous, apex acuminate; lip pouched, dorsiventrally flattened, ca. 2.6 × 1.6 cm, maroon spots at front usually wartlike. Staminode shortly trullate, ca. 10 × 9 mm, distinctly auriculate at base, obtuse. Fl. Jun-Jul.
+  "Statistics": "&amp;#9679; Humus-rich soils in bamboo and deciduous thickets. NC Sichuan (Wenchuan).

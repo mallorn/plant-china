@@ -1,0 +1,6 @@
+狼山棘豆",
+24.**Oxytropis langshanica** H. C. Fu Fl. Intramongol., ed. 2. 3: 672. 1989.",
+
+## Description
+Herbs, acaulescent, 3-5 cm tall, from a multiheaded cau-dex, clothed with marcescent stipules and leaf bases, appressed gray villous. Stipules triangular, herbaceous, appressed villous with long trichomes, adnate to petiole, basally connate. Leaves 3-5 cm; rachis densely long hirsute; leaflets verticillate or some-times subverticillate, in 2-5 whorls, 3 or 4 blades per whorl or merely opposite; leaflet blades linear to linear-lanceolate, 4-8 × 1-1.5 mm, both surfaces appressed pilose with long trichomes, base rounded, margin usually involute, apex acute. Racemes 1-3-flowered; peduncle obsolete or to 3 cm, shorter than leaves, densely whitish villous; bracts ovate, ca. 4 mm, densely whitish villous, apex obtuse. Calyx cylindric, 10-15 × 2-4 mm, white hirsute; lobes lanceolate, 3-5 × ca. 0.5 mm. Corolla purple; standard 2.1-3.2 cm, lamina rhombic, apex emarginate; wings 1.8-2 cm, lamina obliquely oblong, apex obtuse; keel ca. 1.6 cm, beak ca. 2 mm. Legume sessile, ovoid, ellipsoid, or oblong-ovoid, 1.6-2.3 × 0.8-1 cm, leathery to thinly leathery, densely hirtellous. Fl. and fr. May-Jun.
+  "Statistics": "● Sandy deserts. Nei Mongol.

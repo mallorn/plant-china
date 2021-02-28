@@ -1,0 +1,17 @@
+大叶双盖蕨",
+84.**Diplazium maximum** (D. Don) C. Christensen Index Filic. 235. 1905.",
+
+> The authors have not seen material of *Diplazium maximum* var. *brevisora* Rosenstock (Repert. Spec. Nov. Regni Veg. 13: 129. 1914), described from Guizhou (Pinfa).*“Allantodia verruculosa”* (Ching &amp; W. M. Chu, Fl. Fujian. 1: 107. 1982) is a nomen nudum and was not therefore validly published (*Melbourne Code*, Art. 38.1(a)).
+
+## Description
+Plants evergreen, large. Rhizome creeping, robust, up to 3 cm in diam., with dense loose scales at apex; scales brown or chestnut, slightly shiny, lanceolate or broadly lanceolate, up to 1.5 cm, thickly membranous, margin with black band, toothed; fronds subapproximate. Stipe of fertile frond black-brown at base, upward green-stramineous, up to 1.2 m, up to 1 cm in diam., base with sparse scales similar to those on rhizome, upward glabrous, smooth or sparsely verrucose; lamina 2-pinnate with pinnules pinnatifid to pinnatipartite, deltoid, up to 1.8 × 1 m, apex acuminate; pinnae 8-13 pairs, alternate, ascending; basal pinnae largest, broadly lanceolate, up to 65 × 23 cm, with stalk up to 5 cm; pinnules up to ca. 10 pairs, alternate, subspreading, broadly lanceolate or deltoid, up to 15 × 4 cm, lower pinnules often shortly stalked, base subtruncate, slightly asymmetrical, pinnatifid to pinnatisect, apex long acuminate; pinnule lobes up to 15 pairs, slightly ascending, contiguous or approximate, oblong or subrectangular, shallowly crenate or entire, apex rounded or subtruncate, rarely acute; veins pinnate, veinlets up to 10 pairs per pinnule lobe, mostly simple, ascending, reaching pinnule margin. Lamina herbaceous when dry, pale abaxially, glabrous on both surfaces; rachis and costa green-stramineous. Sori linear, often occupying whole length of veinlet, up to 6 pairs per lobe, often single or double; indusia brown when mature, membranous, entire, opening acroscopically. Spores bean-shaped, without perispore, tuberculate ornamentation.
+
+> Valleys, evergreen broad-leaved forests, beside streamlets; 900-1800 m. Fujian, Guangxi, Guizhou, Hainan, Jiangxi, Yunnan [Bhutan, India, NE Myanmar, Nepal].
+  "Synonym": "*Asplenium maximum* D. Don, Prodr. Fl. Nepal. 8. 1825; *Allantodia maxima* (D. Don) Ching; *Asplenium diversifolium* Wallich; *Diplazium diversifolium* (Wallich) J. Smith.
+**71．大叶短肠蕨（植物分类学报） 图版109: 5-8**
+
+Allantodia maxima (Don) Ching in Phytotax. Sin. 9 (1): 53. 1964. ——Asplenium maximum Don, Prodr. Fl. Nepal. 8, 1825; Hook. et Bak. Syn. Fil. 239. 1867, pro parte. ——Diplazium maximum (Don) C. Chr., Ind. Fil. 235. 1906. ——Asplenium diversifolium Wall. List. n. 203. 1828 non Bl. 1828. ——Diplazium diversifolium (Wall.) J. Sm., Brit and For. 222. 1866. ——Allantodia verruculosa Ching et W. M. Chu in Fl. Fujian. 1: 107. 1982, nom. seminud.
+
+常绿大型林下植物。根状茎横卧，粗壮，直径达3厘米，先端密被蓬松的鳞片；鳞片披针形或阔披针形，长达1.5厘米，褐色或栗色，略有光泽，稍厚的膜质，边缘黑色，有小齿；叶近生。能育叶长可达1.2米，直径达1厘米，基部黑褐色，疏被与根状茎上同样的鳞片，向上绿禾秆色，无鳞片，平滑或有稀疏的疵状突起；叶片三角形，长达1.8米，基部阔达1米，二回羽状一小羽片羽状羽裂渐尖的顶部以下半裂至深裂；侧生羽片8-13对，互生，略斜向上，基部一对最大，长阔披针形，长达65厘米，中部宽达23厘米，柄长达5厘米；侧生小羽片约达10对，互生，近平展，阔披针形或三角形，长达15厘米，宽达4厘米，下部的常略有短柄，基部近平截，略不对称，先端长渐尖，两侧羽状半裂至深裂；小羽片的裂片可达15对，稍斜展，密接或接近，短圆形或近长方形，先端钝圆或近平截，罕为急尖，顶部有浅钝齿或全缘；叶脉在裂片上羽状，小脉大多单一，可达10对，斜向上，伸达边缘。叶干后草质，下面色较浅，两面光滑；叶轴和羽轴绿禾秆色。孢子囊群线形，常与小脉近等长，在小羽片的裂片上可达6对，通常单生于小脉上侧，或在基部上出小脉常为双生；囊群盖成熟时褐色，膜质，全缘，从外侧张开。孢子豆形，无周壁，表面具不均匀的瘤状纹饰。
+
+分布于江西（遂川）、福建（武夷山）、海南（琼中五指山）、广西（武鸣、大明山、那坡）、贵州（赤水、安顺、紫云）、云南（峨山、罗平、广南、西畴、麻栗坡、马关、金平、元阳）。生于山地沟谷常绿阔叶林下溪边，海拔900-1800米。也分布于缅甸东北部、不丹、锡金、尼泊尔及印度北部喜马拉雅山区。模式标本采自尼泊尔。

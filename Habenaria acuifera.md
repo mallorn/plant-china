@@ -1,0 +1,14 @@
+凸孔坡参",
+36.**Habenaria acuifera** Wallich ex Lindley Gen. Sp. Orchid. Pl. 325. 1835.",
+
+## Description
+Plants 14-38 cm tall. Tubers oblong or narrowly ellipsoid, 2.5-4 × 1-2.5 cm, fleshy. Stem erect, terete, glabrous, with 3 or 4 leaves and many bractlike leaflets. Leaf blade oblong or oblong-lanceolate, 4-12 × 1-1.5 cm, base amplexicaul, apex acuminate or acute. Raceme 8-20-flowered, 3-8 cm; floral bracts lanceolate, basal ones 1.5-1.7 cm, longer than ovary, ciliate; ovary twisted, cylindric-fusiform, including pedicel 15-18 mm. Flowers yellow, small. Dorsal sepal forming a hood with petals, erect, broadly ovate, concave, 3-4.5 × 3-3.5 mm, 3-veined, apex obtuse; lateral sepals reflexed, obliquely ovate-elliptic, 5-6 × 3.5-4 mm, 3-veined, apex obtuse. Petals obliquely oblong, 3-4 × 1.8-2 mm, 1-veined, unlobed; lip 9-10 mm, spurred at base, with a cupular structure near mouth of spur, spreading, 3-lobed from base; lateral lobes subulate, 1.5-3.5 mm; mid-lobe straight, linear, 7-8 × ca. 1 mm, apex obtuse; spur pendulous, cylindric-clavate, 10-17 mm, shorter than ovary, near middle geniculate-curved, slightly thickened from middle to apex; connective narrow; pollinia narrowly ellipsoid; caudicles linear, longer than pollinia; viscidia orbicular, small; stigmas suberect, exserted along both sides of spur mouth, oblong, 2-2.5 mm. Fl. Jun-Aug. 2*n* = 42 + 0-2B.
+  "Statistics": "Forests, thickets, grasslands; 200-2000 m. Guangxi, SW and W Sichuan, Yunnan [NE India, Laos, Malaysia (Peninsular), Myanmar, Thailand, Vietnam].
+  "Synonym": "*Habenaria loloorum* Schlechter.
+**37.凸孔坡参（横断山区维管植物）图版80：6-8**
+
+Habenaria acuifera Lindl. , Gen. Sp. Orch. pl. 325. 1835; Hook. f., Fl. Brit. Ind. 6: 146. 1890(excl. syn. H. linguella): Kraensl. , Orch. Gen. Sp. 1: 379. 1898; Rolfe in J. Linn. Soc. Bot. 36: 57. 1903(excl. syn. H. linguella); Seidenf. , Cont. Rev. Orch. Fl. Camb. , Laos, and Vietn. 67. 1975, et in Dansk Bot. Ark. 31(3): 106, fig. 64. 1977; 横断山区维管植物2: 2544. 1994. ——Habenaria loloorum Schltr. in Fedde Repert. Sp. Nov. 17: 26. 1921, syn. nov.
+
+植株高14-38厘米。块茎肉质，长圆形或狭椭圆形，长2.5-4厘米，直径1-2.5厘米。茎直立，圆柱形，无毛，具3-4枚疏生叶。叶之下具2-3枚筒状鞘，向上具多枚披针形、长渐尖、边缘具缘毛的苞片状小叶。叶片长圆形或长圆状披针形，长4-12厘米，宽1-1.5厘米，先端渐尖或急尖，基部抱茎。总状花序具8-20余朵密生的花，长3-8厘米；花苞片披针形，下部的长1.5-1.7厘米，先端长渐尖，边缘具缘毛，长于子房；子房细圆柱状纺锤形，扭转，无毛，上部收狭，弧状，连花梗长15-18毫米；花小，黄色；中萼片宽卵形，直立，凹陷，长3-4.5毫米，宽3-3.5毫米，先端钝，具3脉，与花瓣靠合呈兜状；侧萼片反折，斜卵状椭圆形，长5-6毫米，宽3.5-4毫米，先端钝，具3脉；花瓣直立，斜长圆形，不裂，长3-4毫米，宽1.8-2毫米，先端稍钝，具1脉；唇瓣长9-10毫米，向前伸展，基部3裂；中裂片线形，直的，长7-8毫米，宽1毫米，先端钝；侧裂片钻状，稍叉开，长1.5-3.5毫米，先端渐尖；距细圆筒状棒形，下垂，长10-17毫米，中部膝曲状弯曲，中部向末端稍增粗，末端钝，短于子房；蕊柱短；花药直立，药隔狭，顶部凹陷；药室稍叉开，基部伸长的沟与蕊喙臂伸长的沟两者靠合成细的管，管较药室短，稍向上弯；花粉团狭椭圆形，具线形、较花粉团长、向上弯的柄和近圆形、小的粘盘；柱头突起物长圆形，长2-2.5毫米，近直的，沿距口两侧向外伸出，并行；距口的前面具0.5毫米高的环状物，与柱头近等高；退化雄蕊近四方形，长1毫米，先端钝。花期6-8月。
+
+产于广西、四川西部至西南部、云南。生于山坡林下、灌丛或草地。海拔200-2000米。印度东北部、缅甸、越南、泰国、老挝、马来西亚也有。模式标本采自缅甸。

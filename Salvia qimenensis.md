@@ -1,0 +1,7 @@
+祁门鼠尾草",
+79.**Salvia qimenensis** S. W. Su & J. Q. He",
+
+## Description
+Herbs perennial or biennial. Stems erect, 40-60 cm, retrorse pilose. Leaves simple; petiole of basal leaves 2-6 cm, reduced upward to subsessile, densely pubescent; leaf blade oblong to ovate-lanceolate, abaxially purple, pubescent on veins, margin irregularly crenulate; stem leaves 2- or 3-paired, blade of upper leaves ovate-lanceolate to lanceolate, (8-)10-18 &amp;#215; 2-3.5(-5) cm, base subtruncate to shallowly cordate, sometimes hastate, apex long acuminate. Inflorescences densely glandular pilose; verticillasters 6-flowered, widely spaced, in racemes or panicles; bracts linear-lanceolate, 0.5-1.5(-2) &amp;#215; 2-3 cm, margin glandular pilose. Pedicel 2-4 mm. Calyx tubular, upper lip triangular, 1-2 &amp;#215; ca. 3 mm, apex 3-mucronate; lower lip almost as long as upper lip, teeth triangular, apex acute. Corolla purple to white, ca. 1.5 cm, glandular pilose except at base, tube pilose annulate inside, 1.1-1.3 cm, straight, 1.5-2 mm wide at base, gradually dilated to apex, ca. 3 mm wide at throat; upper lip ca. 2 mm; lower lip slightly longer than upper, middle lobe 1.5-2.5 mm, oblong to triangular, lateral lobes triangular-ovate. Stamens slightly exserted; filaments ca. 1 mm; connectives slightly curved, ca. 3 mm, upper arms ca. 2 mm. Style slightly exserted, retrorse pubescent. Nutlets gray-brown, ellipsoid, ca. 2 &amp;#215; 1 mm. Fl. May-Jun.
+
+> * Hillsides. Anhui (Qimen Xian).

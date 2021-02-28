@@ -1,0 +1,8 @@
+垂序崖豆",
+5.**Millettia leucantha** Kurz J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42: 68. 1873.",
+
+## Description
+Trees, 6-7 m tall. Bark gray. Branchlets smooth, striate, rusty pilose when young, gradually glabrescent, scattered with minute, smooth lenticels. Leaves (5 or)7- or 9-foliolate; rachis 15-50 cm, including petiole 4.5-14 cm, rusty pilose; stipels aciculate, ca. 1 mm, caducous; petiolules densely pubescent, 5-6 mm; leaflet blades lanceolate to oblong, 8-30 × 2.5-6 cm, papery, abaxially appressed puberulent, pilose along midvein, adaxially sparsely appressed puberulent except along midvein, secondary veins 6-10 on each side of midvein, base rounded or broadly cuneate, apex caudate or long caudate. Pseudoracemes axillary or terminal, pendulous, slender, (15-)25-45 cm, brown pubescent; peduncle 1-4 cm, densely rusty scabrous; rachis nodes with 2-5 flowers. Pedicel 1-3 mm. Flowers 1.1-1.3 cm. Calyx 5-6 mm, densely brown pubescent; teeth shorter than tube, apex cuspidate. Corolla white; standard broadly orbicular, glabrous, base auriculate, with 2 minute calluses and claw ca. 2.5 mm. Ovary ca. 6 mm, densely sericeous, with (3 or)4 ovules. Legume oblong, flat, 10-17 × 2.7-3.5 cm, woody, brown to-mentose, apex obtuse, with a beak. Seeds (3 or)4 per legume, orbicular, ca. 1.5 × 6 mm. Fl. Mar-Apr, fr. Jun-Nov.
+  "Reference": "This species was first recorded from China by Y. Y. Qian (Acta Phytotax. Sin. 39: 464-465. 2001, as *Millettia pendula*).This species was first recorded from China by Y. Y. Qian (Acta Phytotax. Sin. 39: 464-465. 2001, as *Millettia pendula*).
+  "Statistics": "Sparse woodlands; ca. 1100 m. S Yunnan (Jiangcheng) [Laos, Myanmar, Thailand].
+  "Synonym": "*Millettia pendula* Bentham ex Baker, nom. illeg. superfl.

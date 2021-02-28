@@ -1,0 +1,6 @@
+连城薹草",
+328.**Carex lianchengensis** S. Yun Liang & Y. Z. Huang Fl. Fujian. 6: 690. 1995.",
+
+## Description
+Rhizome short, woody. Culms central, 2-10 cm tall, acutely trigonous, clothed at base with black-brown sheaths disintegrating into fibers. Leaves longer than or subequaling culm, blades linear, 1.5-2.5 mm wide, revolute. Involucral bracts shortly bladed, shorter than inflorescence, shortly sheathing. Spikes 2 or 3; terminal spike male, gray-brown, narrowly cylindric, ca. 10 × 2 mm, with short peduncle; lateral spikes female, oblong-cylindric, ca. 1.2 × 0.6 cm, lowest peduncle ca. 7 mm, upper ones rather short. Female glumes pale, ovate-lanceolate, 4-4.5 mm, green 3-veined costa excurrent into an awn. Utricles brown-green, longer than glume, ovate-elliptic, slightly inflated trigonous, 7-7.5 mm, thickly papery, glabrous, many veined, base cuneate, apex gradually narrowed into a long beak, orifice deeply 2-lobed with sharp teeth. Nutlets castaneous-brown, tightly enclosed, elliptic, ca. 5 mm, base shortly stipitate, apex abruptly contracted into a cylindric erect beak, beak expanding into an annulate orifice; style base thickened, conic; stigmas 3. Fl. and fr. Mar-Apr.
+  "Statistics": "● Forests; ca. 700 m. W Fujian (Liancheng).

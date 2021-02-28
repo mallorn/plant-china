@@ -1,0 +1,15 @@
+皱叶香茶菜",
+29.**Isodon rugosus** (Wallich ex Bentham) Codd",
+
+## Description
+Shrubs erect, much branched, to 1.5 m tall; branchlets slender, densely stellate tomentose. Stem leaves opposite; petiole 2-10 mm, densely tomentose; leaf blade ovate to elliptic, 1-3.5 &amp;#215; 0.5-1.8 cm, papery, rugose, adaxially olive green, densely stellate tomentose, abaxially gray tomentose, base broadly cuneate to rounded, margin crenulate, apex obtuse; lateral veins 4- or 5-paired, immersed adaxially, elevated abaxially. Cymes axillary, pedunculate, in stellate tomentose panicles, basal cymes long branched to 21- or more flowered, apical cymes 3-5-flowered; floral leaves slightly longer than cymes, upper ones much shorter, subsessile, ovate. Pedicel 2-3 mm. Calyx campanulate, ca. 2 mm, densely stellate tomentose outside; teeth broadly triangular, subequal, minute, ca. 1/3 as long as calyx tube; fruiting calyx slightly dilated, tubular-campanulate, slightly curved, ca. 3 mm, conspicuously 10-veined. Corolla white, tinged rose, or dark lilac on upper lip, ca. 7 mm, sparsely stellate tomentose outside, glandular, tube ca. 3 mm. Stamens included. Style included. Nutlets dark brown, triquetrous, oblong, ca. 1.5 mm, glabrous. Fl. Jul-Sep, fr. Aug-Oct.
+
+> Thickets on hills, valleys; 1800-2700 m. Xizang [Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan].
+  "Synonym": "&lt;I&gt;Plectranthus rugosus&lt;/I&gt; Wallich ex Bentham, Pl. Asiat. Rar. 2: 17. 1830; &lt;I&gt;Isodon plectranthoides &lt;/I&gt;Schrader ex Bentham; &lt;I&gt;I&lt;/I&gt;. &lt;I&gt;rugosus&lt;/I&gt; (Wallich ex Bentham) Murata.
+**21．皱叶香茶菜 藿香（西藏加查）**
+
+Rabdosia rugosa (Wall.) Hara in Journ. Jap. Bot. 47(7): 199. 1972——Plectranthus rugosus Wall. Cat. n. 2745. 1829, nom. nud. : in Pl. Asiat. Rar. 2: 17. 1831; Benth. Labiat. Gen. et Sp. 43. 1832; et in DC. Prodr. 12: 59. 1848; Hook. f. Fl. Brit. Ind. 5: 620. 1885; Dunn in Journ. Linn. Soc. Bot. 39: 477. 1911; et in Notes Bot. Gard. Edinburgh 6: 136, 140. 1915; Diels in Fedde, Repert. Sp. Nov. Beih. 12: 479. 1922; Hand.-Mazz. in Act. Hort. Gothob. 13: 364. 1939, in clavi; Mukerj. Lab. Ind. 47. 1940——Isodon plectranthoides Schrad. ex Benth. Labiat. Gen. et Sp. 40, 1832, pro syn.; Kudo in Mem. Fac. Sci. Agr. Taihoku Univ. 2: 120. 1929; Murata in Kitamura, Fl. Afghan. 330. 1960----Isodon rugosus(Wall.)Codd. in Taxon 17: 239 1968----Isodon rugosus(Wall. )Murata in Act. Phytotax. Geobot. 24: 82. 1969; in Hara, Fl. E. Himal. 2nd Rep. 115. 1971.
+
+灌木，直立，多分枝。老枝近圆柱形，扭曲，灰褐色，具不规则剥落的皮层，髓部小，幼枝细弱，钝四棱形，棕褐色，具细条纹，极密被星状绒毛。茎叶对生，卵圆形或椭圆形，长1-3.5厘米，宽0.5-1.8厘米，先端钝，基部宽楔形至近圆形，边缘在基部以上具细圆齿，坚纸质，上面榄绿色，明显具皱，密被星状绒毛，下面厚被灰白色绒毛，侧脉4-5对，与中肋在上面凹陷下面明显；叶柄长0.2-1厘米，密被绒毛。聚伞花序位于下部者腋生，常呈长二歧状，多至21花或以上，位于上部者通常3-5花，全体组成圆锥花序，聚伞花序均具梗，总梗通常长2-5毫米；下部者有时长达1厘米，花梗长2-3毫米，总梗、花梗及序轴均被星状绒毛；苞叶在圆锥花序下部的略超过聚伞花序，在上部的均短于聚伞花序很多，卵圆形，全缘，具短柄或近无柄，被毛同茎叶。花萼钟形，长约2毫米，外极密被星状绒毛，内面无毛，萼齿,5，阔三角形，近等大，微小，长约为萼筒1/3，果时花萼稍增大，管状钟形，略弯曲，长约3毫米，10脉明显隆起。花冠白色，具玫瑰红或紫斑，长约7毫米，外疏被星状绒毛及腺点，内面无毛，冠筒长约3毫米，基部上方浅囊状，至喉部宽约2毫米，冠檐二唇形，上唇外反，长约3毫米，宽达4毫米，先端具四圆裂，下唇阔卵圆形，长约4毫米，宽约3毫米，稍内凹。雄蕊4，内含，花丝扁平，无毛。花柱丝状，内藏，先端相等2浅裂。花盘环状。成熟小坚果长圆状三棱形，长约1.5毫米，栗褐色，无毛。
+
+产西藏南部，四川西部及云南西北部；生于灌丛中，海拔1000-1800-2700米。阿富汗，巴基斯坦，尼泊尔，不丹，印度也有。模式标本采自喜马拉雅山区。

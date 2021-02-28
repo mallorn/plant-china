@@ -1,0 +1,19 @@
+粗糙马尾杉",
+17.**Phlegmariurus squarrosus** (G. Forster) Á. Löve & D. Löve Taxon. 26: 324. 1977.",
+
+> *Phlegmariurus squarrosus* is the largest species of the genus in China; both branches and sporangia are robust, and its sporophylls are ovate-lanceolate.
+
+## Description
+Lycophytes, large, epiphytic. Stems caespitose, robust, mature branches pendulous, 1 to several times forked, 25-100 cm, main stems 3-7 mm, stem together with leaves 2.5-3 cm wide at middle. Trophophylls lustrous, lanceolate, attached at right angles or slightly angled upward, 1.1-1.5 cm × 1-2 mm, thinly leathery, midrib distinct, base cuneate, decurrent, sessile, margin entire, apex acute. Strobili terminal on branches, slightly thinner than sterile part, columniform. Sporophylls densely arranged, ovate-lanceolate, 8-15 × ca. 0.9 mm, midrib distinct, base cuneate, margin entire, apex acute. Sporangia yellowish, reniform, vertically bisected.
+
+> Epiphytic on tree trunks in forests or terrestrial; 400-1900 m. NW and W Guangxi, Taiwan, S Xizang, Yunnan [Bangladesh, Bhutan, Cambodia, India, Laos, Malaysia, Myanmar, Nepal, Philippines, Sri Lanka, Thailand; Madagascar, Pacific islands].
+  "Synonym": "*Lycopodium squarrosum* G. Forster, Fl. Ins. Austr. 86. 1786; *Huperzia squarrosa* (G. Forster) Trevisan; *L. forsteri* Poiret, nom. illeg. superfl.; *L. pseudosquarrosum* Pampanini; *L. remoganense* Hayata; *Plananthus squarrosus* (G. Forster) P. Beauvois; *Urostachys madagascariensis* (Desvaux ex Nessel) Herter; *U. squarrosus* (G. Forster) Herter; *U. squarrosus* f. *madagascariensis* Desvaux ex Nessel.
+**17.粗糙马尾杉（植物分类学报）杉叶石松（台湾植物志）**
+
+Phlegmariurus squarrosus (Forst.) L. Love et D. Love in Taxon 26: 324. 1978; Ching in Acta Bot. Yunnan. 4 (2): 123. 1982: Fl. Xizang. 1: 12. 1983; B. Ollg. IndexLycop. 80. 1989: L. B. Zhang et H. S. Kung in Acta Phytotax. Sin. 37 (1): 53. 1999. ——Lycopodium squarrosum Forst. Prodr. Fl. Ind. Austr. 479. 1786; Bl., Enum. Pl. Jav. 2. 1828; Grev. et Hook. in Bot. Misc. 2: 369. 1831: Spring, Monogr.Lycop. 1: 52. 1842, et 2: 23. 1849; C. B. Clarke in Trans. Linn. Soc. II. Bot. 1: 591. 1880; Baker, Handb. Fern Allies 18. 1887; Herter in Bot. Jahrb. 43: Beibl. 98: 36.1909: Hayata, Ic. Pl. Formos. 4: 133. 1914; Alderw, Malay. Fern-,allies 39. 1915; Merr. in Lingnan Sci. Journ. 5: 20. 1927; Alston in Fl. Indo-Chine 7 (2): 550. 1951: Mehra et Bir in Res. Bull. Panjab Univ. 15 (1一2): 102. 1964; Tagawa in Hara, Fl. E. Himal. 2: 199. 1971: De Vol in H. L. Li, Fl. Taiwan 1: 34. 1975: Y. L. Chang etal., Sporae Pterid. Sin. 39, f. 7: e. Pl. 1: 9. 1976: Tagawa et K. Iwats. in Fl. Thai-land 3 (1): 9. 1979; C. M. Kuo in Taiwania 30: 12. 1985; J. L. Tsai et W. C. Shiehin T. C. Huang, Fl. Taiwan ed. 2, 1: 43. 1994. ——Plananthus squarrosus (Forst.) P. Beauv., Prod. Aeth. 112. 1802. ——Urostachys squarrosus (Forst.) Herter in Bot. Arch. 3: 14. 1923. ——Huperzia squarrosa (Forst.) Trev. in Atti Soc. Ital. Sci. Nat. 17: 247. 1874: B. Ollg. in Opera Bot. 92: 166. 1987, et Index. Lycop. 21. 1989. ——Huperzia squarrosa (Forst.) Rothm. in Fedde, Repert. Sp. Nov. 54: 62. 1944; U. Senet T. Sen in Fern Gaz. 11 (6): 420. 1978. ——L. forsteri Poiret, Encycl. Suppl. 3: 545. 1813. nom. superfl. ——L. pseudosquarrosum Pampan. in Bull. R. Soc. Tosc. Orticult. III, 13: 99, t. 2. 1908. ——L. remoganense Hayata, Ic. Pl. Formos. 10: 1921; Takeo, Ill. Form. Pl. Suppl. 11. f. 11. 1928. ——U. madagascariensis (Nessel) Herter, Index Lycop. 68. 1949.
+
+大型附生蕨类。茎簇生，植株强壮，成熟枝下垂，1至多回二叉分枝，长25-100厘米，直径3-7毫米，枝连叶中部宽2.5-3.0厘米。叶螺旋状排列。营养叶披针形，密生，平伸或略上斜，长1.1-1.5厘米，宽1.0-2.0毫米，基部楔形，下延，无柄，有光泽，顶端尖锐，中脉不显，薄革质，全缘。孢子囊穗比不育部分细瘦，圆柱形，顶生。孢子叶卵状披针形，排列紧密，长8-15毫米，宽约0.9毫米，基部楔形，先端尖，中脉明显，全缘。孢子囊生在孢子叶腋，肾形，2瓣开裂，黄色。
+
+产云南、台湾及西藏南部。附生于海拔600-1900米的林下树干或土生。印度、尼泊尔、缅甸、泰国、越南、老挝、柬埔寨，孟加拉国、斯里兰卡、马来西亚、菲律宾、波利尼西亚、马达加斯加及太平洋地区等有分布。模式标本采自西喜马拉雅。
+
+本种是我国马尾杉属中体型最大的种类，其枝、孢子囊穗都较粗壮，孢子叶则为卵状披针形。

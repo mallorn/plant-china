@@ -1,0 +1,6 @@
+库尔楚黄耆",
+391.**Astragalus kurtschumensis** Bunge Mém. Acad. Imp. Sci. Saint Pétersbourg, sér. 7. 11(16): 139. 1868.",
+
+## Description
+Plants 12-15 cm tall, acaulescent or nearly so, caespitose, vegetative parts densely covered with medifixed, appressed, white hairs 0.8-1 mm. Stems, if present, up to 2 cm, densely hairy. Leaves 5-15 cm; stipules 3-5 mm, densely hairy; petiole 3-7 cm, like rachis loosely to rather densely hairy; leaflets in 4-12 pairs, 6-14 × 3-6 mm, both surfaces densely hairy. Racemes spherical, densely 8-12-flowered; peduncle 8-12 cm, densely to rather densely white hairy; bracts 2-3(-5) mm, with ap-pressed white or black and white hairs, at margins with basi-fixed hairs. Calyx at anthesis tubular, 9-12 mm, soon in-flated ovoid and 13-14 mm, rather densely covered with symmetri-cally or asymmetrically bifurcate, appressed, black and white hairs in different proportions up to 0.8 mm; teeth 1.5-3 mm. Petals pale yellow; standard narrowly obovate, 18-24 × ca. 7 mm, apex slightly emarginate; wings 16-20 mm; keel 13-18 mm. Legumes with a stipe 1-1.5 mm, enclosed in calyx, 11-13 × ca. 1.5 mm, compressed laterally, 2-locular; valves covered with appressed, medifixed, white hairs.
+  "Statistics": "Nei Mongol, Ningxia, Xinjiang [Kazakhstan, Mongolia].

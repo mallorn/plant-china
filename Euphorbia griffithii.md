@@ -1,0 +1,19 @@
+圆苞大戟",
+40.**Euphorbia griffithii** J. D. Hooker",
+
+> This species varies much in the color of involucral leaves from yellowish red to red. There is also significant variation in the nature of the rootstock, which can be either extensively rhizomatous or form a thick tuber. Most material including that from China belongs to *Euphorbia griffithii* var. *griffithii*; *E. griffithii* var. *bhutanica* (Fischer) Long is restricted to Bhutan.&lt;p&gt;&lt;p&gt;The root is used medicinally.
+
+## Description
+Herbs, perennial, erect, 20-70 cm tall. Rootstock usually extensively rhizomatous, rarely a shallowly buried subglobose tuber, rhizome 3-5 mm thick, tuber to 5 cm. Stems mostly single, less often clustered, 3-7 mm thick, sometimes branched, usually mostly glabrous. Leaves alternate; stipules absent; basal scale-leaves few; petiole indistinct, short and broadly winged; leaf blade ovate-oblong to elliptic, very variable, 2-7 × 0.6-1.2 cm, leathery or almost so, base attenuate-cuneate, margin entire, apex acute or obtuse; midrib prominent on both surfaces, lateral veins not reaching margin. Primary involucral leaves 3-7(-12), light red or orange, less often yellow, long elliptic to elliptic, base attenuate, apex rounded or acuminate, primary rays 3-7, 2-4 cm; cyathophylls 2, usually red or red-purple, much varied, rounded or subtruncate at base, usually rounded or subrounded at apex. Cyathium involucre cuplike, ca. 3 × 3.5 mm, lobes rounded, white pilose at margin and inside; glands 4, brown, rounded. Male flowers many, exserted from involucre. Female flower: ovary pedicellate and extended out of cup, smooth, glabrous; styles free; style arms peltate, slightly 2-lobed. Fruiting pedicel 4-5 mm; capsule globose, ca. 4 × 4 mm, smooth, glabrous. Seeds ovoid-globose, 2.5-3 × ca. 2 mm, dark gray or gray-brown, adaxial surface light striate; caruncle peltate, extremely shortly stipitate. Fl. and fr. Jun-Sep.
+
+> Sparse forests, scrub, meadows; 2500-4900 m. Sichuan, Xizang, Yunnan [Bhutan, N India, Kashmir, Myanmar, Nepal].
+  "Synonym": "*Euphorbia bulleyana* Diels; *E. cyanophylla* H. Léveillé; *E. erythrocoma* H. Léveillé; *E. porphyrastra* Handel-Mazzetti; *E. rubriflora* H. Léveillé; *E. seriocarpa* Handel-Mazzetti.
+**39.圆苞大戟（云南种子植物名录）雪山大戟，兰叶大戟，红毛大戟，紫星大戟，丝果大戟（云南种子植物名录）图版22：1-6**
+
+Euphorbia griffithii Hook. f. Fl. Brit. Ind. 5: 259. 1887; Lauener in Not. Roy. Bot. Card. Edinb. 40 (3): 478. 1983;云南种子植物名录1: 439. 1984; J. S. Ma ＆ C. Y. Wu in Collect. Bot. 21: 109. 1992; et in Acta Bot. Yunnan. 15 (2): 119. 1993. ——E. bulleyana Diels in Not. Roy. Bot. Gard. Edinb. 5: 219. 1912; 云南种子植物名录1: 438. 1984;横断山维管植物1: 1061, 1993. ——E. cyanophylla Levl. in Fed. Rep. Sp. Nov. 12: 287. 1913; Hand. -Mazz. Symb. Sin. 7 (2): 226. 1931; Lauener in Not. Roy. Bet. Gard. Edinb. 40 (3): 478. 1983;云南种子植物名录1 439. 1984. ——E. erythrocoma Levl. in Fed. Rep. Sp. Nov. 12: 287. 1913; Hand-Mazz. Symb. Sin. 7 (2): 227. 1931; 云南种子植物名录1: 439. 1984. ——E. rubrifora Levl. in Fed. Rep. Sp. Nov. 12: 287. 1913. ——E. porphyrastra Hand. -Mazz. in Anz. Akad. Wiss. Wien Math.——Nat. 62: 226. 1925: ＆ Symb. Sin. 7 (2) 227. 1931; 云南种子植物名录1: 441. 1984;横断山维管植物1: 1063, 1993. ——E. sericocarpa Hand.-Mazz. Symb. Sin. 7 (2): 227. 1931; 云南种子植物名录1: 442. 1984; 横断山维管植物1: 1063, 1993.
+
+多年生草本根状茎，常横走，末端具不规则块根，长7-12厘米，直径3-5厘米。茎直立，单一或数个形成一束，上部多分枝，高20-70厘米，直径3-7毫米，常无毛。叶互生，革质或薄革质，卵状长圆形至椭圆形，变化较大，长2-7厘米，宽6-12毫米，先端尖或钝圆，基部渐狭呈楔形，边缘全缘；主脉于叶两面明显，侧面羽状自中脉发出，不达边缘；总苞叶3-7枚，长椭圆形至椭圆形，先端圆或渐尖，基部渐狭，常呈淡红色或红黄色；伞幅3-7，长2-4厘米，常呈淡红色或红紫色；苞叶2枚，常呈圆形或近圆形，先端圆，基部半圆形或近平截，常呈黄红色或红色，变化较大。花序单生，基部无柄；总苞杯状，高约3毫米，直径均3.5毫米，边缘4裂，裂片半圆形，边缘和内侧具白色柔毛；腺体4,半圆形，褐色。雄花多数，明显伸出总苞之外；雌花1枚，子房柄伸出总苞边缘2-3毫米；子房光滑无毛；花往3，分离；柱头盾状，微分裂。蒴果球状，长与直径均4毫米，光滑无毛；果柄长4-5毫米；成熟时分裂为3个分果爿。种子卵球状，长2. 5-3.0 毫米，直径约2毫米，深灰色或灰褐色，腹面具一淡色的条纹，种阜盾状，具极短的柄。花果期6-9月。
+
+产于四川、云南和西藏。生于海拔2 500-4 900米林内、林缘、灌丛及草丛等。分布于喜马拉雅地区诸国。模式标本采自不丹。
+
+民间称块根为大狼毒，入药。

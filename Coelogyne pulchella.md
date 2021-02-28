@@ -1,0 +1,6 @@
+美丽贝母兰",
+16.**Coelogyne pulchella** Rolfe Bull. Misc. Inform. Kew. 1898: 194. 1898.",
+
+## Description
+Rhizome stout, creeping, sheathed. Pseudobulbs 2-3 cm apart on rhizome, dark green, ovoid to ovoid-oblong, 4-7 × 2-3 cm, rather drawn out in upper part with several obscure angles becoming pronounced with age, with 2 leaves at apex. Leaves oblong-lanceolate or elliptic, 13-17 × 2.5-5 cm, subleathery, with 7 veins prominent abaxially, apex acute; petiole ca. 4 cm, grooved. Inflorescence hysteranthous; peduncle bare, erect, stiff, 10-11 cm, with imbricate bracts at interface of peduncle and rachis; rachis 14-15 cm, slender, 4-12-flowered; flowers closely spaced, opening simultaneously; floral bracts deciduous. Flowers 2.5-3 cm in diam., pure white with large yellowish brown blotch on disk that becomes darker on lamellae and a smaller blotch at extreme base of lip. Sepals ovate, 12.5-15 × ca. 7.5 mm, acute. Petals linear, 12.5-15 × 2-3 mm, subacute; lip 12.5-15 mm, 3-lobed; lateral lobes erect, subovate, rounded at tip, front margin nearly 5 mm wide; mid-lobe much larger with 2 rounded, crenulate, undulate lobes at apex; callus with 3 fleshy crenulate lamellae, extending from base of lip to base of mid-lobe, median keel short. Column incurved, flattened on front, less than 5 mm, tip denticulate. Fl. Mar, Sep-Oct.
+  "Statistics": "On trees. Yunnan [Myanmar].

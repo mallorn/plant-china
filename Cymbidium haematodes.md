@@ -1,0 +1,7 @@
+秋墨兰",
+33.**Cymbidium haematodes** Lindley Gen. Sp. Orchid. Pl. 162. 1834.",
+
+## Description
+Plants terrestrial, autotrophic. Pseudobulbs ca. 3 × 1.5 cm, enclosed in leaf bases. Leaves 2-4(or 5), arching, 50-200 × 0.8-1.7 cm, usually lacking serrations along margin. Inflorescence usually held clear of and longer than leaves; rachis to 9-flowered; floral bracts to 20 mm. Flowers 3.5-4 cm in diam.; sepals and petals straw-yellow to light brown, with a strong central red-brown stripe, and several weaker stripes often only distinct toward base; mid-lobe of lip with transverse fine red spots. Sepals slightly obovate, 19-31 × 6-10 mm, apex subacute; lateral sepals pendulous, somewhat oblique. Petals ca. as broad as sepals or slightly narrower; lip not fused to basal margins of column, 3-lobed; lateral lobes narrowly subelliptic; mid-lobe triangular-elliptic, margin undulate, not kinked, apex rounded or obtuse; disk with 2 incurved ridges between lateral lobes. Column 13-18 mm. Fl. Sep-Oct, fr. Nov-Apr.
+  "Statistics": "Forests; 500-1900 m. Hainan, SW Yunnan [India, Indonesia, Laos, New Guinea, Sri Lanka, Thailand].
+  "Synonym": "*Cymbidium ensifolium* (Linnaeus) Swartz subsp. *haematodes* (Lindley) Du Puy &amp; P. J. Cribb; *C. ensifolium* var. *haematodes* (Lindley) Trimen; *C. siamense* Rolfe ex Downie; *C. sinense* (Jackson ex Andrews) Willdenow var. *haematodes* (Lindley) Z. J. Liu &amp; S. C. Chen; *C. sundaicum* Schlechter; *C. sundaicum* var. *estriatum* Schlechter.

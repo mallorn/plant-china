@@ -1,0 +1,15 @@
+高山扁枝石松",
+12.**Lycopodium alpinum** Linnaeus Sp. Pl. 2: 1104. 1753.",
+
+## Description
+Plants small to medium-sized, terrestrial; aerial shoots creeping, 30-70 cm. Lateral branches suberect, 6-10 cm tall, dichotomously branched with well-differentiated lateral branchlets much branched, branchlets flattened, dorsiventral. Leaves spirally arranged, dense, scalelike, strongly adnate to branchlets making branchlets cordlike, 0.7-1.5 × ca. 0.8 mm, herbaceous, midrib indistinct, base adnate to branches, sessile, margin slightly involute, entire, apex acute. Strobili 2, terminal on short peduncle, pale yellow, terete, 1.1-2.5 cm; sporophylls broadly ovate, imbricate, ca. 2 × 1.2 mm, margin membranous, with irregular teeth, apex acute, caudate. Sporangia enclosed.
+
+> Alpine tundra regions, under small shrubs, mixed forests, on rocks; 1700-2400 m. Heilongjiang, Jilin [India, Japan, Korea, Mongolia, Russia (Siberia), Sri Lanka; Europe, North America].
+  "Synonym": "*Diphasiastrum alpinum* (Linnaeus) Holub; *D. alpinum* var. *planiramulosum* (Takeda) Li &amp; J. Z. Wang; *Diphasium alpinum* (Linnaeus) Rothmaler; *Lepidotis alpina* (Linnaeus) P. Beauvois; *Lycopodium alpinum* var. *planiramulosum* Takeda; *Stachygynandrum alpinum* (Linnaeus) C. Presl.
+**2. 高山扁枝石松（植物分类学报）**
+
+Diphasiastrum alpinum (L.) Holub in Preslia 47: 147, 232. 1975; Ching in ActaBot. Yunnan. 4(2): 128. 1982; Dixit, Census Ind, Pterid. 10. 1984, et Lycop, Ind. 88, f. 23B, f. 48, Pl. VI: f. 23. 1988: B. Ollg., Index Lycop. 6. 1989; J. Z. Wangin Journ. Hebei Forest. coil. 5(2): 116. 1990; Fl. Xinjiang 1: 6, Pl. 1: 1-3. 1992: L. B. Zhang et H. S. Kung in Acta Phytotax. Sin. 38(3): 273. 2000. —— L. ycopodium alpinum L. Sp. Pl. 1104. 1753; Grev. et Hook. in Bot. Misc. 2: 380. 1831; Spring, Monogr. Lycop. 1: 104. 1842, et 2: 48. 1849; Baker, Handb. Fern Allies 27. 1887: IIjin in Kom. Fl. URSS. 1: 122. 1934: Herb. Pl. Northeast China 1: 5, f. 6. 1958; Mehra et Bir in Res. Bull. Panjab Univ. 15(1-2): 102. 1964; Wilce in Beih. NovaHedwigia 19: 130. 1965; Davis, Fl. Turk. E. Aege. Isl. 35. 1965; Nakaike, N. Fl. Jap. Pterid. 11, f. 11. 1982: B. Ollg. in Opera Bot. 92: 172. 1987, et l. c. 30: K. Iwats., Ferns Fern Allies Jap. 47. 1992. —— Lepidotis alpina (L.) P. Beauv. in Prodr. Aeth 107. 1805. —— Stachygymnandrum alpinum (L.) C. Presl in Abh. Koenigl. Boehm. Ges. Wiss. 3: 583. 1845. —— Diphasium alpinum (L.) Rothm. in Fedde, Repert. Sp. Nov. 54: 64. 1944, et in Fl. Europ. 1: 4. 1964: U. Sen et T. Sen in FernGaz. 11(6): 424. f. 5: k-r. 1978. —— L. alpinum L. var. planiramulosum Takedain Bot. Mag. Tokyo 23: 229. 1909; K. Iwats. l. c. 48. —— Diphasiastrum alpinum (L.) Holub var. planiramulosum (Takeda) Li et J. Z. Wang, 长白山植物名录 41. 1982; J. Z. Wang in Journ. Hebei Forest. coil. 5(2): 116. 1990.
+
+小型至中型土生植物，主茎匍匐状，长30-70厘米。侧枝近直立，高6-10厘米，多回不等位二叉分枝，小枝扁压状，有背腹之分。叶螺旋状排列，密集，鳞片状，紧贴小枝而使小枝呈绳索形，长0.7-1.5毫米，宽约0.8毫米，基部贴生在枝上，无柄，先端尖锐，略内弯，边缘全缘，中脉不明显，草质。孢子囊穗双生于短小的孢子枝顶端，圆柱形，长1.1-2.5厘米，淡黄色；孢子叶宽卵形，覆瓦状排列，长约2毫米，宽约1.2毫米，先端急尖，尾状，边缘膜质，具不规则锯齿；孢子囊生于孢子叶腋，内藏，圆肾形，黄色。
+
+产东北。生于海拔1700-2400米的高山苔原带、小灌木丛下，混交林内土生或生岩石上。广布于日本、朝鲜半岛、蒙古、俄罗斯西伯利亚、印度、锡金、斯里兰卡及欧洲、北美等地。后选模式标本采自瑞典拉普兰。

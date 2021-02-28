@@ -1,0 +1,15 @@
+细裂小膜盖蕨",
+3.**Araiostegia faberiana** (C. Christensen) Ching Fl. Reipubl. Popularis Sin. 2: 293. 1959.",
+
+## Description
+Rhizome long creeping, robust, 8-10 mm in diam., densely covered with scales. Scales rufous, ovate-lanceolate, 6-7 mm, membranous, basifixed with cordate base and overlapping lobes, margin with irregular teeth, apex acuminate. Fronds remote, 1.5-3 cm apart; stipe brownish stramineous, adaxially shallowly grooved, 12-15 cm, 2.5-3 mm in diam., base covered with scales similar to rhizome, sparse upward; lamina yellowish green or brown when dry, 5-pinnatifid, ovate, 30-35 × 16-20 cm, base broadly cuneate, apex acuminate. Pinnae 12-15 pairs, alternate or basal one opposite, sessile, basal pair similar to upper one, triangular-lanceolate or narrowly ovate, 15-25 × 4.5-9 cm; pinnules 12-16 pairs, alternate, shortly stalked or subsessile, narrowly ovate, 3-7 × 2-3 cm, base nearly symmetrical, apex obtuse, basal pair of pinnules catadromous; lobes narrowly linear, ca. 0.5 mm wide, acute. Rachis with several large, ovate scales at forking point. Veins inconspicuous, forked, with 1 veinlet in each lobe. Sori numerous, terminal on veinlet; indusium brown, semicircular, entire, attached at base.
+
+> Dense mixed forests, epiphytic on tree trunks; 1500-3100 m. Guizhou, Sichuan, Xizang, Yunnan [Myanmar, Thailand].
+  "Synonym": "*Davallia clarkei* Baker var. *faberiana* C. Christensen, Acta Horti Gothob. 1: 73. 1924; *Araiostegiella faberiana* (C. Christensen) M. Kato &amp; Tsutsumi; *Leucostegia clarkei* (Baker) C. Christensen var. *faberiana* (C. Christensen) C. Christensen; *L. faberiana* (C. Christensen) Ching.
+**8.细裂小膜盖蕨 (中国植物志)**
+
+Araiostegia faberiana (C. Chr.) Ching in Chien et Chun, Fl. Reip. Pop. Sin. 2: 293. 1959; Pichi-Serm. Ind. Fil. Suppl. 4: 16. 1965; Tagawa et Iwatsuki in Acta Phytotax. Geobot. 24: 180. 1970 et in Fl. Thailand 3 (2): 152. 1985; Ching et al. in C. Y. Wu, Fl. Xizang. 1: 286. 1983. ——Davallia clarkei var. faberiana C. Chr. in Acta Hort. Gothob. 1: 73. 1924. ——Leucostegia clarkei var. faberiana C. Chr. in Contr. U. S. Nat. Herb. 26: 194. 1931. ——Leucostegia faberiana Chingin C. Chr. Ind. Fil. Suppl. 3: 120. 1934. ——Davallia clarkei auct. non Bak. 1874: Nooteboom in Acta Phytotax. Sinica 34 (2): 168. 1996, pro parte.
+
+植株高40-50厘米。根状茎粗健，长而横走，粗8-10毫米，密被鳞片；鳞片卵状披针形，长约7毫米，先端渐尖，边缘有不整齐的小齿，红棕色而稍带光泽，覆瓦状蓬松地覆盖于根状茎上。叶远生，相距1.5-3厘米；柄长12-15厘米，粗2.5-3毫米，棕禾秆色或稍带褐色，上面有浅纵沟，基部密被鳞片，向上渐稀疏；叶片卵形，长30-35厘米，宽16-20厘米，先端渐尖，基部阔圆形，五回羽状细裂；羽片12-15对，互生或基部一对有时为对生，无柄，斜展，彼此密接，基部一对与其上的同形而稍大，三角状披针形至长卵形，长15-25厘米，宽4.5-10厘米；一回小羽片14-16对，互生，密接，下先出，基部下侧一片生于羽轴基部，其上侧一片距离叶轴1-1.5厘米，有短柄或近无柄，斜展，长卵形，长3-7厘米，宽2-3厘米，先端钝，基部近对称，上侧截形并与羽轴平行或略覆盖羽轴，下侧楔形，三回羽裂；二回小羽片5-8对，互生，有短柄，斜展，上先出，斜卵形至椭圆形，基部上侧一片较大，长8-10毫米，宽4-5毫米，先端钝，基部偏斜；三回小羽片3-4对，互生，无柄，斜向上，楔形至斜卵形，基部上侧一片较大，长3-4毫米，宽2-3毫米，基部斜楔形，下部的羽裂，上部的二裂为不等长的短裂片；裂片狭长线形，宽约0.5毫米，先端渐狭且有锐尖头。叶脉不明显，分叉，每裂片有小脉1条。叶薄草质，干后棕绿色或褐棕色，各回羽轴的分叉点下面有几片卵形大鳞片。孢子囊群小，多数，位于裂片缺刻之下，着生于上侧短小脉的顶端，其上方有1对长短不等的线形长角状突起；囊群盖半圆形，基部中央褐色，边缘色较浅，全缘，基部着生。
+
+产四川（峨眉山）、贵州、云南（昆明、屏边、金平、蒙自、腾冲、顺宁、禄春）、西藏（错那）。生山地混交林中树干上，海拔1500-3 100米。也分布于泰国北部及缅甸。模式标本产地：四川（峨眉山）。

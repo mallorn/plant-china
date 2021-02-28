@@ -1,0 +1,7 @@
+紫缨橐吾",
+6.**Ligularia phaenicochaeta** (Franchet) S. W. Liu Acta Biol. Plateau Sin. 7: 32. 1988.",
+
+## Description
+Stem erect, 15-40 cm tall, 2-2.5 mm in diam. at base, proximally glabrous or hairy, distally shortly brown pilose. Basal leaves petiolate; petiole 4-20 cm, base sheathed; leaf blade orbicular-reniform, 4-8 × 5-12.5 cm, glabrous, palmate veins prominent abaxially, margin regularly triangular-dentate. Stem leaves 1-3, gradually smaller upward, proximal leaves petiolate, base broadly sheathed; leaf blade reniform. Capitula 1-6, solitary or in corymb; leaflike and supplementary bracts linear-subulate, shorter; peduncles shortly brown pilose, longer than involucre. Involucre broadly campanulate or hemispheric, 8-10 mm, to 20 mm wide, outside glabrous; phyllaries 8-14, dark brown, oblanceolate, ca. 3 mm wide, apex obtuse; inner phyllaries membranous at margin. Ray florets yellow; lamina elliptic, 1-1.5 cm × ca. 2 mm, apex acute; tube ca. 3 mm. Tubular florets numerous, yellow, 6-9 mm; tube 1/3-1/2 as long as campanulate limb. Pappus purplish brown, 1-2 mm, as long as or shorter than tube of tubular corolla. Fl. Aug-Sep.
+  "Statistics": "● Wet slopes, alpine meadows; 3200-4200 m. Xizang (Zayü), NW Yunnan.
+  "Synonym": "*Senecio phaenicochaetus* Franchet, Bull. Soc. Bot. France 39: 295. 1893; *Cremanthodium phaenicochaetum* (Franchet) R. D. Good; *Senecillis phaenicochaeta* (Franchet) Kitamura.

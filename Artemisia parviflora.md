@@ -1,0 +1,18 @@
+西南牡蒿",
+179.**Artemisia parviflora** Buchanan-Hamilton ex D. Don Prodr. Fl. Nepal. 181. 1825.",
+
+## Description
+Herbs, perennial, or subshrubs, 40-80 cm tall, yellow or brown pubescent, sometimes glabrescent. Lower stem leaves: petiole 2-3 cm; leaf blade ovate or elliptic-ovate, 2-3 × 1.5-2 cm, 2-pinnatipartite or -sect; segments 2 or 3 pairs, elliptic or subspatulate, 15-25 × 5-10 mm, 2- or 3-partite; lobules lanceolate, or deeply serrate. Middle stem leaves ± sessile; leaf blade obovate-spatulate, flabellate, or cuneate, 2-3 × 0.5-1 cm, obliquely 3-5-partite or -sect; lobes linear, linear-lanceolate, or linear-oblanceolate, 5-10 × 1-2 mm, apex acuminate. Uppermost leaves 3-partite or entire; leaflike bracts linear or linear-lanceolate. Synflorescence a ± narrow panicle. Capitula many. Involucre ovoid or subglobose, 1-2 mm in diam. Marginal female florets 2-4. Disk florets 4-10, male. Achenes oblong. Fl. and fr. Aug-Oct. 2*n* = 18, 36.
+  "Statistics": "Grasslands, slopes, forest margins, roadsides, ravines, field margins; 400-4000 m. S Gansu, Guizhou, Henan, W Hubei, S Qinghai, S Shaanxi, Sichuan, Xizang, Yunnan [Afghanistan, Bhutan, India, Myanmar, Nepal, Sri Lanka].
+  "Synonym": "*Artemisia japonica* Thunberg var. *parviflora* (Buchanan-Hamilton ex D. Don) Pampanini; *A. japonica* subf. *tong**tchouanensis* (H. Léveillé) Pampanini; *A. tongtchouanensis* H. Léveillé; *Oligosporus parviflorus* (Buchanan-Hamilton ex D. Don) Poljakov.
+**179.西南牡蒿（植物研究）小花牡蒿（西藏植物志），小花蒿（四川），青蒿（贵州、云南）**
+
+Artemisia parviflora Buch.-Ham. ex Roxb. Hort. Beng. 61. 1814, nom. nud. et Fl. Ind. 3: 420. 1832. nom. conserv.; Don, Prodr. Fl. Nep. 181. 1825; DC. Prodr. 6: 100. 1837; C. B. Clarke, Comp. Ind. 159. 1876; Hook. f. Fl. Brit. Ind. 3: 332. 1881; Kitam. in Kihara, Fau. Fl. Nep. Himal. 1: 246. 1952-1953 et in Act. Pnytotax. Geobot. 23 (1-2): 12. 1968, excl. syn. A. subd igitata auct., non Mattf.; Nasir et Ali, Fl. W. Pakistan 718. 1972; 西藏植物志4: 78 3. 1985.——A. tongtchouanensis Levl. in Fedde, Rep. Sp. Nov. 11: 304. 1912 et Cat. Pl. Yunnan 38. 1915. ——A. japonica Thunb. var. iaponica Maxim. f. eriopoda Pamp. subf. tongtchouanensis Pamp. et var. parviflora (Buch.-Ham. ex Roxb.) Pamp. in Nuov. Giorn. Bot. Ital. n. s. 34: 664. 1927; S. Y. Hu in Quart. Journ. Taiwan Mus. 18(3-4): 235-238. 1965. ——A. glabrata auct., non Wall. ex DC.: Wight, Ic. Pl. Ind. Or. 3: 9, fig. llll. 1846. ——A. japonica auct., non Thunb: Lauen. in Not. Bot. Gard. Edinb. 34 (3): 354. 1976. ——Oligosporus parviflocus (Much-Ham. ex Roxb.) Poljak. В Мат. Фл. Раст. Каэах. 11: 170. 1961.
+
+多年生草本，有时成半灌木状。主根明显，有时稍粗大，纺锤形，木质，侧根多或少数；根状茎稍粗，直径3-10毫米，稀可达30毫米。茎多数或少数，成丛，稀少单一，高40-80厘米，有纵棱，紫褐色或暗褐色，下部半木质或木质，上半部有分枝，枝多而细，斜向上展；茎、枝初时被黄色或褐黄色短柔毛，后渐稀疏或无毛。叶纸质，上面无毛，背面初时被黄色或褐黄色柔毛，后脱落；茎下部叶卵形、椭圆状卵形，长2-3厘米，宽1.5-2厘米，二回羽状深裂或近全裂，每侧裂片2-3枚，裂片椭圆形或近匙形，长1.5-2.5厘米，宽0.5-1厘米，再成羽状2-3深裂，小裂片披针形，或为深裂齿，叶柄长2-3厘米；中部叶变化大，倒卵状匙形、扇形或楔形，长2-3厘米，宽0.5-1厘米，自叶上端向叶基部斜向3-5深裂至全裂，裂片线形、线状披针形或线状倒披针形，长0.5-1厘米，宽1-2毫米，先端尖，不再分裂或有时再分裂，具1-2枚小裂齿，近无柄，基部有小型的假托叶；上部叶3深裂或不分裂，基部假托叶小或不明显；苞片叶不分裂，线形或线状披针形。头状花序多数，小，卵球形或近球形，直径1-2毫米，无梗或有短梗，常有小苞叶，下垂，在茎端及细的分枝上排成穗状花序或穗状花序式的总状花序，并在茎上组成略狭窄或中等开展的圆锥花序；总苞片3-4层，外层总苞片略短小，外、中层总苞片卵形或长卵形，背面无毛，有绿色中肋，边狭膜质，内层总苞片半膜质；雌花2-4朵，花冠狭圆锥状或狭管状，檐部具2-3裂齿，花柱伸出花冠外，先端2叉，叉端尖；两性花4-10朵，不孕育，花冠管状，花药线形，先端附属物尖，长三角形，基部有短尖头或不明显，花柱短，先端稍膨大，2裂，不叉开。瘦果长圆形。花果期8-10月。
+
+产陕西（南部）、甘肃（南部）、青海（南部）、湖北（西部）、四川、云南及西藏；生于海拔2 200-3 100米地区的草丛、坡地、林缘及路旁等。阿富汗、克什米尔地区、印度、尼泊尔、锡金、缅甸及斯里兰卡等也有。模式标本采自尼泊尔。
+
+入药，有清热、解毒、止血、祛湿作用，还可代替“青蒿”（即黄花蒿）入药。
+
+本种近似于牡蒿A. japonica Thunb.，该种在印度植物志中（Hook. f. Fl. Brit.Ind. 3: 332.1881）所引证的标本（存英国邱植物园标本馆中）与牡蒿A. japonica Thunb.含混不清。作者暂选取Wallich 3298/408 Nepal，1821为模式标本，以茎下部叶一至二回羽状深裂或全裂，中部叶3-5深裂；茎、枝、叶背面初时被黄色或褐黄色柔毛等区别之。

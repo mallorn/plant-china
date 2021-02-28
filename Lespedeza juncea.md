@@ -1,0 +1,14 @@
+尖叶铁扫帚",
+21.**Lespedeza juncea** (Linnaeus f.) Persoon Syn. Pl. 2: 318. 1807.",
+
+## Description
+Subshrubs or perennial herbs, small, to 1 m tall, adpressed hairy throughout. Leaves 3-foliolate; petiole 0.5-1 cm; leaflets oblanceolate, linear-oblong, or narrowly oblong, terminal one 1.5-3.5 × 0.2-0.7 cm, base attenuate, margin slightly involute, apex acute or obtuse-rounded, mucronate. Racemes axillary, slightly overtopping leaves, 3-7-flowered. Calyx narrowly cam-panulate, 5-parted; lobes lanceolate, distinctly 3-veined after fruiting. Corolla white or yellowish; standard with purple spots at base, not or rarely reflexed at fruiting; keel mixed with purple at apex; standard and wings subequal to keel, sometimes stan-dard short. Cleistogamous flowers clustered in leaf axils, sub-sessile. Legume broadly ovoid, slightly overtopping persistent calyx, both surfaces adpressed white hairy. Fl. Jul-Sep, fr. Sep-Oct. 2*n* = 20.
+  "Statistics": "Mountain slopes, thickets; below 1500 m. Gansu, Hebei, Hei-longjiang, Jilin, Liaoning, Nei Mongol, Shandong, Shanxi [Japan, Ko-rea, Mongolia, Russia (Far East, E Siberia)].
+  "Synonym": "*Hedysarum junceum* Linnaeus f., Dec. Pl. Horti Upsal. 1: 7. 1762; *Lespedeza cystoides* Nakai; *L. hedysaroides* (Pallas) Kitagawa; *L. hedysaroides* var. *subsericea* (Komarov) Kitaga-wa; *L. hedysaroides* var. *umbrosa* (Komarov) Kitagawa; *L. juncea* var. *subsericea* Komarov; *L. juncea* f. *umbrosa* Kom-arov; *Trifolium hedysaroides* Pallas.
+**25. 尖叶铁扫帚（中国主要植物图说·豆科）图版41: 1-8**
+
+Lespedeza juncea (Linn. f.) Pers. Syn. 2: 318. 1807; DC. Prodr. 2: 348. 1825; Ledeb. Fl. Ross. 1: 714. 1842; Maxim. in Mem. Acad. Sci. St. Petersb. Sav. Etrang. 9: 86. et 471. 1859; id. Act. Hort. Petrop. 2: 370. 1837. pro parte——Hedysarum junceum Linn. f. Dec. 1:7. t. 4. 1762.——Trifolium hedysaroides Pall. Reise 3: Append. 731．t. Dc. f 3A. 1776.——T. cytisoides Pall. op. cit. 3: 266. 1776.——Lespedeza jumcea (Linn. f.) Pers. f. umbrosa et var. subsericea Kom. in Act. Hort. Petrop. 22:604. 1903.——L. cystoides Nakai in Bull. For. Exp. Stat. Chosen 6: 94. 1927.——L. hedysaroides (Pall.) Kitagawa, Lineam. Fl. Mansh. 288. 1939. cum umbrosa Schischk. et Bob. in Kom. Fl. URSS 13:380. 1948; 中国主要植物图说·豆科530. 图527. 1955; Noda, Fl. N. -E. Chin. 699. 1971;内蒙古植物志3: 257. 1977; Kitagawa, Neo-Lineam. Fl. Mansh. 406. 1979. ——L. hedysaroides (Pall.) Kitagawa var. subsericea (Kom.) Kitagawa Lineam. Fl. Mansh. 289. 1939;东北木本植物图志348. 图版117:261. 1955.
+
+小灌木，高可达1米。全株被伏毛，分枝或上部分枝呈扫帚状。托叶线形，长约2毫米；叶柄长0.5-1厘米；羽状复叶具3小叶；小叶倒披针形、线状长圆形或狭长圆形，长1.5-3.5厘米，宽（2-）3-7毫米，先端稍尖或钝圆，有小刺尖，基部渐狭，边缘稍反卷，上面近无毛，下面密被伏毛。总状花序腋生，稍超出叶，有3-7朵排列较密集的花，近似伞形花序；总花梗长；苞片及小苞片卵状披针形或狭披针形，长约1毫米；花萼狭钟状，长3-4毫米，5深裂，裂片披针形，先端锐尖，外面被白色状毛，花开后具明显3脉；花冠白色或淡黄色，旗瓣基部带紫斑，花期不反卷或稀反卷，龙骨瓣先端带紫色，旗瓣、翼瓣与龙骨瓣近等长，有时旗瓣较短；闭锁花簇生于叶腋，近无梗。荚果宽卵形，两面被白色伏毛，稍超出宿存萼。花期7-9月，果期9-10月。
+
+产黑龙江、吉林、辽宁、内蒙古、河北、山西、甘肃及山东等省区。生于海拔1 500米以下的山坡灌丛间。朝鲜、日本、蒙古、原苏联（西伯利亚）也有分布。

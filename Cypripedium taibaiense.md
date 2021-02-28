@@ -1,0 +1,6 @@
+太白杓兰",
+13.**Cypripedium taibaiense** G. H. Zhu & S. C. Chen Novon. 9: 454. 1999.",
+
+## Description
+Plants 13-15(-24) cm tall. Rhizome 4-5 cm, stout, 4-5 mm in diam. Stem erect, glabrous, with 2 or 3 sheaths at base and 3 or 4 leaves above. Leaf blade elliptic or elliptic-lanceolate, 4.5-11 × 2.8-3.5 cm, abaxially minutely pubescent or glabrescent, adaxially glabrous, ciliate, apex acuminate or subacute. Inflorescence terminal, 1-flowered; peduncle minutely pubescent; floral bracts narrowly elliptic or ovate-lanceolate, 6-6.5 cm, both surfaces minutely pubescent or adaxially glabrescent; pedicel and ovary 1.7-2 cm, pubescent at least along ribs. Flower purple-red, 4-4.5 cm in diam. Dorsal sepal elliptic-ovate, 2.2-3 × 1.3-1.5 cm, glabrous, apex acuminate; synsepal ovate-elliptic to narrowly elliptic, 2.2-2.8 × 1-1.2 cm, glabrous, bifid at apex. Petals lanceolate, 2.6-3 × 0.7-0.9 cm, villous in basal half adaxially; lip deeply pouched, obovoid-subglobose, 2.5-3 × 1.5-2 cm, outer surface glabrous, inner bottom hairy. Staminode oblong, 10-11 × 5-6 mm, with a longitudinal groove centrally, carinate abaxially, mucronate at apex. Fl. Jun-Jul.
+  "Statistics": "&amp;#9679; Grassy slopes; 2600-3300 m. S Shaanxi (Taibai Shan).

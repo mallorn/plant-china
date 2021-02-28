@@ -1,0 +1,15 @@
+硬果鳞毛蕨",
+69.**Dryopteris fructuosa** (Christ) C. Christensen Index Filic. 267. 1905.",
+
+## Description
+Plants 60-80 cm tall. Rhizome erect, short; scales of rhizome and stipe base dense, bright rufous-brown, ovate-lanceolate, with acicular tips, usually twisted. Fronds caespitose; stipe dark stramineous, 1/4-1/2 as long as lamina, adaxially grooved, clothed with lanceolate, dark brown scales, leaving distinct scars, distally smaller, lanceolate, sparsely spinulose-dentate; lamina oblong-lanceolate, 40-60 × 20-30 cm, widest at base, bipinnatipartite to tripinnatipartite, apex acuminate; pinnae ca. 20 pairs, oblong-lanceolate, 7-15 × 3-5 cm, widest at base, truncate, sessile; pinnules 8-10 pairs, oblong-lanceolate, 2-3 × ca. 1 cm, apex obtuse, sides deltoid-dentate, basiscopic pinnules longer than acroscopic ones, pinnatifid; segments 4-6 pairs, oblong, apex with 1 or 2 acute teeth. Lamina papery or thinly leathery; rachis clothed with lanceolate, brown scales; veins conspicuous on both surfaces, mostly forked. Sori 2-5 pairs on each pinnule, borne on lower part of pinnules, nearer to costa than to margin; indusia ferruginous, horseshoe-shaped, not completely covering sorus at maturity, persistent.
+
+> *Pinus* forests or evergreen broad-leaved forest margins; 1800-3400 m. Hubei, Sichuan, Taiwan, Xizang, Yunnan [Bhutan, India, Myanmar, Nepal].
+  "Synonym": "*Aspidium varium* (Linnaeus) Swartz var. *fructuosum* Christ, Bull. Herb. Boissier 6: 967. 1898; *A. fructuosum* (Christ) Christ; *A. pseudovarium* Christ; *Dryopteris adenorachis* C. Christensen; *D. apicifixa* Ching, Boufford &amp; K. H. Shing; *D. cavaleriei* H. Léveillé; *D. fructuosa* (Christ) C. Christensen var. *integriloba* Ching; *D. hypophlebia* Hayata; *D. pseudosabaei* Hayata; *D. pseudovaria* (Christ) C. Christensen; *Nephrodium fructuosum* (Christ) Handel-Mazzetti.
+**69．硬果鳞毛蕨**
+
+Dryopteris fructuosa (Christ) C. Chr. Ind. Fil. 267. 1905; Ching in Bull. Fan Mem. Inst. Biol. Bot. 8: 445, 1938; Fraser-Jenkins in Bull. Br. Mus nat. Hist. Bot. 18 (5): 402. fig. 39, 40. 1989;横断山维管植物上册129. 1993. ——Aspidium varium var. fructuosum Christ in Bull. Herb. Boiss. 6: 967. 1898. ——Aspidium fructuosum (Christ) Christ in Mem. Soc. Bot. France. 1 (1): 38. 1905. ——Nephrodium fructuosum (Christ) Hand. -Mazz. Symb. Sin. 6: 24. 1929. ——Dryopteris hypophlebia Hayata, Icon. Pl. Form. 4: 154, fig. 95. 1912. ——Dryopteris pseudosabaei Hayata, Icon. Pl. Form. 5: 283, fig. 110, 1915. ——Dryopteris cavaleriei Levl. Fl. Kouy-Tcheou. 490. 1915, nom illegit. , non (Christ) C. Chr. 1905. ——Dryopteris apicifixa Ching, Boufford ＆ Shing in Bartholomew et al. in Journ. Arn. Arb. 64 (1): 27. 1983.
+
+植株高约60-80厘米。根状茎短而直立，连同叶柄基部密被亮红棕色卵圆披针形鳞片，先端毛发状，常扭曲。叶簇生；叶柄长为叶片的1/2到1/4，深禾秆色，有纵沟，被褐棕色披针形鳞片，常脱落后留下明显的痕迹，向上达叶轴鳞片逐渐变小，披针形，边缘疏具尖刺齿；叶片长圆披针形，长40-60厘米，宽20-30厘米，先端渐尖，基部最宽，二回羽状至三回羽状深裂；一回羽片约20对，长圆披针形，长约7一15厘米，宽约3-5厘米，先端渐尖，基部最宽，平截无柄，沿羽轴被棕色披针形鳞片，一回羽状；小羽片约8-10对，互生，长圆披针形，钝头，具三角状尖锯齿，长约2-3厘米，宽约1厘米，羽轴下侧小羽片长于上侧小羽片，羽状浅裂至半裂；裂片4-6对，近长方形，先端具三角状尖锯齿。叶脉俩面显著，多数为二叉；叶坚纸质至薄革质，上面暗褐色，下面褐色。孢子囊群圆肾形，生于小羽片下部靠近中肋，每小羽片2-5对；囊群盖红棕色，为角质穹窿状的马蹄，成熟时不完全笼罩孢子囊群，宿存。
+
+产陕西、台湾、湖北、四川、云南、西藏。常生于松林或常绿阔叶林林缘，海拔1800-3400米。分布印度、尼泊尔、不丹、缅甸。模式标本采自湖北宜昌。

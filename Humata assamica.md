@@ -1,0 +1,15 @@
+长叶阴石蕨",
+2.**Humata assamica** (Beddome) C. Christensen Contr. U.S. Natl. Herb. 26: 293. 1931.",
+
+## Description
+Rhizome 3-5.3 mm in diam. (without scales), not white waxy. Scales whitish or red-brown, without pale border, narrowed evenly toward apex, not or seldom curling backward, peltate, 8-10 × 1.8-2.5 mm, without multiseptate hairs, toothed. Stipe adaxially grooved, 4-7 cm, glabrous or with few scales; lamina pinnate with pinnatilobed to pinnatifid pinnae toward base and in middle part, or sometimes bipinnate, narrowly ovate, elongate, 10-27 × 3.5-12 cm, glabrous, not or slightly dimorphic. Longest petiolules ca. 1 mm; pinnae narrowly ovate; longest pinnae 3.5-6 × 1-2 cm; pinna lobes of at least larger pinnae anadromous, linear-oblong, longest 7-15 × 3-4 mm. Rachises and costae glabrous. Margins of each pinna in fertile fronds thickened and decurrent on edge of grooved rachis. Veins in sterile ultimate lobes pinnate, not reaching margin; false veins not present. Sori separate, borne several or frequently single on a segment, at forking point of veins; indusium attached at broad base and hardly or not at sides, semicircular, wider than long or ± as wide as long, 0.7-1 × 0.8-1.2 mm, upper margin not elongated, truncate or slightly rounded, separated from or even with lamina margin; lamina generally extending into a tooth at both sides or only at outside of a sorus.
+
+> Wet forests, climbing on rocks or tree trunks; 900-2300 m. Xizang, Yunnan [Bhutan, India, Myanmar].
+  "Synonym": "*Acrophorus assamicus* Beddome, Ferns Brit. India 1: t. 94. 1865; *Davallia assamica* (Beddome) Baker; *D. micans* Mettenius ex Baker; *Humata micans* (Mettenius ex Baker) Diels; *Leucostegia assamica* (Beddome) J. Smith.
+**1.长叶阴石蕨（中国植物志）图版33: 1-3**
+
+Humata assamica (Bedd.) C. Chr. in Contr. U. S. Nat. Herb. 26: 293. 1931et Ind. Fil. Suppl. 3: 112. 1934; Ching, Icon. Fil, Sin. 3: Pl. 105. 1935 et in Chien et Chun, Fl. Reip, Pop. Sin. 2: 307, pl. 27, f. 10-11. 1959; Ching et al. in C. Y. Wu, Fl, Xizang. 1: 288, f. 69 (1-2). 1983. ——Acrophorus assamicus Bedd. Ferns Brit. Ind. t. 94. 1866. ——Davallia assamica Bak. in Hook. et Bak. Syn. Fil. ed. 1. 452. 1868; ed. 2. 467. 1874; C. Chr. Ind. Fil. 207. 1905; Nooteboom in Acta Phytotax. Sinica 34 (2): 168. 1996. ——Leucostegia assamica J. Sm. Hist. Fil. 84. 1875. ——Davallia micans Mett. ex Bak. in Hook. et Bak. Syn. Fil. ed. 1. 95. 1867. ——Humata micans Diels in Engl. u. Prantl, Nat. Pflanzenfam. 1 (4): 209. 1899.
+
+植株高20-35厘米。根状茎长而横走，肥厚，肉质，粗约5毫米，密被淡棕色的披针形鳞片，老则上部的脱落。叶远生，相距3-4厘米; 叶柄长5-10厘米，粗约1毫米，淡棕色或禾秆色，光滑。叶片阔披针形，长15-26厘米，宽5-7厘米，先端尾状渐尖，基部不变狭，三回深羽裂；羽片20对以上，具短柄 (长1-1.5毫米) ，近互生至互生，斜展，彼此接近，长三角状披针形，略向上弯弓，先端短渐尖，基部阔楔形，近对称，二回深羽裂；小羽片7-12对，椭圆形，长约1厘米，宽3-5毫米，基部一对或上侧一片较长，先端有2-3枚齿牙，基部不对称，上侧近截形并紧靠羽轴，下侧楔形，无柄，上先出，彼此密接，羽裂深达2/3；裂片仅先端有2-4枚不等的齿牙，但基部一对小羽片较大，其裂片常有2-3对小缺裂；中部以上的羽片逐渐缩短，二回深羽裂。叶脉不明显，羽状分叉，小脉通常二叉，先端不达叶边。叶近革质，干后褐棕色，光滑；叶轴和叶柄同色，向上部有狭翅。孢子囊群生于裂片上侧，位于小脉的分叉处；囊群盖半圆形，棕色，全缘，质较厚，基部着生。
+
+产云南西部及西北部（沧源、镇康、福贡）、西藏（墨脱、达旺）。生林中树干上或岩石上，海拔1200-2300米。也分布于印度北部。模式标本产地：印度。

@@ -1,0 +1,7 @@
+小花金挖耳",
+3.**Carpesium minus** Hemsley J. Linn. Soc., Bot. 23: 431. 1888.",
+
+## Description
+Stems 10-30 cm tall, erect, densely pubescent, often purplish, internodes 5-16 mm. Lower cauline leaves petiolate; petiole 1-3 cm, usually purple; blade elliptic or elliptic-lanceolate, 4-9 × 1-2.2 mm, thick, both surfaces glabrous or sparsely pubescent along veins, dotted with glands, base cuneate, margin with sparse tooth in middle and upper part, apex acute or obtuse; upper leaves gradually smaller upward, lanceolate or linear-lanceolate, subentire, shortly petiolate or sessile. Capitula ca. 5 mm in diam., solitary on ends of branches or branchlets, nodding at anthesis, subtended by many leaflike bracts; bracts linear-lanceolate, 6-15 mm. Involucres campanulate-globose, ca. 5 × 4-5 mm; phyllaries 3- or 4-seriate, outermost shortest, ovate, cuspidate, pubescent, median narrowly oblong, denticulate, rounded at apex, inner linear. Corolla of marginal florets cylindric, 1-1.5 mm; corolla of disk florets tubular, ca. 2 mm, limb 5-lobed. Achenes ca. 2 mm. Fl. Jul-Sep, fr. Sep-Oct.
+  "Reference": "This species is characterized by a dwarf, slender habit; narrow, rather thick leaves; and small, erect, slenderly pedunculate capitula.This species is characterized by a dwarf, slender habit; narrow, rather thick leaves; and small, erect, slenderly pedunculate capitula.
+  "Statistics": "● Grassy slopes along streams; 700-1000 m. Hubei, Hunan, Jiangxi, Sichuan, Yunnan.

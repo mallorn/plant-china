@@ -1,0 +1,15 @@
+疏羽碎米蕨",
+7.**Cheilanthes belangeri** (Bory) C. Christensen Index Filic. 172. 1905.",
+
+## Description
+Rhizomes erect, short; scales concolorous, dark brown, subulate-lanceolate. Fronds tufted. Stipe dark brown to nearly black, 8-23 cm, adaxially shallowly grooved, groove rounded or blunt along margins, scaly toward base; scales concolorous, dark brown, subulate lanceolate to subulate. Lamina brown when dry, narrowly triangular-lanceolate, 9-26 × 3-5 cm, pinnate-pinnatifid to 2-pinnate, papery, glabrous on both surfaces, base not or only slightly narrowed, apex long acuminate; rachis and costae dark brown, adaxially grooved, usually with minute, stalked glands, especially adaxially, sometimes glabrous abaxially. Pinnae 12-18 pairs, widely separated; basal pinnae slightly shorter to ± as long as second pair, elongate deltoid, 1.5-3.5 × 0.6-1.5 cm, stalked (stalks 1-4 mm), base broadly cuneate, apex acuminate and often somewhat caudate. Pinnules (segments) of proximal pinnae 4-6 pairs, adnate to costa, inequilateral, basiscopic pinnules somewhat longer than adjacent acroscopic ones; basal basiscopic pinnule longest, oblong-lanceolate, somewhat lobed. Sori interrupted at segment sinuses. False indusia discontinuous, margins entire or slightly undulate. 2*n* = 120.
+
+> On rocks, occasionally in wet soil; 100-800 m. Hainan [Bangladesh, Cambodia, India, Indonesia, Myanmar, Nepal, Philippines, Thailand, Vietnam].
+  "Synonym": "*Pteris belangeri* Bory in Bélanger, Voy. Indes Or. 2: 44. 1883; *Allosorus cambodiensis* (Baker) Kuntze; *Cheilanthes varians* Wallich ex Hooker; *Cheilosoria belangeri* (Bory) Ching &amp; K. H. Shing; *Pellaea cambodiensis* Baker; *Pteridella belangeri* (Bory) Mettenius ex Kuhn.
+**4. 疏羽碎米蕨（中国蕨类植物孢子形态）图版34：6-9**
+
+Cheilosoria belangeri (Bory) Ching et Shing, Glos. Terms ＆ Names of Ferns 39. 1982. ——Pteris belangeri Bory in Belang. Voy. Bot. 2:44. 1883. ——Cheilanthes belangeri C. Chr. Ind. Fil. 172. 1906; Tard.-Blot et C. Chr. in Fl. Indo-Chine 7(2):172, 1940.——Pteridella belangeri Mett., Kuhn in v. d. Decken's Reisen Ost-Afr. Bot. 3(3):13. 1879. ——Pteris varians Wall. List n. 86. 1828. nom. nud., non Raddi 1819. ——Cheilanthes varians Hook. Sp. Fil. 2:89, t. 103 A. 1852; Hook. et Bak. Syn. Fil. 136. 1874; Bedd. Ferns S. Ind. t. 189. 1864 et Handb. Ferns Brit. Ind. 91, f. 47. 1883; Clarke in Trans. Linn. Soc. 2. Bot. 1:455. 1883; Christ, Farnkr. d. Erde 145. 1897; Diels in Engl. u. Prantl, Nat. Pflanzenfam. 1(4):275. 1899; Holttum, Fl. Mal. 2:Ferns Mal. 591. 1954. ——Pellaea cambodiensis Bak. in Ann. Bot. 5:213. 1891; C. Chr. Ind. Fil. 479. 1906. ——Allosorus cambodiensis O. Ktze. Rev. Gen. Pl. 2:806. 1891.
+
+植株高30-50厘米。根状茎短而直立，连同叶柄基部密被栗色钻状披针形鳞片。叶簇生；柄长8-23厘米，栗黑色，基部以上光滑，下面圆，上面有阔纵沟；叶片狭披针形，长15-26厘米，宽3-5厘米，长渐尖头，基部几不变狭，二回羽状；羽片12-15对，彼此远分开（基部一对尤甚），中部以下的长三角形，长2.5-3.5厘米（基部一对较短），宽1-1.5厘米，先端渐尖，多少尾头，基部阔楔形，柄长1.5-2毫米，一回羽状；小羽片4-6对，与羽轴合生，通常羽轴上侧的较下侧的为短，下侧基部一对最长，三角状披针形，下部浅裂；叶片上部的羽片逐渐变小，无柄，边缘羽裂或有圆齿。叶脉上面不显，下面可见，侧脉多分二叉，少为三叉或单一。叶干后纸质，褐色，两面无毛，叶轴及羽轴栗色，下面圆形，上面有沟，光滑。囊群盖连续或断裂，全缘或波状。
+
+我国仅产于海南（昌江，七叉岭），生平原潮湿壤土，常见。也分布印度东北部、缅甸、越南南部、柬埔寨、菲律宾及印度尼西亚。我国海南岛为本种地理分布的北界。模式标本采自菲律宾。

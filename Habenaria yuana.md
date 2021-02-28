@@ -1,0 +1,6 @@
+川滇玉凤花",
+28.**Habenaria yuana** Tang & F. T. Wang Bull. Fan Mem. Inst. Biol. Bot. 7: 135. 1936.",
+
+## Description
+Plants turning black when dried, 40-57 cm tall. Tubers oblong, ca. 2 × 1 cm, fleshy. Stem erect, terete, stout, with 5 or 6 laxly arranged leaves. Leaf blade ovate or ovate-elliptic, 2.5-9 × 2-4 cm, base amplexicaul, apex acute. Raceme 7-9-flowered, 10-12 cm; floral bracts elliptic-ovate, 2.5-3.5 × 0.7-1.2 cm, longer than ovary, apex acuminate; ovary twisted, cylindric-fusiform, including pedicel 2-2.5 cm. Flowers greenish, large. Dorsal sepal erect, oblong-elliptic, concave, 2-2.1 × 1-1.1 cm, 5-veined, apex obtuse; lateral sepals spreading, obliquely oblong, 2.1-2.2 × ca. 0.8 cm, 5-veined, apex acute. Petals forming a hood with dorsal sepal, obliquely subovate-falcate, 2-2.1 × ca. 0.8 cm, 5- or 6-veined, margin slightly ciliate, unlobed, apex obtuse; lip ca. 2.5 cm, base spurred, deeply 3-lobed above base, lobes ciliate; lateral lobes linear, 1.8-2 cm, outer margin with more than 10 filiform lobules; mid-lobe linear, 1.5-1.7 cm; spur pendulous, cylindric-clavate, 1.4-2.5 cm, slightly dilated toward end, shorter than ovary; connective 12-15 mm wide; pollinia narrowly ellipsoid, ca. 3 mm; caudicles linear, ca. 5 mm; viscidia subglobose, small; stigmas clavate. Fl. Aug.
+  "Statistics": "&amp;#9679; Forests; 1800-2600 m. W Sichuan, S Yunnan.

@@ -1,0 +1,16 @@
+独龙江紫堇",
+182.**Corydalis dulongjiangensis** H. Chuang Acta Bot. Yunnan. 13: 128. 1991.",
+
+## Description
+Herbs, perennial, 20-50 cm, glabrous. Taproot slender, 1-1.5 mm in diam.; rootstock short, apically with a few-flowered rosette. Stems decumbent, slender, at first with few branches. Cauline leaves several; middle petiole 3-7 cm, upward gradually shorter, base expanded into short rounded fleshy sheath with pale membranous margins; leaf axils (except those with \"normal\" branches) with bulbils that become almost black in plant press, eventually falling off or growing out to short shoots while still attached; blade glaucous on both surfaces, but more so adaxially, broadly triangular; lower blade 2-4 × 3-5 cm, biternate; primary pinnae shortly petiolulate; ultimate leaflets sessile, ± deeply divided into few broadly obovate obtuse mucronate lobes (uppermost leaves very small). Raceme 2-6-flowered, slightly elongating in fruit; bract suborbicular to broadly obovate, irregularly deeply or slightly divided, or uppermost one narrowly obovate and entire, 3-6 mm. Pedicel 4-6 mm, considerably elongating in fruit to 10-20 mm. Sepals whitish, orbicular, peltate, ca. 1 mm, margin deeply dentate. Petals pale purple. Outer petals shortly acuminate, dorsal crest short, narrow, slightly dentate, not quite reaching apex; upper petal 23-25 mm; spur straight, cylindric or slightly tapering from broad base to obtuse tip, ca. 12 mm; nectary ca. 3 mm; lower petal 13-14 mm, with narrow base widened in front 1/3 to rounded shortly acuminate limb; inner petals ca. 12 mm. Stigma with 6 distinct marginal papillae; geminate papillae lateral (submarginal) and on well-developed rounded basal lobes. Capsule narrowly oblong, 10-15 × 1.5-2 mm, 8-10-seeded. Seeds in 1 row, ca. 1.2 mm, smooth. Fl. and fr. Mar-Jul.
+  "Reference": "This is very similar to *Corydalis leptocarpa* but differs in having leaves smaller, axillary bulbils present, pedicels longer than bracts, nectary comparatively shorter, and fruit and seeds smaller.This is very similar to *Corydalis leptocarpa* but differs in having leaves smaller, axillary bulbils present, pedicels longer than bracts, nectary comparatively shorter, and fruit and seeds smaller.
+  "Statistics": "Channel sides on slopes, roadsides; 1500-1800 m. W Yunnan (Gongshan) [Myanmar (Haka)].
+**8．独龙江紫堇（云南植物研究）**
+
+Corydalis dulongjiangensis H. Chuang in Act. Bot. Yunn. 13 (2): 128, f. 3, 10-18. 1991.
+
+多年生草本，高20-50厘米。主根纤细，长达9厘米，粗1-1.5毫米，具少数侧根和纤维状细根；根茎短，具宿存、增厚的叶残基。茎柔弱，折曲，上部具少数分枝，无毛。基生叶少数，具长柄，花期枯萎；茎生叶数枚，硫离，互生，叶柄下部者长达5厘米，向上渐短，基部扩大成卵形的宽鞘，每叶腋内都有珠芽发育，叶片轮廓宽三角形，下部者长3-4厘米，二回三出分裂，第一回全裂片具柄，宽卵形至近圆形，3全裂、深裂或浅裂．第二回裂片无柄，边缘不规则的浅圆裂，表面绿色，背面具白粉，叶脉极细，上部叶裂片渐减和叶柄较短。总状花序顶生，长2-3厘米，有2-4花；苞片轮廓近圆形至宽倒卵形，不规则的深裂或浅裂，或最上部1枚狭倒卵形全缘；花梗细弱，比苞片长2-3倍。萼片小，鳞片状，近圆形，边缘呈不规则的撕裂状；花瓣黄色，上花瓣长2.2-2.5厘米，花瓣片舟状卵形，先端钝，具短尖，背部鸡冠状突起高约1毫米，在花瓣片中部消失，距圆筒形，稍长于花瓣片，略向上弯曲，末端圆，下花瓣匙形，长1.2-1.5厘米，背部鸡冠状突起高约1毫米，边缘具细齿，爪长为花瓣片的1.5-2倍，内花瓣提琴形，长1.1-1.3厘米，花瓣片倒卵形，先端圆，具钝尖头，基部1耳垂，侧边具1囊，爪狭楔形，比花瓣片长；雄蕊束长1-1.2厘米，花药小，花丝狭披针形，蜜腺体贯穿距的1/3；子房狭圆柱形，长0.7-0.8厘米，胚珠数枚，排成1列，花柱比子房短，柱头双卵形，具8个乳突。蒴果狭圆柱形，长约2.5厘米。种子近圆形，直径1-1.5毫米，黑色，极光亮。花果期4-7月。
+
+产云南贡山独龙江流域和碧江，生于海拔1600-1700米的山坡沟边或路旁。缅甸北方(Seinghku谷地) 也有。模式标本采自贡山独龙江流域。
+
+本种体态和少花情况均与分布区偏于其西或其南的C. leptocarpa Hook. f. et Thoms.很相似，或宜作为该种的一个地理亚种，但本种除叶腋有明显抽条芽外，花为黄色。

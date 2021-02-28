@@ -1,0 +1,16 @@
+裂舌橐吾",
+11.**Ligularia stenoglossa** (Franchet) Handel-Mazzetti Bot. Jahrb. Syst. 69: 111. 1938.",
+
+## Description
+Stem erect, robust, to 150 cm tall, 1.5-2 cm in diam. at base, densely shortly yellow pilose or glabrescent. Basal leaves petiolate; petiole to 70 cm, densely shortly yellow pilose, base narrowly sheathed; leaf blade reniform, 10-15 × 22-29 cm, both surfaces shortly pilose, palmately veined, abaxially with prominent reticulate veins, margin triangular-dentate, apex rounded; sinus ca. 1/3 as long as leaf blade, broad, basal lobes orbicular. Middle stem leaves shortly petiolate; petiole to 3 cm, base broadly sheathed; sheath cymbiform, to 11 cm, ca. 5 cm wide; leaf blade reniform, to 21 cm wide. Distalmost stem leaves smaller, sessile. Corymbs compound, spreading; branches to 10 cm, shortly yellow pilose. Capitula numerous; leaflike and supplementary bracts smaller, subulate; peduncles 3-10 mm, shortly yellow pilose. Involucre narrowly campanulate, 9-10 × 4-6 mm, outside glabrous; phyllaries 7-10, oblong, 2-2.5 mm wide, brown ciliate, apex acute; inner phyllaries broadly membranous at margin. Ray florets 3-5, yellow; lamina 3-5-divided, segments filiform or linear, to 1.5 cm; tube ca. 6 mm. Tubular florets more numerous, to 10, yellowish brown, ca. 1 cm; tube as long as limb. Achenes brown, cylindric, 5-6 mm. Pappus reddish brown, slightly shorter than tubular corolla. Fl. and fr. Sep-Nov.
+  "Statistics": "● Forest understories, grassland slopes; 2100-4000 m. NW and W Yunnan.
+  "Synonym": "*Senecio stenoglossus* Franchet, Bull. Soc. Bot. France 39: 304. 1893; *Ligularia schizopetala* (W. W. Smith) Handel-Mazzetti; *L. trinema* Handel-Mazzetti; *Senecillis schizopetala* (W. W. Smith) Kitamura; *S. stenoglossa* (Franchet) Kitamura; *Senecio schizopetalus* W. W. Smith.
+**10.裂舌橐吾 图版4：1-5**
+
+Ligularia stenoglossa (Franch.) Hand.-Mazz. in Bot. Jahrb. 69: 111. 1938; S. Y. Hu in Quart. Journ. Taiwan Mus. 20: 73. 1967.——Senecio stenoglossus Franch. in Bull. Soc. Bot. France 39: 304. 1892. ——S. schizopetalus W. W. Smith in Not. Bot. Gard. Edinb. 13: 182. 1921. syn. nov. ——Ligulaia trinema Harnd.-Mazz. in Sitzgsanz. Akad. Wiss. Wien, Math.-Nat. 61: 22-924. syn. nov. ——L. schizopetala (W. W. Smith) Hand. -Mazz. Symb. Sin 7: 1132. 1936 et l. c. 69: 111, 1938; S. Y. Hu. l. c. 20: 69. 1967.——Senecillis stenoglossa (Franch.) Kitam. in Acta Phytotax. Geobot. 8: 87. 1939.——S. schizopetala (W. W. Smith) Kitam. l. c. 8: 88. 1939.
+
+多年生高大草本。根肉质，多数，簇生。茎直立，粗壮，高达150厘米，被黄色有节短柔毛或近光滑，基部直径1.5-2厘米，被枯叶柄纤维包围。丛生叶和茎下部叶具柄，柄长达70厘米，被密的黄色有节短毛，基部有窄鞘，叶片肾形，长10-15厘米，宽22-29厘米，先端圆形，边缘具三角状齿，齿长约10毫米，先端具软骨质小尖头，基部弯缺宽，长为叶片的1/3，两侧裂片圆形，两面被有节短柔毛，叶脉掌状，网脉在下面明显；茎中部叶具短柄，柄长约3厘米，鞘舟形，长达11厘米，宽约5厘米，被有节短柔毛，叶片肾形，宽达21厘米；最上部叶较小，无柄。复伞房状聚伞花序开展，分枝长达10厘米，被密的黄色有节短柔毛；苞片及小苞片钻形，极小；花序梗长3-10毫米，被与分枝上一样的毛；头状花序多数，辐射状，总苞狭钟形，长9-10毫米，宽4-5毫米，总苞片7-10，2层，长圆形，宽2-2.5毫米，先端急尖，被褐色睫毛，背部光滑，内层具宽膜质边缘。舌状花黄色，3-5，舌片3-5全裂，裂片丝状，长达15毫米，管部长约6毫米；管状花多达10个，长约10毫米，管部与檐部等长，冠毛红褐色，略短于花冠。瘦果圆柱形，长约5毫米，光滑。花果期9-11月。
+
+产云南西部及西北部。生于海拔2100-4000米的林下及山坡。模式标本采自大理（苍山）。
+
+我们见到了模式标本产地（大理）的标本（秦仁昌Ching 25061、王汉臣 H. C. Wang 1151、4528、云南大学生物系 Yunnan Univ. 242），舌状花4-5，舌片3全裂，共有12-15个裂片，与原描述的舌状花数目相同，这显然是原描述错把舌状花的裂片当成了舌状花的舌片了，致使本种被湮没了很久。产腾冲的 Ligularia schizopetala (W. W. Smith) Hand. -Mazz. 原描述与本种相同，特别是关于舌状花的描述：舌状花5，舌片3全裂……”。加之二者模式标本产地相近，故做了上述合并。

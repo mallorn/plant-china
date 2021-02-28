@@ -1,0 +1,6 @@
+木里木蓝",
+51.**Indigofera muliensis** Y. Y. Fang & C. Z. Zheng Acta Phy-totax. Sin. 21: 333. 1983.",
+
+## Description
+Shrubs, 60-100 cm tall. Stems terete but 4-angled when young, with lenticels, glabrous; young branches 4-ribbed, gla-brous. Stipules lanceolate, 5-6(-10) mm. Leaves 3-7.5 cm, 5-9-foliolate; petiole 1-2 cm, glabrous; stipels as long as petio-lules; petiolules 1-1.5 mm; leaflet blades opposite, oblong to ovate-oblong, 1-3 × 0.6-1.5 cm, papery, abaxially with ap-pressed white and brown medifixed trichomes, adaxially gla-brous, secondary veins 4-6 on each side of midvein, base rounded, apex obtuse to acute and mucronate. Racemes 4-8 cm; peduncle 0.5-2 cm, glabrous; bracts ovate, ca. 1.5 mm. Pedicel ca. 1.5 mm but to 4 mm in fruit. Calyx tube ca. 1 mm; teeth triangular to triangular-subulate, 1-1.5 mm. Corolla pur-plish red; standard 5.5-7.5 × 3.5-4.5 mm, outside hairy; wings 6-7 × ca. 2 mm; keel 6-7 × ca. 1.5 mm, spur ca. 1.5 mm. Sta-mens 5-6.5 mm; anthers broadly ovoid, glabrous. Ovary gla-brous, with 1 ovule. Legume dark brown, cylindric, 3-3.5 cm, glabrous. Fl. May-Jun, fr. Jun-Jul.
+  "Statistics": "● Moist slopes, forests, *Pinus* forests; 2100-3200 m. Sichuan, Yunnan.

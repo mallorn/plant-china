@@ -1,0 +1,13 @@
+瑞丽荚蒾",
+33.**Viburnum shweliense** W. W. Smith Notes Roy. Bot. Gard. Edinburgh. 12: 227. 1920.",
+
+## Description
+Shrubs or small trees, deciduous, to 3 m tall. Bark light brown. Branchlets of current year reddish green, glabrous, with dispersed, gray lenticels; branchlets of previous year gray-brownish, terete, glabrous, with dispersed, small, rounded lenticels. Winter buds oblong, with 2 pairs of separate scales; scales reddish brown, stellate-pubescent, apex acute. Leaves always opposite, not clustered at apices of branchlets; stipules absent; petiole green or reddish, robust, 2-2.5 cm, sparsely stellate-pubescent or glabrous; leaf blade purplish green when young, broadly elliptic or oblong-elliptic, 8-12.5 cm, papery, abaxially stellate-pubescent on midvein and lateral veins, adaxially glabrous, midvein raised abaxially, lateral veins 6- or 7-jugate, pinnate, slightly arched, branched, ending in teeth, raised abaxially, impressed adaxially, veinlets transverse, slightly raised abaxially, slightly impressed adaxially, not lobed, base nearly broadly cuneate, without glands, margin conspicuously serrulate, apex obtuse or mucronate. Flowers appearing with leaves; inflorescence paniculate, at apices of short branchlets with 1-jugate leaves, ca. 5 × 5 cm; rays opposite, decussate; first node of inflorescence with 2 rays, lax, densely whitish stellate-pubescent or subglabrous, without large sterile radiant flowers; peduncles 3-4 cm, sparsely pubescent; bracts caducous, leaflike, green, ovate to elliptic, ciliate; bracteoles linear. Flowers on rays of 2nd and 3rd orders, not fragrant, shortly pedicellate. Calyx reddish; tube obconical, ca. 3 mm, usually glabrous, sometimes with few hairs; lobes ovate-triangular, very small, less than 1 mm, glabrous, apex acute. Corolla whitish, rotate-campanulate, ca. 6 mm in diam., glabrous; tube ca. 3 mm; lobes recurved, broadly ovate, 1.5-2 mm, apex rounded. Stamens obviously exceeding corolla tube, inserted at apex of corolla tube; filaments ca. 3 mm; anthers yellow, elliptic-oblong, ca. 1 mm. Styles exceeding calyx lobes; stigmas capitate. Fruit unknown. Fl. Jul.
+  "Statistics": "● Forests; ca. 800 m. W Yunnan [?Myanmar].
+**23. 瑞丽荚蒾（拉汉种子植物名称）**
+
+Viburnum shweliense W. W. Smith in Notes Bot. Gard. Edinb. 12: 227. 1920, et ibid. 17: 316. 1930.
+
+落叶灌木或小乔木，高达3米；幼枝无毛，散生灰色圆形大皮孔。叶纸质，宽椭圆形或矩圆状宽椭圆形，长8-12.5厘米，顶端钝或有小凸尖，基部近宽楔形，边缘有多数显著的锐锯齿，上面无毛，下面中脉与侧脉被簇状毛，侧脉6-7对，稍弧形，直达齿端；叶柄长2-2.5厘米，无毛或散生簇状毛。圆锥花序顶生或生于具1对叶的短枝之顶，长、宽各约5厘米，密被带白色簇状毛，总花梗长3-4厘米，被疏柔毛；萼略带红色，萼筒倒圆锥形，长约3毫米，萼齿卵形，长常不及1毫米，顶钝；花冠乳白色，辐状钟形，筒长约3毫米，裂片长1.5-2毫米，宽卵形，反曲；雄蕊明显高出花冠筒。果实不详。花期7月。
+
+特产云南西部。生于灌丛中，海拔3000-3300米。模式标本采自瑞丽与怒江之间的分水岭。

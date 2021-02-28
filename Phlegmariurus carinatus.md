@@ -1,0 +1,19 @@
+龙骨马尾杉",
+22.**Phlegmariurus carinatus** (Desvaux ex Poiret) Ching Acta Bot. Yunnan. 4: 120. 1982.",
+
+> The trophophylls of *Phlegmariurus carinatus* are acicular, and its sporangia are hidden inside of its sporophylls; these characters are conspicuously different from other heterophyllous species in the genus.
+
+## Description
+Lycophytes, medium-sized. Stems caespitose, mature branches pendulous, 1 to several times forked, 31-49 cm, branches slightly robust, stem together with leaves cordlike, tertiary branches with leaves more than 2.5 mm in diam., lateral branches unequal. Leaves twisted and forming 2 rows. Trophophylls dense, adnate to branches, much incurved, lustrous, acicular, up to 8 × 4 mm, midrib indistinct, hard, raised abaxially and keeled, base cuneate, decurrent, sessile, margin entire, apex acuminate, substraight, opening outside. Strobili terminal on branches, ca. 3 mm in diam. Sporophylls ovate, midrib indistinct, base cuneate, margin entire, apex acute, with mucro. Sporangia hidden inside of sporophylls, indistinct, yellowish, reniform, vertically bisected.
+
+> Epiphytic on tree trunks or rocks in dense forests of ridges, valleys, hills; 200-2300 m. Guangdong, Guangxi, Hainan, Taiwan, Yunnan (Hekou) [Cambodia, India, Japan, Laos, Malaysia, Philippines, Singapore, Thailand, Vietnam; Pacific islands].
+  "Synonym": "*Lycopodium carinatum* Desvaux ex Poiret in Lamarck, Encycl., Suppl. 3: 555. 1814; *Huperzia carinata* (Desvaux ex Poiret) Trevisan; *H. laxa* (C. Presl) U. Sen &amp; T. Sen; *L. acrostachyum* Hooker &amp; Greville; *L. carinatum* var. *minus* Tagawa; *L. flagellaria* Bory; *L. laxum* C. Presl; *L. pendulum* Roxburgh; *Urostachys carinatus* (Desvaux ex Poiret) Herter ex Nessel.
+**22. 龙骨马尾杉 (云南植物研究) 覆叶石松 (台湾植物志)**
+
+Phlegmariurus carinatus (Desv.) Ching in Acta Bot. Yunnan. 4 (2): 120. 1982; C.Y. Yang in Acta Phytotax. Sin. 20 (4): 448. 1982; B. Olig. Index Lycop. 79. 1989; Nakaike, N. Fl. Jap. Pterid. rev. enlarg. 791. 1992; L. B. Zhang et H. S. Kung in Ac-to Phytotax. Sin. 38 (1): 26. 2000. ——Lycopoodium carinatum Desv. ex Poiret inLam., Encycl. Bot. Suppl. 3: 555. 1813: Spring, Monogr. Lycop. 1: 59. et 2: 26. 1849; Baker, Handb. Fern Allies 17. 1887; Herter in Engl. Bot. Jahrb. 43: Beibl. 98: 36. 1909: Hayata, Ic. Pl. Formos. 4: 131. 1914: Aderw, Malay. Fern-allies 36. 1915: Merr. in Lingnan Sci. Journ. 5: 20. 1927; Alston in Fl. Indo-Chine 7 (2): 550. 1951; S. H. Fu, Ill. Imporant Chinese Pl., Pterid. 3. 1957; Fl. Hainan. 1: 7. 1964; De Volin H. L. Li, Fl. Taiwan 1: 33. 1975; Tagawa et K. Iwats. in Fl. Thailand 3 (1): 8. 1979: C. M. Kuo in Taiwania 30: 12. 1985; B. Ollg. l. c. 36; J. L. Tsai et W. C.Shieh in T. C. Huang, Fl. Taiwan ed. 2, 1: 30. 1994. ——L. carinatum Desv. exPoiret var. minus Tagawa in Acta Phytotax. Geobot. 15: 7. 1951. ——Urostachys carina-tus (Desv. ex Poiret) Herter ex Nessel, Baerlappge. 179. 1939. ——Huperzia carinata (Desv. ex Poiret) Trev. in Atti Soc. Ital. Sci. Nat. 17: 247. 1875; Dixit, Census Ind. Pterid. 7. 1984, et Lycop. Ind. 62, f. 13A-B. pl. III: f. 10. 1988; B. Ollg. in OperaBot. 92: 165. 1987, et l. c. 11. ——H. carinata (Desv. ex Poiret) Rothm. in Fedde, Repert. Sp. Nov. 54: 61. 1944. ——L. laxum C. Presl in Reliq. Haenk. 1: 83. 1825; Nakaike, N. Fl. Jap. Pterid. 24, f. 24. 1982; K. Iwats., Ferns Fern Allies Jap. 46. 1992. ——L. flagellaria Bory in Duperrey, Voy. Monde Bot. 1: 248. 1829. ——L. acrostachyum Hook. et Grev. Ic. Fil. 2: t. 181. 1830/1831. ——L. pendulum Roxb. in Calcutta Journ. Nat. Hist. 4: 472. 1844.
+
+中型附生蕨类。茎簇生，成熟枝下垂，1至多回二叉分枝，长31-49厘米，枝较粗，枝连叶绳索状，第三回分枝连叶直径大于2.5毫米，侧枝不等长。叶螺旋状排列，但扭曲呈二列状。营养叶密生，针状，紧贴枝上，强度内弯，长不足5毫米，长达8毫米，宽约4毫米，基部楔形，下延，无柄，有光泽，顶端渐尖，近通直，向外开张，背面隆起呈龙骨状，中脉不显，坚硬，全缘。孢子囊穗顶生，直径约3毫米。孢子叶卵形，基部楔形，先端尖锐，具短尖头，中脉不显，全缘。孢子囊生于孢子叶腋，藏于孢子叶内，不显，肾形，2瓣开裂，黄色。
+
+产台湾、广东、广西、海南、云南。附生于海拔0-700米的山脊、山谷、丘陵密林中石上或树干上。日本、印度、泰国、越南、老挝、柬埔寨、马来西亚、菲律宾、新加坡及大洋洲有分布。模式标本采自印度东部。
+
+本种不育叶呈针状，孢子囊穗藏于孢子叶内，明显不同于其他具二型叶的种类。

@@ -1,0 +1,14 @@
+翅果耳草",
+49.**Hedyotis pterita** Blume Bijdr. 972. 1826.",
+
+## Description
+Herbs, annual or perennial, at least weakly erect, to 15(-30) cm tall; stems subterete to 4-angled, sometimes sulcate and/or winged, glabrous. Leaves subsessile to petiolate; petiole to 10 mm, glabrous; blade drying membranous, elliptic-oblong, lanceolate, or elliptic, 1-6 × 0.4-1.5 cm, glabrous, base cuneate to obtuse then often abruptly decurrent, apex acute or obtuse; secondary veins indistinct; stipules fused to petiole bases, triangular, 0.5-2.5 mm, glandular-puberulent to glabrescent, apically truncate or serrulate to prolonged and acute. Inflorescences terminal becoming displaced to pseudoaxillary in upper leaf axils by subsequent stem growth, 1-flowered or 2-8-flowered and cymose to fasciculate, glabrous, subsessile or pedunculate; peduncle to 1.5 cm; bracts reduced, triangular, to 0.3 mm; pedicels to 1.5 mm, winged. Flowers subsessile to shortly pedicellate. Calyx glabrous; hypanthium portion cupular to turbinate, 1-2 mm, with 4 wings to 0.6 mm wide; limb lobed for 1/2-2/3 its length; lobes ovate, ca. 1 mm, reticulately veined, dorsally winged to apex, sometimes ciliolate, acute to acuminate. Corolla white, outside glabrous; tube 1-1.5 mm, barbate in throat; lobes triangular, 1-1.5 mm. Anthers ca. 0.5 mm, included and positioned near base of corolla tube. Fruit capsular, turbinate to ellipsoid, 5-8 × 3-5 mm, glabrous, with 4 wings to 1 mm wide; seeds numerous, ca. 0.5 mm. Fl. Jul-Oct.
+  "Statistics": "Thickets, slightly shaded wastelands. Guangdong, Guangxi [India, Malaysia, Philippines, Thailand, Vietnam].
+  "Synonym": "*Gonotheca blumei* Candolle; *Hedyotis alata* Koenig ex Wight &amp; Arnott; *Oldenlandia alata* (Koenig ex Wight &amp; Arnott) J. D. Hooker; *O. pterita* (Blume) Miquel; *Thecagonum pteritum* (Blume) Babu.
+**59. 翅果耳草（中国高等植物图鉴）图版14: 7-9**
+
+Hedyotis pterita Bl. Bijdr. 972. 1826; Backer in Backer et Bakh. Fl. Java 2: 284. 1965; 中国高等植物图鉴4: 219, 图5851. 1975. ——Oldenlandia pterita (Bl.) Miq. Fl. Ind. Bat. 2: 193. 1857; Merr. in Philip. Journ. Sci. Bot. 5: 243. 1910. ——Gonotheca blumei DC. Prodr. 4: 429. 1830.——O. alata Hook. f. Fl. Brit. Ind. 3: 70. 1880; Hance in Journ. Bot. 16: 12. 1878; Hemsl. in Journ. Linn. Soc. Bot. 23: 376. 1888; Dunn ＆ Tutch. in Kew Bull. Misc. Inf. Add. Ser. 10: 128. 1912; Pitard in Lecomte, Fl. Cen. Indo-Chine 3: 152. 1923, non. Koeng (Oldenlandia alata Koenig＝O. biflora Linn.).
+
+略粗壮，直立无毛草本，高5-30厘米；嫩枝绿色，肉质，方柱形，老枝近圆柱形，灰色至白色。叶对生，膜质，长圆形或椭圆形，长1-4厘米，宽4-14毫米，顶端短尖或钝，基部楔形，微下延；侧脉柔弱，不明显；叶柄长2-10毫米；托叶膜质，长1-2毫米，鞘状，顶端截平或具小齿。花4数，具短梗，1或4朵簇生于腋生或顶生、长5-15毫米的总花梗上；萼管杯形，具4翅，萼檐裂片卵形，长约1毫米，短尖，具小缘毛；花冠白色，冠管球形，直径约1毫米，外面被柔毛，花冠裂片极狭窄，与冠管等长；雄蕊极小，无花丝；花柱长0.7毫米，柱头浅2裂。果陀螺形，具4翅，长5-8毫米，宽3-5毫米，顶部冠以杯形浅裂的萼檐，果皮膜质；种子极小。花期7-10月。
+
+产于广东和广西；生于灌木丛中或稍荫蔽的荒地上。国外分布于泰国、马来西亚、印度、越南。

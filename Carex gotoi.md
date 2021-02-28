@@ -1,0 +1,14 @@
+叉齿薹草",
+360.**Carex gotoi** Ohwi Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 5: 248. 1930.",
+
+## Description
+Rhizome with long stolons. Culms laxly tufted, 20-70 cm tall, triquetrous, smooth or ± smooth, clothed with red-brown and bladeless sheaths at base, rudimentary sheaths usually disintegrating into reticulate fibers. Leaves shorter than culm, blades 2-3 mm wide, flat or plicate, ± stiff, scabrous on margins, rather long sheathed. Involucral bracts leafy, lowermost involucral bract nearly equaling inflorescence, shortly sheathed, upper ones rather short, nearly not sheathed. Spikes 3-5, usually 4; terminal 1-3 spikes male, slightly approximate, cylindric or lanceolate, uppermost one 2.5-3 cm, lower 1 or 2 usually rather short, nearly sessile; remaining spikes female, remote, cylindric or suboblong, 1.5-3.5 × 0.5-0.6 cm, densely many flowered, shortly pedunculate. Female glumes fuscous, ovate or narrowly ovate, ca. 3.5 mm, membranous, 3-veined, pale fuscous on margins and between veins, apex acuminate, mucronate or aristate, scabrous on margins of mucro or awn. Utricles dark red-brown, sometimes stramineous, obliquely patent, longer than glume, ovate, obtusely trigonous, ca. 4 mm, leathery, glabrous, several veined, base cuneate, apex abruptly contracted into a slightly broad and short beak, orifice 2-toothed, teeth rather long and divergent. Nutlets rather loosely enveloped, broadly obovate or obovate, trigonous, 1.5-2 mm, base shortly stipitate, apex mucronate; style base not thickened, slightly recurved; stigmas 3. Fl. and fr. May-Jun.
+  "Statistics": "Damp places at riversides, meadows; 1000-1300 m. Gansu, Hebei, Heilongjiang, Jilin, Liaoning, Nei Mongol, Shaanxi [N Korea, Mongolia, Russia (Far East, E Siberia)].
+  "Synonym": "*Carex sukaczovii* V. I. Kreczetowicz.
+**324. 叉齿薹草（内蒙古植物志）图版77: 1-4**
+
+Carex gotoi Ohwi in Mem. Coll. Sci. Kyoto Imp. Univ. ser. B, 5: 248, 1930 et Cyper. Japon. 1: 489, 1936; Kitag., Lineam. Fl. Mansh. 102, 1939; Akiyama, Caric. Far East. Reg. Asia 152, pl. 144, fig. 2, 1955; 刘慎谔等, 东北植物检索表538, 图版198, 图4, 1959, T. Koyama in Journ. Fac. Sci. Univ. Tokyo Sect. III, 8 (4): 247, 1962; 东北草本植物志11: 85, 图版35, 图1-5, 1976, 内蒙古植物志8: 70, 图版30, 图7-11, 1985.——Carex sukaczovii V. Krecz. in Kom., Fl. URSS 3: 415, pl. 22, fig. 12, 1935.
+
+根状茎具长的地下匍匐茎。秆疏丛生，高30-70厘米，三棱形，平滑或近平滑，基部包以红褐色无叶片的鞘，老叶鞘常细裂成网状。叶短于秆，宽2-3毫米，平张或对折，质稍硬，边缘粗糙，具较长的叶鞘。苞片叶状，最下面的苞片近等长于花序，具短鞘，上面的苞片渐短，近于无鞘。小穗3-5个，常4个，上端1-3个为雄小穗，间距近，圆柱形或披针形，顶端1个较长，长2.5-3厘米，下面的1-2个常较短，近于无柄；其余的小穗为雌小穗，间距较远，圆柱形或近长圆形，长1.5-3.5厘米，宽5-6毫米，密生多数花，具短柄。雌花鳞片卵形或狭卵形，长约3.5毫米，顶端渐尖，具边缘粗糙的短尖或芒，膜质，栗褐色，具3条脉，脉间和边缘色浅。果囊斜展，长于鳞片，卵形，钝三棱形，长约4毫米，革质，暗红褐色或带麦秆黄色，无毛，具多条凸起的细脉，基部急缩成楔形，顶端急缩为稍宽而短的喙，喙口具两齿，齿较长而稍叉开。小坚果较松地包于果囊内，宽倒卵形或倒卵形，三棱形，长约1.5-2毫米，基部具短柄，顶端具短尖；花柱基部不增粗，稍弯曲，柱头3个。花果期5-6月。
+
+产于黑龙江、吉林、辽宁、内蒙古、河北、陕西、甘肃；生于河边湿地或草甸，海拔1000-1300米。也分布于朝鲜、蒙古、俄罗斯东西伯利亚和远东地区。

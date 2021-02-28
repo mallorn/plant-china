@@ -1,0 +1,14 @@
+尼泊尔嵩草",
+29.**Kobresia nepalensis** (Nees) Kükenthal in Engler Pflanzenr. 38(IV. 20): 40. 1909.",
+
+## Description
+Rhizomes short. Basal sheaths prominent and persistent, pale brown or brown, dull, fibrillose, not retaining dried leaf blades. Culms densely tufted, erect and rigid, occasionally filiform, obtusely trigonous, (2-)10-44 cm tall, 0.7-1.5 mm in diam. Leaves basal, ± equaling culms; blade filiform, margin involute, 0.3-1.1 mm wide. Inflorescence spicate, androgynous, linear, 1.5-8 × 0.2-0.5 cm, dense above, looser below; lowest involucral bract glumelike, apex long aristate. Spikelets all unisexual, 1-flowered. Male glumes yellowish brown laterally, with green midvein, narrowly oblong, ca. 7.5 × 1.5 mm, sides papery, margin not hyaline, apex obtuse. Female glumes brown laterally, with green midvein, ovate to lanceolate, 3.3-5 × 2-2.4 mm, midvein broad, margin hyaline or not, apex mucronate, acute, or obtuse. Prophylls lower part pale green, apex brown, utriculiform, linear-oblong, 4-7.5 × 0.8-1.7 mm, membranous, 2-keeled, keels scabrid, margins open only near apex. Nutlets narrowly oblong or oblanceolate, trigonous, stipitate and beaked, 3.5-6.5 (including beak and stipe) × 0.7-1 mm, beak 1.5-2.2 mm, stipe ca. 0.5 mm. Stigmas 3. Sterile rachilla of female spikelets green, linear, 1/4-2/3 as long as nutlet, margin ciliate. Fl. and fr. Jun-Oct.
+  "Statistics": "Scree slopes, dry grassy slopes, on rocks, alpine shrubby meadows, damp rocky cliffs; 3600-4600 m. Sichuan, Xizang, Yunnan [Bhutan, India (Sikkim, Uttarakhand), Kashmir, Nepal, Pakistan].
+  "Synonym": "*Uncinia nepalensis* Nees in Wight, Contr. Bot. India, 129. 1834; *Carex linearis* Boott (1858), not Clairville (1811); *C. linearis* var. *elachista* C. B. Clarke; *Kobresia nepalensis* var. *elachista* (C. B. Clarke) Kükenthal.
+**50. 尼泊尔嵩草（图鉴）图版10: 8-10**
+
+Kobresia nepalensis (Nees) Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 40, fig. 9, 1909; Ivan. in Journ. Bot. USSR, 24: 499, 1939; T. Koyama in Ohashi, Fl. East. Himal. 3: 128, 1973 et in Hara et J. H. L. Williams, Enum. Flow. Nepal. 1: 113, 1978; 中国高等植物图鉴5: 264, 图7357, 1976; 西藏植物志5: 384, 图216, 1987; 横断山区维管植物下册: 2351, 1994. ——Uncinia nepalensis Nees in Wight. Contrib. Bot. Ind. 129, 1834.——Carex linearis Boott. Illustr. Carex 1: 51, t. 136, 1858.
+
+根状茎短。秆密丛生，纤细，柔软，高10-40厘米，粗约1毫米，钝三棱形，无毛，基部为褐色或淡褐色宿存叶鞘所包。叶与秆近等长，线形，柔软，腹面有沟，边缘微粗糙。穗状花序雄雌顺序，线形，长2.5-8厘米，粗2-3 (4) 毫米，具多数密生的支小穗；雄花部分较细，比雌花部分短。雄花鳞片线状长圆形，长5-7毫米，顶端钝，纸质，褐色，具3枚雄蕊；雌花鳞片长圆形或长圆状披针形，长3.5-4.5毫米，顶端渐尖或钝，有时具短尖，纸质，两侧褐色，有或无白色膜质边缘，中间淡绿色，有3条脉。先出叶囊状，线状长圆形，长5-7.5毫米，膜质，黄绿色，上部带褐色，在腹面，边缘连合几至顶部，背面具粗糙的2脊，脊间无脉，上部渐狭呈喙状，喙口斜；小坚果线状长圆形，钝三棱形，长3.5-5.5毫米，成熟时褐色，顶端具长喙，不伸出或者伸出于先出叶之外；花柱基部略增粗，柱头3个。退化小穗轴长及小坚果的1/3或1/4。花果期6-10月。
+
+产于四川西部和西南部、云南西部和西北部、西藏东部、南部和西部；生于海拔3600-4600米的高山灌丛草甸和高山草甸或流石滩。锡金、尼泊尔、印度北部至克什米尔地区也有分布。模式标本采自尼泊尔。

@@ -1,0 +1,17 @@
+小笠原卷柏",
+64.**Selaginella boninensis** Baker J. Bot. (Hooker). 23: 178. 1885.",
+
+> *Selaginella boninensis* is similar to *S. heterostachys* and *S. effusa* but differs in the plants always creeping.
+
+## Description
+Plants epilithic, evergreen, creeping, 10-30 cm, fertile stems erect. Rhizophores at intervals throughout length of creeping stem and branches, borne on ventral side in axils of branches. Main stems branched throughout, pinnately branched, stramineous, ca. 1 mm in diam. in lower part, terete, sulcate, branches few, erect fertile stems branched from middle upward; primary leafy branches 5-8 pairs, simple or once pinnately branched, secondary branches not forked or basal one or two forked, branchlets sparse, adjacent primary branches on main stem ca. 2 cm apart, leafy portion of main stem including leaves 6-8 mm wide at middle, ultimate branches 3.6-4.5 mm wide including leaves. Axillary leaves on branches symmetrical, ovate-lanceolate, 2.3-2.5 × 1.2-1.4 mm, base exauriculate, margin ciliolate. Dorsal leaves ± symmetrical, those on main stems slightly larger than those on branches; dorsal leaves on branches not approximate, ovate or ovate-lanceolate, 1.8-2.5 × 0.8-1 mm, not carinate, base subcordate or cordate, not peltate, margin ciliolate, apex acuminate or aristate. Ventral leaves asymmetrical, those on main stem larger than those on branches; ventral leaves on branches contiguous or slightly overlapping, spreading, oblong or oblong-ovate, 2.2-3.2 × 1-1.8 mm, apex acute; acroscopic base enlarged, broader, overlapping stem and branches, margin ciliolate. Strobili solitary, terminal, compact, dorsiventrally complanate, 6-8 × 2.6-3.3 mm; sporophylls dimorphic, resupinate, not white-margined; dorsal sporophylls ovate-lanceolate, not keeled, margin ciliolate, apex acute, with sporophyll-pteryx incomplete and ciliolate; ventral sporophylls ovate-lanceolate, carinate, margin ciliolate; megasporophylls in basal portion on lower side of strobilus or in basal portion on both sides; microsporangia orbicular, rather thin, cells uniform; microspores red, megaspores white-yellow.
+
+> Slopes in tropical forests, trailsides, roadsides; 100-500 m. S Taiwan [Japan (Bonin Islands)].
+  "Synonym": "*Lycopodioides boninensis* (Baker) Kuntze.
+**51.小笠原卷柏（蕨类名词及名称）**
+
+Selaginella boninensis Baker in J. Bot. (Hooker) 23: 178. 1885; Baker, Handb. Fern-Allies 111. 1887; Reed, Index Selaginellarurn, in Mem. Soc. Brot. 18: 69. 1966; T. C. Huang, Spore Fl. Taiwan 16, Pl. 7: 1-3. 1981; M. Minaki in Pollen et Spores26: 443, Pl. 10: 4-6. 1984: Sa. Kurata et Nakaike, Ill. Pterid. Jap. 6: 126, cum pho-to. fig. et map. 1990; K. Iwats., Ferns Fern Allies Japan 55, Pl. 12, photo. 3-4. 1992; K. Iwats., Fl. Jap. 1: 17. 1995; Nakaike in J. Nat. Hist. Mus. Inst. Chiba 4 (2): 111. 1997. ——Lycopodioides boninensis (Baker) Kuntze, Revis. Gen. Pl. 1: 826. 1891.
+
+石生，匍匐，直立能育茎高10-30厘米。根托沿匍匐茎和枝断续生长，自主茎分叉处下方生出，长2-4厘米，纤细，直径0.2毫米，根少分叉，被毛。主茎通体羽状分枝，不呈“之”字形，无关节，禾秆色，下部直径1毫米，茎圆柱状，具沟槽，无毛，维管束1条，直立能育茎自中部开始分枝，侧枝5-8对，单一到1回羽状分枝，分枝稀疏，茎上相邻分枝相距2厘米，分枝无毛，背腹压扁，茎在分枝部分中部连叶宽6-8毫米，末回分枝连叶宽3.6-4.5毫米。叶全部交互排列，二形，膜质，表面光滑，边缘非全缘，不具白边。分枝上的腋叶对称，卵状披针形，2.3-2.5毫米× 1.2-L4毫米，边缘具短睫毛。中叶多少对称，主茎上的叶略大于分枝上的，卵形或卵状披针形，1.8-2.5毫米×0.8-1.0毫米，相互排列不是非常近，背部不呈龙骨状，先端与轴平行，先端具尖头到芒，基部近心形或心形，边缘具睫毛。侧叶不对称，主茎上的较侧枝上的大，侧枝上的侧叶长圆形或长圆状卵圆形，外展，紧接或略覆盖，2.2-3.2毫米× l-1.8毫米，先端急尖。上侧基部扩大，加宽，覆盖小枝，上侧基部边缘具睫毛，具睫毛。孢子叶穗紧密，背腹压扁，单生于小枝末端，6.0-8.0毫米×2.6-3.3毫米；孢子叶二形，倒置，不具白边，上侧的孢子叶卵状披针形，边缘具睫毛，背部不呈龙骨状，先端急尖，具孢子叶翼，孢子叶翼不达叶尖，边缘具睫毛，下侧的孢子叶卵状披针形，边缘具睫毛，龙骨状；大孢子叶分布于孢子叶穗下部的下侧或上下两侧的基部。大孢子黄白色；小孢子红色。
+
+产台湾（屏东）。也分布到日本南部。模式标本采自小笠原岛。

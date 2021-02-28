@@ -1,0 +1,14 @@
+锥囊薹草",
+382.**Carex raddei** Kükenthal Bot. Centralbl. 77: 97. 1899.",
+
+## Description
+Rhizome long and thick. Culms laxly tufted, 35-100 cm tall, acutely triquetrous, rather stout, stiff, smooth, clothed with red-brown and bladeless sheaths at base, sheaths later usually splitting into reticulate fibers. Leaves shorter than culm, blades 3-4 mm wide, flat, slightly involute and scabrous on margins, with transverse septate nodes between veins, rather long sheathed, lower sheaths laxly pubescent, upper ones glabrous or very laxly pubescent. Lower involucral bracts leafy, slightly shorter than or equaling inflorescence, slightly long sheathed, upper involucral bracts setaceous, very shortly sheathed. Spikes 4-6, upper ones approximate, lower ones rather remote; terminal 2 or 3 spikes male, narrowly lanceolate, 2-4 cm, subsessile; remaining spikes female, oblong-cylindric, 3-5 cm, slightly laxly many flowered, shortly pedunculate. Female glumes pale ferruginous laterally, ovate-lanceolate or lanceolate, 6-8 mm (including awn), membranous, pale 3-veined, apex acuminate, aristate. Utricles greenish, stramineous at maturity, obliquely patent, longer than glume, oblong-lanceolate, slightly inflated trigonous, 8-10 mm, leathery, glabrous, distinctly several veined, base rounded, shortly stipitate, apex gradually narrowed to a short beak, orifice rather long 2-toothed, teeth ca. 1 mm. Nutlets loosely enveloped, broadly ovate, trigonous, ca. 3 mm, base shortly stipitate, apex mucronate; style sometimes curved, base not thickened; stigmas 3. Fl. and fr. Jun-Jul.
+  "Statistics": "On sands of riversides, wet places on mountain slopes, fields, watersides, swampy meadows. Hebei, Heilongjiang, Jiangsu, Jilin, Liaoning, Nei Mongol [Korea, Russia (Far East)].
+  "Synonym": "*Carex aristata* R. Brown subsp. *raddei* (Kükenthal) Kükenthal.
+**346. 锥囊薹草（中国高等植物图鉴）图版82: 5-8**
+
+Carex raddei Kukenth. in Bot. Centralbl. 77: 67, 1899; Kitag, in Bot. Mag. Tokyo 48: 36, 1934 et Lineam. Fl. Mansh. 108, 1939; V. Krecz. in Komarov, Fl. URSS 3: 457, 1935; Ohni, Cyper. Japon. 1: 506, 1936; Akiyarna, Caric. Far East. Reg. Asia 239, pl. 244, 1955; 东北草本植物志11: 78, 1976; 中国高等植物图鉴5: 338, 图7506, 1976; 江苏植物志上册: 318, 图568, 1977; 内蒙古植物志8: 78, 图版33, 图1-6, 1985. ——Carex aristata R. Br. subsp. raddei (Kukenth.) Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 755, fig. 128, H. 1909.
+
+根状茎长而粗壮。秆疏丛生，高35-100厘米，锐三棱形，较粗壮坚挺，平滑，基部具红褐色无叶片的鞘，老叶鞘常撕裂成纤维状和网状。叶短于秆，宽3-4毫米，平张，边缘粗糙，稍外卷，具小横隔脉，具较长的叶鞘，下部的叶鞘被疏的短柔毛，上部的叶鞘无毛或有时被很少毛。苞片下部的叶状，稍短于或近等长于花序，具稍长的鞘，上部的呈刚毛状，具很短的鞘。小穗4-6个，上面的间距较短，下面的间距稍长，顶端2-3个为雄小穗，条形或狭披针形，长2-4厘米，近于无柄；其余为雌小穗，长圆状圆柱形，长3-5厘米，具多数稍疏生的花，有时基部花较稀疏，具短柄。雄花鳞片披针形，顶端渐尖成芒，膜质，淡锈色，中间具3条脉；雌花鳞片卵状披针形或披针形，长约6-8毫米（包括芒长），顶端渐尖成芒，膜质，两侧淡锈色，中间具3条脉，色浅。果囊斜展，长于鳞片，长圆状披针形，稍鼓胀三棱形，长8-10毫米，革质，初时为淡绿色，成熟时麦秆黄色，具多条明显的脉，无毛，基部钝圆，具很短的柄，顶端渐狭成短喙，喙口深裂成两齿，背面裂口较腹面深且呈半圆形，齿长约1毫米。小坚果疏松地包于果囊内，宽卵形，三棱形，长约3毫米，基部具短柄，顶端具短尖；花柱基部不增粗，有时弯曲，柱头3个。花果期6-7月。
+
+产于黑龙江、吉林、辽宁、内蒙古、河北、江苏；生于河边沙地，田边湿地或浅水中、沼泽化草甸以及山坡潮湿处。也分布于俄罗斯远东地区，朝鲜。

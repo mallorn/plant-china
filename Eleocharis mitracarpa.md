@@ -1,0 +1,6 @@
+槽秆荸荠",
+25.**Eleocharis mitracarpa** Steudel Syn. Pl. Glumac. 2: 77. 1854.",
+
+## Description
+Perennials. Rhizomes creeping. Culms grayish green, 30-100 cm tall, 2-5 mm thick, spongy, easily compressed, smooth, finely longitudinally ribbed and sulcate. Leaf sheaths basally purplish to reddish brown and apically yellowish brown to pale brown, tubular, 1-20 cm, scarious, mouth obliquely truncate. Spikelet oblong-ovoid to narrowly oblong-ovoid, 1.5-3 cm × 4-7 mm, many flowered. Glumes laxly imbricate; basal 2 glumes empty; basalmost glume encircling 1/2 or less of spikelet base, apex obtuse; remaining glumes fertile, greenish medially and sides brown to reddish brown, lanceolate, 3.5-4.5 × ca. 1.3 mm, margin broadly hyaline, apex subacute. Perianth bristles usually 4, pale brown, shorter than to equaling nutlet (including style base). Stigmas 2. Nutlet yellow to brown, 1.3-2 × 1-1.3 mm (excluding style base), obovoid, thickly biconvex, glossy and finely or obscurely reticulate, apex constricted; persistent style base 0.4-0.9 × 0.5-0.8 mm, globose or wider than long, mitriform, ca. 1/4 as long as nutlet body.
+  "Statistics": "Shallow water at lake margins, marshes. Guizhou, Hebei, E Nei Mongol, Shandong, Shanxi, Yunnan [Afghanistan, Kashmir, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Uzbekistan; SW Asia, E Europe].

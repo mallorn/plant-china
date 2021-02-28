@@ -1,0 +1,15 @@
+鳞茎堇菜",
+22.**Viola bulbosa** Maximowicz",
+
+## Description
+Herbs perennial, dwarf, shortly caulescent, 2.5-4.5 cm tall. Rhizome erect, long, slender, with numerous underground stolons and a small bulb in lower part; bulb 5-6 mm in diam., consisting of 4-6, white, fleshy boat-shaped scales, with numerous fibrous roots in lower part. Leaves clustered at apex of stem; stipules 1-1.4 cm, only 1/3 adnate to petioles, free part linear-lanceolate, ciliate or glabrous, apex acute; petiole narrowly winged, usually shorter than or subequaling blade, puberulous; leaf blade oblong-ovate, suborbicular or reniform, 1-2.5 cm × 5-14 mm, glabrous, or white puberulous abaxially particularly on young leaves, base cuneate or narrowly cordate, margin serrate or crenate, apex rounded or sometimes acute. Flowers white, small; pedicels produced from leaf axils of stem, usually slightly exceeding or subequaling leaves, 2-bracteolate above middle; bracteoles linear. Sepals ovate or oblong, 3-4 × 1.2-1.5 mm, apex acute, basal auricles orbicular, short, glabrous or ciliate. Petals obovate, lateral ones 8-10 mm, glabrous or bearded, anterior one 7-8 mm, purple-violet striate, apex emarginate; spur saccate, short, 1.2-1.7 mm, stout, ca. 2 mm in diam., apex obtuse; anthers ca. 2.5 mm (appendage of connectives included); spur of 2 anterior stamens short, stout, apex obtuse and slightly curved. Ovary glabrous; styles slightly geniculate at base, slightly thickened upward; stigmas triangular, slightly thickened and narrowly margined on lateral sides and abaxially, apex conspicuously beaked, beak short, nearly erect, stigma hole nearly as large as beak. Capsule ovoid. Fl. May-Jun, fr. Jun-Sep. 2*n* = 24.
+
+> Mountain valleys, grasslands on mountain slopes, forest margins, thickets, fields; 1900-4200 m. Gansu, Qinghai, Shaanxi, Sichuan, Xizang, Yunnan [Bhutan, N India, Nepal].
+  "Synonym": "*Viola bulbosa* var. *franchetii* H. Boissieu; *V. bulbosa* subsp. *tuberifera* (Franchet) W. Becker; *V. filifera* Komarov; *V. hookeri* Franchet (1886), not Thomson &amp; W. Becker (1916); *V. multistolonifera* C. J. Wang; *V. tuberifera* Franchet; *V. tuberifera* var. *brevipedicellata* S. Y. Chen; *V. tuberifera* var. *pseudopalustris* H. Léveillé.
+**54．鳞茎堇菜（中国高等植物图鉴）图版15: 1-8**
+
+Viola bulbosa Maxim. in Mel. Biol. 748. 1876 et in Bull. Acad. Sci. St. -Petesb. 23: 334. 1877 et Fl. Tang. 77, t. 13, f. 19-28. 1889; Forb. et Hemsl. in Journ. Linn. Soc. Bot. 23: 52. 1886; W. Beck. in Beih. Bot. Centralbl. 34 (2): 418. 1917; Hand. -Mazz. Symb. Sin. 378. 1931; 西藏植物志3: 294. 1986.
+
+多年生低矮草本，具短的地上茎，高2.5-4.5厘米。根状茎细长，垂直，具多数细根，下部具一小鳞茎；鳞茎直径约5-6毫米，由4-6枚白色、肉质、船形的鳞片所组成，下部生多数须状根。叶簇集茎端；叶片长圆状卵形或近圆形，长1-2.5厘米，宽5-14毫米，先端圆或有时急尖，基部楔形或浅心形，边缘具明显的波状圆齿，无毛或下面特别是幼叶有白色柔毛；叶柄具狭翅，通常较叶片短或近等长，被柔毛；托叶狭，大部分与叶柄合生，分离部分极短，先端尖，无毛或疏生腺状缘毛。花小，白色；花梗自地上茎叶腋抽出，通常稍高于叶或与叶近等长，中部以上有2枚线形小苞片；萼片卵形或长圆形，长3-4毫米，宽1.2-1.5毫米，先端尖，基部附属物短而圆，无毛或有缘毛；花瓣倒卵形，侧瓣长8-10毫米，无须毛，下方花瓣长7-8毫米，有紫堇色条纹，先端有微缺；距短而粗，呈囊状，长1.2-1.7毫米，粗约2毫米，末端钝；花药连药隔顶部附属物长约2.5毫米，下方2枚雄蕊背部的距较短粗，末端钝而稍弯；子房无毛，花柱基部稍膝曲，向上略增粗，柱头三角形，两侧及后方略增厚成狭的缘边，先端具明显的喙；喙短，近直立，柱头孔与近喙等粗。蒴果未见。花期5-6月。
+
+产甘肃、青海、西藏、四川。生于海拔2 200-3 800米的山谷、山坡草地、耕地边缘土壤较疏松处。模式标本采自甘肃。

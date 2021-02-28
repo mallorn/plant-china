@@ -1,0 +1,15 @@
+隐囊蕨",
+3.**Cheilanthes nudiuscula** (R. Brown) T. Moore Index Fil. 249. 1861.",
+
+## Description
+Rhizomes erect, short; scales concolorous, reddish brown, subulate-lanceolate. Fronds clustered. Stipe chestnut-colored, slightly lustrous, 8-12 cm, shallowly grooved adaxially, margins of groove blunt, villous and with sparse linear scales, sometimes glabrescent with age. Lamina oblong to oblong-lanceolate, 10-16 × 2.5-8 cm, 2-pinnate-pinnatifid, papery to somewhat leathery, abaxially moderately to more commonly densely villous to subtomentose with dense, long, multicellular brown hairs, adaxially sparsely to moderately villous with multicellular gray hairs; rachis and costae chestnut-brown, sparsely to densely villous. Pinnae 8-10 pairs; proximal pairs ovate-lanceolate or oblong-lanceolate, 2-4.5 × 1-3 cm, stalked (stalks 3-5 mm), apex rounded or angled, proximal 2-4 pairs inequilateral, basal basiscopic pinnules somewhat larger than acroscopic ones. Ultimate segments sessile, margins shallowly lobed to entire, slightly recurved but not covering sori. Sori ± continuous or sometimes interrupted at segment sinuses, containing several sporangia, embedded in pubescence. False indusium absent. 2*n* = 168.
+
+> On rocks along rivers or rice fields; near sea level to 700 m. Fujian, Guangdong, Guangxi (Nanning), Taiwan [Malesia; Australia, Oceania].
+  "Synonym": "*Pteris nudiuscula* R. Brown, Prodr. 155. 1810; *Cheilanthes densa* Fée; *C. hirsuta* (Poiret) Mettenius (1859), not Link (1833); *Notholaena hirsuta* (Poiret) Desvaux; *N. nudiuscula* (R. Brown) Desvaux; *N. sulcata* Link; *Pellaea nudiuscula* (R. Brown) Hooker; *Pteris hirsuta* Poiret.
+**2.隐囊蕨（中国高等植物图鉴）毛艿蕨（中国主要植物图说蕨类植物门），毛碎米蕨（台湾植物志）图版32：1-9．**
+
+Notholaena hirsuta (Poir.) Desv. in Journ. Bot. Appl. 1:93. 1873; Hook. et Bak. Syn. Fil. 372. 1874; Diels in Engl. u. Prantl, Nat. Pflanzenfam. 1 (4):274. 1899; C. Chr. Ind. Fil. 461. 1906; 傅书遐, 中国主要植物图说 蕨类植物门78. 图96. 1957; Ic. Corm. Sin. 1:158. 1972; F1. Fujan. 1:81, 1982. ——Ptoris hirsuta. Poir. Ency. Meth, Bot. 5:719. 1804.——Cheilanthes hirsuta Mett. Frangat. Cheil. 25:n. 17. 1859; Shieh in H. L. Li et al, Fl. Taiwan. 1:282. 1975. ——Pteris nudiscscula βR. Br. Prod. Nov. Holl. 155. 1810.——Notholaena nudiuscula Desv. Prod. 221. 1827. ——Pellaea nudiuscula Hook. Sp. Fil. 2:151. 1858. ——Cheilanthes nudiuscula Moore, Ind, Fil. 249. 1861. ——Notholaena sulcata Link, Hort. Berol. 2:367. 1833; Benth. Fl. Hongk. 449. 1861——Notholaena densa J. Sm. in. Journ. Bot. 3:395. 1841. ——Cheilanthes densa Fee, Gen. Fil. 156. 1850-52; Mett. 1. c. n. 16.
+
+植株高20-30厘米。根状茎短而直立，密被红棕色钻状披针形小鳞片。叶簇生，柄长8-12厘米，栗色，略有光泽，下面圆，上面有浅沟，幼时疏被纤维状鳞片及长柔书，老则大部脱落；叶片长10-16厘米，宽2.5-7厘米，长圆披针形或长圆形，中部以上二回羽状深裂，中部以下三回羽状深裂；羽片8-10对，斜上，下部的长2-4.5厘米，宽1-3厘米，卵状披针形或长圆披针形，柄长3-5毫米,二回羽裂；一回小羽片5-7对，有短柄，下侧的较上侧的为长，基部一片尤长，长三角形，羽状，没回小羽片2-4对，长圆形，钝头，几无柄，波状浅裂至全缘。叶脉在裂片上羽状，小脉分叉，不明显。叶厚纸质，干后褐色，上面疏被灰色节状柔毛，下面密被暗棕色节状长柔毛；叶轴及羽轴和叶柄同色，下面圆形，上面有沟，均疏被柔毛。孢子囊群生小脉顶端。多数，成熟时露出染色体2n＝174。
+
+产福建（厦门、南靖、崇安）、台湾（台中）、广东（花县、曲江、鼎湖山、罗浮山及东南沿海岛屿）、广西（南宁），生河边石上或田边，海拔200-300米。也广泛分布于其他热带亚洲、澳大利亚及波利尼西亚群岛。模式标本采自波利尼西亚。

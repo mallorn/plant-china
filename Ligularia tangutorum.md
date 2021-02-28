@@ -1,0 +1,7 @@
+唐古特橐吾",
+66.**Ligularia tangutorum** Pojarkova Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 21: 362. 1961.",
+
+## Description
+Plants grayish green. Stem erect, 40-100 cm tall, 2-9 mm in diam. at base, glabrous or distalmost shortly pilose. Basal leaves petiolate; petiole 3-15 cm, proximally purplish red, distally broadly winged; leaf blade broadly ovate or elliptic, 6-21 × 3-13 cm, glabrous, pinnately veined, abaxially with strong midvein, base subtruncate or broadly cuneate, abruptly narrowed into a broadly winged petiole or only distally winged, margin denticulate or coarsely undulate-dentate, apex acute. Middle to distal stem leaves erect, elliptic or oblong, 4-8 × to 4.5 cm, base amplexicaul. Synflorescence racemose, to 15 cm, lax; leaflike and supplementary bracts linear-lanceolate. Capitula numerous. Involucre turbinate, 6-8 mm × to 1 cm, outside glabrescent; phyllaries 8-10, in 2 rows, oblong or narrowly lanceolate, apex obtuse to acute. Ray florets 6-10, yellow; lamina oblong, ca. 1 cm. Tubular florets numerous, 6-7 mm. Achenes yellowish, cylindric, ca. 4 mm. Pappus white, as long as tubular corolla. Fl. and fr. Jul-Aug. 2*n* = 58*.
+  "Statistics": "● Shaded slopes, scrub, forest understories; 2700-4000 m. NW Gansu, Qinghai, Sichuan.
+  "Synonym": "*Ligularia potaninii* Pojarkova, Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 12: 314. 1950, not (C. Winkler) Y. Ling (1937).

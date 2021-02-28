@@ -1,0 +1,14 @@
+大众耳草",
+20.**Hedyotis communis** W. C. Ko Fl. Hainan. 3: 579. 1974.",
+
+## Description
+Subshrubs or herbs, erect, to 1.5 m tall; stems glabrous, flattened to 4-angled or terete. Leaves sessile to subsessile; blade drying papery, narrowly elliptic-oblong or narrowly elliptic, on vegetative stems, 10-17 × 1.5-2.6 cm, glabrous, base cuneate to acute then usually long decurrent, apex acute to acuminate; secondary veins 6-8 pairs, abaxially indistinct; stipules shortly united around stem or sometimes fused to petiole bases, triangular to narrowly triangular, 8-13 mm, glabrous, long acuminate, marginally sometimes sparsely glandular-serrulate or &amp;#8209;setose. Inflorescence axillary, paniculate-cymose with small cymes distributed along axes with leaflike bracts and bracteal stipules, or along axillary branches with reduced leaves (depending on interpretation), 7-24 cm, many flowered, glabrous, pedunculate; peduncle 0.5-4 cm; leaflike bracts or reduced leaves paired, lanceolate to narrowly elliptic, 10-40 mm; cymes 8-15 mm, several flowered; floral bracts linear or linear-lanceolate, 2-8 mm; pedicels to 1 mm. Flowers subsessile to pedicellate. Calyx glabrous; hypanthium portion ellipsoid, 1-1.2 mm; limb lobed nearly to base; lobes narrowly triangular, 2-3 mm. Corolla white, tubular, outside glabrous; tube 4.5-5 mm, bearded in throat; lobes spatulate-oblong to triangular, 2-2.5 mm, acute. Anthers exserted, ca. 1.2 mm. Stigma included, ca. 0.8 mm. Fruit capsular, obovoid or subglobose, 2-3 × 2-2.5 mm, glabrous, septicidally then loculicidally dehiscent, cartilaginous; seeds 2-4, brownish black, tuberculate. Fl. almost year-round, fr. May, Jun, Oct.
+  "Reference": "The inflorescences are borne laterally along well-developed axes with numerous leaflike bracts or reduced leaves, or alternatively along lateral branches with reduced leaves; various morphological descriptions of these have been used by different authors.The inflorescences are borne laterally along well-developed axes with numerous leaflike bracts or reduced leaves, or alternatively along lateral branches with reduced leaves; various morphological descriptions of these have been used by different authors.
+  "Statistics": "● On soil rich in humus in valleys or at streamsides; 900-1000 m. Hainan.
+**26. 大众耳草（海南植物志）图版7: 1-6**
+
+Hedyotis communis Ko in Fl. Hainanica 3: 301, 579. 1974.
+
+直立无毛亚灌木或草本，高1-1.5米；茎粗壮，上部方柱形，下部圆柱形，节间距离通常短。叶对生，纸质，狭长圆形或狭椭圆形，长10-15厘米，宽1.5-2厘米，花枝上的叶狭小，长1-4厘米，宽1.5-5毫米，顶端长渐尖，基部楔形，沿叶柄下延；中脉在上面平坦或微下陷，侧脉每边6-8条，与中脉成锐角斜向上伸，上面不明显，下面略明显；叶柄长1-1.5厘米；托叶三角形，长11-13毫米，宽3-4毫米，顶端长渐尖，边缘偶具小腺齿。花序腋生和顶生，为圆锥花序式排列的聚伞花序，生于具小叶的枝上；枝腋生，长11厘米，有时长达24厘米；苞片成对生于每个圆锥花序梗的基部，线形或线状披针形，长4-8毫米，宽0.5-1毫米；花4数，具短梗；萼管近倒卵形，长1-1.5毫米，萼檐裂片狭三角形，长约2毫米，顶端长渐尖；花冠白色，管形，长5.5-8毫米，管长3.5-4.5毫米，喉部被髯毛，花冠裂片长圆形，长2-2.5毫米，顶端短尖；雄蕊生于冠管喉部，花丝极短，花药突出，长圆形，长约1.2毫米；花柱长3-4毫米，柱头2深裂，裂片棒锤形，被微柔毛。果倒卵形或近球形，连宿存萼檐裂片长达5-6毫米，直径2-2.5毫米，成熟时开裂为两个果爿，每个果爿腹部直裂；种子2-4粒，细小，干后褐黑色，具小瘤体。花期几乎全年。
+
+产于海南昌江、东方、乐东和崖悬等地；喜生于山谷、溪旁的腐殖质丰富的土壤上。模式标本采自海南东方。

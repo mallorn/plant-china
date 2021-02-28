@@ -1,0 +1,6 @@
+善宝黄耆",
+300.**Astragalus hoshanbaoensis** Podlech & L. R. Xu Novon. 17: 235. 2007.",
+
+## Description
+Plants 2-3 cm tall, acaulescent or nearly so, densely caes-pitose, forming compact mats; hairs appressed, white, in inflo-rescence also black. Stems, if present, up to 1 cm, very densely covered with medifixed hairs 0.5-0.6 mm. Leaves 0.5-1 cm; stipules 2-3 mm, adnate to petiole for ca. 1 mm, behind stem connate to top, lower ones glabrous or ciliate only at margins, uppermost ones loosely hairy like stem, at margins with asym-metrically bifurcate to subbasifixed hairs; petiole 0.3-0.6 cm, with rachis densely hairy like stem; leaflets in 1 pair, close to-gether, narrowly obovate, 3-5 × 1-2 mm, flat or boot-shaped to folded, both surfaces densely covered with appressed, medi-fixed hairs 0.5-0.8 mm. Racemes 2-8-flowered; peduncle 0.3-3 cm, densely white hairy like stem, below rachis with some black hairs mixed in; bracts 1.5-3 mm, white hairy, some-times with black hairs mixed in, at margins with subbasifixed hairs. Calyx 6-7 mm, densely covered with medifixed, ap-pressed, white and black hairs 0.3-0.8 mm; teeth ca. 1 mm. Petals pale purplish with darker keel; standard obovate, 13-14 mm, ca. 5 mm high, apex emarginate; wings 12-13 mm; keel ca. 11 mm. Ovary with a stipe ca. 1 mm, white hairy. Legumes unknown.
+  "Statistics": "● NW Xinjiang.

@@ -1,0 +1,17 @@
+台北狗娃花",
+28.**Aster oldhamii** Hemsley J. Linn. Soc., Bot. 23: 414. 1888.",
+
+## Description
+Herbs, biennial, 50-60 cm tall, taprooted. Stems erect, sometimes decumbent, branched from lower part; branches ascending, sparsely to moderately (upward) villous-strigose, strigillose, with sessile glands upward. Leaves thick, margin entire, strigose-ciliate; basal leaves rosulate, withered by anthesis; blade spatulate-oblong, 8-15 × 3-6 cm, glabrous or glabrate, base attenuate, apex rounded; cauline leaves spatulate-oblong or narrowly obovate to oblong, 2.5-4.5 × 0.8-1.7 cm, glabrate, base cuneate, margin entire, strigose-ciliate, apex rounded; uppermost leaves remote, oblanceolate, gradually reduced, 0.5-1.2 × 0.2-0.4 cm. Capitula radiate or sometimes discoid, terminal, solitary on branches, forming open paniculate-corymbiform synflorescences, ca. 25 mm in diam. Involucres hemispheric, 0.6-1 cm in diam.; phyllaries 2-seriate, subequal, lanceolate to spatulate or oblanceolate (inner), 5-6 mm, ± strigose, margin sometimes partly scarious, strigose-ciliate, apex acute to acuminate. Ray florets sometimes absent, whitish, ca. 10 × 1.3-3 mm, tube 1-1.7 mm, sparsely hairy; disk florets 3-4.5 mm, tube 0.8-1.5 mm, tube and limb hairy, limb narrowly campanulate to campanulate, lobes unequal, 1 longer, 0.4-0.6(-1.3) mm, minutely with sessile glands and/or strigose-hairy. Achenes obovoid to broadly obovoid, compressed, 1.8-2.5 mm, strigose. Pappus of ray florets whitish, lacerate scales 0.4-1(-1.5) mm, of disk florets reddish, stout bristles 1.8-2.5(-3.5) mm.
+  "Reference": "Some individuals of *Aster oldhamii* are without ray florets (capitula discoid) and have been called *Heteropappus oldhamii* f. *discoidus* Kitamura (Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 13: 321. 1937; &amp;#30424;&amp;#29366;&amp;#21488;&amp;#21271;&amp;#29399;&amp;#23043;&amp;#33457; pan zhuang tai bei gou wa hua).Some individuals of *Aster oldhamii* are without ray florets (capitula discoid) and have been called *Heteropappus oldhamii* f. *discoidus* Kitamura (Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 13: 321. 1937; &amp;#30424;&amp;#29366;&amp;#21488;&amp;#21271;&amp;#29399;&amp;#23043;&amp;#33457; pan zhuang tai bei gou wa hua).
+  "Statistics": "● Rocky seashores; sea level. N Taiwan (Taibei).
+  "Synonym": "*Heteropappus hispidus* (Thunberg) Lessing subsp. *old**hamii* (Hemsley) Kitamura; *H. oldhamii* (Hemsley) Kitamura.
+**10. 台北狗娃花**
+
+Heteropappus oldhami (Hemsl.) Kitam. in Act. Phytotax. Geobot. 1: 146. 1932; et in Mem. Coll. Sc. Kyoto Univ. ser. B. 13: 320. 1937; S. Y. Hu in Quart. Journ. Taiw. Mus. 19: 290. 1966. ——Aster oldhami Hemsl. in Journ. Linn. Soc. 23: 414. 1888; Hya., Comp. Form. 13. 1904. et Ic. Pl. Formos. 8: 47. 1917. ——Heteropappus hispidus Less. ssp. oldhami Kitam. in Mem. Coll. Sc. Kyoto Univ. ser. B. 24: 53. 1957.
+
+二年生草本，有粗壮弯曲的纺锤状根。茎高50-60厘米，具条纹，散生上曲的短柔毛，中部及上部分枝。基生叶莲座状，匙状矩圆形，长8-15厘米，宽3-6厘米，顶端圆形，基部稍狭，全缘，有缘毛，两面无毛或近无毛，在开花期枯萎；茎生叶匙状矩圆形或矩圆形，长2.5-4.5厘米，宽0.8-1.7厘米，顶端圆形，基部渐狭，全缘，有短刚毛状缘毛，两面近无毛；最上部叶小，几贴伏于茎，长0.5-1.2厘米，宽2-4毫米，全部叶质地较厚，中脉在上面凹陷，下面凸起。头状花序单生枝端，径约2.5厘米，排成疏松的伞房花序状；总苞半球形，宽约1.3毫米，长近6毫米，总苞片2层，近等长，披针形，长5-6毫米，顶端急尖或渐尖，背面散生小刚毛，有缘毛，绿色，质稍厚，舌状花1层，舌片淡白色，长约10毫米，宽约3毫米，管部长约1毫米，有微；管状花花冠长4-4.5毫米，裂片5，1长4短，长0.9-1.3毫米，基部管长1.2-1.5毫米，花柱附属物三角形，急尖。舌状花冠毛冠状，长0.5-1.5毫米，撕裂状，淡白色；管状花冠毛刚毛状，长3-3.5毫米，变红色，粗糙。瘦果扁平，倒卵形，长2.5毫米，宽约1.5毫米，被白色绢状毛。
+
+产于我国台湾（台北）。生于海岸岩石上。
+
+据记载此种在台北尚有盘状变型 f. discoidus Kitam. (in Mem. Coll. Sci. KyotoUniv. Ser. B. 13: 321. 1937.) ，头状花序无舌状花；边缘花的冠毛冠状，淡白色，有多数伸长的变红色的刚毛。

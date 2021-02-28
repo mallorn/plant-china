@@ -1,0 +1,14 @@
+西南木蓝",
+72.**Indigofera mairei** Pampanini Nuovo Giorn. Bot. Ital., n.s. 17: 16. 1910.",
+
+## Description
+Shrubs, 1-2(-3) m tall. Stems chestnut-brown, terete or angular, with yellowish round lenticels; young branches with appressed white or brown medifixed symmetrically 2-branched trichomes, glabrescent. Stipules subulate, 3-5(-6) mm. Leaves 2.5-10 cm, 5-13(-17)-foliolate; petiole and rachis with ap-pressed brown mixed white medifixed trichomes; petiole 0.7-1.5(-2) cm; rachis adaxially grooved; stipels subulate, 0.5-1 mm; petiolules 1-2 mm; leaflet blades opposite, elliptic to ellip-tic-oblong, (0.5-)1-3(-3.5) × (0.3-)0.6-1.8(-2) cm, papery, both surfaces with lightly appressed white medifixed trichomes, midvein adaxially obviously depressed, secondary veins not visible, base cuneate to broadly cuneate, apex obtuse to emar-ginate and mucronate. Racemes 2-6(-8) cm; peduncle and ra-chis with appressed white and brown medifixed trichomes; pe-duncle 1-10 mm; bracts narrowly lanceolate, 2-3 mm, persis-tent or caducous, hairy. Pedicel 1-2 mm, hairy, deflexed in fruit. Calyx 2.5-3 mm; teeth shorter than to as long as tube. Corolla pinkish purple; standard elliptic, 7-9(-10) × 5-6 mm, sessile, outside with appressed white medifixed trichomes; wings 7-9(-10) mm, margin ciliate; keel 7-9(-10) mm, outside hairy, spur minute. Stamens 6-8 mm; anthers ovoid, base with a few trichomes. Ovary hairy on sutures and at apex, with 6-8 ovules. Legume brown, cylindric, 2-3.5 cm, glabrescent; endocarp blotched. Seeds 6 or 7 per legume, cubic. Fl. May-Jun, fr. Jul-Aug.
+  "Statistics": "● Slopes in scrub or thickets; 2100-2700 m. S Gansu, Guizhou, N and W Sichuan, SE Xizang, N Yunnan.
+  "Synonym": "*Indigofera mairei* var. *intermedia* Pampanini; *I. monbeigii* Craib.
+**40.西南木蓝（中国主要植物图说·豆科）图版85：1-3**
+
+Indigofera monbeigii Craib in Not. Bot. Gard. Edinb. 8: 57. 1913, et in Sarg. Pl. Wils. 2: 100. 1914; 中国主要植物图说·豆科240.图211. 1955; 西藏植物志2: 772. 1985; Y. Y. Fang et C. Z. Zheng in Act. Phytotax. Sin. 27: 175. 1989——I. mairei Pamp. in Nuov. Giorn. Bot. Ital. 17: 16. 1910; Hand.-Mazz. Symb. Sin. 7: 548. 1933; Peter-Stib. in Act. Hort. Gothob. 13: 420. 1940; 中国主要植物图说·豆科257. 1955; Y. Y. Fang et C. Z. Zheng, 1. c. 165.
+
+灌木，高1-2米。茎栗褐色，圆柱状或具棱线，皮孔圆形，淡黄色，幼枝初被白色或褐色平贴丁字毛，后变无毛。羽状复叶长2.5-10厘米；叶柄长0.7-1（-2）厘米，叶轴上面具槽，和叶柄有棕褐色并间生白色丁字毛；托叶钻形，长3-5 (-6)毫米，有褐色丁字毛；小叶2-6（-8）对，对生，纸质，椭圆形或椭圆状长圆形，顶生小叶倒卵状长圆形或倒披针形，长5-20毫米，宽3-9毫米，先端通常圆钝或微凹，基部楔形或阔楔形，上面绿色，下面苍白色，两端薄被白色平贴丁字毛，中脉上面凹入，侧脉两面均不明显；小叶柄长1-2毫米；小托叶长为小叶柄长的一半，钻形，有毛。总状花序长2-8（-10）厘米，着生在新梢上的总花梗明显，在分枝基部的不明显，基部有宿存鳞片；花序轴有白色并间生棕褐色丁字毛；苞片线状披针形，长2-3毫米，有棕色毛，宿存或脱落；花梗长1.5-2毫米，有毛，花萼杯状，长2.5-3毫米，萼齿不等长，披针形，下萼齿与萼筒等长；花冠淡紫红色，旗瓣长圆状椭圆形，长8.5-10.5毫米，宽5-6毫米，外面有白色柔毛状丁字毛，无瓣柄，翼瓣与旗瓣等长，除边缘有睫毛外，余部无毛，龙骨瓣长8-10毫米，先端外面有毛，基部有短瓣柄，距小形；花药卵形，基部有少量髯毛；子房顶端和腹缝线上有白色绒毛，余部无毛，有胚珠6-8粒。荚果褐色，圆柱形，长2-3.5厘米，脊明显，成熟时近无毛，内果皮有紫色斑点，有种子6-7粒；果梗短，长约2毫米，下弯。花期5-7月，果期8-10月。
+
+产甘肃（文县）、四川、贵州（遵义）、云南（西北部及东北部）、西藏（察隅、桑昂曲）。生于山坡、沟边灌丛中及杂木林中，海拔2100-2700米。模式标本采自云南西北部。

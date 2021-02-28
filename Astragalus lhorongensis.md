@@ -1,0 +1,6 @@
+洛隆黄耆",
+111.**Astragalus lhorongensis** P. C. Li & C. C. Ni Acta Phyto-tax. Sin. 18: 368. 1980.",
+
+## Description
+Plants 30-40 cm tall, covered with appressed to subap-pressed hairs 0.2-0.3 mm. Stems erect, branched, at base sparsely, otherwise loosely to rather densely white and black hairy. Leaves 4-10 cm; stipules 2-5 mm, free, sparsely white and black hairy; petiole 0.5-2 cm, with rachis sparsely to loosely hairy like stem; leaflets in 5-7 pairs, linear, 8-15(-25) × 1-3 mm, abaxially loosely appressed white hairy, adaxially gla-brous, apex subacute. Racemes 4-6 cm, loosely many flowered, at fruiting time elongated up to 10 cm or more; peduncle 9-12 cm, sparsely to loosely hairy like stem; bracts whitish membra-nous, 1.5-2 mm, black hairy. Calyx 3-3.5 mm, rather densely covered with predominantly black hairs; teeth 0.5-1 mm. Petals whitish with bluish-tipped keel; standard widely rhombic-ellip-tic, ca. 7 × 5 mm, without distinct claw, rounded at apex; wings ca. 7 mm, limbs rounded at apex; keel ca. 5 mm. Legumes spreading to pendulous, with a stipe ca. 2 mm, oblong, 6-10 mm, ca. 3 mm high and ca. 2 mm wide, keeled ventrally, narrowly grooved dorsally, very shortly acuminate, 1-locular; valves glabrous. Seeds 2.
+  "Statistics": "● 3300-3600 m. Xizang.

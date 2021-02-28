@@ -1,0 +1,7 @@
+假马蹄",
+6.**Eleocharis ochrostachys** Steudel Syn. Pl. Glumac. 2: 80. 1854.",
+
+## Description
+Perennials. Stolons slender. Culms straw-colored, tufted, 37-75 cm tall, 2-3 mm thick, terete but sometimes apically obscurely 3-angled, without transverse septa, longitudinally canaliculate on surface when dry. Leaf sheaths 2 or 3, purplish red, tubular, 6-18 cm, mouth obliquely truncate, apex acute. Spikelet pale, cylindric, 2-4 cm × ca. 4 mm, few flowered, apex rounded to obtuse. Basalmost glume empty, broadly ovate, amplexicaul for whole spikelet base; fertile glumes straw-colored to pale brown, laxly imbricate, broadly oblong, ca. 5 × 3 mm, subleathery, purple puncticulate, many veined with an obscure midvein, margin hyaline, apex rounded to obtuse. Perianth bristles 6 or 7, ca. 2 × as long as nutlet, retrorsely spinulose. Stigmas (2 or)3. Nutlet pale yellow turning brown when mature, broadly obovoid, ca. 2 × 1.5 mm, compressed biconvex, longitudinally striate with 25-32 rows of transversely linear-oblong epidermal cells, apex not constricted but with an annular thickening; persistent style base narrowly long pyramidal, base ca. 1/2 as wide as nutlet. Fl. and fr. Sep-Oct.
+  "Statistics": "Paddy fields, pond margins, moist areas. Guangdong, Hainan, Taiwan [Cambodia, India, Indonesia, Japan (Ryukyu Islands), Laos, Malaysia, Myanmar, Philippines, Sri Lanka, Thailand, Vietnam; Pacific islands].
+  "Synonym": "*Eleocharis variegata* (Poiret) C. Presl var. *laxiflora* (Thwaites) Ridley; *Scirpus laxiflorus* Thwaites.

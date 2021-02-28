@@ -1,0 +1,6 @@
+天目山薹草",
+95.**Carex tianmushanica** C. Z. Zheng & X. F. Jin Acta Phytotax. Sin. 42: 541. 2004.",
+
+## Description
+Rhizome short. Culms tufted, 30-50 cm tall, slender, compressed triquetrous, smooth, covered at base by dark brown bladeless sheaths. Leaves longer than or shorter than culm, blades 4-7 mm wide, flat, trabeculate, margins scabrid. Lower involucral bracts leaflike, short, upper one bristlelike, shorter than subtending spike, sheath 1-2 cm. Spikes 4; terminal spike male, linear-cylindric, 30-60 × 3-5.5 mm, with peduncle 3-6 cm; lateral spikes female, widely spaced, linear-cylindric, 25-50 × 3-5 mm, laxly flowered, peduncle 1.5-5 cm, all including upper ones slightly exserted from involucral bract sheaths. Female glumes pale brown, oblong, 3-3.5 mm, costa pale green, with a distinct midrib, apex acuminate. Utricles longer than or equaling glume, ellipsoid, 4-5 mm, sparsely pubescent to subglabrous, prominently many veined, base rounded, apex with a straight beak ca. 1.5 mm, orifice slightly emarginate. Nutlet ashy brown, tightly enveloped, ellipsoid, ca. 4 mm, with angles constricted at middle, base with a short straight stipe, apex abruptly contracted into a short cylindric beak; style base annulate, slightly thickened; stigmas 3. Fl. and fr. Apr-Jun.
+  "Statistics": "● Forests on mountain slopes; 1000-1500 m. Zhejiang.

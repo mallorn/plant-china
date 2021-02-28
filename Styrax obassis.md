@@ -1,0 +1,7 @@
+玉铃花",
+1.**Styrax obassis** Siebold & Zuccarini",
+
+## Description
+Trees or shrubs, 10--14 m tall. Trunk to 15 cm d.b.h. Branchlets slightly flattened, brown stellate pubescent, glabrescent. Leaves of 2 forms; basal 2 leaves of each branchlet opposite, petiole 3--5 mm, blade elliptic to ovate, 4.5--10 X 3--5 cm, apex rounded to acute; other leaves alternate, petiole 1--1.5 cm and forming a broad basal sheath enclosing winter buds, blade broadly elliptic, ovate, or rounded, 5--15 X 4--20 cm, base subrounded to broadly cuneate, apex acute to acuminate; all leaf blades papery, abaxially densely grayish stellate tomentose, adaxially glabrous except veins, margin coarsely serrate, secondary veins 5--8 pairs, tertiary veins subparallel. Racemes terminal or axillary, 10--20-flowered, 6--15 cm, sometimes with 1 or 2 lateral racemes from base of inflorescence. Pedicel 3--5 mm. Flowers slightly pendulous. Calyx 4--5 mm, densely gray-yellow tomentose; teeth 5 or 6, lanceolate to deltoid. Corolla white or rose, tube ca. 4 mm; lobes elliptic, 13--16 X 4--5 mm. Stamens shorter than corolla; filaments sparsely stellate villose, glabrescent. Style longer than stamens, glabrous. Fruit ovoid to subovoid, 1--1.5 cm in diam., densely yellow stellate tomentose. Seeds dark brown, oblong, smooth. Fl. Apr-Jul, fr. Aug-Nov.
+
+> Low wet forest on mountain slopes; 700--1500 m. Anhui, Hubei, Jiangxi, SE Liaoning, Shandong, Zhejiang [Japan, Korea].

@@ -1,0 +1,17 @@
+长根假冷蕨",
+123.**Athyrium repens** (Ching) Fraser-Jenkins Taxon. Revis. Indian Subcontinental Pteridophytes. 238. 2008.",
+
+> *Athyrium dulongicola* W. M. Chu (Acta Bot. Yunnan., Suppl. 5: 41. 1992 [*“dulongicolum”*]), described from Yunnan.*Athyrium excelsium* Ching (Acta Bot. Boreal.-Occid. Sin. 6(1): 20. 1986), described from Yunnan.*Athyrium fargesii* Christ (Bull. Soc. Bot. France 52(Mém. 1): 49. 1905), described from Yunnan.*Athyrium filix-femina* (Linnaeus) Roth subvar. *brevidens* Christ (Bull. Soc. Bot. France 52(Mém. 1): 46. 1905), described from Yunnan.*Athyrium filix-femina* (Linnaeus) Roth var. *duclouxii* Christ (Bull. Soc. Bot. France 52(Mém. 1): 46. 1905), described from Yunnan.*Athyrium filix-femina* (Linnaeus) Roth var. *paleosum* Christ (Notul. Syst. (Paris) 1: 48. 1909), described from Yunnan.*Athyrium ×heterosporum* Y. T. Hsieh &amp; Z. R. Wang (Acta Phytotax. Sin. 27: 156. 1989), described from Yunnan and treated in FRPS (3(2): 266. 1999).*Athyrium nemotum* Ching (Acta Bot. Boreal.-Occid. Sin. 6(3): 149-150. 1986), described from Guangxi.*Athyrium nigripes* (Blume) T. Moore var. *elongatum* Christ (Bull. Herb. Boissier 7(1): 13. 1899), described from Yunnan.*Athyrium rotundifolium* Ching (Fl. Fujian. 1: 597. Apr 1982), described from Fujian.*Athyrium silvestrii* Christ (Nuovo Giorn. Bot. Ital. n.s., 17. 226. 1910), described from Hubei.
+
+## Description
+Rhizomes long creeping, 2.5-3 mm in diam., blackish brown, almost without scales, apex clothed with brownish, membranous, broadly ovate-lanceolate scales. Fronds distant; fertile fronds 20-30 cm; stipe blackish brown at base, upward gradually becoming purplish red, 7-10 cm, 1.5-2 mm in diam. at base, base with similar scales, upper part with sparse broadly lanceolate scales; lamina 2-pinnate, ovate-oblong, 14-17 × 7-10 cm at middle, base subtruncate, slightly narrowed, apex acuminate; pinnae 13-15 pairs, lowest two pairs of pinnae slightly shortened, slightly pendulous, 1.5-2.3 cm apart; middle pinnae 4-5 × ca. 1.5 cm at base, broadly lanceolate, shortly acuminate, base truncate, sessile; pinnules 10-12 pairs, spreading, approximate, ca. 7 × 4 mm, oblong-ovate, base subequilateral and broadly cuneate, basiscopic base decurrent to narrow costal wing, margin biserrate, lobed, apex obtuse with triangular short teeth; segments with 2 or 3 short teeth; veins visible abaxially, pinnate in pinnules, 1 veinlet per tooth. Lamina herbaceous when dried, green, rachis and costae with sparse long multicellular hairs and short glandular hairs on surfaces. Sori small, elliptic or orbicular-reniform, abaxial on veins, 1-6 per ultimate pinnule or segment, medial; indusia brownish, orbicular-reniform or narrowly ovate, lacerate at margin.
+
+> ● *Rhododendron* forests; 3200-3700 m. Sichuan.
+  "Synonym": "*Pseudocystopteris repens* Ching, Acta Phytotax. Sin. 9: 80. 1964.
+**7. 长根假冷蕨（植物分类学报）图版19：6**
+
+Pseudocystopteris repens Ching in Acta Phytotax. Sin. 9: 80. 1964; Jarrett, Ind. Fil. Suppl. 5: 163. 1985.
+
+根状茎细长横走，直径2.5-3毫米，黑褐色，几无鳞片，先端连同叶柄基部被有浅褐色、膜质、阔卵状披针形鳞片；叶远生。能育叶长20-30厘米；叶柄长7-10厘米，基部直径1.5-2毫米，和根状茎同色，向上逐渐变成微紫红色，疏被阔披针形鳞片；叶片长14-17厘米，中部宽7-10厘米，卵状长圆形，渐尖头，基部近平截，略变狭，二回羽状；羽片13-15对，基部两对略缩短，稍斜向下，相距2.3-1.5厘米，中部羽片长4-5厘米，基部宽1.5厘米，阔披针形，短渐尖头，基部平截，无柄，一回羽状；小羽片10-12对，平展，接近，长7毫米左右，宽约4毫米，长圆状卵形，先端钝而有三角形短尖齿，基部近对称，阔楔形，下侧下延并与羽轴上的狭翅相连。边缘有重锯齿，或锐裂，裂片有二、三个短尖齿；顶部羽片狭长圆状披针形，基部与叶轴上的狭翅相连，深羽裂，裂片边缘有短三角形尖锯齿。叶脉下面可见，在小羽片上羽状分叉，每锯齿有小脉一条。叶干后草质，绿色，沿叶轴和羽轴两面有稀疏的长节状毛及短腺毛。孢子囊群小，椭圆形或圆肾形，生于小脉背上，每末回小羽片或裂片上1-6枚，位于主脉与叶边缘之间；囊群盖圆肾形或长卵形，边缘撕裂，浅褐色。
+
+特产于四川（芦山、泸定），生杜鹃林下，海拔3200-3650米。模式标本采自四川（芦山，大川，九里岗）。

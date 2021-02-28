@@ -1,0 +1,6 @@
+额尔齐斯黄耆",
+302.**Astragalus eerqisiensis** Zhao Y. Chang L. R. Xu & Pod-lech, Acta Bot. Boreal.-Occid. Sin. 27: 170. 2007.",
+
+## Description
+Plants 5-10 cm tall, acaulescent to subacaulescent; hairs appressed to subappressed, medifixed, white, at calyx some-times also black. Stems, if present, 1-2 cm, very densely covered with hairs 1-1.2 mm. Leaves 2.5-9 cm; stipules 6-12 mm, adnate to petiole for 3-4 mm, distinctly to high vaginate-connate behind stem, densely hairy, at margins partly with basifixed hairs; petiole 1-6 cm, with rachis densely hairy like stem; leaflets in 1 or 2 pairs, 10-30(-40) × 3-12(-15) mm, both surfaces densely to rather densely or adaxially only loosely covered with thin medifixed hairs 0.5-0.8 mm and with dis-tinctly thicker hairs 1-1.8 mm. Racemes loosely 2-5-flowered; peduncle 1-3.5 cm, hairy like stem; bracts 2-5 mm, sparsely white hairy, sometimes with some black hairs mixed in. Calyx 10-13 mm, rather densely covered with symmetrically or asym-metrically bifurcate, appressed, white hairs 0.5-0.8 mm and often with ± medifixed black hairs 0.15-0.4 mm mixed in; teeth 1.5-2 mm. Petals violet; standard obovate, 21-30 × 9-11 mm, apex emarginate; wings 20-24 mm; keel 16-20 mm. Ovary ses-sile, white hairy. Legumes unknown.
+  "Statistics": "● Xinjiang.

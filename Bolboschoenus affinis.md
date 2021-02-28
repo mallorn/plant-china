@@ -1,0 +1,8 @@
+球穗三棱草",
+3.**Bolboschoenus affinis** (Roth) Drobow Trudy Bot. Muz. Imp. Akad. Nauk. 16: 139. 1916.",
+
+## Description
+Rhizomes creeping, terminated by a small ovoid tuber. Culms 10-50 cm tall, 3-angled, smooth. Leaf blade linear, 1-4 mm wide, flat, ± stiff, apical ones longer than or as long as culm. Involucral bracts 2 or 3, leaflike, overtopping inflorescence. Inflorescences of 1-10 spikelets, capitate, rarely with short rays. Spikelets ovoid, 10-16 × 3.5-7 mm, many flowered. Glumes pale yellow, oblong-ovate, 5-6 mm, membranous, abaxially ± pubescent, 1-veined costa excurrent into an awn, apex lacerate. Perianth bristles 6, ca. 1/2 as long as nutlet, retrorsely scabrous. Stamens 3; anthers linear-oblong, ca. 1 mm; connective apex conic, ca. 0.5 mm. Style slender; stigmas 2. Nutlet yellowish white but becoming dark brown at maturity, broadly obovoid, ca. 2.5 mm, biconvex, shiny. Fl. and fr. Jun-Sep.
+  "Reference": "This taxon is part of an inadequately studied worldwide complex centered around *Bolboschoenus maritimus*.This taxon is part of an inadequately studied worldwide complex centered around *Bolboschoenus maritimus*.
+  "Statistics": "Lake margins, swampy places (often alkaline), wood margins; 1000-2900 m. Gansu, W Nei Mongol, Ningxia, Qinghai, Xinjiang [Afghanistan, Cambodia, India, Japan, Kazakhstan, Laos, Mongolia, Pakistan, Russia, Thailand, Turkmenistan, Uzbekistan, Vietnam; SW Asia, Europe].
+  "Synonym": "*Scirpus affinis* Roth in Roemer &amp; Schultes, Syst. Veg. 2: 140. 1817; *Bolboschoenus popovii* T. V. Egorova; *B. strobilinus* (Roxburgh) V. I. Kreczetowicz; *S. maritimus* Linnaeus subsp. *affinis* (Roth) T. Koyama; *S. maritimus* var. *affinis* (Roth) C. B. Clarke; *S. strobilinus* Roxburgh.

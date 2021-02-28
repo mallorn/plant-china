@@ -1,0 +1,7 @@
+腺果悬钩子",
+63.**Rubus glandulosocarpus** M. X. Nie",
+
+## Description
+Subshrubs erect, 20–45 cm tall. Stems cylindric, slightly angled, not or few branched, unarmed, with sparse, glandular hairs. Leaves imparipinnate, 5–7-foliolate, rarely 3-foliolate; petiole 3–5 cm, petiolule of terminal leaflet 1–1.5 cm, petiolule of lateral leaflets ca. 3 mm, petiolule and rachis pilose, glabrescent, with glandular hairs, sometimes with small prickles; stipules lanceolate, margin with sparse, short glandular hairs, entire; blade of leaflets ovate or ovate-oblong, rarely ovate-lanceolate, 2–6.5 × 1.7–3.5 cm, abaxially glabrous or pilose along veins, with pale glands, adaxially pilose, base obliquely subrounded, margin doubly serrate, apex acute to acuminate. Inflorescences terminal on lateral branchlets, sometimes corymbose, 2–4-flowered, rarely flowers solitary in leaf axils; rachis and pedicels with glandular hairs; bracts lanceolate, margin entire, or sparsely shortly glandular. Flowers 3–4 cm in diam. Calyx abaxially glabrous, with gland-tipped hairs; sepals 5(–7), lanceolate or ovate-lanceolate, margin tomentose and entire, apex long caudate. Petals 5(–7), white, oblong, broadly ovate, or broadly obovate, glabrous. Stamens many, shorter than petals. Pistils ca. 80–100; ovary glabrous, with sparse, glandular hairs; torus villous, base with ca. 3 mm stalk. Aggregate fruit subglobose, less than 1 cm in diam., with sparse, gland-tipped hairs; pyrenes foveolate. Fl. Apr–May, fr. Jun–Jul.
+
+> Mountainous regions; 1600--1700 m. W Jiangxi (Jinggangshan).

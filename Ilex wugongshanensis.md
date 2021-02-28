@@ -1,0 +1,7 @@
+武功山冬青",
+59.**Ilex wugongshanensis** C. J. Tseng ex S. K. Chen & Y. X. Feng",
+
+## Description
+Shrubs evergreen, ca. 2 m tall. Branchlets brown, terete, longitudinally ridged, puberulent or glabrescent, minutely tuberculate; terminal buds ovoid, pubescent. Petiole 3-9 mm, densely or sparsely puberulent, adaxially sulcate; leaf blade adaxially green, oblong-ovate, oblong-lanceolate, or narrowly ovate, rarely ovate, 4.5-6 × (1.5-)2-2.5(-3) cm, thinly leathery, glabrous, midvein adaxially slightly impressed, puberulent, lateral veins 4-6 pairs, impressed adaxially, reticulate veins obscure, base obtuse or subrounded, margin serrate with 2 or 3(or 4) pairs of teeth, teeth each tipped with a weak spine, apex angular with a spine. Male inflorescences: 1-flowered cymes, fasciculate, axillary; pedicel ca. 1.5 mm, puberulent; flowers 4-merous; calyx discoid (patelliform), glabrous, 4-lobed, lobes deltoid-ovate, ciliate; petals 4, obovate-oblong, ca. 4 mm, not ciliate, basally slightly connate; stamens ca. 3/4 as long as petals; rudimentary ovary ovoid, apex indistinctly 2-lobed. Female flowers not known. Fruit red, globose, 6-7 mm in diam.; persistent calyx ca. 3 mm in diam., 4-lobed, lobes deltoid-ovate, glabrous, not ciliate; persistent stigma thinly discoid. Pyrenes suboblong, ca. 5 mm, ca. 3 mm in diam., both ends obtuse, abaxially palmately striate and sulcate, endocarp stony. Fl. and fr. unknown.
+
+> ● Shrubby areas on mountain slopes; 500-1300 m. Jiangxi (Wugong Shan, Wuning).

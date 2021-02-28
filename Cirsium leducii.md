@@ -1,0 +1,7 @@
+覆瓦蓟",
+37.**Cirsium leducii** (Franchet) H. Léveillé Cat. Pl. Yun-Nan. 42. 1916.",
+
+## Description
+Herbs 30-150 cm tall, perennial. Stems grayish white, erect, much branched above or rarely unbranched, unwinged, densely felted below capitula. Leaves discolorous, abaxially grayish white and densely felted, adaxially green, rough, and sparsely to densely spinulose. Middle cauline leaves sessile, lanceolate to ± narrowly elliptic, 4-10 × 1-3 cm, undivided or pinnately divided; segments (when present) 3-5 pairs, triangular, margin entire or with 1 spine-tipped tooth, apical spine ca. 3.5 mm; terminal segment narrowly lanceolate to broadly linear. Upper cauline leaves similar, usually undivided. Bracts smaller than leaves, lanceolate to linear-lanceolate, fringed with spinules or spinulose teeth. Capitula (1 or) few to many, corymbose. Involucre campanulate, 2-2.5 cm in diam., glabrous. Phyllaries imbricate, in ca. 6 rows, abaxially with a dark resinous gland; outer and middle phyllaries lanceolate, 5-11 × 1-2 mm, apex narrowed into a ca. 1.5 mm spinule; inner phyllaries elliptic-lanceolate to broadly lanceolate, 12-16 × 1.2-2 mm, apically expanded into a scarious white or pink appendage. Florets bisexual. Corolla purplish red, ca. 1.9 cm, tube ca. 9 mm. Achene dark brown, ca. 3 mm, striate. Pappus bristles brownish, ca. 1.5 cm.
+  "Statistics": "Forests, forest margins, grasslands on mountain slopes; 500-1500 m. Guangdong, Guangxi, Guizhou, Sichuan, Yunnan [Vietnam].
+  "Synonym": "*Cnicus leducii* Franchet, J. Bot. (Morot) 11: 23. 1897.

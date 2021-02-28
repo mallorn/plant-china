@@ -1,0 +1,13 @@
+糙毛蓝刺头",
+11.**Echinops setifer** Iljin Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R. 4: 108. 1923.",
+
+## Description
+Herbs 1-2 m tall, perennial. Stem solitary, whitish to grayish white, unbranched or apically shortly branched, base with dense long multicellular hairs and sparsely cobwebby, below synflorescences densely and thickly cobwebby to lanate. Leaves papery, abaxially whitish to grayish white, adaxially green and sparsely strigose but along veins densely cobwebby to thickly lanate and with dense long brown multicellular hairs. Basal and lower cauline leaves shortly petiolate; leaf blade elliptic to oblanceolate-elliptic in outline, 15-25 × 7-14 cm, bipinnatisect; segments 5-7 pairs; lobes narrowly elliptic to oblanceolate-triangular, with spiny and spine-tipped teeth. Middle and upper cauline leaves pinnatipartite. Uppermost cauline leaves narrowly elliptic. Pseudocephalia 1-3, 4-5 cm in diam. Capitula ca. 2 cm. Phyllaries 17-22, abaxially glabrous; outermost phyllaries oblanceolate, 8-9 mm, unequal, ca. 1/2 as long as involucre, claw margin long ciliate above middle, distal portion brown, broadly elliptic, margin sparsely ciliate, and apex spinulose acuminate; middle phyllaries oblanceolate, margin ciliate, abruptly constricted from maximum width into a 1.4-1.6 cm spiny tip; inner phyllaries elliptic, ca. 1.5 cm, apex dentate. Corolla blue, ca. 1.3 cm, tube outside sparsely gland-dotted. Achene ca. 7 mm, hairs yellowish. Pappus scales linear, ca. 2 mm, proximal half connate. Fl. and fr. Aug-Sep.
+  "Statistics": "Mountain slopes. Henan, Shandong [Japan, Korea].
+**11.糙毛蓝刺头（东北林学院植物研究室汇刊）**
+
+Echinops setifer Iljin in Not. Syst. Herb. Hort. Petrop. 4: 108, 1923; Kitag. in Journ. Jap. Bot. 11: 170, 1935; Kitam. in Mem. Coll. Sci. Kyoto Imp. Univ. Ser. B. 13: 15, 1937; Shih in Bull. Bot. Lab. North,-Eastern Forest. Inst. 6: 69, 1979.
+
+多年生草本，高达1.2米。茎直立，单生，不分枝或上部有短花序分枝，茎下部被稠密的褐色多细胞长节毛及稀疏的贴伏蛛丝状毛，向上蛛丝状毛和褐色多细胞节毛渐多，复头状花序下部白色或灰白色，被密厚的蛛丝状绵毛。基部叶及下部茎叶椭圆形或倒披针状椭圆形，长15-25厘米，宽7-14厘米，二回羽状分裂。一回为全裂或几全裂；一回侧裂片5-7对，椭圆形或倒披针形，中部侧裂片较大，向上向下渐小，二回为浅裂或深裂，二回裂片长椭圆形或披针状三角形，边缘刺齿或三角刺齿裂，顶部渐尖成针刺。中上部茎叶通常羽状深裂，侧裂片及顶裂片边缘刺齿或三角形刺齿裂。上部及接复头状花序下部的叶长椭圆形，边缘刺齿或浅裂或半裂。全部叶质地薄，纸质，两面异色，上面绿色，被稀疏短糙毛，下面白色或灰白色，被密厚的蛛丝状绵毛，中下部茎叶下面沿脉被稠密的褐色的多细胞长节毛。复头状花序单生茎顶或茎生2-3个复头状花序，直径4-5厘米。头状花序长2厘米，基毛白色，不等长，扁毛状，长8-9毫米，约近总苞长度之半。外层苞片稍长于基毛，线状倒披针形，顶端椭圆形扩大，褐色，上部边缘被稀疏缘毛，顶端针芒状短渐尖，爪部自中部以上有白色的长达3毫米的长缘毛；中层苞片倒披针形，长1.4-1.6厘米，自最宽处向上突然收窄成针芒状渐尖，边缘有缘毛；内层苞片椭圆形，长约1.5厘米，顶端芒片裂，中间裂片为长。全部苞片17-22个，外面无毛。小花蓝色，长1.3厘米，花冠5深裂，裂片线形，花冠管上部有稀疏的腺点。瘦果倒圆锥状，长约7毫米，被稠密的淡黄色的顺向贴伏的长直毛，遮盖冠毛。冠毛量杯状，高2毫米；冠毛膜片线形，边缘糙毛状，中部以下结合。花果期8-9月。
+
+分布山东（崂山等）、河南西部（卢氏县）。生于山坡。日本、朝鲜有分布。模式标本采自日本。

@@ -1,0 +1,14 @@
+直穗薹草",
+383.**Carex orthostachys** C. A. Meyer in Ledebour Fl. Altaic. 4: 231. 1833.",
+
+## Description
+Rhizome long stoloniferous. Culms laxly tufted, 40-70 cm tall, acutely triquetrous, rather thick, smooth or slightly scabrous on upper part, clothed with red-brown and bladeless sheaths at base, sheaths later splitting into fibers or reticulate fibers. Leaves shorter than culm, blades 3-5 mm wide, flat, revolute on margins, glabrous, with transverse septate nodes between veins on abaxial surface, sheathed, lower sheaths rather long. Involucral bracts leafy, slightly longer than or equaling inflorescence, shortly sheathed, setaceous at base of male spikes, usually shorter than spike. Spikes 5-7, upper ones approximate, lowermost one remote; terminal 2 or 3 spikes male, narrowly lanceolate or narrowly cylindric, 2-4 cm, subsessile; remaining spikes female, oblong-cylindric or cylindric, 3-6 cm, pedunculate, lower peduncles rather long, upper ones short. Female glumes pale ferruginous, brownish at middle, oblong-ovate or lanceolate, ca. 5 mm, membranous, 3-veined, apex acuminate, aristate, scabrous on margins of awn. Utricles stramineous, obliquely patent, longer than glume, ovate, inflated trigonous, 6-7 mm, thinly leathery, glabrous, distinctly several veined, base subrounded, shortly stipitate, apex gradually narrowed to a medium-sized to long beak, orifice rather long and strict 2-toothed. Nutlets loosely enveloped in utricle, elliptic-obovate, trigonous, ca. 2.5 mm, base shortly stipitate, apex mucronate; style base not thickened; stigmas 3. Fl. and fr. May-Jul.
+  "Statistics": "Swamps, riversides, wet places. Hebei, Heilongjiang, Jilin, Liaoning, Nei Mongol, Xinjiang [Mongolia, Russia].
+  "Synonym": "*Carex aristata* R. Brown subsp. *orthostachys* (C. A. Meyer) Kükenthal.
+**347. 直穗薹草（东北植物检索表）图版82: 9-12**
+
+Carex orthostachys C. A. Mey. in Ledeb., Fl. Alt. 4: 231, t. 324, 1833; Trev. in Ledeb., Fl. Ross. IV: 316, 1852, partim; Kitag. in Bot. Mag. Tokyo 48: 35, 1934 et Lineam. Fl. Mansh. 107, 1939; V. Krecz. in Kom., Fl. URSS 3: 452, t. 24, fig. 2, 1935; 东北草本植物志11: 80, 1976. ——Carex aristata R.Br. subsp. orthostachys (C. A. Mey.) Kukenth. in Engl., Pflanzenr. Heft 38 (IV, 20): 753, fig. 128, F, 1909. ——Carex atherodes auct. non Spreng. : X. Y. Maoet al., 内蒙古植物志8: 78, 图版33, 图7-11, 1985.
+
+根状茎具长的地下匍匐枝。秆疏丛生，高40-70厘米，锐三棱形，较粗壮，平滑或上部微粗糙，基部具红褐色无叶片的鞘，老叶鞘常撕裂成纤维状或网状。叶短于秆，宽3-5毫米，平张，边缘稍外卷，叶背面无毛，具小横隔脉，具鞘，下面的鞘较长。苞片叶状，稍长或近等长于花序，具短鞘，雄小穗基部的苞片呈刚毛状，常短于小穗。小穗5-7个，上部的间距短，最下面的小穗较远离，顶部2-3个小穗为雄小穗，狭披针形或条形，长2-4厘米，近于无柄；其余的小穗为雌小穗，长圆状圆柱形或圆柱形，长3-6厘米，具柄，下面的柄较长，上面的柄短。雄花鳞片披针形，长约5毫米，顶端渐尖成芒，膜质，淡锈色，具3条脉；雌花鳞片长圆状卵形或披针形，长4-5毫米，顶端渐尖成芒，芒边缘粗糙，膜质，淡锈色，中间色淡，具3条脉。果囊斜展，长于鳞片，卵形，鼓胀三棱形，长6-7毫米，薄革质，麦秆黄色，具多条明显的脉，无毛，基部近圆形，具很短的柄，顶端渐狭成中等长的喙，喙口深裂成直的两齿。小坚果疏松地包于果囊内，椭圆状倒卵形，三棱形，长约2.5毫米，基部具短柄，顶端具小短尖，花柱基部不增粗，柱头3个。花果期5-7月。
+
+产于黑龙江、吉林、辽宁、内蒙古、河北、新疆；生于沼泽地、河边、河边潮湿地。也分布于俄罗斯、蒙古。

@@ -1,0 +1,9 @@
+贝氏南星",
+34.**Arisaema brucei** H. Li R. Li & J. Murata <br><small>[**sp. nov.**]</small>",
+
+> *Haec species *Arisaemati asperato *N. E. Brown similis, sed ab eo* *planta glabra, folii segmento intermedio elliptico, spathae lamina oblonga bruneaque ad apicem albido-reticulata differt.*
+
+## Description
+Plants dioecious. Tuber subglobose, 1.8-2 cm in diam. Cataphylls not seen. Leaf solitary; petiole 24-30 cm, glabrous, proximal 5-7 cm sheathing into pseudostem; leaf blade 3-foliolate; leaflets subsessile, green with purple margins, glabrous, margins subcrenulate or crenate; terminal leaflet elliptic, ca. 11 × 4-6 cm, base cuneate, apex acuminate; lateral veins 12-15 per side, collective vein 0.5-1.5 mm from margin; lateral leaflets lanceolate, oblique, ca. 11 × 3.3-3.5 cm, base cuneate, apex long acuminate. Peduncle shorter than petioles, 12.5-16 cm. Spathe suberect, 12-13 cm; tube brown with whitish stripes, obconic, 4.5-5 × 1.7-2 cm, throat margins obliquely truncate, slightly recurved, not auriculate; limb slightly incurved, dark brown with whitish stripes, oblong, 7.5-8 × 2.4-3 cm, base not constricted, apex acuminate with white reticulate stripes. Spadix unisexual; male zone cylindric, 1.3-1.7 cm; synandria lax, stipitate; filaments 1.5-2 mm; anthers 2-4, dehiscing by horseshoe-shaped slits; appendix distally curved, cylindric, ca. 6 cm in total, proximal 2.5-3 cm suberect, ca. 3 mm in diam., abruptly swollen toward base, base conic, 4-5 mm in diam., truncate, with stipe ca. 4.5 × 1.3 mm, apex attenuate, obtuse. Female spadix unknown. Fl. Jul.
+  "Statistics": "● Evergreen broad-leaved forests slightly disturbed by roads; 2500-2600 m. NW Yunnan (Gongshan).
+  "Synonym": "Type: China. Yunnan: Gongshan, Gaoligong Shan, Dulong Jiang valley, between Xishaofang and Bapo, 2570 m, evergreen broad-leaved forest, 17 Jul 2002, *H. Li, R. Li &amp; Z. L. Dao 15020* (holotype, KUN; isotype, CAS).

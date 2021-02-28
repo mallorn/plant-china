@@ -1,0 +1,16 @@
+弯尾冬青",
+137.**Ilex cyrtura** Merrill",
+
+## Description
+Trees evergreen, ca. 12 m tall. Current year’s branchlets slender, longitudinally angular and sulcate, glabrous or sparsely pubescent along groove; second year’s branchlets smooth, glabrous; leaf scars crescent-shaped; lenticels absent. Petiole 7-12 mm, adaxially narrowly sulcate, puberulent, distal half narrowly winged by decurrent leaf base; leaf blade abaxially greenish, adaxially green, elliptic or obovate-elliptic, 6-11 × 2-4 cm, subleathery, abaxially glabrous, adaxially glabrous except on midvein, midvein impressed, sparsely puberulent adaxially, lateral veins 7 or 8 pairs, conspicuous abaxially, obscure adaxially, reticulate veins obscure on both surfaces, base obtuse or cuneate, margin shallowly serrate, teeth black, apex long and often falcate-caudate, acumen 1.5-2 cm. Inflorescences: 1-flowered cymes, fasciculate, axillary on current year’s branchlets, pubescent; bracts broadly elliptic, ciliate; flowers yellow, 4-merous. Male inflorescences: pedicels ca. 1 mm; bracteoles 2, subbasal, ovate, ca. 1 mm, ciliate; calyx patelliform, glabrous, deeply 4-lobed, lobes deltoid, ciliate; corolla rotate, ca. 6 mm in diam., petals oblong, ca. 3 mm, sparsely ciliate, basally slightly connate; stamens ca. as long as petals, anthers oblong; rudimentary ovary subovoid, apex obtuse. Female inflorescences: pedicels ca. 4 mm, pubescent; bracteoles 2, submedian, ciliate; calyx as in male flowers; corolla ca. 5 mm in diam., petals ovate-oblong, ca. 2 × 1.5 mm, basally slightly connate; staminodes ca. as long as petals, sterile anthers sagittate; ovary ovoid, ca. 1.5 mm, ca. 1 mm in diam., stigma very convex, 4-lobed. Fruit globose, ca. 6 mm in diam.; fruiting pedicel 5-6 mm; persistent calyx explanate, quadrangular, ca. 2.5 mm in diam., ciliate; persistent stigma thinly discoid; pyrenes 4, ellipsoidal, ca. 3.5 mm, 2.5-3 mm in diam., abaxially palmately striate, nearly not sulcate, endocarp woody. Fl. Apr, fr. Jun-Sep.
+
+> Broad-leaved mountain forests; 700-1800 m. Guangdong (Conghua), Guangxi, Guizhou (Suiyang, Xifeng), NW Yunnan (Gongshan) [Bhutan, N Myanmar].
+**137. 弯尾冬青（云南种子植物名录）镰尾冬青（贵州植物志）图版39: 6-8**
+
+Ilex cyrtura Merr. in Brittonia 4: 101. 1941; S. Y. Hu in Journ. Arn. Arb. 31: 77. 1950; 云南种子植物名录, 上册: 740. 1984; 贵州植物志2: 352. 1985; 云南植物志4: 261, 图版74: 1-4. 1986; 横断山区维管植物, 上册: 1092. 1993, excl. syn. Ilex gracilis C. J. Tseng.
+
+常绿乔木，高可达12米；当年生幼枝较细，具纵棱及浅沟，无毛或沟内疏被短柔毛，二年生以上小枝平滑，无毛，具新月形叶痕，无皮孔。叶生于1-2年生枝上，叶片近革质，椭圆形或倒卵状椭圆形，长6-11厘米，宽2-4厘米，先端常镰状尾尖，渐尖头长15-20毫米，基部钝或楔形，边缘具浅锯齿，齿尖变黑色，叶面绿色，背面淡绿色，除沿主脉上面疏被微柔毛外，两面无毛，主脉在叶面凹陷，背面隆起，侧脉7-8对，在叶面不明显，背面显著，网状脉不明显；叶柄长7-12毫米，上面具狭槽，被微柔毛，上部具叶片下延而成的狭翅。花序簇生于当年生枝的叶腋内，被短柔毛，花序的单个分枝具单花；苞片阔椭圆形，具缘毛；花黄色，4基数；雄花：花梗长约1毫米，具2枚近基生小苞片，卵形，具缘毛，长约1毫米；花萼盘状，无毛，4深裂，裂片三角形，具缘毛；花冠辐状，直径约6毫米，花瓣长圆形，长约3毫米，具疏缘毛，基部稍合生；雄蕊与花瓣近等长，花药长圆形；退化子房近卵球形，先端钝。雌花：花梗长约4毫米，被短柔毛，近中部具2枚具缘毛的小苞片；花萼与雄蕊相似；花冠直径约5毫米，花瓣卵状长圆形，长约2毫米，宽约1.5毫米，基部稍合生，无缘毛；退化雄蕊与花瓣近等长，败育花药箭头形；子房卵球形，长约1.5毫米，直径约1毫米，柱头盘状，极凸起，4裂。果梗长5-6毫米，近中部或中部具2枚宿存小苞片；果球形，直径约6毫米，宿存花萼平展，四角形，直径约2.5毫米，具缘毛；宿存柱头薄盘状；分核4，椭圆形，长约3.5毫米，宽约2.5-3毫米，背部具掌状条纹，而几无沟，内果皮木质。花期4月，果期6-9月。
+
+产于广东（从化）、广西（桂林、凌云、全州、瑶山）、贵州（息烽、绥阳）和云南西北部（贡山）等省区；生于海拔750-1800米的山地阔叶林中。分布于缅甸北部。模式标本采自缅甸北部（K. Ward 9427，A)。
+
+本种近似与榕叶冬青Ilex ficoidea Hemsl., 惟后者之网状脉在叶片背面显著，果梗较短，长2-4毫米，果之宿存柱头厚盘状，分核背部沿中线具槽并稍凹陷，侧面具皱纹及洼点，内果皮石质而不同。

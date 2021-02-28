@@ -1,0 +1,17 @@
+凤了蕨",
+22.**Coniogramme japonica** (Thunberg) Diels Nat. Pflanzenfam. 1(4): 262. 1899.",
+
+## Description
+Stipe straw-colored or chestnut-brown, 30-50 cm × 3-5 mm; lamina oblong-deltoid or ovate-deltoid, 20-40 cm wide, 2-pinnate, papery or herbaceous when dry, both surfaces glabrous. Lateral pinnae usually 3-5 pairs, basal pair largest, ovate-deltoid, 20-35 × 10-15 cm, stalks 1-2 cm, pinnate (occasionally bifurcate); lateral pinnules 1-3 pairs, lanceolate or broadly lanceolate, 8-15 × 1.5-3.5 cm, stalked or distal pinnules sessile, base cuneate, rounded, or rarely cordate, apex acuminate, long acuminate, or shortly caudate; terminal pinnule broadly lanceolate, 20-28 × 2.5-4 cm, usually attenuate toward base. Pinnae of second pair trifoliolate, bifurcate, or simple; simple pinnae as terminal pinnule. Pinna or pinnule margins serrate, teeth sparse and short. Veins anastomosing to form 1-3 rows of areoles along each side of midrib, then free to margin; hydathodes spindle-shaped, extending below base of teeth. Sori extending nearly to lamina margin.
+
+> Forests, shaded wet soil in ravines; 100-2000 m. Anhui, Fujian, Guangdong, Guangxi, Guizhou, Henan, Hubei, Hunan, S Jiangsu, Jiangxi, Shaanxi, Sichuan, Taiwan, Yunnan, Zhejiang [Japan (including Ryukyu Islands), Korea].
+  "Synonym": "*Hemionitis japonica* Thunberg in Murray, Syst. Veg., ed. 14, 932. May-Jun 1784; *Coniogramme ankangensis* Ching &amp; Y. P. Hsu; *C. centrochinensis* Ching; *C. gracilis* Ogata; *C.* *japonica* subsp. *gracilis* (Ogata) Nakaike; *C. japonica* var. *gracilis* (Ogata) Tagawa; *Dictyogramme japonica* (Thunberg) Fée; *Gymnogramma japonica* (Thunberg) Desvaux; *Notogramme japonica* (Thunberg) C. Presl.
+**38.凤丫蕨（中国主要植物图说蕨类植物门）日本凤丫蕨（台湾植物志）图版75:1-2**
+
+Coniogramme japonica (Thunb.) Diels in Engl. u. Prantl, Nat. Pflanzenfam. 1 (4): 262. 1899; Hieron. in Hedwigia 57: 323. 1916. C. Chr. Ind. Fil. Suppl. 2: 9. 1917; Ogata, Ic. Fil. Jap. 3: t. 112. 1930; Ching in Sinensia 3: 340. 1933: DeVol,Ferns East Centr. China in Notes Bot. Chin. Mus. Heude No. 7. 107. 1945; 傅书遐, 中国主要植物图说蕨类植物门83, 图103.1957; Tagawa in Journ. Jap. Bot.15: 4261939 et Col. Illustr. Jap. Pterid. 61, t. 18, f. 106. 1959; Ohwi, Fl. Japan 44. 1965: Ic. Corm. Sin. 1: 172. f. 344. 1972: Shieh in H. L. Li et al., Fl. Taiwan. I: 3-1, 1975; 江苏植物志 (上册) 33.图40.1971; Fl. Fujian. 1: 90. t. 82. 1982. ——Hemio-sitis japonica Thumb., Fl. Jap. 333. 1784.——Gymnogramma japonica Desv. iBerl. Mag. 5: 305. 1811; Hook. et Bak. Syn. Fil. 390. 1874. ——Dictyogrammejaponica Fee, Gen. Fil. 171, t. 15 A, f. 2. 1850-52. ——Notogramma japonicaPresl, Epim. Bot. 263. 1849; H. Ito, Fil. Jap. Illustr. t. 80. 1944. Coniogrammegracilis Ogata in Journ. Jap. Bot. 11: 34, t. 4. 1934 et Ic. Fil. Jap. 6: t. 260.1935. ——Coniogramme japonica var. gracilis Tagawa in journ. Jap. Bot. 15: 428. 1939.
+
+植株高60-120厘米。叶柄长30-50厘米，粗3-5毫米，禾秆色或栗褐色，基部以上光滑；叶片和叶柄等长或稍长，宽20-30厘米，长圆三角形，二回羽状；羽片通常，对（少则3对），基部一对最大，长20-35厘米，宽10-15厘米，卵圆三角形，柄长1-2厘米，羽状（偶有二叉）；侧生小羽片1-3对，长10-15厘米，宽1.5-2.5厘米，披针形，有柄或向上的无柄，顶生小羽片远较侧生的为大，长20-28厘米，宽2.5-4厘米，阔披针形，长渐尖头，通常向基部略变狭，基部为不对称的楔形或叉裂；第二对羽片三出、二叉或从这对起向上均为单一，但略渐变小，和其下羽片的顶生小羽片同形；顶羽片较其下的为大，有长柄；羽片和小羽片边缘有向前伸的疏矮齿。叶脉网状，在羽轴两侧形成2-3行狭长网眼，网眼外的小脉分离，小脉顶端有纺锤形水囊，不到锯齿基部。叶干后纸质，上面暗绿色，下面淡绿色，两面无毛。孢子囊群沿叶脉分布，几达叶边。
+
+产江苏南部（宜兴、溧阳）、浙江（寿昌、天台、淳安、杭州、天目山）、福建（南平、龙潭、建欧、崇安、连城、宁化、蒲城）、台湾（台北、台中、南投、嘉义）、江西（上饶、铝山、德兴、资溪、黎川、宁都、瑞金、广昌、遂川、井岗山、安福、武功山、萍乡、铜鼓、修水、庐山）、安徽（黄山、休宁、祁门、蓝田）、湖北（鹤峰）、湖南（衡山）、广西（兴安、龙胜）、四川（南川）、贵州（贵阳、都匀、遵义、江口、平坝）、广东（平远、和平、乳源、连南、连县）。生湿润林下和山谷阴湿处，海拔100-1300米。
+
+朝鲜南及日本也有，模式标本采自日本。

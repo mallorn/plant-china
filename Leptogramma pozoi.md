@@ -1,0 +1,17 @@
+毛叶茯蕨",
+3.**Leptogramma pozoi** (Lagasca) Heywood Repert. Spec. Nov. Regni Veg. 64: 19. 1961.",
+
+> Fraser-Jenkins (Taxon. Revis. Indian Subcontinental Pteridophytes, 195. 2008) believes *Thelypteris mollissima* is a strictly Asian taxon that should be separated from the Macronesian and African *T. pozoi*. This is not accepted here.
+
+## Description
+Plants 35-45 cm tall. Rhizomes short and erect, with brown lanceolate hairy scales. Fronds clustered; stipes ca. 13 cm, stramineous, bases with brown scales, distally with grayish white acicular hairs; laminae lanceolate, 20-28 × 10-13 cm, slightly tapering proximally, pinnate-pinnatifid, pinnate-acuminate at apices; lateral free pinnae 9 pairs, proximal pinnae shortly stalked, proximal pair of similar shape and size and reflexed; middle pinnae lanceolate, ca. 6 × 1.5 cm, bases truncate, pinnatifid to 1/2 of distance to costae, apices long caudate; segments rectangular, entire, obtuse-rounded at apices. Veinlets evident, simple, basiscopic vein of proximal pair arising from costae, acroscopic vein arising from base of costules and reaching margin. Laminae herbaceous, deep green when dry, costae and veins with acicular hairs, also with acicular short hairs on intercostal areas of both surfaces. Sori narrowly ovate, attached on middle or proximal parts of veinlets and slightly closer to bases. Sporangia each with 1 or 2 setae near annuli. 2*n* = 144.
+
+> Lower mountain areas; 300-600 m. SE Taiwan (Lan Yu) [S India, Indonesia, Japan, Sri Lanka; Africa].
+  "Synonym": "*Hemionitis pozoi* Lagasca, Nov. Gen. Pl. 33. 1816; *Cyclosorus pozoi* (Lagasca) C. M. Kuo; *Gymnogramma totta* Schlechtendahl; *G. totta* var. *mollissima* Kunze; *Lastrea africana* (Desvaux) Ching; *Leptogramma africana* (Desvaux) Nakai ex Mori; *L. mollissima* (Kunze) Ching; *L. pozoi* subsp. *mollissima* (Kunze) Nakaike; *L. totta* (Schlechtendahl) J. Smith; *Polypodium africanum* Desvaux; *P. totta* Willdenow (1810), not Thunberg (1800); *Stegnogramma mollissima* (Kunze) Fraser-Jenkins; *S. pozoi* (Lagasca) K. Iwatsuki; *Thelypteris mollissima* (Kunze) Thapa; *T. pozoi* (Lagasca) C. V. Morton.
+**8.毛叶茯蕨（中国蕨类植物图谱）非洲茯蕨（台湾植物志）图版22: 1-8**
+
+Leptogramma pozoi (Lag.) Ching in Acta Phytotax. Sin. 8: 318. 1963; Kuo in Fl. Taiwan 1: 415. 1975; Tsai et Shieh in Fl. Taiwan 2ed. 1: 381. 1994 Hemionitis pozoi Lag., Nov. Gen. sp. 331. 1816. ——Thelypteris pozoi (Lag.) Morton in Amer. Fern. Journ. 56: 178. 1966; Kuo in Taiwania 30: 26. 1985. ——Leptogramma pozoi (Lag.) Subsp. mollissima (Kze.) Nakaike in Ill. Jap. Pterid. 3. f. 253. 1983. ——Leptogramma mollissima (Kze.) Ching in Sinensia 7: 102. t. 9. 1936 et Ic. Fil. Sin. 5: 228. 1958.——Leptogramma africana Ching in Sinensia 7: 101. 1936.——Polypodium tottum auct. non Thunb. 1810: Willd., Sp. Pl. 5: 201. 1810.——Grymnogramma mollissima Kze. in Linnaea 23: 255. 310. 1850. ——Stegnogramma pozoi (Lag.) K. Iwats. in Acta Phytotax. Geobot. 19: 124. 1963; Jacoben in Fern and Fern Allies South, Africa 393. 1983; Jarrett, Ind. Fil. Suppl. 5: 175. 1985.
+
+植株高35-45厘米。根状茎短而直立，被棕色、披针形、有毛的鳞片。叶簇生；叶柄长约13厘米，淡禾秆色，基部被棕色鳞片，向上直到叶轴均密被灰白色针状毛；叶片长20-28厘米，中部宽10-13厘米，披针形，先端羽状渐尖头，向基部略变狭，二回羽裂；侧生分离羽片9对，下部的有短柄，基部一对与上一对同形同大并向下反折，中部羽片披针形，长尾头，基部平截，长约6厘米，宽约1.5厘米，羽裂深达1/2；裂片长方形，钝圆头，全缘。叶脉明显，侧脉单一，基部一对的下侧一脉出自羽轴，上侧一脉出自主脉基部，伸达叶边。叶草质，干后深绿色，除叶轴、羽轴和叶脉均被针状毛外，两面脉间也被针状短毛。孢子囊群狭卵形，沿侧脉中下部着生，略靠近基部；孢子囊体近顶处有1-2根针状毛。染色体2n=144。
+
+产台湾东部。生长于低海拔山区，少见。主要分布于非洲、中南半岛、波利尼西亚和日本。模式标本采自非洲。

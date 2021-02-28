@@ -1,0 +1,146 @@
+婆婆纳属
+38.**Veronica** Linnaeus
+
+> About 250 species: cosmopolitan, mainly in Asia and Europe; 53 species in China.
+
+
+## Description
+Herbs, perennial with rhizomes or annuals. Roots glabrous. Stems erect, procumbent, or creeping, base sometimes woody. Leaves mostly opposite, rarely whorled or upper ones alternate. Inflorescences terminal or axillary racemes, sometimes spicate, long or short and capitate. Calyx 4-lobed, if 5-lobed upper lobe much smaller than other lobes. Corolla 4-sect or 4-lobed, rarely slightly 2-lipped; tube short and limb subrotate, rarely tube conspicuous, 1/3-1/2 of corolla length, usually hairy inside; lobes usually patent, unequal in width, upper lobe widest, lower lobe narrowest. Stamens 2; filaments adnate to posterior part of corolla tube; anther locules parallel or divergent, apically confluent. Style persistent; stigma capitate. Capsule diverse in shape, slightly to strongly compressed laterally, 1-grooved, loculicidal. Seeds 2-50 per capsule, flattened and convex on both sides, navicular or cupular.
+
+  "keylist": "
+1 Inflorescences terminal, sometimes bracts leaflike and flowers appearing axillary.——(2)
+1 Inflorescences axillary, usually in pairs, sometimes arrested development of stem apex causes inflorescences to appear terminal.——(20)
+2(1) Perennials with rhizomes or woody roots.——(3)
+2 Annuals without rhizomes.——(9)
+3(2) Calyx lobes 4; corolla subrotate, tube inconspicuous; capsule strongly compressed.——(4)
+3 Calyx lobes (4 or)5; corolla tube mostly conspicuous, 1.5-2 mm, rarely shorter; capsule slightly compressed.——(5)
+4(3) Capsule obovoid, longer than wide; inflorescences few flowered; stems erect or ascending, never creeping[var. longistyla 长白婆婆纳](Veronica stelleri var. longistyla.md)
+4 Capsule subreniform, shorter than wide; inflorescences many flowered; stems often creeping at base[Veronica serpyllifolia 小婆婆纳](Veronica serpyllifolia.md)
+5(3) Plants woolly, white[Veronica lanuginosa 绵毛婆婆纳](Veronica lanuginosa.md)
+5 Plants tomentose or villous, with multicellular glandular hairs, green or gray-green.——(6)
+6(5) Inflorescences elongated, lax; infructescences 10-20 cm; leaf blade lanceolate to ovate-lanceolate, margin deeply cut[Veronica lanosa 长梗婆婆纳](Veronica lanosa.md)
+6 Inflorescences capitate; infructescences less than 5 cm; leaf blade orbicular to ovate, margin shallowly cut or subentire.——(7)
+7(6) Style ca. 0.5 mm[subsp. pumila 短花柱婆婆纳](Veronica alpina subsp. pumila.md)
+7 Style 6-7 mm.——(8)
+8(7) Stamens exserted; plants tomentose with white multicellular hairs, gray-green; infructescences slightly elongated[Veronica densiflora 密花婆婆纳](Veronica densiflora.md)
+8 Stamens included; plants densely with brown or brown-yellow multicellular glandular hairs; infructescences elongated to 5 cm[Veronica capitata 头花婆婆纳](Veronica capitata.md)
+9(2) Seeds convex on both sides; pedicel several X shorter than bract (as long as or slightly longer in <I>V. pusilla</I>)<I>.</I>——(10)
+9 Seeds navicular, convex on 1 side, with a deep groove on other; pedicel as long as or longer than bract, rarely slightly shorter.——(13)
+10(9) Leaves pinnatifid; stems simple or fastigiate; capsule pubescent[Veronica verna 裂叶婆婆纳](Veronica verna.md)
+10 Leaves entire, crenate, or dentate; stems branched; capsule glabrous or ciliate and otherwise glabrous.——(11)
+11(10) Pedicel 1.5-2 X longer than calyx[Veronica pusilla 侏倭婆婆纳](Veronica pusilla.md)
+11 Pedicel shorter than calyx.——(12)
+12(11) Stems glabrous or short glandular pubescent; leaves oblanceolate to narrowly oblong, base cuneate, margin entire or dentate above middle; corolla usually white[Veronica peregrina 蚊母草](Veronica peregrina.md)
+12 Stems densely villous along 2 lines; leaves ovate-orbicular, base rounded, margin conspicuously crenate; corolla blue[Veronica arvensis 直立婆婆纳](Veronica arvensis.md)
+13(9) Plants diffuse; bracts similar in size to leaves.——(14)
+13 Plants erect, simple or branched below middle; bracts smaller than leaves.——(15)
+14(13) Pedicel slightly shorter than bract; capsule 4-6 mm wide, with inconspicuous reticulate veins, apically notched nearly at an acute angle, lobes rounded; style ca. 1.5 mm, as long as notch or slightly exserted[Veronica polita 婆婆纳](Veronica polita.md)
+14 Pedicel longer than bract; capsule 6-9 mm wide, with conspicuous reticulate veins, apically notched at a right to an obtuse angle, lobes obtuse; style 2-3 mm, conspicuously exserted[Veronica persica 阿拉伯婆婆纳](Veronica persica.md)
+15(13) Leaves 4, under inflorescences, nearly whorled.——(16)
+15 Leaves more than 4, pairs distant.——(17)
+16(15) Pedicel slender, 2-5 X longer than bract; calyx equally parted to base, lobes lanceolate[Veronica tenuissima 丝茎婆婆纳](Veronica tenuissima.md)
+16 Pedicel slightly longer than bract; calyx unequally parted, laterally parted to middle, lobes rhomboid-ovate[Veronica cardiocarpa 心果婆婆纳](Veronica cardiocarpa.md)
+17(15) Seeds smooth; calyx lobes obscurely 3-veined or only midrib visible, red ciliate; plants often reddish[Veronica rubrifolia 红叶婆婆纳](Veronica rubrifolia.md)
+17 Seeds transversely rugose; calyx lobes conspicuously 3-veined, white ciliate; plants green.——(18)
+18(17) Calyx lobes in fruit usually to 1.6 mm wide; seeds usually 8-14 per capsule, 1.3-1.7 X 0.7-0.8 mm, deeply transversely rugose (with 5 folds); pedicel in fruit usually distinctly recurved, usually longer than bract[Veronica campylopoda 弯果婆婆纳](Veronica campylopoda.md)
+18 Calyx lobes in fruit usually 2-3.5 mm wide; seeds usually 4-8 per capsule, 1.7-2.5 X 0.9-1.5 mm, obscurely reticulate-rugose; pedicel in fruit usually patent, often shorter than bract.——(19)
+19(18) Pedicel slightly recurved in fruit, pedicel and calyx densely glandular pubescent with hairs 0.4-0.7(-1) mm; corolla 4-6 mm in diam.; capsule (4-)5-8 mm wide, notch angle 30-45(-60); style (0.8-)1-1.3(-1.7) mm[Veronica arguteserrata 尖齿婆婆纳](Veronica arguteserrata.md)
+19 Pedicel straight in fruit, pedicel and calyx short puberulent with hairs 0.1-0.3 mm; corolla 3-4 mm in diam.; capsule (3-)3.5-5(-6) mm wide, notch angle acute (narrow); style 0.4-0.8 mm[Veronica biloba 两裂婆婆纳](Veronica biloba.md)
+20(1) Plants aquatic or helophytic; stems succulent.——(21)
+20 Plants terrestrial; stems not succulent.——(25)
+21(20) Stems creeping; capsule wider than long[subsp. muscosa 有柄水苦荬](Veronica beccabunga subsp. muscosa.md)
+21 Stems erect; capsule as wide as or narrower than long.——(22)
+22(21) Style ca. 3 mm; capsule basally wider than apically, apically notched[Veronica oxycarpa 尖果水苦荬](Veronica oxycarpa.md)
+22 Style less than 2.5 mm; capsule basally and apically equal in width, apically rounded or emarginate.——(23)
+23(22) Capsule ellipsoid, length exceeding width, apically emarginate; calyx lobes appressed to capsule, outside densely glandular hairy[Veronica anagalloides 长果水苦荬](Veronica anagalloides.md)
+23 Capsule subglobose, length equal to width, apically rounded; calyx lobes not closely appressed to capsule in fruit, glabrous or sparsely glandular hairy.——(24)
+24(23) Pedicel curved, at an acute angle with inflorescence axis; racemes less than 1 cm wide, usually glabrous[Veronica anagallis-aquatica 北水苦荬](Veronica anagallis-aquatica.md)
+24 Pedicel straight, at a right angle with inflorescence axis; racemes 1-1.5 cm wide, sparsely glandular pubescent[Veronica undulata 水苦荬](Veronica undulata.md)
+25(20) Rhizomes less than 1 cm, nodes and internodes inconspicuous; calyx 5-lobed, upper lobe much smaller (sometimes 4-lobed in <I>V. rockii</I> and <I>V. filipes</I>); corolla tube conspicuous; capsule slightly compressed (strongly compressed in <I>V. filipes<——(26)
+25 Rhizomes more than 1 cm, with obvious nodes and internodes; calyx 4-lobed (5-lobed in <I>V. teucrium</I>); corolla tube inconspicous; capsule usually strongly compressed (not strongly in <I>V. teucrium</I> and <I>V. morrisonicola</I>), width exceeding len——(31)
+26(25) Capsule oblong to ovoid-globose, strongly compressed; corolla tube inside with a ring of villous hairs; stamens longer than or as long as corolla[Veronica filipes 丝梗婆婆纳](Veronica filipes.md)
+26 Capsule ovoid to ovoid-conical, slightly compressed; corolla tube inside often glabrous (villous in <I>V. himalensis</I>); stamens shorter than corolla.——(27)
+27(26) Corolla to 10 mm, outside with multicellular glandular hairs; capsule more than 5 mm wide; leaves amplexicaul, margin conspicuously dentate[Veronica himalensis 大花婆婆纳](Veronica himalensis.md)
+27 Corolla 0.3-0.6 mm, outside glabrous; capsule less than 5 mm wide; leaves never amplexicaul, margin not conspicuously dentate.——(28)
+28(27) Ovary and capsule glabrous or sparsely pubescent[Veronica rockii 光果婆婆纳](Veronica rockii.md)
+28 Ovary and capsule hirsute with multicellular hairs.——(29)
+29(28) Inflorescences long and lax, not capitate at anthesis[Veronica eriogyne 毛果婆婆纳](Veronica eriogyne.md)
+29 Inflorescences usually capitate at anthesis (elongated in <I>V. ciliata</I> <I>subsp. zhongdianensis</I>).——(30)
+30(29) Capsule ovoid, 4-5 mm wide; calyx lobes narrowly elliptic to oblanceolate; plants less than 10-flowered; leaves densely villous[Veronica chinoalpina 河北婆婆纳](Veronica chinoalpina.md)
+30 Capsule narrowly ovoid to narrowly ovoid-conical, less than 4 mm wide; calyx lobes linear-lanceolate; plants usually more than 10-flowered; leaves glabrescent[Veronica ciliata 长果婆婆纳](Veronica ciliata.md)
+31(25) Stems densely white villous; lower leaves withered at anthesis[Veronica tibetica 西藏婆婆纳](Veronica tibetica.md)
+31 Above combination of characters absent.——(32)
+32(31) Inflorescences less than 3 cm, 1-5-flowered.——(33)
+32 Inflorescences usually more than 3 cm, lax, more than 5-flowered.——(34)
+33(32) Flowers 2-5, in corymbs; capsule obcordate-deltoid[Veronica szechuanica 四川婆婆纳](Veronica szechuanica.md)
+33 Flowers 1-3, in fascicles; capsule reniform[Veronica chayuensis 察隅婆婆纳](Veronica chayuensis.md)
+34(32) Capsule obcordate to obovoid-cordate.——(35)
+34 Capsule mostly triangular or pliciform-rhomboid, rarely obcordate-reniform or reniform.——(39)
+35(34) Calyx 5-lobed; pedicel as long as or longer than bract; capsule glabrous[subsp. altaica 卷毛婆婆纳](Veronica teucrium subsp. altaica.md)
+35 Calyx 4-lobed; pedicel shorter or rarely longer than bract; capsule hairy or ciliate.——(36)
+36(35) Stems creeping; capsule longer than wide[Veronica morrisonicola 匍茎婆婆纳](Veronica morrisonicola.md)
+36 Stems erect or ascending; capsule as long as or shorter than wide.——(37)
+37(36) Stems branched at base; style 0.3-0.5 mm; inflorescences usually less than 5 cm, rarely to 10 cm[Veronica javanica 多枝婆婆纳](Veronica javanica.md)
+37 Stems simple; style 3-6 mm; inflorescences to 30 cm.——(38)
+38(37) Stems densely villous with multicellular hairs along 2 lines; pedicel longer than or as long as bract; style 5-6 mm[Veronica chamaedrys 石蚕叶婆婆纳](Veronica chamaedrys.md)
+38 Stems evenly villous with multicellular hairs; pedicel much shorter than bract; style 3-4 mm[Veronica laxa 疏花婆婆纳](Veronica laxa.md)
+39(34) Capsule obcordate-reniform or reniform, base truncate-rounded.——(40)
+39 Capsule pliciform-rhomboid or deltoid-flabellate, base truncate or cuneate-truncate.——(42)
+40(39) Stems creeping and rooting at least below middle; bracts and calyces glabrous; style 5-6 mm[Veronica laxissima 极疏花婆婆纳](Veronica laxissima.md)
+40 Stems ascending; bracts and calyces ciliate; style less than 5 mm.——(41)
+41(40) Inflorescences several flowered; leaf base truncate[Veronica sutchuenensis 川西婆婆纳](Veronica sutchuenensis.md)
+41 Inflorescences 1- or 2-flowered; leaf base shallowly cordate[Veronica vandellioides 唐古拉婆婆纳](Veronica vandellioides.md)
+42(39) Stems creeping; leaf blade less than 2 cm.——(43)
+42 Stems erect or ascending (sometimes creeping basally or below middle in <I>V. tsinglingensis. V. riae</I>, and <I>V. henryi</I>); leaf blade mostly more than 2 cm (less than 2 cm in <I>V. taiwanica</I>).——(44)
+43(42) Lower leaves petiole ca. 7 mm; leaf blade triangular-orbicular, margin with 2 or 3 broadly crenate lobes on each side, base truncate; inflorescences 1-4-flowered[Veronica oligosperma 少籽婆婆纳](Veronica oligosperma.md)
+43 Lower leaves subsessile; leaf blade elliptic, margin serrate, base cuneate; inflorescences ca. 10-flowered[Veronica forrestii 大理婆婆纳](Veronica forrestii.md)
+44(42) Stems 1-5 cm; leaves often rosulate; inflorescences much longer than stems[Veronica piroliformis 鹿蹄草婆婆纳](Veronica piroliformis.md)
+44 Stems (8-)10-30 cm; leaves never rosulate; inflorescences shorter than stems.——(45)
+45(44) Leaves sessile, amplexicaul[Veronica deltigera 长梗婆婆纳](Veronica deltigera.md)
+45 Leaves conspicuously petiolate.——(46)
+46(45) Stamens longer than or as long as corolla; style more than 5.5 mm; pedicel more than 5 mm.——(47)
+46 Stamens shorter than corolla; style less than 4 mm (6-7 mm in <I>V. longipetiolata</I>); pedicel less than 3 mm (5-7 mm in <I>V. riae</I>).——(48)
+47(46) Longest petioles 1.5-3 cm; leaves papery, glabrous; capsule almost entirely glabrous[Veronica fargesii 城口婆婆纳](Veronica fargesii.md)
+47 Longest petioles 0.5-0.7 cm; leaves membranous, adaxially sparsely puberulent; capsule apically sparsely glandular ciliate[Veronica tsinglingensis 陕川婆婆纳](Veronica tsinglingensis.md)
+48(46) Style 6-7 mm; petiole 3-4 cm on lower leaves[Veronica longipetiolata 长柄婆婆纳](Veronica longipetiolata.md)
+48 Style less than 4 mm; petiole 0.3-1.5 cm.——(49)
+49(48) Leaves membranous; inflorescences to 11 cm; peduncle more than 3 cm; pedicel to 5 mm at anthesis, to 7 mm in fruit; style 3-4 mm[Veronica riae 膜叶婆婆纳](Veronica riae.md)
+49 Leaves papery; inflorescences less than 8 cm; peduncle less than 2 cm; pedicel less than 3 mm; style less than 3 mm.——(50)
+50(49) Calyx lobes narrowly elliptic to oblanceolate, sparsely glandular ciliate, apex obtuse; inflorescences axis and pedicels glandular hairy[Veronica yunnanensis 云南婆婆纳](Veronica yunnanensis.md)
+50 Calyx lobes linear-lanceolate, glabrous or sparsely ciliate, apex acute or acuminate; inflorescences axis and pedicels villous.——(51)
+51(50) Inflorescences 1.5-2 cm; corolla 4-5 mm in diam.; capsule 7-8 mm wide; style 1.5-1.8 mm; leaf blade 1-1.5 X 0.8-1.2 cm[Veronica taiwanica 台湾婆婆纳](Veronica taiwanica.md)
+51 Inflorescences 3-7 cm; corolla 10-12 mm in diam.; capsule 9-11 mm wide; style 2-3 mm; leaf blade 2-5 X 1.2-3 cm.——(52)
+52(51) Stems basally densely pubescent; lower leaves deltoid-orbicular to shallowly cordate, upper leaves ovate to ovate-orbicular, apex often obtuse; petiole 1-1.5 cm[Veronica cana 灰毛婆婆纳](Veronica cana.md)
+52 Stems basally subglabrous; leaves ovate to narrowly ovate, apex often acute; petiole less than 1 cm[Veronica henryi 华中婆婆纳",](Veronica henryi.md)
+**35.婆婆纳属——Veronica L.**
+
+L. Sp. Pl. 9, 1753; Rompp, Rep. Sp. Nov. 50: 1-172. 1928; Li Proc. Acad. Nat. Sci. Philad. 104: 197-218. 1952; Yamazaki, Journ. Fac. Sci. Univ. Tokyo, sect. 3. 7: 133-162. 1957. ——Pseudolysimachion Opiz, Seznam Rostlin Kveteng, Ceske, 80, 1852; Yamazaki, Journ. Jap. Bot. 43: 405-412. 1968.
+
+多年生草本而有根状茎或一、二年生草本而无根状茎，有时基部木质化。叶多数为对生，少轮生和互生。总状花序顶生或侧生叶腋，在有些种中，花密集成穗状，有的很短而呈头状。花萼深裂，裂片4或5枚，如5枚则后方（近轴面）那一枚小得多，有的种萼4裂深度不等；花冠具很短的筒部，近于辐状，或花冠筒部明显，长至占总长的1/2-2/3，裂片4枚，常开展，不等宽，后方一枚最宽，前方一枚最窄，有时稍稍2唇形；雄蕊2枚，花丝下部贴生于花冠筒后方，药室叉开或并行，顶端汇合；花柱宿存，柱头头状。蒴果形状各式，稍稍侧扁至明显侧扁几乎如片状，两面各有一条沟槽，顶端微凹或明显凹缺，室背2裂。种子每室1至多颗，圆形，瓜子形或为卵形，扁平而两面稍膨，或为舟状。
+
+约250种，广布于全球，主产欧亚大陆。我国产61种，各省区均有，但多数种类产西南山地。
+
+下面简单介绍本属植物一些形态性状的变异情况和我们处理属下分类的一些原则。
+
+本属划分大类主要依据：①花序顶生还是侧生叶腋，依此划分两大类（常常作为两个亚属处理），这是可靠的，但须注意，有些种类的花序侧生于茎顶端叶腋，茎顶端不再继续发育，在长花序的节以上仅有数片很小的叶子，甚至顶芽小得几乎看不见，因此花序看起夹好象顶生。但往往顶端一对叶的腋间各有一个花序，我们据此可准确判断花序为腋生，而非顶生。在顶端一对叶其中只有一枚的腋中长有花序的情况下，就比较麻烦了。这种情况在外表上和花序顶生几乎没有两样，而且确实曾有不少人因此弄错了，但毕竟是两回事：通常在花序侧生叶腋的情况下，花序总梗比茎细，和顶生情况下花序总梗为茎的直接延伸、粗细过渡的状况不同，而且扒开叶子可以发现在长花序的节以上尚有一个很小的顶芽。更有个别情况，如察隅婆婆纳（V. chayuensis Hong)的侧生花序退化至完全没有花序轴，单朵花或2-3朵花簇生于茎顶端叶腋中，但是这种花的花梗中下部或近基部有一枚“小苞片”（其实为苞片），所以仍系侧生花序。根据系统对比，可以看出这种判断是对的。因此，花序顶生还是侧生叶一腋，一般很容易区分，只在个别情况下，需要稍加仔细观察。②花萼裂片的数目，这也是很稳定的，有的4枚，有的5枚而其中后方（近轴面）一枚遥小，具4枚花萼裂片的和具5枚的，通常在其他性状方面也有很大不同，不会出现在一个组中。但有个别例外，如卷毛婆婆纳(V. teucrium)具5枚花萼裂片，根据其他性状的综合考虑，仍放疏花组(Sect. Veronica)中。还有个别例外，一个种内，花萼裂片4或5枚有变化，如丝梗婆婆纳(V. filipes)和光果婆婆纳(V. rockii)。③蒴果形状，本属植物果形多变而且颇为奇特，其共性是不同程度地侧扁，顶端也不同程度地凹缺，每一面各有一条浅槽，其特性是，有的类群，果稍稍侧扁，有的则强烈侧扁，几乎如片状，如疏花组(Sect. Veronica)的大部分种；有的圆形，如穗花组(Sect. Pseudolysimachia)，有的卵状锥形，如狭果组(Sect. Stenocarpon)，有的则呈倒心形，如婆婆纳组(Sect. Omphalospora)等，更有的呈折扇状菱形或三角状扇形，如疏花组的许多种；有的凹口很不明显，如狭果组，有的则凹口很深，甚至几乎成为两个分果，如婆婆纳组的多数种。④花冠筒的长短也是相当稳定的特征，对于种来说，很稳定，对于组来说，则有一定幅度，例如穗花组和狭果组以及头花组（Sect． Macrostemon)具较长而明显的筒部，筒长占花冠全长1/4以上（个别例外），花冠不呈辐状，而其他组的植物，花冠具短筒，呈辐状。此外，还有种子形状（两面平凸或为舟状）；根状茎有无，伸长而有明显节间还是极短而分不出节间；一年生还是多年生；水生还是陆生等，也可以作为分组的依据。所有这些分组的性状通常具有相关性。例如在侧生花序类群中，对狭果组和疏花组这两个关系很近的组的植物来说，基本上凡花萼具5枚裂片的，花冠筒部明显，蒴果不明显侧扁，顶端尖、根茎极短，反之亦然。就是说，凡花萼具4枚裂片的，这些性状就相反了，当然有少数例外。我们正是利用这种情况作为分组的依据。关于婆婆纳种的划分，应当注意蒴果形状和宿存于其上的花柱的长短。本属植物的果期很长，而且前面提到过，果形多样而比较稳定，大的差异是划分大类的根据，而较小的差异常常是划分种的依据。本属的花柱有一个特点，宿存而且自花开放直到果期，长度几乎不变，在一个种内一般是比较稳定的，我们在划分相近种时，往往作为重要参考依据。
+<p style='text-indent:28px'>根据我们的观察，婆婆纳属内种和种之间的界限，除了狭果组，一般比较清楚。我们看到，在组以下，又呈现出一些类群的分化，它们具有一些相关性状，并在类群之间表现出相对的不连续性。我们把这样的类群作为种看待。例如婆婆纳(V. didyma)和阿拉伯婆婆纳(V. persica)是两个极为相近的种，不仅乍一看，体态很象，而且种子、花冠都是一致的，但是它们在苞片与花梗的长短比例、蒴果的细微性状上有很大差别，如检索表所示，而且这些性状是相关的，就是说，凡花梗长于苞片的个体，其果一定有网纹，顶端凹口叉开角度大于90度，反之亦然！我们判断是两个不同的类群，形态上划开以后，就发现，阿拉伯婆婆纳这个类群分布区比较狭窄，在国内，我们没有在四川、西北除新疆以外的其他省区以及北京市发现它。国外分布也不一样，阿拉伯婆婆纳不见于北欧。婆婆纳是2倍体，而另一种则为4倍体。这都证实了它们是两个极为近缘的自然类群。我们新记载的八个种也是根据这一原则确定的。其中与已经记载的种关系最密切的要推陕川婆婆纳(V. tsinlingensis)，这个种以其长的花梗、长的花柱和典型地折扇状菱形的蒴果，在疏花组中除城口婆婆纳（V. fargesii)以外，分明和其他种关系较远，而这两个种正如检索表所示，在叶片的质地、大小、被毛、背面颜色以及叶柄长短等方面均不同，且有间断，花柱长短也不同，这些性状是相关的，而不是交叉的。其余几个新种和其他任何种的关系更远一些。我们一般不根据单号标本确定新种，除非它在一些质的性状上而非量度性状上和已发表的种有着显著差异。
+<p style='text-indent:28px'>在本属分类处理中，除取消了一些种名，把它们作为异名处理，我们还作了一些合并，例如把V. cephaloides Pennell并入V. ciliata,作为其中一个亚种处理，原因是我们根据大量标本发现两者形态上很接近，基本上是连续的，而这种连续是经由地理因素实现的，就是说，形态上的连续是和地理上的连续藕联在一起的，反之，形态上的差异是和地区的不一致关联的，在扩大了的V. ciliata之下，我们看到，根据形态和地理上的差异，可以划分为三个类群，我们就作为三个亚种处理。
+<p style='text-indent:28px'>在种之下，我们确立了亚种或变种一个等级。凡是形态上的变异式样是和地理有关联的，就是说，不同地区的类型存在着明显的差异，而又不存在明显间断，或者呈一连续系列，这种不同地区的类型，我们当作亚种处理。凡是形态差异没有这种地理关系，或者关系至今尚不明确，这种种下类群，我们暂作变种看待。
+<p style='text-indent:28px'>我们在本属分类处理中基本上遵循上述原则，当然这些原则和个别情况下的具体做法会有矛盾，一个原因是，简单的原则不可能完全框住复杂的事物；另一个原因是材料尚感不足，在材料不足情况下，处理问题多少是权宜性的，例如对V. chino. alpina和V．riae的处理。
+
+## 检索表
+
+1 总状花序顶生，有时苞片叶状，好象花单朵生于每一个叶腋，花梗上决无小苞片。——(2)
+1 总状花序侧生于叶腋，往往成对，有时因侧生于茎顶端叶腋而茎顶端停止发育，故花序呈假顶生。——(6)
+2 多年生草本，具根状茎，有时根木质化，生山地或草地。——(3)
+2 一年生草本，根细，不具根状茎，多生于田野、荒漠或干旱草原。——(5)
+3 总状花序疏生花，如花密集则花序短而近于头状；花序下部的苞片几乎与叶同形；葫果略侧扁或明显侧扁；花冠筒部极短，近于辐状，或有明显的筒部；植株高在25厘米以下。——(4)
+3 总状花序长且花多而密集，呈长穗状；苞片狭小；蒴果近于圆形，稍侧扁；花冠有明显的筒部，檐部稍稍2唇形；植株高通常超过30厘米，少有仅15厘米高的（第1-10种）。——[穗花组](Sect.%20Pseudolysimachia.md)
+4 花萼裂片5枚（极稀为4枚）；花冠多数有明显的筒部，筒部长1.5-2毫米，少筒部极短； 蒴果稍侧扁（第1-1-15种）。——[头花组](Sect.%20Macrostemon.md)
+4 花萼裂片4枚；花冠近于辐状，筒部极短；蒴果明显侧扁（第16-17种）。——[小婆婆纳组](Sect.%20Veronicastrum.md)
+5 种子两面稍膨，平滑；花梗短，比苞片短数倍（仅V. perpusilla的花梗与苞片等长或过之）（第18-21种）。——[蚊母草组](Sect.%20Alsinebe.md)
+5 种子舟状，一面膨胀，一面具深沟，平滑或多皱；花梗长，与苞片（或苞叶）近等长或过之，果期常下垂（第22-28种）。——[婆婆纳组](Sect.%20Omphalospora.md)
+6 陆生草本；花序明显腋生而且蒴果常明显侧扁或花序生于茎顶端叶腋而蒴果通常长且仅稍稍侧扁。——(7)
+6 水生或沼生草本，茎多少肉质；花序明显侧生叶腋；蒴果圆形、卵圆形或椭圆形，稍侧扁（第57-61种）。——[沼生组](Sect.%20Beccabunga.md)
+7 根茎极短，密生一簇根，分不出节和节间；花萼裂片5枚而其中后方一枚遥小（仅V. rockii 和V. filipes有时为4枚）；花冠通常有明显的筒部；蒴果稍侧扁，卵形至长卵状锥形，长明显过于宽（仅V. filipes的花冠辐状，蒴果卵圆形，长近等于宽）（第29-34种）。——[狭果组](Sect.%20Stenocarpon.md)
+7 根茎长，有明显节间，极少一年生或二年生而无根茎；花萼裂片4枚（仅 V. teucrium 具5枚）；花冠辐状，筒部很短；蒴果通常明显侧扁，宽明显过于长（仅 V. teucrium 和 V. morrisonicola 两个种宽小于长而为倒心状卵形，且不明显侧扁）（第35-56种）。——[疏花组](Sect.%20Veronica.md)

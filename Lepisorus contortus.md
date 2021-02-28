@@ -1,0 +1,15 @@
+扭瓦韦",
+18.**Lepisorus contortus** (Christ) Ching Bull. Fan Mem. Inst. Biol. 4: 90. 1933.",
+
+## Description
+Plants 10-25 cm tall. Rhizomes long and creeping, 1.5-2.5 mm in diam., densely scaly when young, rhizome later naked; scales pale brown with narrow dark opaque central band, lanceolate, 2-4 × 0.6-1.5 mm, polished, margins entire or serrate. Fronds 0.5-2 cm apart; stipe normally straw-colored, less often brown, (1-)2-5(-6) cm, 0.8-1.5 mm in diam.; lamina abaxially grayish yellow-green, adaxially greenish, linear-lanceolate to lanceolate, (9-)15-25 × 0.4-1.5 cm, widest at middle, softly thinly leathery, base cuneate, decurrent, margin revolute when dried, apex shortly acuminate; costa raised on both sides, veinlets obscure. Sori restricted to distal 1/2, slightly closer to costa, orbicular or slightly ovate; paraphyses brown at center, orbicular, 0.3-0.5 mm in diam., lumina dense, thick, opaque or transparent.
+
+> On tree trunks or rocks in forests; (700-)2000-3500 m. Anhui, Chongqing, ?Fujian, Gansu, Henan, Hubei, Jiangxi, Shaanxi, Sichuan, Yunnan, ?Zhejiang [Bhutan, N India, Nepal].
+  "Synonym": "*Polypodium lineare* N. L. Burman var. *contortum* Christ, Nuovo Giorn. Bot. Ital., n.s., 4: 98. 1897; *Lepisorus crassirhizoma* Ching &amp; Z. Y. Liu; *L. jinfoshanensis* Ching &amp; Z. Y. Liu; *Pleopeltis contorta* (Christ) Alston &amp; Bonner; *Polypodium contortum* (Christ) Christ; *P. lineare* f. *contortum* (Christ) Takeda.
+**20.扭瓦韦（中国蕨类植物图谱）**
+
+Lepisorus contortus (Christ) Ching in Bull. Fan Mem. Inst. Biol. 4: 90. 1933 et Ic. Fil. Sin. 2: 75. 1934; H. Ito, Fil. Jap. Ill. 394. 1944; 傅书遐, 中国主要植物图说.蕨类植物门216. 图 288. 1957. Ic. Corm. Sin. 1: 256. f. 512. 1972; Fl. Tsinglin. 2: 185. 1974; Y. L. Zhang et al., Sporae Pterid. Sin. 355. f. 112b. t. 78. f: 8-11. 1976; B. Z. Ding et al., Fl. Honan 1: 106. f. 127. 1981; Fl. Fujian. 1: 231. f. 217. 1982; Ching et al. in C. Y. Wu, Fl. Xizang. 1: 312. f. 8: 1-2. 1982; 陈仁钧, 安徽植物志 1: 190. 图196. 1985; Tagawa et K. Iwats. in Fl. Tailand 3 (4): 513-514. f. 51-3. 1989; Shing in W. T. Wang, Vasc. Pl. Hengduan Mts. 1: 164. 1993; S. X. Xu in J. F. Cheng et G. F. Chu, Fl. Jiangxi 1: 314. f. 323. 1993; Z. F. Zhang et S. Y. Zhang, Fl. Zhejiang 1: 314. f. 1-329. 1993; S. L. Yu et al. in Bull. Bot. Res. 1 (1): 18. 1996. ——Polypodium contortum Christ, Bot. Gaz. 51: 347. 1911. ——Polypodium lineare var. contortum Christ, Novo Giorn. Bot. Soc. Ital. n. s. 4: 98. Pl. 1. f. 3. 1897; Diels in Engl. Jahrb. 29: 204. 1901. ——Lepisorus jinfoshanensis Ching et Z. Y. Liu in Bill. Bot. Res. 3 (4): 4-5. 1983.
+
+植株高10-25厘米。根状茎长而横走，密生鳞片；鳞片卵状披针形，中间有不透明深褐色的狭带，有光泽，边缘具锯齿。叶略近生；叶柄长 (1) 2-5 (6)厘米，通常为禾秆色，少为褐色；叶片线状披针形，或披针形，长约9-23厘米，中部最宽约4-11 (13) 毫米，短尾状渐尖头，基部渐变狭并下延，自然干后常反卷扭曲，上面淡绿色，下面淡灰黄绿色，近软革质；主脉上下均隆起，小脉不见。孢子囊群圆形或卵圆形，聚生于叶片中上部，位于主脉与叶缘之间，幼时被中部褐色圆形隔丝所覆盖。
+
+产福建 (南平、崇安) 、江西 (玉山、井冈山、遂川) 、浙江 (杭州、鄞县、舟山、开化、遂昌、庆元、温州) 、安徽 (黄山、歙县) 、湖北 (兴山、合丰、宣恩) 、河南 (伏牛山、大别山) 、陕西 (太白山、户县) 、甘肃 (西固) 、四川 (雷波、巫县、泸定、大相岭、城口、南川、奉节、峨边、美姑、筠连、盐源、屏山、石棉、峨眉山、大相岭、布拖、汉源、芦山、理县) 、重庆 (罗家馨山) 、云南 (武定、镇雄、昆明) 。附生林下树干或岩石上, 海拔700-3000米。模式标本采自四川峨眉山。

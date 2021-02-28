@@ -1,0 +1,6 @@
+少花薹草",
+167.**Carex vaginata** Tausch Flora. 4: 557. 1821.",
+
+## Description
+Rhizome slender stoloniferous. Culms 20-50 cm tall, slender, obtusely trigonous, smooth, leafy at lower part. Leaves much shorter than culm, blades 3-5 mm wide or wider, flat, slightly soft; sheaths brown, sometimes purplish red. Involucral bracts with long sheath and rather short blade. Spikes 2-4, usually 3, rather remote; terminal spike male, subclavate, 1-1.5 cm; lateral spikes female, oblong-cylindric or oblong, 1-2.5 cm, loosely several flowered; peduncles long and erect. Female glumes ferruginous-brown, broadly ovate, ca. 3 mm, membranous, green 3-veined, margins hyaline, apex obtuse or acute. Utricles yellow-green, obliquely patent, longer than glume, ovate, inflated trigonous, 4-6 mm, subleathery, glabrous, indistinctly veined, base broadly cuneate, apex abruptly narrowed into a short or medium-sized beak, orifice emarginate or 2-toothed. Nutlets rather loosely enveloped in utricle, obovate, trigonous, ca. 2.5 mm, base shortly stipitate; style base slightly thickened; stigmas 3. Fl. and fr. May-Jul.
+  "Statistics": "Forests, thickets, grasslands, grassland margins. Heilongjiang, Jilin, Liaoning, Nei Mongol [Japan, Korea, Mongolia, Russia; Europe].

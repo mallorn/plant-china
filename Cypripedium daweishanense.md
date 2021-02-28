@@ -1,0 +1,7 @@
+大围山杓兰",
+31.**Cypripedium daweishanense** (S. C. Chen & Z. J. Liu) S. C. Chen & Z. J. Liu J. Wuhan Bot. Res. 23: 233. 2005.",
+
+## Description
+Plants 10-15 cm tall, with a stout rhizome. Stem 5-8 cm, glabrous, covered by a sheath, apex with a subopposite leaf and bract prostrate on substrate. Leaf blade grayish green or green heavily spotted with purple-brown, suborbicular or broadly elliptic, 15-17 × 11-14 cm. Inflorescence terminal, 1-flowered, ebracteate; pedicel 5-7 cm, glabrous; ovary 2-2.5 cm, glabrous. Flower rather large; dorsal sepal yellowish green, very sparsely spotted with maroon; synsepal yellowish, tinged with grayish green, sparsely spotted with maroon; petals yellowish, densely spotted with maroon; lip yellowish spotted with maroon especially around mouth; staminode yellowish heavily spotted with maroon. Dorsal sepal ovate or broadly ovate, 4-5 × 3-4 cm, both surfaces glabrous, ciliate; synsepal lanceolate, 4-5 × 1.5-1.8 cm. Petals curved forward, enfolding lip, elliptic-oblong, 4.2-4.7 × 2.4-2.8(-3.4) cm, abaxially pubescent on upper side, ciliate along apical margin; lip pouched, slightly dorsiventrally flattened, 3.8-4.5 × 3-3.5 cm, ± papillate on front surface. Staminode tongue-shaped, 17-20 × ca. 5 mm, adaxially puberulent. Fl. May-Jun.
+  "Statistics": "&amp;#9679; Wet but well-drained and humus-rich soils in thickets; ca. 2300 m. SE Yunnan (Pingbian).
+  "Synonym": "*Cypripedium lichiangense* S. C. Chen &amp; P. J. Cribb var. *daweishanense* S. C. Chen &amp; Z. J. Liu, Acta Bot. Yunnan. 26: 384. 2004.

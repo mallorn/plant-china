@@ -1,0 +1,16 @@
+香丝草",
+39.**Erigeron bonariensis** Linnaeus Sp. Pl. 2: 863. 1753.",
+
+## Description
+Herbs, annual or biennial, [10-]20-50[-150] cm tall; roots fusiform, fibrous rooted. Stems erect or ascending, thin, often branched above middle, densely leafy, densely strigose, sparsely hirsute. Leaves: basal withered at anthesis, lower cauline long petiolate, blade oblanceolate or oblong-lanceolate, 3-5[-8] × 0.3-1[-2.5] cm, surfaces densely strigose or hispidulous, base attenuate, margin usually coarsely serrate or pinnatilobed, sometimes entire, apex acute or obtuse, mid and upper shortly petiolate or sessile, blade narrowly lanceolate or linear, [1-]3-7 × 0.2-0.5[-1] cm, margin of mid dentate, margin of upper entire. Capitula 3-10 mm in diam., numerous, in racemiform or racemose-paniculiform synflorescences; peduncles 10-15 mm. Involucre urceolate, ca. 5 × 8 mm; phyllaries 2- or 3-seriate, linear, abaxially densely gray-white scabrous, apex acute, outer ones slightly short or ca. 1/2 as long as inner, inner ones ca. 4 × 0.7 mm, margin scarious. Ray florets 65-150 or more, white, 3-3.5 mm, elaminate or 3- or 4-denticulate at apex; disk florets ca. 3 mm, tube sparsely puberulent. Achenes linear-lanceoloid, compressed, ca. 1.5 mm, sparsely strigillose [or glabrous]. Pappus reddish, sordid, or tawny, 3-4 mm. Fl. May-Oct.
+  "Statistics": "Field margins, grassy slopes, roadsides; sea level to 3100 m. Anhui, Fujian, Gansu, Guangdong, Guangxi, Guizhou, Hainan, Hebei, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Shaanxi, Shandong, Sichuan, Taiwan, Xizang, Yunnan, Zhejiang [native to South America; widely distributed as a weed in tropical and subtropical regions worldwide].
+  "Synonym": "*Conyza ambigua* Candolle; *C. bonariensis* (Linnaeus) Cronquist; *C. crispa* (Pourret) Ruprecht; *C. leucodasys* Miquel; *Erigeron crispus* Pourret; *E. linifolius* Willdenow; *Leptilon bonariense* (Linnaeus) Small; *Marsea bonariensis* (Linnaeus) V. M. Badillo.
+**10. 香丝草 野塘蒿 野地黄菊 蓑衣草（广西）图版88: 5-9**
+
+Conyza bonariensis (L.) Cronq. in Bull. Torrey Bot. Club. 70: 632. 1943. ——Erigeron bonariensis L., Sp. Pl. ed. 1, 2; 863. 1753; Loes. in Gilg. et Loes., Bot. Jahr. 34: (Beibl. 75): 71. 1904. ——Erigeron crispus Pourr. in Mem. Acad. Sci. Toulouse 3: 318. 1788; Chang in Sunyats. 3: 283. 1937; Hand. -Mazz., Symb. Sin. 7: 1904. 1936; 海南植物志3: 385, 图789 1974. ——Erigeron sumatrensis auct., non Retz.: Merr. in Sunyats. 1: 41. t. 17. 1930. ——Erigeron linifolius Willd., Sp. Pl. 3: 1955. 1803; Benth., Fl. Hongk. 176: 1861; Ling in Contrib. Inst. Bot. Nat. Acad. Peip. 2: 472. 1934; 裴鉴等, 江苏南部种子植物手册, 755. 1959. ——Conyza leucodasys Miq. in Journ. Bot. Neerl. 1: 103. 1861.
+
+一年生或二年生草本，根纺锤状，常斜升，具纤维状根。茎直立或斜升，高20-50厘米，稀更高，中部以上常分枝，常有斜上不育的侧枝，密被贴短毛，杂有开展的疏长毛。叶密集，基部叶花期常枯萎，下部叶倒披针形或长圆状披针形，长3-5厘米，宽0.3-1厘米，顶端尖或稍钝，基部渐狭成长柄，通常具粗齿或羽状浅裂，中部和上部叶具短柄或无柄，狭披针形或线形，长3-7厘米，宽0.3-0.5厘米，中部叶具齿，上部叶全缘，两面均密被贴糙毛。头状花序多数，径约8-10毫米，在茎端排列成总状或总状圆锥花序，花序梗长10-15毫米；总苞椭圆状卵形，长约5毫米，宽约8毫米，总苞片2-3层，线形，顶端尖，背面密被灰白色短糙毛，外层稍短或短于内层之半，内层长约4毫米，宽0.7毫米，具干膜质边缘。花托稍平，有明显的蜂窝孔，径3-4毫米；雌花多层，白色，花冠细管状，长3-3.5毫米，无舌片或顶端仅有3-4个细齿；两性花淡黄色，花冠管状，长约3毫米，管部上部被疏微毛，上端具5齿裂；瘦果线状披针形，长1.5毫米，扁压，被疏短毛；冠毛1层，淡红褐色，长约4毫米。花期5-10月。
+
+产于我国中部、东部、南部至西南部各省区；原产南美洲，现广泛分布于热带及亚热带地区。常生于荒地，田边、路旁，为一种常见的杂草。
+
+全草入药，治感冒、疟疾、急性关节炎及外伤出血等症。
